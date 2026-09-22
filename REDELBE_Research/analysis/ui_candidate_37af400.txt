@@ -1,0 +1,35 @@
+37af400 48895c2408                   mov qword ptr [rsp + 8], rbx
+37af405 4889742410                   mov qword ptr [rsp + 0x10], rsi
+37af40a 57                           push rdi
+37af40b 4883ec40                     sub rsp, 0x40
+37af40f 488d0d5ecef804               lea rcx, [rip + 0x4f8ce5e]
+37af416 418bf1                       mov esi, r9d
+37af419 418bf8                       mov edi, r8d
+37af41c 8bda                         mov ebx, edx
+37af41e e855ed3500                   call 0x3b0e178
+37af423 8b442470                     mov eax, dword ptr [rsp + 0x70]
+37af427 4c8d442428                   lea r8, [rsp + 0x28]
+37af42c 895c2428                     mov dword ptr [rsp + 0x28], ebx
+37af430 488d542420                   lea rdx, [rsp + 0x20]
+37af435 488b1d6cee6402               mov rbx, qword ptr [rip + 0x264ee6c]
+37af43c 897c242c                     mov dword ptr [rsp + 0x2c], edi
+37af440 89742430                     mov dword ptr [rsp + 0x30], esi
+37af444 c744243400000000             mov dword ptr [rsp + 0x34], 0
+37af44c 488d8b00010000               lea rcx, [rbx + 0x100]
+37af453 89442438                     mov dword ptr [rsp + 0x38], eax
+37af457 e8f427a2fe                   call 0x21d1c50
+37af45c 488b4c2420                   mov rcx, qword ptr [rsp + 0x20]
+37af461 483b8b00010000               cmp rcx, qword ptr [rbx + 0x100]
+37af468 7515                         jne 0x37af47f
+37af46a b801000000                   mov eax, 1
+37af46f 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af474 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af479 4883c440                     add rsp, 0x40
+37af47d 5f                           pop rdi
+37af47e c3                           ret 
+37af47f 4883c138                     add rcx, 0x38
+37af483 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af488 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af48d 4883c440                     add rsp, 0x40
+37af491 5f                           pop rdi
+37af492 e92979a0fe                   jmp 0x21b6dc0

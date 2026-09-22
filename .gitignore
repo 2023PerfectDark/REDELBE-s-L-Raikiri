@@ -1,0 +1,37 @@
+# Game assets and generated data
+*.exe
+*.dll
+*.asi
+*.pdb
+*.obj
+*.bin
+*.dmp
+*.file
+*.fdata
+*.rdb
+*.rdx
+*.g1m
+*.g1t
+*.g1a
+*.srsa
+*.srst
+*.pkg
+*.ktmod
+*.zip
+*.7z
+*.wav
+*.mp3
+*.mp4
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+.venv/
+site-packages/
+# Local data must not become source history
+REDELBE_Research/packages/
+REDELBE_Research/backups/
+REDELBE_Research/test_assets/
+REDELBE_Research/test_tmp/
+REDELBE_Research/external/

@@ -1,0 +1,28 @@
+exception (3221225477, 0, 0, 140698447702419, 2, 0)
+base 0x7ff6e6d10000
+rbx 0x2723ffe4440 memory 
+rdi 0x6 memory 
+r12 0x4 memory 
+r13 0xe155ffeb60 memory 702eb1ecf67f0000082fb1ecf67f000048f4ff55e100000088e8ff55e1000000
+vector at r13+1b8 d9fa46e8f67f0000f0a9f13d72020000d9fa46e8f67f0000
+r14 0x7ff6ecb12f08 memory 4044fe3f720200002047fe3f720200000000000000000000000000001231a0cf
+r15 0xe155ffeb60 memory 702eb1ecf67f0000082fb1ecf67f000048f4ff55e100000088e8ff55e1000000
+FUNCTION 37bdba0-37bdbef (saved baseline)
+37bdba0 push rbx
+37bdba2 sub rsp, 0x20
+37bdba6 mov ebx, ecx
+37bdba8 lea rcx, [rip + 0x4f7e6c5]
+37bdbaf call 0x3b0e178
+37bdbb4 mov rcx, qword ptr [rip + 0x2641605]
+37bdbbb mov r8d, ebx
+37bdbbe add rcx, 0x78
+37bdbc2 mov edx, 0x677ab22
+37bdbc7 call 0x221bf00
+37bdbcc mov rcx, qword ptr [rip + 0x26415ed]
+37bdbd3 mov r9d, eax
+37bdbd6 add rcx, 0x78
+37bdbda mov edx, 0x677ab22
+37bdbdf mov r8d, 0x5a4f4c84
+37bdbe5 add rsp, 0x20
+37bdbe9 pop rbx
+37bdbea jmp 0x22281e0

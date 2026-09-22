@@ -1,0 +1,986 @@
+[
+  {
+    "rva": "0x436e827",
+    "text": "GIsDisabledModelSDF"
+  },
+  {
+    "rva": "0x43a8d67",
+    "text": "FIsDisabledModelSDF"
+  },
+  {
+    "rva": "0x43c2610",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x43cb150",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x43d1edf",
+    "text": "?arcade_ROOKIE"
+  },
+  {
+    "rva": "0x43d1f37",
+    "text": "?arcade_CHAMP"
+  },
+  {
+    "rva": "0x43d1f48",
+    "text": "arcade_HARD"
+  },
+  {
+    "rva": "0x43d1f57",
+    "text": "Farcade_NORMAL"
+  },
+  {
+    "rva": "0x43d1f68",
+    "text": "arcade_EASY"
+  },
+  {
+    "rva": "0x43d1f77",
+    "text": "?time_attack_ROOKIE"
+  },
+  {
+    "rva": "0x43d1f90",
+    "text": "arcade_LEGEND"
+  },
+  {
+    "rva": "0x43d1fa0",
+    "text": "arcade_MASTER"
+  },
+  {
+    "rva": "0x43d1fb0",
+    "text": "arcade_TRUE_FIGHTER"
+  },
+  {
+    "rva": "0x43d1fc7",
+    "text": "=time_attack_CHAMP"
+  },
+  {
+    "rva": "0x43d1fe0",
+    "text": "time_attack_HARD"
+  },
+  {
+    "rva": "0x43d1ff8",
+    "text": "time_attack_NORMAL"
+  },
+  {
+    "rva": "0x43d200f",
+    "text": "Ftime_attack_EASY"
+  },
+  {
+    "rva": "0x43d21a8",
+    "text": "survival_ROOKIE"
+  },
+  {
+    "rva": "0x43d21b8",
+    "text": "time_attack_LEGEND"
+  },
+  {
+    "rva": "0x43d21d0",
+    "text": "time_attack_MASTER"
+  },
+  {
+    "rva": "0x43d21e8",
+    "text": "time_attack_TRUE_FIGHTER"
+  },
+  {
+    "rva": "0x43d2208",
+    "text": "survival_CHAMP"
+  },
+  {
+    "rva": "0x43d2218",
+    "text": "survival_HARD"
+  },
+  {
+    "rva": "0x43d2228",
+    "text": "survival_NORMAL"
+  },
+  {
+    "rva": "0x43d2238",
+    "text": "survival_EASY"
+  },
+  {
+    "rva": "0x43d2248",
+    "text": "survival_LEGEND"
+  },
+  {
+    "rva": "0x43d2258",
+    "text": "survival_MASTER"
+  },
+  {
+    "rva": "0x43d2268",
+    "text": "survival_TRUE_FIGHTER"
+  },
+  {
+    "rva": "0x43d5c50",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x47fd76f",
+    "text": "@IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48065e0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x480f530",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48185ff",
+    "text": "?IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x482ed10",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48374f0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4840838",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48497e8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4852570",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x485a590",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4863db0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x486d4d8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4876ef8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x487efc8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48888f0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48914a8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4899fc0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48a2e58",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48e49b8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48ed7e8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48f6fb8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x48fed30",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4907be0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4912438",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4919824",
+    "text": "fff?IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4921c10",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x492a6d8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49319a7",
+    "text": "?arcade_completed"
+  },
+  {
+    "rva": "0x4931cce",
+    "text": " @arcade_score"
+  },
+  {
+    "rva": "0x4931d66",
+    "text": "#;arcade_course_hash"
+  },
+  {
+    "rva": "0x4931d98",
+    "text": "arcade_ranking"
+  },
+  {
+    "rva": "0x4931df8",
+    "text": "versus_setting"
+  },
+  {
+    "rva": "0x4934408",
+    "text": "mode::unlocked_game_mode"
+  },
+  {
+    "rva": "0x4936998",
+    "text": "mode::online::write_time_attack_ranking"
+  },
+  {
+    "rva": "0x49369c0",
+    "text": "mode::online::write_survival_ranking"
+  },
+  {
+    "rva": "0x4936ac8",
+    "text": "mode::online::write_arcade_ranking"
+  },
+  {
+    "rva": "0x4936c78",
+    "text": "mode::online::is_tournament_available"
+  },
+  {
+    "rva": "0x4936e88",
+    "text": "mode::online::is_lobby_match_table_versus_full"
+  },
+  {
+    "rva": "0x4937368",
+    "text": "mode::online::is_lobby_state_versus"
+  },
+  {
+    "rva": "0x4937dbe",
+    "text": "L?mode::music::set_music_main_menu"
+  },
+  {
+    "rva": "0x4937de7",
+    "text": "=mode::music::get_music_main_menu"
+  },
+  {
+    "rva": "0x4938040",
+    "text": "mode::online::world_ranking::request_self_arcade_ranking"
+  },
+  {
+    "rva": "0x493807f",
+    "text": "@mode::online::world_ranking::request_self_time_attack_ranking"
+  },
+  {
+    "rva": "0x49380c0",
+    "text": "mode::online::world_ranking::request_self_survival_ranking"
+  },
+  {
+    "rva": "0x49385e8",
+    "text": "mode::online::world_ranking::request_arcade_ranking"
+  },
+  {
+    "rva": "0x4938848",
+    "text": "mode::online::world_ranking::request_survival_ranking"
+  },
+  {
+    "rva": "0x4938b68",
+    "text": "mode::online::world_ranking::request_time_attack_ranking"
+  },
+  {
+    "rva": "0x493d088",
+    "text": "mode::replay::is_replay_versus"
+  },
+  {
+    "rva": "0x493e000",
+    "text": "mode::ranking::get_arcade_ranking_score"
+  },
+  {
+    "rva": "0x493e028",
+    "text": "mode::ranking::set_arcade_ranking_score"
+  },
+  {
+    "rva": "0x493e050",
+    "text": "mode::ranking::get_arcade_ranking_character"
+  },
+  {
+    "rva": "0x493e07f",
+    "text": "Dmode::ranking::set_arcade_ranking_character"
+  },
+  {
+    "rva": "0x493e290",
+    "text": "mode::ranking::get_survival_ranking_character"
+  },
+  {
+    "rva": "0x493e2c0",
+    "text": "mode::ranking::set_survival_ranking_character"
+  },
+  {
+    "rva": "0x493e2f0",
+    "text": "mode::ranking::get_survival_clear_count"
+  },
+  {
+    "rva": "0x493e318",
+    "text": "mode::ranking::increment_survival_clear_count"
+  },
+  {
+    "rva": "0x493e398",
+    "text": "mode::ranking::get_survival_ranking_score"
+  },
+  {
+    "rva": "0x493e3c8",
+    "text": "mode::ranking::set_survival_ranking_score"
+  },
+  {
+    "rva": "0x493e3f7",
+    "text": "?mode::ranking::get_time_attack_ranking_character"
+  },
+  {
+    "rva": "0x493e42c",
+    "text": "fff>mode::ranking::set_time_attack_ranking_character"
+  },
+  {
+    "rva": "0x493e467",
+    "text": "?mode::ranking::get_time_attack_clear_count"
+  },
+  {
+    "rva": "0x493e498",
+    "text": "mode::ranking::increment_time_attack_clear_count"
+  },
+  {
+    "rva": "0x493e4d0",
+    "text": "mode::ranking::get_arcade_clear_count"
+  },
+  {
+    "rva": "0x493e4f8",
+    "text": "mode::ranking::increment_arcade_clear_count"
+  },
+  {
+    "rva": "0x493e527",
+    "text": "?mode::ranking::get_time_attack_ranking_clear_time"
+  },
+  {
+    "rva": "0x493e55e",
+    "text": "L=mode::ranking::set_time_attack_ranking_clear_time"
+  },
+  {
+    "rva": "0x493eeb0",
+    "text": "network::is_online_versus"
+  },
+  {
+    "rva": "0x49410f8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4949768",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x496425f",
+    "text": "@IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x496d008",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4975450",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x497e2b7",
+    "text": "?IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4987eef",
+    "text": "?IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x498fc88",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49998f8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49a25d8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49aca30",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49b6878",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49bfa88",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49cb750",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49d30a8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49db9b0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49e57f8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49ed280",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49f58d0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x49ff8a0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a07490",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a101b0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a19360",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a235e8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a2ac10",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a34cf0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a3d768",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a45ac8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a4f8a8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a58ce8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a61048",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a6a090",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a73088",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a7b118",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a83b08",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a8d208",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a95cf8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4a9fdb8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4aa6f40",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4ab1890",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4ab7078",
+    "text": "is_survival_second_match"
+  },
+  {
+    "rva": "0x4ab9d20",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4ac3e50",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4acb5d0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4ad4f20",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4add8e0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4ae65c8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4aef050",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4af78d0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b01088",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b0a508",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b11a60",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b1bac0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b251e0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b2dbf8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b36628",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b3fcd0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b484a8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b51558",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b5b670",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b65800",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b6cf00",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b76a80",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b80558",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b88970",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b92aa8",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4b9a6f0",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4ba3248",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4bae100",
+    "text": "IsDisabledModelSDF"
+  },
+  {
+    "rva": "0x4d2b9b0",
+    "text": "set_survival_bonus"
+  },
+  {
+    "rva": "0x4d32160",
+    "text": "music_main_menu"
+  },
+  {
+    "rva": "0x4d32340",
+    "text": "tournament_room_create_flag"
+  },
+  {
+    "rva": "0x4d32360",
+    "text": "tournament_champion_count"
+  },
+  {
+    "rva": "0x4d32380",
+    "text": "tournament_win_count"
+  },
+  {
+    "rva": "0x4d324e0",
+    "text": "versus_count"
+  },
+  {
+    "rva": "0x4d32598",
+    "text": "versus_win_count"
+  },
+  {
+    "rva": "0x4d326b0",
+    "text": "survival_ranking_clear_count"
+  },
+  {
+    "rva": "0x4d326d0",
+    "text": "time_attack_ranking_clear_count"
+  },
+  {
+    "rva": "0x4d327a0",
+    "text": "arcade_ranking_clear_count"
+  },
+  {
+    "rva": "0x4d3c690",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::VersusWatchError> >::name(void)"
+  },
+  {
+    "rva": "0x4d50000",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::StartTournamentBattle> >::name(void)"
+  },
+  {
+    "rva": "0x4d50180",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::CancelTournamentStart> >::name(void)"
+  },
+  {
+    "rva": "0x4d50320",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::AnnounceTournamentStart> >::name(void)"
+  },
+  {
+    "rva": "0x4d503c0",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::CancelTournamentSeat> >::name(void)"
+  },
+  {
+    "rva": "0x4d50460",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::ModifyTournamentConfig> >::name(void)"
+  },
+  {
+    "rva": "0x4d50500",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::CancelTournamentEntry> >::name(void)"
+  },
+  {
+    "rva": "0x4d505a0",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::ReserveTournamentSeat> >::name(void)"
+  },
+  {
+    "rva": "0x4d506b0",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::ApplyTournamentEntry> >::name(void)"
+  },
+  {
+    "rva": "0x4d57740",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::LobbyMatchVersusStartRematch> >::name(void)"
+  },
+  {
+    "rva": "0x4d69880",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::StartTournamentStageSelect> >::name(void)"
+  },
+  {
+    "rva": "0x4d69920",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::DecideTournamentCharacter> >::name(void)"
+  },
+  {
+    "rva": "0x4d699c0",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::LeaveTournament> >::name(void)"
+  },
+  {
+    "rva": "0x4d69a60",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::DecideTournamentStage> >::name(void)"
+  },
+  {
+    "rva": "0x4d69b00",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::SearchTournament> >::name(void)"
+  },
+  {
+    "rva": "0x4d69ba0",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::ReadyTournament> >::name(void)"
+  },
+  {
+    "rva": "0x4d69c40",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::CreateTournament> >::name(void)"
+  },
+  {
+    "rva": "0x4d69ce0",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::StartTournamentCharacterSelect> >::name(void)"
+  },
+  {
+    "rva": "0x4d69d80",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::JoinTournament> >::name(void)"
+  },
+  {
+    "rva": "0x4d74420",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::SetupVersusWatch> >::name(void)"
+  },
+  {
+    "rva": "0x4d744c0",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::StopVersusWatch> >::name(void)"
+  },
+  {
+    "rva": "0x5d5b760",
+    "text": "arcade_ROOKIE"
+  },
+  {
+    "rva": "0x5d5b7a0",
+    "text": "arcade_EASY"
+  },
+  {
+    "rva": "0x5d5b7e0",
+    "text": "arcade_NORMAL"
+  },
+  {
+    "rva": "0x5d5b820",
+    "text": "arcade_HARD"
+  },
+  {
+    "rva": "0x5d5b860",
+    "text": "arcade_CHAMP"
+  },
+  {
+    "rva": "0x5d5b8a0",
+    "text": "arcade_TRUE_FIGHTER"
+  },
+  {
+    "rva": "0x5d5b8e0",
+    "text": "arcade_MASTER"
+  },
+  {
+    "rva": "0x5d5b920",
+    "text": "arcade_LEGEND"
+  },
+  {
+    "rva": "0x5d5b960",
+    "text": "time_attack_ROOKIE"
+  },
+  {
+    "rva": "0x5d5b9a0",
+    "text": "time_attack_EASY"
+  },
+  {
+    "rva": "0x5d5b9e0",
+    "text": "time_attack_NORMAL"
+  },
+  {
+    "rva": "0x5d5ba20",
+    "text": "time_attack_HARD"
+  },
+  {
+    "rva": "0x5d5ba60",
+    "text": "time_attack_CHAMP"
+  },
+  {
+    "rva": "0x5d5baa0",
+    "text": "time_attack_TRUE_FIGHTER"
+  },
+  {
+    "rva": "0x5d5bae0",
+    "text": "time_attack_MASTER"
+  },
+  {
+    "rva": "0x5d5bb20",
+    "text": "time_attack_LEGEND"
+  },
+  {
+    "rva": "0x5d5bb60",
+    "text": "survival_ROOKIE"
+  },
+  {
+    "rva": "0x5d5bba0",
+    "text": "survival_EASY"
+  },
+  {
+    "rva": "0x5d5bbe0",
+    "text": "survival_NORMAL"
+  },
+  {
+    "rva": "0x5d5bc20",
+    "text": "survival_HARD"
+  },
+  {
+    "rva": "0x5d5bc60",
+    "text": "survival_CHAMP"
+  },
+  {
+    "rva": "0x5d5bca0",
+    "text": "survival_TRUE_FIGHTER"
+  },
+  {
+    "rva": "0x5d5bce0",
+    "text": "survival_MASTER"
+  },
+  {
+    "rva": "0x5d5bd20",
+    "text": "survival_LEGEND"
+  },
+  {
+    "rva": "0x5d6c988",
+    "text": "arcade_ROOKIE"
+  },
+  {
+    "rva": "0x5d6ca14",
+    "text": "arcade_EASY"
+  },
+  {
+    "rva": "0x5d6caa0",
+    "text": "arcade_NORMAL"
+  },
+  {
+    "rva": "0x5d6cb2c",
+    "text": "arcade_HARD"
+  },
+  {
+    "rva": "0x5d6cbb8",
+    "text": "arcade_CHAMP"
+  },
+  {
+    "rva": "0x5d6cc44",
+    "text": "arcade_TRUE_FIGHTER"
+  },
+  {
+    "rva": "0x5d6ccd0",
+    "text": "arcade_MASTER"
+  },
+  {
+    "rva": "0x5d6cd5c",
+    "text": "arcade_LEGEND"
+  },
+  {
+    "rva": "0x5d6cde8",
+    "text": "time_attack_ROOKIE"
+  },
+  {
+    "rva": "0x5d6ce74",
+    "text": "time_attack_EASY"
+  },
+  {
+    "rva": "0x5d6cf00",
+    "text": "time_attack_NORMAL"
+  },
+  {
+    "rva": "0x5d6cf8c",
+    "text": "time_attack_HARD"
+  },
+  {
+    "rva": "0x5d6d018",
+    "text": "time_attack_CHAMP"
+  },
+  {
+    "rva": "0x5d6d0a4",
+    "text": "time_attack_TRUE_FIGHTER"
+  },
+  {
+    "rva": "0x5d6d130",
+    "text": "time_attack_MASTER"
+  },
+  {
+    "rva": "0x5d6d1bc",
+    "text": "time_attack_LEGEND"
+  },
+  {
+    "rva": "0x5d6d248",
+    "text": "survival_ROOKIE"
+  },
+  {
+    "rva": "0x5d6d2d4",
+    "text": "survival_EASY"
+  },
+  {
+    "rva": "0x5d6d360",
+    "text": "survival_NORMAL"
+  },
+  {
+    "rva": "0x5d6d3ec",
+    "text": "survival_HARD"
+  },
+  {
+    "rva": "0x5d6d478",
+    "text": "survival_CHAMP"
+  },
+  {
+    "rva": "0x5d6d504",
+    "text": "survival_TRUE_FIGHTER"
+  },
+  {
+    "rva": "0x5d6d590",
+    "text": "survival_MASTER"
+  },
+  {
+    "rva": "0x5d6d61c",
+    "text": "survival_LEGEND"
+  },
+  {
+    "rva": "0x5d73e90",
+    "text": "^00~YELLOW~\"What's up? Sorry 'bout the wait!\"^00~DEFAULT~ A new character joins the tournament: ^00~GREEN~TOKYO JK^00~DEFAULT~ ^00~CYAN~Minato^00~DEFAULT~! Rack up combos by unleas"
+  },
+  {
+    "rva": "0x5dd4d98",
+    "text": "^00~YELLOW~\"What's up? Sorry 'bout the wait!\"^00~DEFAULT~ A new character joins the tournament: ^00~GREEN~TOKYO JK^00~DEFAULT~ ^00~CYAN~Minato^00~DEFAULT~! Rack up combos by unleas"
+  }
+]

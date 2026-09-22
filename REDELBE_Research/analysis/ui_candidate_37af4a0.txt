@@ -1,0 +1,35 @@
+37af4a0 48895c2408                   mov qword ptr [rsp + 8], rbx
+37af4a5 4889742410                   mov qword ptr [rsp + 0x10], rsi
+37af4aa 57                           push rdi
+37af4ab 4883ec40                     sub rsp, 0x40
+37af4af 488d0dbecdf804               lea rcx, [rip + 0x4f8cdbe]
+37af4b6 418bf1                       mov esi, r9d
+37af4b9 418bf8                       mov edi, r8d
+37af4bc 8bda                         mov ebx, edx
+37af4be e8b5ec3500                   call 0x3b0e178
+37af4c3 8b442470                     mov eax, dword ptr [rsp + 0x70]
+37af4c7 4c8d442428                   lea r8, [rsp + 0x28]
+37af4cc 895c2428                     mov dword ptr [rsp + 0x28], ebx
+37af4d0 488d542420                   lea rdx, [rsp + 0x20]
+37af4d5 488b1dcced6402               mov rbx, qword ptr [rip + 0x264edcc]
+37af4dc 897c242c                     mov dword ptr [rsp + 0x2c], edi
+37af4e0 89742430                     mov dword ptr [rsp + 0x30], esi
+37af4e4 89442434                     mov dword ptr [rsp + 0x34], eax
+37af4e8 488d8b00010000               lea rcx, [rbx + 0x100]
+37af4ef c7442438ffffffff             mov dword ptr [rsp + 0x38], 0xffffffff
+37af4f7 e85427a2fe                   call 0x21d1c50
+37af4fc 488b442420                   mov rax, qword ptr [rsp + 0x20]
+37af501 483b8300010000               cmp rax, qword ptr [rbx + 0x100]
+37af508 7513                         jne 0x37af51d
+37af50a 0f57c0                       xorps xmm0, xmm0
+37af50d 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af512 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af517 4883c440                     add rsp, 0x40
+37af51b 5f                           pop rdi
+37af51c c3                           ret 
+37af51d f30f10405c                   movss xmm0, dword ptr [rax + 0x5c]
+37af522 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af527 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af52c 4883c440                     add rsp, 0x40
+37af530 5f                           pop rdi
+37af531 c3                           ret 

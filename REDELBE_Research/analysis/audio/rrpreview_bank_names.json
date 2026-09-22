@@ -1,0 +1,1638 @@
+{
+  "0x42cf89": [
+    "R_SRSA\uff3bSE1_Common_CHA_HON_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x1d53181": [
+    "R_SRSA\uff3bSE1_Common_MV_LIS_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3a5713c": [
+    "R_SRST\uff3bSE1_Common_MV_010\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x3d45f95": [
+    "R_SRST\uff3bSE1_Common_MV_LIS_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x3e57dba": [
+    "R_SRST\uff3bSE1_Common_MV_020a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x40c6e45": [
+    "R_SRST\uff3bSE1_Common_MV_009a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x4c245c4": [
+    "R_SRSA\uff3bSE1_Common_MV_TIN_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x5e5c164": [
+    "R_SRST\uff3bSE1_Common_MV_019a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x6a9ddd1": [
+    "R_SRSA\uff3bFE4_Common_STG_TEST\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x731a5d5": [
+    "R_SRSA\uff3bSE1_Common_EV_LEI_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x758177a": [
+    "R_SRST\uff3bSE1_Common_MV_030\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x7682cf4": [
+    "R_SRSA\uff3bSE1_Common_MV_HON_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x7a01f46": [
+    "R_SRSA\uff3bSE1_Common_MV_020b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x7bf1483": [
+    "R_SRST\uff3bSE1_Common_MV_029a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x7c70fd1": [
+    "R_SRSA\uff3bSE1_Common_MV_009b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x820b98c": [
+    "R_SRSA\uff3bSE1_Common_EV_KOK_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x845e916": [
+    "R_SRST\uff3bSE1_Common_MV_JAN_004C\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x9236c92": [
+    "R_SRSA\uff3bSE1_Common_EV_RID_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9a062f0": [
+    "R_SRSA\uff3bSE1_Common_MV_019b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa426caf": [
+    "R_SRST\uff3bSE1_Common_MV_RIG_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xacf0385": [
+    "R_SRSA\uff3bSE1_Common_MV_JAN_004A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb79b60f": [
+    "R_SRSA\uff3bSE1_Common_MV_029b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xbb5ff90": [
+    "R_SRST\uff3bSE1_Common_MV_MIL_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xc44a878": [
+    "R_SRSA\uff3bSE1_Common_MV_DGO_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xde46839": [
+    "R_SRST\uff3bSE1_Common_MV_ZAC_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe43d68c": [
+    "R_SRST\uff3bSE1_Common_MV_DGO_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe8d7bd5": [
+    "R_SRSA\uff3bCHA_ZAC\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xeadf024": [
+    "R_SRSA\uff3bFE4_Common_STG_GYM\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x115092c7": [
+    "R_SRSA\uff3bCHA_RYU\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x119441aa": [
+    "R_SRSA\uff3bSE1_Common_MV_029c_hyt\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x122d4ae6": [
+    "R_SRSA\uff3bFE4_Common_STG_MUS2\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x1313fed9": [
+    "R_SRSA\uff3bSE1_Common_EV_BAS_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x134bd8de": [
+    "R_SRST\uff3bSE1_Common_MV_025b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x143cf5a7": [
+    "R_SRST\uff3bSE1_Common_MV_NIC_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x1601131c": [
+    "R_SRSA\uff3bSE1_Common_EV_JAN_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x16684fa0": [
+    "R_SRSA\uff3bSE1_Common_CHA_LEI_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x1675e870": [
+    "R_SRSA\uff3bFE4_Common_STG_WAY\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x168f0b69": [
+    "R_SRSA\uff3bSE1_Common_MV_010\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x16bdf9c2": [
+    "R_SRSA\uff3bSE1_Common_MV_LIS_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x16cf17e7": [
+    "R_SRSA\uff3bSE1_Common_MV_020a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x16f60872": [
+    "R_SRSA\uff3bSE1_Common_MV_009a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x18cf5b91": [
+    "R_SRSA\uff3bSE1_Common_MV_019a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x196048c8": [
+    "R_SRSA\uff3bCHA_HEL\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x19face20": [
+    "R_SRST\uff3bSE1_Common_MV_ELI_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x1a41b1a7": [
+    "R_SRSA\uff3bSE1_Common_MV_030\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x1aa8aeb0": [
+    "R_SRSA\uff3bSE1_Common_MV_029a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x1b2f8343": [
+    "R_SRSA\uff3bSE1_Common_MV_JAN_004C\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x1bb3053e": [
+    "R_SRSA\uff3bSE1_Common_QV_NIC\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x1cb226d8": [
+    "R_SRST\uff3bSE1_Common_MV_CRI_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x1d2c06dc": [
+    "R_SRSA\uff3bSE1_Common_MV_RIG_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x1e9f99bd": [
+    "R_SRSA\uff3bSE1_Common_MV_MIL_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x1f260464": [
+    "R_SRSA\uff3bSE1_Common_CHA_DGO_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x206171e2": [
+    "R_SRST\uff3bSE1_Common_MV_005\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x2074f8ab": [
+    "R_SRST\uff3bSE1_Common_MV_RYU_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x20ce0266": [
+    "R_SRSA\uff3bSE1_Common_MV_ZAC_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x212d70b9": [
+    "R_SRSA\uff3bSE1_Common_MV_DGO_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x223ac501": [
+    "R_SRST\uff3bSE1_Common_MV_015\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x227ad17f": [
+    "R_SRST\uff3bSE1_Common_MV_025a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x22cd307a": [
+    "R_SRST\uff3bSE1_Common_MV_ZAC_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x230d2919": [
+    "R_SRST\uff3bSE1_Common_MV_BAY_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x252276a0": [
+    "R_SRSA\uff3bSE1_Common_CHA_RIG_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x2635730b": [
+    "R_SRSA\uff3bSE1_Common_MV_025b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x27268fd4": [
+    "R_SRSA\uff3bSE1_Common_MV_NIC_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x272c6efb": [
+    "R_SRST\uff3bSE1_Common_BGM\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x278304cc": [
+    "R_SRSA\uff3bSE1_Common_EV_HON_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x29e8f46c": [
+    "R_SRST\uff3bSE1_Common_BGM_FOR_PLAYGO\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x2acf5656": [
+    "R_SRSA\uff3bSE1_Common_EV_BRA_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x2bb74356": [
+    "R_SRSA\uff3bSE1_Common_CHA_BAY_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x2befd3f1": [
+    "R_SRSA\uff3bEV_TIN\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x2cc0dd50": [
+    "R_SRSA\uff3bEV_BAY\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x2ce4684d": [
+    "R_SRSA\uff3bSE1_Common_MV_ELI_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x2e071bef": [
+    "R_SRSA\uff3bSE1_Common_CHA_HTM_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x2e0795da": [
+    "R_SRST\uff3bSE1_Common_MV_021b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x2ee39661": [
+    "R_SRST\uff3bSE1_Common_MV_ELI_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x2f7891a2": [
+    "R_SRSA\uff3bEV_NIC\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x2f9bc105": [
+    "R_SRSA\uff3bSE1_Common_MV_CRI_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x2f9d2042": [
+    "R_SRST\uff3bSE1_Common_MV_NYO_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x30e7f5dc": [
+    "R_SRSA\uff3bEV_RYU\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x328be32d": [
+    "R_SRST\uff3bSE1_Common_MV_LEI_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x32c622de": [
+    "R_SRSA\uff3bSTG_CRM_CHA\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x334b0c0f": [
+    "R_SRSA\uff3bSE1_Common_MV_005\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x335bb2c9": [
+    "R_SRSA\uff3bSE1_Common_CHA_KOK_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x335e92d8": [
+    "R_SRSA\uff3bSE1_Common_MV_RYU_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x337af6e4": [
+    "R_SRST\uff3bSE1_Common_MV_KOK_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x35245f2e": [
+    "R_SRSA\uff3bSE1_Common_MV_015\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x355dc0ec": [
+    "R_SRST\uff3bSE1_Common_MV_RYU_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x35646bac": [
+    "R_SRSA\uff3bSE1_Common_MV_025a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x35b6caa7": [
+    "R_SRSA\uff3bSE1_Common_MV_ZAC_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x35f6c346": [
+    "R_SRSA\uff3bSE1_Common_MV_BAY_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x37b3993f": [
+    "R_SRST\uff3bSE1_Common_MV_HTM_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x385d1897": [
+    "R_SRSA\uff3bCHA_MAR\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3956712c": [
+    "R_SRSA\uff3bSE1_Common_CHA_NYO_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3a160928": [
+    "R_SRSA\uff3bSE1_Common_BGM\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3b1d2ede": [
+    "R_SRST\uff3bSE1_Common_MV_001\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x3bba7b4f": [
+    "R_SRSA\uff3bCHA_LIS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3bbb94da": [
+    "R_SRSA\uff3bEV_MIL\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3bee435e": [
+    "R_SRSA\uff3bEV_DGO\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3cd28e99": [
+    "R_SRSA\uff3bSE1_Common_BGM_FOR_PLAYGO\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3cf681fd": [
+    "R_SRST\uff3bSE1_Common_MV_011\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x3d368e7b": [
+    "R_SRST\uff3bSE1_Common_MV_021a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x3d372f9a": [
+    "R_SRSA\uff3bEV_RIG\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3e0e543c": [
+    "R_SRSA\uff3bEV_PHF\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3e148e3c": [
+    "R_SRSA\uff3bCHA_HYT\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3e55f506": [
+    "R_SRSA\uff3bFE4_Common_STG_PIR\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3eba7195": [
+    "R_SRSA\uff3bSE1_Common_EV_MIL_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x3fe902dd": [
+    "R_SRST\uff3bSE1_Common_MV_MAR_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x40f13007": [
+    "R_SRSA\uff3bSE1_Common_MV_021b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x41484891": [
+    "R_SRSA\uff3bSE1_Common_EV_DGO_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4191ce94": [
+    "R_SRST\uff3bSE1_Common_MV_BAS_002\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x41cd308e": [
+    "R_SRSA\uff3bSE1_Common_MV_ELI_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4286ba6f": [
+    "R_SRSA\uff3bSE1_Common_MV_NYO_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x43401f9c": [
+    "R_SRSA\uff3bFE4_Common_STG_BST\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x43cc5ea2": [
+    "R_SRST\uff3bSE1_Common_MV_ELI_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x44cd811b": [
+    "R_SRSA\uff3bCHA_ELI\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x45757d5a": [
+    "R_SRSA\uff3bSE1_Common_MV_LEI_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x46649111": [
+    "R_SRSA\uff3bSE1_Common_MV_KOK_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4683b75a": [
+    "R_SRST\uff3bSE1_Common_MV_CRI_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x4774ab6e": [
+    "R_SRST\uff3bSE1_Common_MV_LEI_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x48475b19": [
+    "R_SRSA\uff3bSE1_Common_MV_RYU_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4863bf25": [
+    "R_SRST\uff3bSE1_Common_MV_KOK_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x48ea4361": [
+    "R_SRST\uff3bSE1_Common_MV_006b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x4a9d336c": [
+    "R_SRSA\uff3bSE1_Common_MV_HTM_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4bc199db": [
+    "R_SRSA\uff3bSE1_Common_EV_LIS_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4c9c6180": [
+    "R_SRST\uff3bSE1_Common_MV_HTM_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x4dba889a": [
+    "R_SRSA\uff3bEV_LEI\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4e06c90b": [
+    "R_SRSA\uff3bSE1_Common_MV_001\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4e9de5cf": [
+    "R_SRSA\uff3bHIT\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4eaeae1e": [
+    "R_SRSA\uff3bSE1_Common_EV_TIN_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x4fe01c2a": [
+    "R_SRSA\uff3bSE1_Common_MV_011\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x502028a8": [
+    "R_SRSA\uff3bSE1_Common_MV_021a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x52af6083": [
+    "R_SRSA\uff3bSE1_Common_CHA_RID_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x52d29d0a": [
+    "R_SRSA\uff3bSE1_Common_MV_MAR_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x547b68c1": [
+    "R_SRSA\uff3bSE1_Common_MV_BAS_002\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x564418b5": [
+    "R_SRST\uff3bSE1_Common_MV_JAN_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x56b5f8cf": [
+    "R_SRSA\uff3bSE1_Common_MV_ELI_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x58193c02": [
+    "R_SRST\uff3bSE1_Common_MV_006a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x58409c4e": [
+    "R_SRST\uff3bSE1_Common_MV_RIG_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x596d5187": [
+    "R_SRSA\uff3bSE1_Common_MV_CRI_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x596eb0c4": [
+    "R_SRST\uff3bSE1_Common_MV_NYO_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x5a5e459b": [
+    "R_SRSA\uff3bSE1_Common_MV_LEI_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x5a7669ce": [
+    "R_SRST\uff3bSE1_Common_MV_HEL_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x5a790ca8": [
+    "R_SRSA\uff3bSE1_Common_CHA_NIC_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x5add500b": [
+    "R_SRST\uff3bSE1_Common_MV_DGO_001\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x5b4d5952": [
+    "R_SRSA\uff3bSE1_Common_MV_KOK_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x5b8bd5c2": [
+    "R_SRST\uff3bSE1_Common_MV_016\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x5bd3dd8e": [
+    "R_SRSA\uff3bSE1_Common_MV_006b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x5c5d73af": [
+    "R_SRST\uff3bSE1_Common_MV_LEI_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x5d6528e1": [
+    "R_SRST\uff3bSE1_Common_MV_026\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x5f85fbad": [
+    "R_SRSA\uff3bSE1_Common_MV_HTM_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x60059c26": [
+    "R_SRSA\uff3bEV_NYO\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x60f0d389": [
+    "R_SRSA\uff3bCHA_MIL\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x623b2546": [
+    "R_SRST\uff3bSE1_Common_MV_NIC_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x63d6dc5a": [
+    "R_SRSA\uff3bSE1_Common_CHA_LIS_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x649e765d": [
+    "R_SRSA\uff3bFE4_Common_STG_PAS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6680af3f": [
+    "R_SRSA\uff3bSE1_Common_CHA_BRA_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6713f585": [
+    "R_SRSA\uff3bCHA_DGO\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x681b1159": [
+    "R_SRSA\uff3bSTG_PIR_CHA\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x683fccb3": [
+    "R_SRST\uff3bSE1_Common_MV_BAS_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x692db2e2": [
+    "R_SRSA\uff3bSE1_Common_MV_JAN_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6af8fbbb": [
+    "R_SRSA\uff3bEV_HEL\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6afa635f": [
+    "R_SRSA\uff3bSE1_Common_EV_BAY_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6b02d62f": [
+    "R_SRSA\uff3bSE1_Common_MV_006a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6b125bef": [
+    "R_SRST\uff3bSE1_Common_MV_BRA_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x6b2a367b": [
+    "R_SRSA\uff3bSE1_Common_MV_RIG_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6b2ce0f6": [
+    "R_SRST\uff3bSE1_Common_MV_JAN_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x6c584af1": [
+    "R_SRSA\uff3bSE1_Common_MV_NYO_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6d384150": [
+    "R_SRST\uff3bSE1_Common_MV_MIL_002\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x6d6003fb": [
+    "R_SRSA\uff3bSE1_Common_MV_HEL_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6dc6ea38": [
+    "R_SRSA\uff3bSE1_Common_MV_DGO_001\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6e35ee52": [
+    "R_SRST\uff3bSE1_Common_MV_BRA_003\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x6e586496": [
+    "R_SRSA\uff3bSWISH\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6e756fef": [
+    "R_SRSA\uff3bSE1_Common_MV_016\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6f470ddc": [
+    "R_SRSA\uff3bSE1_Common_MV_LEI_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x6fbc75b2": [
+    "R_SRSA\uff3bFE4_Common_STG_PRO\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x704ec30e": [
+    "R_SRSA\uff3bSE1_Common_MV_026\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x718ba0f3": [
+    "R_SRSA\uff3bSE1_Common_EV_PHF_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x737a4379": [
+    "R_SRSA\uff3bSE1_Common_NV_KAS_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x746e3f9f": [
+    "R_SRST\uff3bSE1_Common_MV_002\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x7524bf73": [
+    "R_SRSA\uff3bSE1_Common_MV_NIC_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x76112e61": [
+    "R_SRSA\uff3bFE4_Common_STG_CRM\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x764792be": [
+    "R_SRST\uff3bSE1_Common_MV_012\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x76d0d0a7": [
+    "R_SRSA\uff3bSE1_Common_EV_ELI_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x771b73d8": [
+    "R_SRSA\uff3bFE4_Common_STG_PIR2\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x771bd733": [
+    "R_SRST\uff3bSE1_Common_MV_LIS_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x77447752": [
+    "R_SRSA\uff3bCHA_TIN\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x7820e5dd": [
+    "R_SRST\uff3bSE1_Common_MV_022\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x7988295f": [
+    "R_SRSA\uff3bSE1_Common_EV_CRI_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x7a08eb76": [
+    "R_SRST\uff3bSE1_Common_MV_TIN_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x7b2966e0": [
+    "R_SRSA\uff3bSE1_Common_MV_BAS_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x7cac37c7": [
+    "R_SRSA\uff3bEV_HYT\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x7dfbf61c": [
+    "R_SRSA\uff3bSE1_Common_MV_BRA_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x7e167b23": [
+    "R_SRSA\uff3bSE1_Common_MV_JAN_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x7fa8146f": [
+    "R_SRSA\uff3bFE4_Common_STG_LOS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x8015a937": [
+    "R_SRST\uff3bSE1_Common_MV_JAN_004B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x8021db7d": [
+    "R_SRSA\uff3bSE1_Common_MV_MIL_002\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x811f887f": [
+    "R_SRSA\uff3bSE1_Common_MV_BRA_003\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x818b4e2a": [
+    "R_SRST\uff3bSE1_Common_MV_DGO_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x81d76176": [
+    "R_SRSA\uff3bSE1_Common_NV_KAS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x82122cd0": [
+    "R_SRST\uff3bSE1_Common_MV_RIG_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x823b5422": [
+    "R_SRST\uff3bSE1_Common_MV_007b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x82ada463": [
+    "R_SRST\uff3bSE1_Common_MV_029c_kas\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x846f26c2": [
+    "R_SRSA\uff3bFOOTSTEP\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x84dadc54": [
+    "R_SRSA\uff3bEV_LIS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x85b4285a": [
+    "R_SRST\uff3bSE1_Common_MV_ZAC_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x8627bcdf": [
+    "R_SRSA\uff3bSE1_Common_SYSTEM\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x86d1171c": [
+    "R_SRSA\uff3bSE1_Common_CHA_BAS_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x86f7573e": [
+    "R_SRST\uff3bFE4_Common_BG\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x8757d9cc": [
+    "R_SRSA\uff3bSE1_Common_MV_002\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x87d63d23": [
+    "R_SRSA\uff3bSE1_Common_EV_MAR_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x89312ceb": [
+    "R_SRSA\uff3bSE1_Common_MV_012\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x8a057160": [
+    "R_SRSA\uff3bSE1_Common_MV_LIS_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x8a66af80": [
+    "R_SRSA\uff3bCHA_HON\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x8a6aa1b3": [
+    "R_SRSA\uff3bEV_JAN\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x8b0a800a": [
+    "R_SRSA\uff3bSE1_Common_MV_022\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x8b27bdfa": [
+    "R_SRST\uff3bSE1_Common_MV_021a_00\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x8c049f74": [
+    "R_SRST\uff3bSE1_Common_MV_LIS_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x8c0cb5c8": [
+    "R_SRST\uff3bSE1_Common_MV_NIC_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x8c7322c9": [
+    "R_SRSA\uff3bSE1_Common_EV_NYO_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x8cf285a3": [
+    "R_SRSA\uff3bSE1_Common_MV_TIN_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x8ed057c9": [
+    "R_SRSA\uff3bCHA_LEI\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x8ee890c9": [
+    "R_SRSA\uff3bCHA_RIG\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x90661369": [
+    "R_SRSA\uff3bEV_HTM\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x909499d3": [
+    "R_SRSA\uff3bCHA_BAY\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x916a4cc3": [
+    "R_SRST\uff3bSE1_Common_MV_007a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x91c83ce1": [
+    "R_SRSA\uff3bEV_AYA\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x91e6a888": [
+    "R_SRSA\uff3bSE1_Common_EV_HYT_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x92d4b6e6": [
+    "R_SRST\uff3bSE1_Common_SV\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x92ff4364": [
+    "R_SRSA\uff3bSE1_Common_MV_JAN_004B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x93e63f6f": [
+    "R_SRST\uff3bSE1_Common_MV_MIL_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x9474e857": [
+    "R_SRSA\uff3bSE1_Common_MV_DGO_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x94dce683": [
+    "R_SRST\uff3bSE1_Common_MV_017\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x94fbc6fd": [
+    "R_SRSA\uff3bSE1_Common_MV_RIG_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9524ee4f": [
+    "R_SRSA\uff3bSE1_Common_MV_007b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x95973e90": [
+    "R_SRSA\uff3bSE1_Common_MV_029c_kas\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x95a9ed08": [
+    "R_SRSA\uff3bEV_ELI\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9674166b": [
+    "R_SRST\uff3bSE1_Common_MV_DGO_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x96b639a2": [
+    "R_SRST\uff3bSE1_Common_MV_027\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x97750333": [
+    "R_SRSA\uff3bSE1_Common_CHA_KAS_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9844b8cc": [
+    "R_SRST\uff3bSE1_Common_MV_RYU_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x988195fd": [
+    "R_SRSA\uff3bEV_RID\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x989dc287": [
+    "R_SRSA\uff3bSE1_Common_MV_ZAC_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x99e0f16b": [
+    "R_SRSA\uff3bFE4_Common_BG\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9a9cf09b": [
+    "R_SRST\uff3bSE1_Common_MV_ZAC_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x9aae7f0e": [
+    "R_SRSA\uff3bSE1_Common_CHA_ELI_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9ac27990": [
+    "R_SRSA\uff3bSTG_LOS_CHA\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9ceaf6c6": [
+    "R_SRSA\uff3bCHA_RID\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9e115827": [
+    "R_SRSA\uff3bSE1_Common_MV_021a_00\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9ed0643d": [
+    "R_SRST\uff3bSE1_Common_MV_013b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0x9eee39a1": [
+    "R_SRSA\uff3bSE1_Common_MV_LIS_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0x9ef64ff5": [
+    "R_SRSA\uff3bSE1_Common_MV_NIC_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa16b449d": [
+    "R_SRST\uff3bSE1_Common_MV_MAR_001\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xa19626da": [
+    "R_SRSA\uff3bCHA_HTM\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa22b0dff": [
+    "R_SRST\uff3bSE1_Common_MV_ELI_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xa263a414": [
+    "R_SRSA\uff3bSE1_Common_EV_HEL_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa453e6f0": [
+    "R_SRSA\uff3bSE1_Common_MV_007a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa4e266b7": [
+    "R_SRST\uff3bSE1_Common_MV_CRI_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xa5be5113": [
+    "R_SRSA\uff3bSE1_Common_SV\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa5d5be71": [
+    "R_SRSA\uff3bFE4_Common_STG_BAM\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa5fb5440": [
+    "R_SRSA\uff3bCHA_KOK\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa6206c14": [
+    "R_SRSA\uff3bSE1_Common_CHA_ZAC_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa6cfd99c": [
+    "R_SRSA\uff3bSE1_Common_MV_MIL_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa7c680b0": [
+    "R_SRSA\uff3bSE1_Common_MV_017\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa8f60067": [
+    "R_SRSA\uff3bCHA_PHF\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa95db098": [
+    "R_SRSA\uff3bSE1_Common_MV_DGO_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xa99fd3cf": [
+    "R_SRSA\uff3bSE1_Common_MV_027\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xaa56a212": [
+    "R_SRSA\uff3bSE1_Common_CHA_MAR_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xaa5ba34e": [
+    "R_SRST\uff3bSE1_Common_MV_LEI_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xab2e52f9": [
+    "R_SRSA\uff3bSE1_Common_MV_RYU_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xab3d68f8": [
+    "R_SRST\uff3bSE1_Common_MV_BAY_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xab4ab705": [
+    "R_SRST\uff3bSE1_Common_MV_KOK_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xac9965cd": [
+    "R_SRSA\uff3bCHA_BAS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xad2d810d": [
+    "R_SRST\uff3bSE1_Common_MV_RYU_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xad868ac8": [
+    "R_SRSA\uff3bSE1_Common_MV_ZAC_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xadbf5060": [
+    "R_SRST\uff3bSE1_Common_MV_003\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xadff5cde": [
+    "R_SRST\uff3bSE1_Common_MV_013a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xaebb135a": [
+    "R_SRSA\uff3bDOWN\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xaed6ad33": [
+    "R_SRSA\uff3bFE4_Common_STG_CRM2\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xaf835960": [
+    "R_SRST\uff3bSE1_Common_MV_HTM_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xb0aede03": [
+    "R_SRSA\uff3bEV_HON\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb171f69e": [
+    "R_SRST\uff3bSE1_Common_MV_023\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xb192a143": [
+    "R_SRSA\uff3bEV_KOK\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb1b9fe6a": [
+    "R_SRSA\uff3bSE1_Common_MV_013b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb3904f2e": [
+    "R_SRSA\uff3bSE1_Common_EV_AYA_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb454deca": [
+    "R_SRSA\uff3bSE1_Common_MV_MAR_001\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb514a82c": [
+    "R_SRSA\uff3bSE1_Common_MV_ELI_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb5169ed5": [
+    "R_SRSA\uff3bSE1_Common_EV_RIG_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb64b760c": [
+    "R_SRSA\uff3bEV_MAR\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb713d640": [
+    "R_SRST\uff3bSE1_Common_MV_ELI_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xb7cc00e4": [
+    "R_SRSA\uff3bSE1_Common_MV_CRI_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb7cd6021": [
+    "R_SRST\uff3bSE1_Common_MV_NYO_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xb86d9341": [
+    "R_SRSA\uff3bFE4_Common_STG_LOS2\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xb8c6b3e2": [
+    "R_SRSA\uff3bSE1_Common_EV_KAS_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xbb8c64e3": [
+    "R_SRST\uff3bSE1_Common_MV_008b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xbd453d7b": [
+    "R_SRSA\uff3bSE1_Common_MV_LEI_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xbd65b802": [
+    "R_SRST\uff3bSE1_Common_MV_018b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xbe270325": [
+    "R_SRSA\uff3bSE1_Common_MV_BAY_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xbe345132": [
+    "R_SRSA\uff3bSE1_Common_MV_KOK_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xbe8c5077": [
+    "R_SRSA\uff3bSE1_Common_CHA_TIN_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xbf1127cd": [
+    "R_SRSA\uff3bSE1_Common_EV_NIC_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xbf3f0b21": [
+    "R_SRST\uff3bSE1_Common_MV_028b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xbf446b8f": [
+    "R_SRST\uff3bSE1_Common_MV_LEI_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xc0171b3a": [
+    "R_SRSA\uff3bSE1_Common_MV_RYU_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xc0337f46": [
+    "R_SRST\uff3bSE1_Common_MV_KOK_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xc0a8ea8d": [
+    "R_SRSA\uff3bSE1_Common_MV_003\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xc0e8f70b": [
+    "R_SRSA\uff3bSE1_Common_MV_013a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xc26cf38d": [
+    "R_SRSA\uff3bSE1_Common_MV_HTM_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xc310f615": [
+    "R_SRSA\uff3bFE4_Common_STG_CLS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xc45b90cb": [
+    "R_SRSA\uff3bSE1_Common_MV_023\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xc46c21a1": [
+    "R_SRST\uff3bSE1_Common_MV_HTM_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xc530dcfb": [
+    "R_SRSA\uff3bSTG_GYM_CHA\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xc5e7b5bd": [
+    "R_SRSA\uff3bCHA_NYO\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xc6cca25f": [
+    "R_SRSA\uff3bSE1_Common_MOVEMENT\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xc81942bc": [
+    "R_SRST\uff3bSE1_Common_MV_MAR_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xc9fd706d": [
+    "R_SRSA\uff3bSE1_Common_MV_ELI_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xcaad0245": [
+    "R_SRST\uff3bSE1_Common_MV_HON_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xcab6fa4e": [
+    "R_SRSA\uff3bSE1_Common_MV_NYO_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xcabb5d84": [
+    "R_SRST\uff3bSE1_Common_MV_008a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xcbfc9e81": [
+    "R_SRST\uff3bSE1_Common_MV_ELI_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xcc792c62": [
+    "R_SRSA\uff3bCHA_AYA\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xcc94b0a3": [
+    "R_SRST\uff3bSE1_Common_MV_018a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xcdf953cf": [
+    "R_SRST\uff3bSE1_Common_MV_BRA_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xce13d8d6": [
+    "R_SRST\uff3bSE1_Common_MV_JAN_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xce6e03c2": [
+    "R_SRST\uff3bSE1_Common_MV_028a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xce75ff10": [
+    "R_SRSA\uff3bSE1_Common_MV_008b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xceb3f739": [
+    "R_SRST\uff3bSE1_Common_MV_CRI_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xcff8fbe0": [
+    "R_SRSA\uff3bSE1_Common_CHA_MIL_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xd04f522f": [
+    "R_SRSA\uff3bSE1_Common_MV_018b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xd228a54e": [
+    "R_SRSA\uff3bSE1_Common_MV_028b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xd22e05bc": [
+    "R_SRSA\uff3bSE1_Common_MV_LEI_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xd31d1973": [
+    "R_SRSA\uff3bSE1_Common_MV_KOK_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xd421c0ad": [
+    "R_SRSA\uff3bEV_KAS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xd42d33d0": [
+    "R_SRST\uff3bSE1_Common_MV_LEI_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xd5502216": [
+    "R_SRSA\uff3bCHA_KAS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xd64821df": [
+    "R_SRST\uff3bSE1_Common_MV_004b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xd755bbce": [
+    "R_SRSA\uff3bSE1_Common_MV_HTM_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xd82174fe": [
+    "R_SRST\uff3bSE1_Common_MV_014b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xd967cc14": [
+    "R_SRSA\uff3bFE4_Common_STG_MUS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xd9fac81d": [
+    "R_SRST\uff3bSE1_Common_MV_024b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xda322aa0": [
+    "R_SRST\uff3bSE1_Common_MV_029d\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xda81dfd3": [
+    "R_SRSA\uff3bCHA_CRI\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xdb02dce9": [
+    "R_SRSA\uff3bSE1_Common_MV_MAR_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xdd969c72": [
+    "R_SRSA\uff3bSE1_Common_MV_HON_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xdda4f7b1": [
+    "R_SRSA\uff3bSE1_Common_MV_008a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xde5d3897": [
+    "R_SRST\uff3bSE1_Common_MV_029c_aya\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xde9b3d43": [
+    "R_SRSA\uff3bFE4_Common_STG_BAM2\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xdee638ae": [
+    "R_SRSA\uff3bSE1_Common_MV_ELI_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xdf7e4ad0": [
+    "R_SRSA\uff3bSE1_Common_MV_018a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe00f8cd4": [
+    "R_SRST\uff3bSE1_Common_MV_BAS_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe070dc2d": [
+    "R_SRST\uff3bSE1_Common_MV_RIG_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe0e2edfc": [
+    "R_SRSA\uff3bSE1_Common_MV_BRA_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe0fd7303": [
+    "R_SRSA\uff3bSE1_Common_MV_JAN_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe1579def": [
+    "R_SRSA\uff3bSE1_Common_MV_028a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe1761941": [
+    "R_SRSA\uff3bSE1_Common_CHA_HEL_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe1868b39": [
+    "R_SRSA\uff3bSE1_Common_CHA_JAN_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe19d9166": [
+    "R_SRSA\uff3bSE1_Common_MV_CRI_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe19ef0a3": [
+    "R_SRST\uff3bSE1_Common_MV_NYO_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe253a34d": [
+    "R_SRSA\uff3bSE1_Common_CHA_HYT_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe27515c7": [
+    "R_SRSA\uff3bFE4_Common_STG_LBN\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe28a2ae1": [
+    "R_SRSA\uff3bSE1_Common_EV_ZAC_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe2a6a9ad": [
+    "R_SRST\uff3bSE1_Common_MV_HEL_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe2e21c10": [
+    "R_SRST\uff3bSE1_Common_MV_BRA_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe2fca117": [
+    "R_SRST\uff3bSE1_Common_MV_JAN_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe355aa16": [
+    "R_SRSA\uff3bEV_BAS\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe4d36fc1": [
+    "R_SRSA\uff3bCHA_NIC\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe5771a80": [
+    "R_SRST\uff3bSE1_Common_MV_004a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe5a1e9e2": [
+    "R_SRSA\uff3bSE1_Common_CHA_RYU_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe5ca3c10": [
+    "R_SRST\uff3bSE1_Common_MV_HEL_003\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe716cdfd": [
+    "R_SRSA\uff3bSE1_Common_MV_LEI_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe7506d9f": [
+    "R_SRST\uff3bSE1_Common_MV_014a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe82361d0": [
+    "R_SRSA\uff3bCHA_JAN\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xe929c0be": [
+    "R_SRST\uff3bSE1_Common_MV_024a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xe931bc0c": [
+    "R_SRSA\uff3bSE1_Common_MV_004b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xea6b6525": [
+    "R_SRST\uff3bSE1_Common_MV_NIC_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xeb0b0f2b": [
+    "R_SRSA\uff3bSE1_Common_MV_014b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xece4624a": [
+    "R_SRSA\uff3bSE1_Common_MV_024b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xed12d750": [
+    "R_SRSA\uff3bEV_CRI\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xed1bc4cd": [
+    "R_SRSA\uff3bSE1_Common_MV_029d\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xeee23d56": [
+    "R_SRSA\uff3bSE1_Common_CHA_CRI_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xeeeb9754": [
+    "R_SRST\uff3bSE1_Common_MV_LIS_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xef21a883": [
+    "R_SRSA\uff3bSTG_BST_CHA\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf146d2c4": [
+    "R_SRSA\uff3bSE1_Common_MV_029c_aya\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf1d8ab97": [
+    "R_SRST\uff3bSE1_Common_MV_TIN_001A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xf2f92701": [
+    "R_SRSA\uff3bSE1_Common_MV_BAS_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf35a765a": [
+    "R_SRSA\uff3bSE1_Common_MV_RIG_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf47e92c7": [
+    "R_SRST\uff3bSE1_Common_MV_HON_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xf4888ad0": [
+    "R_SRSA\uff3bSE1_Common_MV_NYO_003B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf4b68519": [
+    "R_SRST\uff3bSE1_Common_MV_020b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xf4dd75a4": [
+    "R_SRST\uff3bSE1_Common_MV_009b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xf51abb53": [
+    "R_SRSA\uff3bSE1_Common_EV_RYU_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf5286df1": [
+    "R_SRSA\uff3bCOMMON\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf59043da": [
+    "R_SRSA\uff3bSE1_Common_MV_HEL_002B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf5cbb63d": [
+    "R_SRSA\uff3bSE1_Common_MV_BRA_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf5ded167": [
+    "R_SRSA\uff3bSE1_Common_CHA_AYA_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf5e63b44": [
+    "R_SRSA\uff3bSE1_Common_MV_JAN_003A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf6b6c8c3": [
+    "R_SRST\uff3bSE1_Common_MV_019b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xf702b30e": [
+    "R_SRSA\uff3bEV_ZAC\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf74db842": [
+    "R_SRSA\uff3bSE1_Common_CHA_PHF_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf77093a6": [
+    "R_SRSA\uff3bSE1_Common_EV_HTM_US\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf7e56958": [
+    "R_SRST\uff3bSE1_Common_MV_JAN_004A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xf860b4ad": [
+    "R_SRSA\uff3bSE1_Common_MV_004a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf8901be2": [
+    "R_SRST\uff3bSE1_Common_MV_029b\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xf8b3d63d": [
+    "R_SRSA\uff3bSE1_Common_MV_HEL_003\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xf95b0e4b": [
+    "R_SRST\uff3bSE1_Common_MV_DGO_002A\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ],
+  "0xfa3a07cc": [
+    "R_SRSA\uff3bSE1_Common_MV_014a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xfb57858a": [
+    "R_SRSA\uff3bCHA_BRA\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xfc135aeb": [
+    "R_SRSA\uff3bSE1_Common_MV_024a\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xfd54ff52": [
+    "R_SRSA\uff3bSE1_Common_MV_NIC_001B\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xfea61eb9": [
+    "R_SRSA\uff3bEV_BRA\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::AssetData"
+  ],
+  "0xfeaaa77d": [
+    "R_SRST\uff3bSE1_Common_MV_029c_hyt\uff3d",
+    "TypeInfo::Resource::KTGL::Sound2::StreamAssetData"
+  ]
+}

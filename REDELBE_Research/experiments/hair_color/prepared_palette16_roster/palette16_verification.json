@@ -1,0 +1,2048 @@
+{
+  "variants": 840,
+  "alpha_consistency": "passed",
+  "scope": "DOA Central prototype; original-alpha preservation previously tested separately",
+  "characters": [
+    {
+      "character": "MAR",
+      "hair_slot": "MAR_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "ab5b305a",
+      "object": "0x00A12259",
+      "candidate": true,
+      "name": "0x00A12259|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MARHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ab5b305a",
+      "reference_changed": false,
+      "other_material_objects": [
+        "157f5e99",
+        "26352b5a",
+        "36eaf81b",
+        "47a0c4dc",
+        "5856919d",
+        "a76867b6"
+      ],
+      "shared_hair_slots": [
+        "MAR_HAIR_001",
+        "MAR_HAIR_002",
+        "MAR_HAIR_005",
+        "MAR_HAIR_006"
+      ]
+    },
+    {
+      "character": "NYO",
+      "hair_slot": "NYO_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "67ba84fc",
+      "object": "0x00A2F677",
+      "candidate": true,
+      "name": "0x00A2F677|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NYOHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "67ba84fc",
+      "reference_changed": false,
+      "other_material_objects": [
+        "3a030dd1",
+        "96b46f13"
+      ],
+      "shared_hair_slots": [
+        "NYO_HAIR_005"
+      ]
+    },
+    {
+      "character": "TIN",
+      "hair_slot": "TIN_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "87dbb915",
+      "object": "0x013B31BE",
+      "candidate": true,
+      "name": "0x013B31BE|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_TINHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "87dbb915",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0c4543a1",
+        "26cf3abf",
+        "37850780",
+        "483ad441",
+        "58f0a102",
+        "7d727c1c",
+        "8b120745",
+        "8e2848dd",
+        "a802771b",
+        "c96e109d",
+        "ead9aa1f"
+      ],
+      "shared_hair_slots": [
+        "TIN_HAIR_001",
+        "TIN_HAIR_003",
+        "TIN_HAIR_004",
+        "TIN_HAIR_008"
+      ]
+    },
+    {
+      "character": "AYA",
+      "hair_slot": "AYA_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "70c23f04",
+      "object": "0x070BAF6F",
+      "candidate": true,
+      "name": "0x070BAF6F|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_AYAHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "70c23f04",
+      "reference_changed": false,
+      "other_material_objects": [
+        "2c9fb870",
+        "3d558531",
+        "4e0b51f2",
+        "728d2d0c",
+        "8342f9cd",
+        "9d1d280b",
+        "9ff6620f",
+        "f0aa27d0"
+      ],
+      "shared_hair_slots": [
+        "AYA_HAIR_002",
+        "AYA_HAIR_005"
+      ]
+    },
+    {
+      "character": "HYT",
+      "hair_slot": "HYT_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "5a22acde",
+      "object": "0x09C2AF55",
+      "candidate": true,
+      "name": "0x09C2AF55|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HYTHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "5a22acde",
+      "reference_changed": false,
+      "other_material_objects": [
+        "85f9f9b3"
+      ],
+      "shared_hair_slots": [
+        "HYT_HAIR_002"
+      ]
+    },
+    {
+      "character": "MIL",
+      "hair_slot": "MIL_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "f9cec74c",
+      "object": "0x09E67227",
+      "candidate": true,
+      "name": "0x09E67227|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MILHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "f9cec74c",
+      "reference_changed": false,
+      "other_material_objects": [
+        "043ab749",
+        "14f0840a",
+        "2f7a7b28",
+        "403047e9",
+        "50e614aa",
+        "619be16b",
+        "861dbc85",
+        "93bd47ae",
+        "96d38946",
+        "b0adb784",
+        "f384ea88"
+      ],
+      "shared_hair_slots": [
+        "MIL_HAIR_001",
+        "MIL_HAIR_003",
+        "MIL_HAIR_004",
+        "MIL_HAIR_005",
+        "MIL_HAIR_006",
+        "MIL_HAIR_008"
+      ]
+    },
+    {
+      "character": "BRA",
+      "hair_slot": "BRA_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "753b574d",
+      "object": "0x0F31B886",
+      "candidate": true,
+      "name": "0x0F31B886|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_BRAHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "753b574d",
+      "reference_changed": false,
+      "other_material_objects": [
+        "9c1ecfa5"
+      ],
+      "shared_hair_slots": [
+        "BRA_HAIR_001"
+      ]
+    },
+    {
+      "character": "MAR",
+      "hair_slot": "MAR_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "ab5b305a",
+      "object": "0x1156EF1A",
+      "candidate": true,
+      "name": "0x1156EF1A|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MARHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ab5b305a",
+      "reference_changed": false,
+      "other_material_objects": [
+        "157f5e99",
+        "26352b5a",
+        "36eaf81b",
+        "47a0c4dc",
+        "5856919d",
+        "a76867b6"
+      ],
+      "shared_hair_slots": [
+        "MAR_HAIR_001",
+        "MAR_HAIR_002",
+        "MAR_HAIR_005",
+        "MAR_HAIR_006"
+      ]
+    },
+    {
+      "character": "NYO",
+      "hair_slot": "NYO_HAIR_006",
+      "part": "hair_BLEND",
+      "resource": "2aadf43f",
+      "object": "0x1158C338",
+      "candidate": true,
+      "name": "0x1158C338|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NYOHAIR006_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "2aadf43f",
+      "reference_changed": false,
+      "other_material_objects": [
+        "461e4254"
+      ],
+      "shared_hair_slots": [
+        "NYO_HAIR_006"
+      ]
+    },
+    {
+      "character": "TIN",
+      "hair_slot": "TIN_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "def9a9f4",
+      "object": "0x11F0FE7F",
+      "candidate": true,
+      "name": "0x11F0FE7F|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_TINHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "def9a9f4",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "TIN_HAIR_002"
+      ]
+    },
+    {
+      "character": "AYA",
+      "hair_slot": "AYA_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "c7e02fe3",
+      "object": "0x17C17C30",
+      "candidate": true,
+      "name": "0x17C17C30|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_AYAHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "c7e02fe3",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "AYA_HAIR_003"
+      ]
+    },
+    {
+      "character": "MIL",
+      "hair_slot": "MIL_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "50ecb82b",
+      "object": "0x1A9C3EE8",
+      "candidate": true,
+      "name": "0x1A9C3EE8|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MILHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "50ecb82b",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "MIL_HAIR_002"
+      ]
+    },
+    {
+      "character": "BRA",
+      "hair_slot": "BRA_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "cc59482c",
+      "object": "0x1FE78547",
+      "candidate": true,
+      "name": "0x1FE78547|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_BRAHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "cc59482c",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "BRA_HAIR_002"
+      ]
+    },
+    {
+      "character": "MAR",
+      "hair_slot": "MAR_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "59971218",
+      "object": "0x220CBBDB",
+      "candidate": true,
+      "name": "0x220CBBDB|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MARHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "59971218",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0bab343c",
+        "1c6100fd",
+        "64e3eedf",
+        "8d8e3978",
+        "c8d40138",
+        "ea3f9aba",
+        "faf5677b"
+      ],
+      "shared_hair_slots": [
+        "MAR_HAIR_003"
+      ]
+    },
+    {
+      "character": "TIN",
+      "hair_slot": "TIN_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "87dbb915",
+      "object": "0x22A6CB40",
+      "candidate": true,
+      "name": "0x22A6CB40|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_TINHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "87dbb915",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0c4543a1",
+        "26cf3abf",
+        "37850780",
+        "483ad441",
+        "58f0a102",
+        "7d727c1c",
+        "8b120745",
+        "8e2848dd",
+        "a802771b",
+        "c96e109d",
+        "ead9aa1f"
+      ],
+      "shared_hair_slots": [
+        "TIN_HAIR_001",
+        "TIN_HAIR_003",
+        "TIN_HAIR_004",
+        "TIN_HAIR_008"
+      ]
+    },
+    {
+      "character": "AYA",
+      "hair_slot": "AYA_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "1efe20c2",
+      "object": "0x287748F1",
+      "candidate": true,
+      "name": "0x287748F1|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_AYAHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "1efe20c2",
+      "reference_changed": false,
+      "other_material_objects": [
+        "dff45b0f"
+      ],
+      "shared_hair_slots": [
+        "AYA_HAIR_004"
+      ]
+    },
+    {
+      "character": "MIL",
+      "hair_slot": "MIL_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "f9cec74c",
+      "object": "0x2B520BA9",
+      "candidate": true,
+      "name": "0x2B520BA9|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MILHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "f9cec74c",
+      "reference_changed": false,
+      "other_material_objects": [
+        "043ab749",
+        "14f0840a",
+        "2f7a7b28",
+        "403047e9",
+        "50e614aa",
+        "619be16b",
+        "861dbc85",
+        "93bd47ae",
+        "96d38946",
+        "b0adb784",
+        "f384ea88"
+      ],
+      "shared_hair_slots": [
+        "MIL_HAIR_001",
+        "MIL_HAIR_003",
+        "MIL_HAIR_004",
+        "MIL_HAIR_005",
+        "MIL_HAIR_006",
+        "MIL_HAIR_008"
+      ]
+    },
+    {
+      "character": "MAR",
+      "hair_slot": "MAR_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "b0b502f7",
+      "object": "0x32C2889C",
+      "candidate": true,
+      "name": "0x32C2889C|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MARHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "b0b502f7",
+      "reference_changed": false,
+      "other_material_objects": [
+        "2b311d58",
+        "7cd86cb7"
+      ],
+      "shared_hair_slots": [
+        "MAR_HAIR_004"
+      ]
+    },
+    {
+      "character": "TIN",
+      "hair_slot": "TIN_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "87dbb915",
+      "object": "0x335C9801",
+      "candidate": true,
+      "name": "0x335C9801|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_TINHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "87dbb915",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0c4543a1",
+        "26cf3abf",
+        "37850780",
+        "483ad441",
+        "58f0a102",
+        "7d727c1c",
+        "8b120745",
+        "8e2848dd",
+        "a802771b",
+        "c96e109d",
+        "ead9aa1f"
+      ],
+      "shared_hair_slots": [
+        "TIN_HAIR_001",
+        "TIN_HAIR_003",
+        "TIN_HAIR_004",
+        "TIN_HAIR_008"
+      ]
+    },
+    {
+      "character": "AYA",
+      "hair_slot": "AYA_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "70c23f04",
+      "object": "0x392D15B2",
+      "candidate": true,
+      "name": "0x392D15B2|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_AYAHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "70c23f04",
+      "reference_changed": false,
+      "other_material_objects": [
+        "2c9fb870",
+        "3d558531",
+        "4e0b51f2",
+        "728d2d0c",
+        "8342f9cd",
+        "9d1d280b",
+        "9ff6620f",
+        "f0aa27d0"
+      ],
+      "shared_hair_slots": [
+        "AYA_HAIR_002",
+        "AYA_HAIR_005"
+      ]
+    },
+    {
+      "character": "MIL",
+      "hair_slot": "MIL_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "f9cec74c",
+      "object": "0x3C07D86A",
+      "candidate": true,
+      "name": "0x3C07D86A|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MILHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "f9cec74c",
+      "reference_changed": false,
+      "other_material_objects": [
+        "043ab749",
+        "14f0840a",
+        "2f7a7b28",
+        "403047e9",
+        "50e614aa",
+        "619be16b",
+        "861dbc85",
+        "93bd47ae",
+        "96d38946",
+        "b0adb784",
+        "f384ea88"
+      ],
+      "shared_hair_slots": [
+        "MIL_HAIR_001",
+        "MIL_HAIR_003",
+        "MIL_HAIR_004",
+        "MIL_HAIR_005",
+        "MIL_HAIR_006",
+        "MIL_HAIR_008"
+      ]
+    },
+    {
+      "character": "HON",
+      "hair_slot": "HON_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "be13d543",
+      "object": "0x428A1AD0",
+      "candidate": true,
+      "name": "0x428A1AD0|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HONHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "be13d543",
+      "reference_changed": false,
+      "other_material_objects": [
+        "1b72c670",
+        "3cde5ff2",
+        "4d942cb3",
+        "78d3f092",
+        "8989bd53",
+        "9a3f8a14",
+        "cc60f057",
+        "e951602d"
+      ],
+      "shared_hair_slots": [
+        "HON_HAIR_001",
+        "HON_HAIR_004"
+      ]
+    },
+    {
+      "character": "HEL",
+      "hair_slot": "HEL_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "7081de8b",
+      "object": "0x4369BC88",
+      "candidate": true,
+      "name": "0x4369BC88|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HELHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "7081de8b",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0b9c9b67",
+        "4e73ce6b",
+        "79b3924a",
+        "8a695f0b",
+        "cd40920f",
+        "d056d3a7"
+      ],
+      "shared_hair_slots": [
+        "HEL_HAIR_001",
+        "HEL_HAIR_005"
+      ]
+    },
+    {
+      "character": "MAR",
+      "hair_slot": "MAR_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "ab5b305a",
+      "object": "0x4378555D",
+      "candidate": true,
+      "name": "0x4378555D|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MARHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ab5b305a",
+      "reference_changed": false,
+      "other_material_objects": [
+        "157f5e99",
+        "26352b5a",
+        "36eaf81b",
+        "47a0c4dc",
+        "5856919d",
+        "a76867b6"
+      ],
+      "shared_hair_slots": [
+        "MAR_HAIR_001",
+        "MAR_HAIR_002",
+        "MAR_HAIR_005",
+        "MAR_HAIR_006"
+      ]
+    },
+    {
+      "character": "KAS",
+      "hair_slot": "KAS_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "ff615bd9",
+      "object": "0x4B26707A",
+      "candidate": true,
+      "name": "0x4B26707A|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KASHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ff615bd9",
+      "reference_changed": false,
+      "other_material_objects": [
+        "2f0bede6",
+        "70ba797b",
+        "8170463c",
+        "922612fd",
+        "b391ac7f",
+        "dffa17cd"
+      ],
+      "shared_hair_slots": [
+        "KAS_HAIR_001",
+        "KAS_HAIR_005",
+        "MPP_HAIR_001",
+        "PHF_HAIR_005"
+      ]
+    },
+    {
+      "character": "MIL",
+      "hair_slot": "MIL_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "f9cec74c",
+      "object": "0x4CBDA52B",
+      "candidate": true,
+      "name": "0x4CBDA52B|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MILHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "f9cec74c",
+      "reference_changed": false,
+      "other_material_objects": [
+        "043ab749",
+        "14f0840a",
+        "2f7a7b28",
+        "403047e9",
+        "50e614aa",
+        "619be16b",
+        "861dbc85",
+        "93bd47ae",
+        "96d38946",
+        "b0adb784",
+        "f384ea88"
+      ],
+      "shared_hair_slots": [
+        "MIL_HAIR_001",
+        "MIL_HAIR_003",
+        "MIL_HAIR_004",
+        "MIL_HAIR_005",
+        "MIL_HAIR_006",
+        "MIL_HAIR_008"
+      ]
+    },
+    {
+      "character": "HON",
+      "hair_slot": "HON_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "1531c622",
+      "object": "0x533FE791",
+      "candidate": true,
+      "name": "0x533FE791|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HONHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "1531c622",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0abcf9af",
+        "2c289331",
+        "bec1652e",
+        "cf7731ef"
+      ],
+      "shared_hair_slots": [
+        "HON_HAIR_002"
+      ]
+    },
+    {
+      "character": "HEL",
+      "hair_slot": "HEL_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "c79fcf6a",
+      "object": "0x541F8949",
+      "candidate": true,
+      "name": "0x541F8949|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HELHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "c79fcf6a",
+      "reference_changed": false,
+      "other_material_objects": [
+        "68fdc589"
+      ],
+      "shared_hair_slots": [
+        "HEL_HAIR_002"
+      ]
+    },
+    {
+      "character": "MAR",
+      "hair_slot": "MAR_HAIR_006",
+      "part": "hair_BLEND",
+      "resource": "ab5b305a",
+      "object": "0x542E221E",
+      "candidate": true,
+      "name": "0x542E221E|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MARHAIR006_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ab5b305a",
+      "reference_changed": false,
+      "other_material_objects": [
+        "157f5e99",
+        "26352b5a",
+        "36eaf81b",
+        "47a0c4dc",
+        "5856919d",
+        "a76867b6"
+      ],
+      "shared_hair_slots": [
+        "MAR_HAIR_001",
+        "MAR_HAIR_002",
+        "MAR_HAIR_005",
+        "MAR_HAIR_006"
+      ]
+    },
+    {
+      "character": "LIS",
+      "hair_slot": "LIS_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "55cc2312",
+      "object": "0x592904A1",
+      "candidate": true,
+      "name": "0x592904A1|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LISHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "55cc2312",
+      "reference_changed": false,
+      "other_material_objects": [
+        "42c77d02",
+        "7ebd0da2",
+        "8f72da63",
+        "a028a724",
+        "b0de73e5",
+        "c19440a6",
+        "d5604eff",
+        "e2ffda28",
+        "e6161bc0",
+        "fff049fe"
+      ],
+      "shared_hair_slots": [
+        "LIS_HAIR_001",
+        "LIS_HAIR_008"
+      ]
+    },
+    {
+      "character": "KAS",
+      "hair_slot": "KAS_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "567f4cb8",
+      "object": "0x5BDC3D3B",
+      "candidate": true,
+      "name": "0x5BDC3D3B|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KASHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "567f4cb8",
+      "reference_changed": false,
+      "other_material_objects": [
+        "121b7e10",
+        "13594f59",
+        "1531bfa8",
+        "457ab59c",
+        "5630825d",
+        "8298edab",
+        "be8e7e4b",
+        "cf444b0c",
+        "f0afe48e",
+        "f1edb5d7"
+      ],
+      "shared_hair_slots": [
+        "KAS_HAIR_002",
+        "MPP_HAIR_002",
+        "PHF_HAIR_002"
+      ]
+    },
+    {
+      "character": "MIL",
+      "hair_slot": "MIL_HAIR_006",
+      "part": "hair_BLEND",
+      "resource": "f9cec74c",
+      "object": "0x5D7371EC",
+      "candidate": true,
+      "name": "0x5D7371EC|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MILHAIR006_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "f9cec74c",
+      "reference_changed": false,
+      "other_material_objects": [
+        "043ab749",
+        "14f0840a",
+        "2f7a7b28",
+        "403047e9",
+        "50e614aa",
+        "619be16b",
+        "861dbc85",
+        "93bd47ae",
+        "96d38946",
+        "b0adb784",
+        "f384ea88"
+      ],
+      "shared_hair_slots": [
+        "MIL_HAIR_001",
+        "MIL_HAIR_003",
+        "MIL_HAIR_004",
+        "MIL_HAIR_005",
+        "MIL_HAIR_006",
+        "MIL_HAIR_008"
+      ]
+    },
+    {
+      "character": "NIC",
+      "hair_slot": "NIC_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "b1b071e1",
+      "object": "0x5EF2AAEF",
+      "candidate": true,
+      "name": "0x5EF2AAEF|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NICHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "b1b071e1",
+      "reference_changed": false,
+      "other_material_objects": [
+        "05b9f04c",
+        "272589ce",
+        "48912350",
+        "5946f011",
+        "8486b3f0",
+        "953c80b1",
+        "9964f030",
+        "a5f24d72",
+        "c75de6f4",
+        "db29f54d",
+        "e8c98076",
+        "ebdfc20e"
+      ],
+      "shared_hair_slots": [
+        "NIC_HAIR_001",
+        "NIC_HAIR_002",
+        "NIC_HAIR_004",
+        "NIC_HAIR_006"
+      ]
+    },
+    {
+      "character": "HON",
+      "hair_slot": "HON_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "6c4fb701",
+      "object": "0x63F5B452",
+      "candidate": true,
+      "name": "0x63F5B452|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HONHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "6c4fb701",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "HON_HAIR_003"
+      ]
+    },
+    {
+      "character": "HEL",
+      "hair_slot": "HEL_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "1ebdc049",
+      "object": "0x64D5560A",
+      "candidate": true,
+      "name": "0x64D5560A|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HELHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "1ebdc049",
+      "reference_changed": false,
+      "other_material_objects": [
+        "2d0834e9",
+        "bfa106e6",
+        "ea3101e5"
+      ],
+      "shared_hair_slots": [
+        "HEL_HAIR_003",
+        "HEL_HAIR_004"
+      ]
+    },
+    {
+      "character": "HTM",
+      "hair_slot": "HTM_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "e92d589d",
+      "object": "0x66691536",
+      "candidate": true,
+      "name": "0x66691536|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HTMHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "e92d589d",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0d305a93",
+        "2e9bf415",
+        "60bd5a58",
+        "8bfd1e37",
+        "9cb2eaf8",
+        "ad68b7b9",
+        "be1e847a",
+        "e2a05f94",
+        "f03feabd",
+        "f3562c55"
+      ],
+      "shared_hair_slots": [
+        "HTM_HAIR_001",
+        "HTM_HAIR_002",
+        "HTM_HAIR_005",
+        "HTM_HAIR_007"
+      ]
+    },
+    {
+      "character": "LIS",
+      "hair_slot": "LIS_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "acea13f1",
+      "object": "0x69DED162",
+      "candidate": true,
+      "name": "0x69DED162|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LISHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "acea13f1",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "LIS_HAIR_002"
+      ]
+    },
+    {
+      "character": "KAS",
+      "hair_slot": "KAS_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "ad9d3d97",
+      "object": "0x6C9209FC",
+      "candidate": true,
+      "name": "0x6C9209FC|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KASHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ad9d3d97",
+      "reference_changed": false,
+      "other_material_objects": [
+        "047bf2e7",
+        "71e320ea",
+        "75b66b79"
+      ],
+      "shared_hair_slots": [
+        "KAS_HAIR_003",
+        "PHF_HAIR_003"
+      ]
+    },
+    {
+      "character": "CRI",
+      "hair_slot": "CRI_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "78e1ff96",
+      "object": "0x6FA0319D",
+      "candidate": true,
+      "name": "0x6FA0319D|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_CRIHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "78e1ff96",
+      "reference_changed": false,
+      "other_material_objects": [
+        "166776fa",
+        "7aaa4380",
+        "95343a9e",
+        "a5ea075f",
+        "ebd77bfb",
+        "f9770724",
+        "fc8d48bc"
+      ],
+      "shared_hair_slots": [
+        "CRI_HAIR_001"
+      ]
+    },
+    {
+      "character": "NIC",
+      "hair_slot": "NIC_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "b1b071e1",
+      "object": "0x6FA877B0",
+      "candidate": true,
+      "name": "0x6FA877B0|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NICHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "b1b071e1",
+      "reference_changed": false,
+      "other_material_objects": [
+        "05b9f04c",
+        "272589ce",
+        "48912350",
+        "5946f011",
+        "8486b3f0",
+        "953c80b1",
+        "9964f030",
+        "a5f24d72",
+        "c75de6f4",
+        "db29f54d",
+        "e8c98076",
+        "ebdfc20e"
+      ],
+      "shared_hair_slots": [
+        "NIC_HAIR_001",
+        "NIC_HAIR_002",
+        "NIC_HAIR_004",
+        "NIC_HAIR_006"
+      ]
+    },
+    {
+      "character": "JAN",
+      "hair_slot": "JAN_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "7541e793",
+      "object": "0x7441C680",
+      "candidate": true,
+      "name": "0x7441C680|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_JANHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "7541e793",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "JAN_HAIR_001"
+      ]
+    },
+    {
+      "character": "HON",
+      "hair_slot": "HON_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "be13d543",
+      "object": "0x74AB8113",
+      "candidate": true,
+      "name": "0x74AB8113|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HONHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "be13d543",
+      "reference_changed": false,
+      "other_material_objects": [
+        "1b72c670",
+        "3cde5ff2",
+        "4d942cb3",
+        "78d3f092",
+        "8989bd53",
+        "9a3f8a14",
+        "cc60f057",
+        "e951602d"
+      ],
+      "shared_hair_slots": [
+        "HON_HAIR_001",
+        "HON_HAIR_004"
+      ]
+    },
+    {
+      "character": "HEL",
+      "hair_slot": "HEL_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "1ebdc049",
+      "object": "0x758B22CB",
+      "candidate": true,
+      "name": "0x758B22CB|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HELHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "1ebdc049",
+      "reference_changed": false,
+      "other_material_objects": [
+        "2d0834e9",
+        "bfa106e6",
+        "ea3101e5"
+      ],
+      "shared_hair_slots": [
+        "HEL_HAIR_003",
+        "HEL_HAIR_004"
+      ]
+    },
+    {
+      "character": "TIN",
+      "hair_slot": "TIN_HAIR_008",
+      "part": "hair_BLEND",
+      "resource": "87dbb915",
+      "object": "0x7633CB05",
+      "candidate": true,
+      "name": "0x7633CB05|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_TINHAIR008_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "87dbb915",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0c4543a1",
+        "26cf3abf",
+        "37850780",
+        "483ad441",
+        "58f0a102",
+        "7d727c1c",
+        "8b120745",
+        "8e2848dd",
+        "a802771b",
+        "c96e109d",
+        "ead9aa1f"
+      ],
+      "shared_hair_slots": [
+        "TIN_HAIR_001",
+        "TIN_HAIR_003",
+        "TIN_HAIR_004",
+        "TIN_HAIR_008"
+      ]
+    },
+    {
+      "character": "HTM",
+      "hair_slot": "HTM_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "e92d589d",
+      "object": "0x771EE1F7",
+      "candidate": true,
+      "name": "0x771EE1F7|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HTMHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "e92d589d",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0d305a93",
+        "2e9bf415",
+        "60bd5a58",
+        "8bfd1e37",
+        "9cb2eaf8",
+        "ad68b7b9",
+        "be1e847a",
+        "e2a05f94",
+        "f03feabd",
+        "f3562c55"
+      ],
+      "shared_hair_slots": [
+        "HTM_HAIR_001",
+        "HTM_HAIR_002",
+        "HTM_HAIR_005",
+        "HTM_HAIR_007"
+      ]
+    },
+    {
+      "character": "LIS",
+      "hair_slot": "LIS_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "040804d0",
+      "object": "0x7A949E23",
+      "candidate": true,
+      "name": "0x7A949E23|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LISHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "040804d0",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "LIS_HAIR_003",
+        "LIS_HAIR_004",
+        "LIS_HAIR_005"
+      ]
+    },
+    {
+      "character": "KAS",
+      "hair_slot": "KAS_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "04bb2e76",
+      "object": "0x7D47D6BD",
+      "candidate": true,
+      "name": "0x7D47D6BD|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KASHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "04bb2e76",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "KAS_HAIR_004"
+      ]
+    },
+    {
+      "character": "MIL",
+      "hair_slot": "MIL_HAIR_008",
+      "part": "hair_BLEND",
+      "resource": "f9cec74c",
+      "object": "0x7EDF0B6E",
+      "candidate": true,
+      "name": "0x7EDF0B6E|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MILHAIR008_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "f9cec74c",
+      "reference_changed": false,
+      "other_material_objects": [
+        "043ab749",
+        "14f0840a",
+        "2f7a7b28",
+        "403047e9",
+        "50e614aa",
+        "619be16b",
+        "861dbc85",
+        "93bd47ae",
+        "96d38946",
+        "b0adb784",
+        "f384ea88"
+      ],
+      "shared_hair_slots": [
+        "MIL_HAIR_001",
+        "MIL_HAIR_003",
+        "MIL_HAIR_004",
+        "MIL_HAIR_005",
+        "MIL_HAIR_006",
+        "MIL_HAIR_008"
+      ]
+    },
+    {
+      "character": "CRI",
+      "hair_slot": "CRI_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "cffff075",
+      "object": "0x8055FE5E",
+      "candidate": true,
+      "name": "0x8055FE5E|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_CRIHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "cffff075",
+      "reference_changed": false,
+      "other_material_objects": [
+        "c755a0e1"
+      ],
+      "shared_hair_slots": [
+        "CRI_HAIR_002"
+      ]
+    },
+    {
+      "character": "LEI",
+      "hair_slot": "LEI_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "4a9dcb8c",
+      "object": "0x808685E7",
+      "candidate": true,
+      "name": "0x808685E7|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LEIHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "4a9dcb8c",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0a5d5b6e",
+        "0d739d06",
+        "274dcb44",
+        "48b964c6",
+        "7adacb09",
+        "b6d05ba9",
+        "c786286a"
+      ],
+      "shared_hair_slots": [
+        "LEI_HAIR_001",
+        "LEI_HAIR_005"
+      ]
+    },
+    {
+      "character": "HEL",
+      "hair_slot": "HEL_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "7081de8b",
+      "object": "0x8640EF8C",
+      "candidate": true,
+      "name": "0x8640EF8C|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HELHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "7081de8b",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0b9c9b67",
+        "4e73ce6b",
+        "79b3924a",
+        "8a695f0b",
+        "cd40920f",
+        "d056d3a7"
+      ],
+      "shared_hair_slots": [
+        "HEL_HAIR_001",
+        "HEL_HAIR_005"
+      ]
+    },
+    {
+      "character": "HTM",
+      "hair_slot": "HTM_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "97693a5b",
+      "object": "0x87D4AEB8",
+      "candidate": true,
+      "name": "0x87D4AEB8|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HTMHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "97693a5b",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "HTM_HAIR_003"
+      ]
+    },
+    {
+      "character": "LIS",
+      "hair_slot": "LIS_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "040804d0",
+      "object": "0x8B4A6AE4",
+      "candidate": true,
+      "name": "0x8B4A6AE4|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LISHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "040804d0",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "LIS_HAIR_003",
+        "LIS_HAIR_004",
+        "LIS_HAIR_005"
+      ]
+    },
+    {
+      "character": "DGO",
+      "hair_slot": "DGO_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "a6c67148",
+      "object": "0x8D632EAB",
+      "candidate": true,
+      "name": "0x8D632EAB|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_DGOHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "a6c67148",
+      "reference_changed": false,
+      "other_material_objects": [
+        "173a0432",
+        "1a5045ca",
+        "44e040c9"
+      ],
+      "shared_hair_slots": [
+        "DGO_HAIR_001"
+      ]
+    },
+    {
+      "character": "KOK",
+      "hair_slot": "KOK_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "8346fa03",
+      "object": "0x8DFD3E10",
+      "candidate": true,
+      "name": "0x8DFD3E10|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KOKHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "8346fa03",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0a34886e",
+        "17d41397",
+        "34c4836d",
+        "56301cef",
+        "88518332",
+        "99074ff3",
+        "b3914711",
+        "c44713d2",
+        "d4fce093",
+        "e5b2ad54",
+        "f6687a15"
+      ],
+      "shared_hair_slots": [
+        "KOK_HAIR_001",
+        "KOK_HAIR_005"
+      ]
+    },
+    {
+      "character": "KAS",
+      "hair_slot": "KAS_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "ff615bd9",
+      "object": "0x8DFDA37E",
+      "candidate": true,
+      "name": "0x8DFDA37E|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KASHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ff615bd9",
+      "reference_changed": false,
+      "other_material_objects": [
+        "2f0bede6",
+        "70ba797b",
+        "8170463c",
+        "922612fd",
+        "b391ac7f",
+        "dffa17cd"
+      ],
+      "shared_hair_slots": [
+        "KAS_HAIR_001",
+        "KAS_HAIR_005",
+        "MPP_HAIR_001",
+        "PHF_HAIR_005"
+      ]
+    },
+    {
+      "character": "CRI",
+      "hair_slot": "CRI_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "271de154",
+      "object": "0x910BCB1F",
+      "candidate": true,
+      "name": "0x910BCB1F|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_CRIHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "271de154",
+      "reference_changed": false,
+      "other_material_objects": [
+        "593ea9fe",
+        "b69fd420"
+      ],
+      "shared_hair_slots": [
+        "CRI_HAIR_003"
+      ]
+    },
+    {
+      "character": "NIC",
+      "hair_slot": "NIC_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "b1b071e1",
+      "object": "0x91141132",
+      "candidate": true,
+      "name": "0x91141132|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NICHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "b1b071e1",
+      "reference_changed": false,
+      "other_material_objects": [
+        "05b9f04c",
+        "272589ce",
+        "48912350",
+        "5946f011",
+        "8486b3f0",
+        "953c80b1",
+        "9964f030",
+        "a5f24d72",
+        "c75de6f4",
+        "db29f54d",
+        "e8c98076",
+        "ebdfc20e"
+      ],
+      "shared_hair_slots": [
+        "NIC_HAIR_001",
+        "NIC_HAIR_002",
+        "NIC_HAIR_004",
+        "NIC_HAIR_006"
+      ]
+    },
+    {
+      "character": "LEI",
+      "hair_slot": "LEI_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "a1bbbc6b",
+      "object": "0x913C52A8",
+      "candidate": true,
+      "name": "0x913C52A8|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LEIHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "a1bbbc6b",
+      "reference_changed": false,
+      "other_material_objects": [
+        "6a24fe48",
+        "8b9097ca",
+        "fcbdd045"
+      ],
+      "shared_hair_slots": [
+        "LEI_HAIR_002"
+      ]
+    },
+    {
+      "character": "RYU",
+      "hair_slot": "RYU_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "2a046b07",
+      "object": "0x9785FA29",
+      "candidate": true,
+      "name": "0x9785FA29|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_RYUHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "2a046b07",
+      "reference_changed": false,
+      "other_material_objects": [
+        "24731148",
+        "7a47868c",
+        "ac643669"
+      ],
+      "shared_hair_slots": [
+        "RYU_HAIR_001"
+      ]
+    },
+    {
+      "character": "HTM",
+      "hair_slot": "HTM_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "ee872b3a",
+      "object": "0x988A7B79",
+      "candidate": true,
+      "name": "0x988A7B79|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HTMHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ee872b3a",
+      "reference_changed": false,
+      "other_material_objects": [
+        "50078d97",
+        "71732719"
+      ],
+      "shared_hair_slots": [
+        "HTM_HAIR_004"
+      ]
+    },
+    {
+      "character": "PHF",
+      "hair_slot": "PHF_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "567f4cb8",
+      "object": "0x98FA754A",
+      "candidate": true,
+      "name": "0x98FA754A|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_PHFHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "567f4cb8",
+      "reference_changed": false,
+      "other_material_objects": [
+        "121b7e10",
+        "13594f59",
+        "1531bfa8",
+        "457ab59c",
+        "5630825d",
+        "8298edab",
+        "be8e7e4b",
+        "cf444b0c",
+        "f0afe48e",
+        "f1edb5d7"
+      ],
+      "shared_hair_slots": [
+        "KAS_HAIR_002",
+        "MPP_HAIR_002",
+        "PHF_HAIR_002"
+      ]
+    },
+    {
+      "character": "MPP",
+      "hair_slot": "MPP_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "ff615bd9",
+      "object": "0x9A16ABEA",
+      "candidate": true,
+      "name": "0x9A16ABEA|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MPPHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ff615bd9",
+      "reference_changed": false,
+      "other_material_objects": [
+        "2f0bede6",
+        "70ba797b",
+        "8170463c",
+        "922612fd",
+        "b391ac7f",
+        "dffa17cd"
+      ],
+      "shared_hair_slots": [
+        "KAS_HAIR_001",
+        "KAS_HAIR_005",
+        "MPP_HAIR_001",
+        "PHF_HAIR_005"
+      ]
+    },
+    {
+      "character": "LIS",
+      "hair_slot": "LIS_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "040804d0",
+      "object": "0x9C0037A5",
+      "candidate": true,
+      "name": "0x9C0037A5|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LISHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "040804d0",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "LIS_HAIR_003",
+        "LIS_HAIR_004",
+        "LIS_HAIR_005"
+      ]
+    },
+    {
+      "character": "KOK",
+      "hair_slot": "KOK_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "da64eae2",
+      "object": "0x9EB30AD1",
+      "candidate": true,
+      "name": "0x9EB30AD1|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KOKHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "da64eae2",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "KOK_HAIR_002"
+      ]
+    },
+    {
+      "character": "LEI",
+      "hair_slot": "LEI_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "f8d9ad4a",
+      "object": "0xA1F21F69",
+      "candidate": true,
+      "name": "0xA1F21F69|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LEIHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "f8d9ad4a",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "LEI_HAIR_003"
+      ]
+    },
+    {
+      "character": "HTM",
+      "hair_slot": "HTM_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "e92d589d",
+      "object": "0xA940483A",
+      "candidate": true,
+      "name": "0xA940483A|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HTMHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "e92d589d",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0d305a93",
+        "2e9bf415",
+        "60bd5a58",
+        "8bfd1e37",
+        "9cb2eaf8",
+        "ad68b7b9",
+        "be1e847a",
+        "e2a05f94",
+        "f03feabd",
+        "f3562c55"
+      ],
+      "shared_hair_slots": [
+        "HTM_HAIR_001",
+        "HTM_HAIR_002",
+        "HTM_HAIR_005",
+        "HTM_HAIR_007"
+      ]
+    },
+    {
+      "character": "PHF",
+      "hair_slot": "PHF_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "ad9d3d97",
+      "object": "0xA9B0420B",
+      "candidate": true,
+      "name": "0xA9B0420B|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_PHFHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ad9d3d97",
+      "reference_changed": false,
+      "other_material_objects": [
+        "047bf2e7",
+        "71e320ea",
+        "75b66b79"
+      ],
+      "shared_hair_slots": [
+        "KAS_HAIR_003",
+        "PHF_HAIR_003"
+      ]
+    },
+    {
+      "character": "MPP",
+      "hair_slot": "MPP_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "567f4cb8",
+      "object": "0xAACC78AB",
+      "candidate": true,
+      "name": "0xAACC78AB|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_MPPHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "567f4cb8",
+      "reference_changed": false,
+      "other_material_objects": [
+        "121b7e10",
+        "13594f59",
+        "1531bfa8",
+        "457ab59c",
+        "5630825d",
+        "8298edab",
+        "be8e7e4b",
+        "cf444b0c",
+        "f0afe48e",
+        "f1edb5d7"
+      ],
+      "shared_hair_slots": [
+        "KAS_HAIR_002",
+        "MPP_HAIR_002",
+        "PHF_HAIR_002"
+      ]
+    },
+    {
+      "character": "KOK",
+      "hair_slot": "KOK_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "3182dbc1",
+      "object": "0xAF68D792",
+      "candidate": true,
+      "name": "0xAF68D792|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KOKHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "3182dbc1",
+      "reference_changed": false,
+      "other_material_objects": [
+        "1aea552f"
+      ],
+      "shared_hair_slots": [
+        "KOK_HAIR_003"
+      ]
+    },
+    {
+      "character": "NIC",
+      "hair_slot": "NIC_HAIR_006",
+      "part": "hair_BLEND",
+      "resource": "b1b071e1",
+      "object": "0xB27FAAB4",
+      "candidate": true,
+      "name": "0xB27FAAB4|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NICHAIR006_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "b1b071e1",
+      "reference_changed": false,
+      "other_material_objects": [
+        "05b9f04c",
+        "272589ce",
+        "48912350",
+        "5946f011",
+        "8486b3f0",
+        "953c80b1",
+        "9964f030",
+        "a5f24d72",
+        "c75de6f4",
+        "db29f54d",
+        "e8c98076",
+        "ebdfc20e"
+      ],
+      "shared_hair_slots": [
+        "NIC_HAIR_001",
+        "NIC_HAIR_002",
+        "NIC_HAIR_004",
+        "NIC_HAIR_006"
+      ]
+    },
+    {
+      "character": "LEI",
+      "hair_slot": "LEI_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "4ff79e29",
+      "object": "0xB2A7EC2A",
+      "candidate": true,
+      "name": "0xB2A7EC2A|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LEIHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "4ff79e29",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "LEI_HAIR_004"
+      ]
+    },
+    {
+      "character": "HTM",
+      "hair_slot": "HTM_HAIR_006",
+      "part": "hair_BLEND",
+      "resource": "9cc30cf8",
+      "object": "0xB9F614FB",
+      "candidate": true,
+      "name": "0xB9F614FB|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HTMHAIR006_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "9cc30cf8",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "HTM_HAIR_006"
+      ]
+    },
+    {
+      "character": "PHF",
+      "hair_slot": "PHF_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "7144623b",
+      "object": "0xBA660ECC",
+      "candidate": true,
+      "name": "0xBA660ECC|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_PHFHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "04bb2e76",
+      "reference_changed": true,
+      "other_material_objects": [
+        "34c4e8db",
+        "b4ba53ee",
+        "c75dbad8",
+        "d8138799"
+      ],
+      "shared_hair_slots": [
+        "PHF_HAIR_004"
+      ]
+    },
+    {
+      "character": "ELI",
+      "hair_slot": "ELI_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "719210de",
+      "object": "0xBDB0CB55",
+      "candidate": true,
+      "name": "0xBDB0CB55|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_ELIHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "719210de",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "ELI_HAIR_001",
+        "ELI_HAIR_003"
+      ]
+    },
+    {
+      "character": "NYO",
+      "hair_slot": "NYO_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "0b42c180",
+      "object": "0xBDCBC373",
+      "candidate": true,
+      "name": "0xBDCBC373|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NYOHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "0b42c180",
+      "reference_changed": false,
+      "other_material_objects": [
+        "04cb65f6"
+      ],
+      "shared_hair_slots": [
+        "NYO_HAIR_001",
+        "NYO_HAIR_002"
+      ]
+    },
+    {
+      "character": "KOK",
+      "hair_slot": "KOK_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "88a0cca0",
+      "object": "0xC01EA453",
+      "candidate": true,
+      "name": "0xC01EA453|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KOKHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "88a0cca0",
+      "reference_changed": false,
+      "other_material_objects": [
+        "779bb671"
+      ],
+      "shared_hair_slots": [
+        "KOK_HAIR_004"
+      ]
+    },
+    {
+      "character": "LEI",
+      "hair_slot": "LEI_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "4a9dcb8c",
+      "object": "0xC35DB8EB",
+      "candidate": true,
+      "name": "0xC35DB8EB|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LEIHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "4a9dcb8c",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0a5d5b6e",
+        "0d739d06",
+        "274dcb44",
+        "48b964c6",
+        "7adacb09",
+        "b6d05ba9",
+        "c786286a"
+      ],
+      "shared_hair_slots": [
+        "LEI_HAIR_001",
+        "LEI_HAIR_005"
+      ]
+    },
+    {
+      "character": "HTM",
+      "hair_slot": "HTM_HAIR_007",
+      "part": "hair_BLEND",
+      "resource": "e92d589d",
+      "object": "0xCAABE1BC",
+      "candidate": true,
+      "name": "0xCAABE1BC|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HTMHAIR007_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "e92d589d",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0d305a93",
+        "2e9bf415",
+        "60bd5a58",
+        "8bfd1e37",
+        "9cb2eaf8",
+        "ad68b7b9",
+        "be1e847a",
+        "e2a05f94",
+        "f03feabd",
+        "f3562c55"
+      ],
+      "shared_hair_slots": [
+        "HTM_HAIR_001",
+        "HTM_HAIR_002",
+        "HTM_HAIR_005",
+        "HTM_HAIR_007"
+      ]
+    },
+    {
+      "character": "PHF",
+      "hair_slot": "PHF_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "ff615bd9",
+      "object": "0xCB1BDB8D",
+      "candidate": true,
+      "name": "0xCB1BDB8D|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_PHFHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "ff615bd9",
+      "reference_changed": false,
+      "other_material_objects": [
+        "2f0bede6",
+        "70ba797b",
+        "8170463c",
+        "922612fd",
+        "b391ac7f",
+        "dffa17cd"
+      ],
+      "shared_hair_slots": [
+        "KAS_HAIR_001",
+        "KAS_HAIR_005",
+        "MPP_HAIR_001",
+        "PHF_HAIR_005"
+      ]
+    },
+    {
+      "character": "BAS",
+      "hair_slot": "BAS_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "43325190",
+      "object": "0xCC2F9963",
+      "candidate": true,
+      "name": "0xCC2F9963|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_BASHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "43325190",
+      "reference_changed": false,
+      "other_material_objects": [
+        "56066eea",
+        "591cb082",
+        "83acab81"
+      ],
+      "shared_hair_slots": [
+        "BAS_HAIR_001",
+        "BAS_HAIR_002"
+      ]
+    },
+    {
+      "character": "LIS",
+      "hair_slot": "LIS_HAIR_008",
+      "part": "hair_BLEND",
+      "resource": "55cc2312",
+      "object": "0xCE219DE8",
+      "candidate": true,
+      "name": "0xCE219DE8|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_LISHAIR008_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "55cc2312",
+      "reference_changed": false,
+      "other_material_objects": [
+        "42c77d02",
+        "7ebd0da2",
+        "8f72da63",
+        "a028a724",
+        "b0de73e5",
+        "c19440a6",
+        "d5604eff",
+        "e2ffda28",
+        "e6161bc0",
+        "fff049fe"
+      ],
+      "shared_hair_slots": [
+        "LIS_HAIR_001",
+        "LIS_HAIR_008"
+      ]
+    },
+    {
+      "character": "ELI",
+      "hair_slot": "ELI_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "c8b001bd",
+      "object": "0xCE669816",
+      "candidate": true,
+      "name": "0xCE669816|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_ELIHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "c8b001bd",
+      "reference_changed": false,
+      "other_material_objects": [
+        "4787a0dc",
+        "4a9de274"
+      ],
+      "shared_hair_slots": [
+        "ELI_HAIR_002"
+      ]
+    },
+    {
+      "character": "NYO",
+      "hair_slot": "NYO_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "0b42c180",
+      "object": "0xCE819034",
+      "candidate": true,
+      "name": "0xCE819034|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NYOHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "0b42c180",
+      "reference_changed": false,
+      "other_material_objects": [
+        "04cb65f6"
+      ],
+      "shared_hair_slots": [
+        "NYO_HAIR_001",
+        "NYO_HAIR_002"
+      ]
+    },
+    {
+      "character": "KOK",
+      "hair_slot": "KOK_HAIR_005",
+      "part": "hair_BLEND",
+      "resource": "8346fa03",
+      "object": "0xD0D47114",
+      "candidate": true,
+      "name": "0xD0D47114|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_KOKHAIR005_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "8346fa03",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0a34886e",
+        "17d41397",
+        "34c4836d",
+        "56301cef",
+        "88518332",
+        "99074ff3",
+        "b3914711",
+        "c44713d2",
+        "d4fce093",
+        "e5b2ad54",
+        "f6687a15"
+      ],
+      "shared_hair_slots": [
+        "KOK_HAIR_001",
+        "KOK_HAIR_005"
+      ]
+    },
+    {
+      "character": "BAS",
+      "hair_slot": "BAS_HAIR_002",
+      "part": "hair_BLEND",
+      "resource": "43325190",
+      "object": "0xDCE56624",
+      "candidate": true,
+      "name": "0xDCE56624|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_BASHAIR002_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "43325190",
+      "reference_changed": false,
+      "other_material_objects": [
+        "56066eea",
+        "591cb082",
+        "83acab81"
+      ],
+      "shared_hair_slots": [
+        "BAS_HAIR_001",
+        "BAS_HAIR_002"
+      ]
+    },
+    {
+      "character": "ELI",
+      "hair_slot": "ELI_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "719210de",
+      "object": "0xDF1C64D7",
+      "candidate": true,
+      "name": "0xDF1C64D7|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_ELIHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "719210de",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "ELI_HAIR_001",
+        "ELI_HAIR_003"
+      ]
+    },
+    {
+      "character": "NYO",
+      "hair_slot": "NYO_HAIR_003",
+      "part": "hair_BLEND",
+      "resource": "b97ea33e",
+      "object": "0xDF375CF5",
+      "candidate": true,
+      "name": "0xDF375CF5|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NYOHAIR003_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "b97ea33e",
+      "reference_changed": false,
+      "other_material_objects": [
+        "32c45cba",
+        "4ab8da92",
+        "649308d0",
+        "85fea252",
+        "a76a3bd4",
+        "b8200895",
+        "f4159935"
+      ],
+      "shared_hair_slots": [
+        "NYO_HAIR_003",
+        "NYO_HAIR_004"
+      ]
+    },
+    {
+      "character": "BAY",
+      "hair_slot": "BAY_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "3640b996",
+      "object": "0xDF43379D",
+      "candidate": true,
+      "name": "0xDF43379D|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_BAYHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "3640b996",
+      "reference_changed": false,
+      "other_material_objects": [],
+      "shared_hair_slots": [
+        "BAY_HAIR_001"
+      ]
+    },
+    {
+      "character": "NYO",
+      "hair_slot": "NYO_HAIR_004",
+      "part": "hair_BLEND",
+      "resource": "b97ea33e",
+      "object": "0xEFED29B6",
+      "candidate": true,
+      "name": "0xEFED29B6|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_NYOHAIR004_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "b97ea33e",
+      "reference_changed": false,
+      "other_material_objects": [
+        "32c45cba",
+        "4ab8da92",
+        "649308d0",
+        "85fea252",
+        "a76a3bd4",
+        "b8200895",
+        "f4159935"
+      ],
+      "shared_hair_slots": [
+        "NYO_HAIR_003",
+        "NYO_HAIR_004"
+      ]
+    },
+    {
+      "character": "AYA",
+      "hair_slot": "AYA_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "dede91c6",
+      "object": "0xF655E2AE",
+      "candidate": true,
+      "name": "0xF655E2AE|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_AYAHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "dede91c6",
+      "reference_changed": false,
+      "other_material_objects": [
+        "aabe916d"
+      ],
+      "shared_hair_slots": [
+        "AYA_HAIR_001"
+      ]
+    },
+    {
+      "character": "HYT",
+      "hair_slot": "HYT_HAIR_001",
+      "part": "hair_BLEND",
+      "resource": "0304bbff",
+      "object": "0xF90CE294",
+      "candidate": true,
+      "name": "0xF90CE294|CE1ResourceStaticTexture\uff3bMPR_Muscle_Character_HYTHAIR001_hair_BLEND_kidsalb\uff3d",
+      "xml_resource": "0304bbff",
+      "reference_changed": false,
+      "other_material_objects": [
+        "0deb1ed4",
+        "b089f4b2"
+      ],
+      "shared_hair_slots": [
+        "HYT_HAIR_001"
+      ]
+    }
+  ]
+}

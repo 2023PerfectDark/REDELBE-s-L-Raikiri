@@ -1,0 +1,16 @@
+{
+  "banks": 299,
+  "tracks": 12206,
+  "categories": {
+    "Announcer": 802,
+    "Character": 9229,
+    "Music": 185,
+    "SFX": 1990
+  },
+  "errors": [],
+  "checks": [
+    "category sample decode",
+    "Minato decode",
+    "LR-only stream decode"
+  ]
+}

@@ -1,0 +1,838 @@
+[
+  {
+    "name": "(DoAxNaruto) Hanabi Hyuga (Adult)",
+    "root": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAxNaruto) Hanabi Hyuga (Adult)",
+    "files": [
+      {
+        "path": "mod.ini",
+        "bytes": 122
+      },
+      {
+        "path": "Character\\KOK_COS_001.g1m",
+        "bytes": 2030748
+      },
+      {
+        "path": "Character\\KOK_FACE_001.g1m",
+        "bytes": 3089748
+      },
+      {
+        "path": "Character\\KOK_FACE_001.grp",
+        "bytes": 32
+      },
+      {
+        "path": "Character\\KOK_FACE_001.ktid",
+        "bytes": 272
+      },
+      {
+        "path": "Character\\KOK_FACE_001.mtl",
+        "bytes": 100
+      },
+      {
+        "path": "Character\\KOK_FACE_001.oid",
+        "bytes": 4180
+      },
+      {
+        "path": "Character\\KOK_FACE_001.oidex",
+        "bytes": 2260
+      },
+      {
+        "path": "Character\\KOK_FACE_001_0001.sid",
+        "bytes": 639
+      },
+      {
+        "path": "Character\\KOK_HAIR_001.g1m",
+        "bytes": 1515980
+      },
+      {
+        "path": "Character\\KOK_HAIR_001.grp",
+        "bytes": 32
+      },
+      {
+        "path": "Character\\KOK_HAIR_001.oid",
+        "bytes": 2212
+      },
+      {
+        "path": "Character\\KOK_HAIR_001.oidex",
+        "bytes": 40
+      },
+      {
+        "path": "Character\\KOK_HAIR_001.swg",
+        "bytes": 756
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKCOS001_a01_kidsalb.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKCOS001_a01_kidswtm.g1t",
+        "bytes": 11184856
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKCOS001_body_kidsalb.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKCOS001_body_kidswtm.g1t",
+        "bytes": 11184856
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKFACE001_eye_kidsalb.g1t",
+        "bytes": 174816
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKFACE001_face_kidsalb.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKFACE001_face_kidsnmb.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKFACE001_face_kidsnmh.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKFACE001_face_kidss4m.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKFACE001_face_kidswtm.g1t",
+        "bytes": 11184856
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKHAIR001_hair_BLEND_kidsalb.g1t",
+        "bytes": 2796296
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKHAIR001_hair_BLEND_kidsnmh.g1t",
+        "bytes": 1398176
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKHAIR001_hair_BLEND_kidsocc.g1t",
+        "bytes": 1398176
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKHAIR001_hair_BLEND_kidsrfr.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKHAIR001_hair_BLEND_kidsshl.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_KOKHAIR001_hair_BLEND_kidswtm.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "RRP\\EV_BAY.srsa",
+        "bytes": 843232
+      },
+      {
+        "path": "RRP\\KOK07000_CHRSEL.g1a",
+        "bytes": 23312
+      },
+      {
+        "path": "RRP\\KOK_CAMERA_7000_CHRSEL.g1a",
+        "bytes": 544
+      },
+      {
+        "path": "RRP\\KOK_FACIAL_000_DEFAULT.g1a",
+        "bytes": 55192
+      },
+      {
+        "path": "RRP\\KOK_FACIAL_100_LIP_BASE.g1a",
+        "bytes": 98316
+      },
+      {
+        "path": "RRP\\KOK_FACIAL_7000_CHRSEL.g1a",
+        "bytes": 81416
+      },
+      {
+        "path": "RRP\\SE1_Common_CHA_KOK_US.srsa",
+        "bytes": 3212928
+      },
+      {
+        "path": "RRP\\SE1_Common_EV_BAY_US.srsa",
+        "bytes": 884176
+      },
+      {
+        "path": "RRP\\SE1_Common_EV_HEL_US.srsa",
+        "bytes": 977024
+      },
+      {
+        "path": "RRP\\SE1_Common_EV_KAS_US.srsa",
+        "bytes": 634192
+      },
+      {
+        "path": "RRP\\SE1_Common_EV_KOK_US.srsa",
+        "bytes": 768768
+      },
+      {
+        "path": "RRP\\SE1_Common_EV_NYO_US.srsa",
+        "bytes": 794304
+      },
+      {
+        "path": "RRP\\SE1_Common_EV_RAC_US.srsa",
+        "bytes": 1040912
+      }
+    ]
+  },
+  {
+    "name": "(DoAxFF) Tifa Lockhart v2.0 (OG FF7R)",
+    "root": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAxFF) Tifa Lockhart v2.0 (OG FF7R)",
+    "files": [
+      {
+        "path": "mod.ini",
+        "bytes": 111
+      },
+      {
+        "path": "Character\\HTM_COS_105.g1m",
+        "bytes": 4374192
+      },
+      {
+        "path": "Character\\HTM_COS_105.g1m.xml",
+        "bytes": 349781
+      },
+      {
+        "path": "Character\\HTM_FACE_032.g1m",
+        "bytes": 3084528
+      },
+      {
+        "path": "Character\\HTM_FACE_032.grp",
+        "bytes": 32
+      },
+      {
+        "path": "Character\\HTM_FACE_032.ktid",
+        "bytes": 296
+      },
+      {
+        "path": "Character\\HTM_FACE_032.mtl",
+        "bytes": 112
+      },
+      {
+        "path": "Character\\HTM_FACE_032.oid",
+        "bytes": 4180
+      },
+      {
+        "path": "Character\\HTM_FACE_032.oidex",
+        "bytes": 2272
+      },
+      {
+        "path": "Character\\HTM_HAIR_001.g1m",
+        "bytes": 2984168
+      },
+      {
+        "path": "Character\\HTM_HAIR_001.grp",
+        "bytes": 32
+      },
+      {
+        "path": "Character\\HTM_HAIR_001.ktid",
+        "bytes": 48
+      },
+      {
+        "path": "Character\\HTM_HAIR_001.mtl",
+        "bytes": 132
+      },
+      {
+        "path": "Character\\HTM_HAIR_001.oid",
+        "bytes": 2212
+      },
+      {
+        "path": "Character\\HTM_HAIR_001.oidex",
+        "bytes": 40
+      },
+      {
+        "path": "Character\\HTM_HAIR_001.swg",
+        "bytes": 756
+      },
+      {
+        "path": "Character\\HTM_HAIR_003.g1m",
+        "bytes": 3157924
+      },
+      {
+        "path": "Character\\HTM_HAIR_003.grp",
+        "bytes": 32
+      },
+      {
+        "path": "Character\\HTM_HAIR_003.ktid",
+        "bytes": 48
+      },
+      {
+        "path": "Character\\HTM_HAIR_003.mtl",
+        "bytes": 132
+      },
+      {
+        "path": "Character\\HTM_HAIR_003.oid",
+        "bytes": 2212
+      },
+      {
+        "path": "Character\\HTM_HAIR_003.oidex",
+        "bytes": 40
+      },
+      {
+        "path": "Character\\HTM_HAIR_003.swg",
+        "bytes": 756
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_a01_kidsalb.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_a01_kidsnmh.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_a01_kidsocc.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_a01_kidsrfr.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_a01_kidsshl.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_b01_kidsalb.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_b01_kidsnmh.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_b01_kidsocc.g1t",
+        "bytes": 174816
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_b01_kidsrfr.g1t",
+        "bytes": 174816
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_b01_kidsshl.g1t",
+        "bytes": 349576
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_body_kidsalb.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_body_kidsnmh.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_body_kidswtm.g1t",
+        "bytes": 11184856
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_c01_kidsalb.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_c01_kidsnmh.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_c01_kidsocc.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_c01_kidsrfr.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMCOS105_c01_kidsshl.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR001_hair_BLEND_kidsalb.g1t",
+        "bytes": 1398184
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR001_hair_BLEND_kidsnmh.g1t",
+        "bytes": 5505080
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR001_hair_BLEND_kidsocc.g1t",
+        "bytes": 2752568
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR001_hair_BLEND_kidsrfr.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR001_hair_BLEND_kidsshl.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR003_hair_BLEND_kidsalb.g1t",
+        "bytes": 1398184
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR003_hair_BLEND_kidsnmh.g1t",
+        "bytes": 5505080
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR003_hair_BLEND_kidsocc.g1t",
+        "bytes": 2752568
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR003_hair_BLEND_kidsrfr.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_HTMHAIR003_hair_BLEND_kidsshl.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_MAICOS014_a01_kidsalb.dds",
+        "bytes": 2796344
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_MAICOS014_b01_kidsalb.dds",
+        "bytes": 2796364
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_eye_kidsalb.g1t",
+        "bytes": 174816
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_eye_kidsnmh.g1t",
+        "bytes": 349576
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_eye_kidsocc.g1t",
+        "bytes": 60
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_eye_kidsrfr.g1t",
+        "bytes": 72
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_face_kidsalb.g1t",
+        "bytes": 2796272
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_face_kidsnmb.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_face_kidsnmh.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_face_kidsocc.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_face_kidsrfr.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_face_kidss4m.g1t",
+        "bytes": 2796256
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_face_kidsthk.g1t",
+        "bytes": 60
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_face_kidswtm.g1t",
+        "bytes": 11184920
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_mole_BLEND_kidsalb.bc7.dds",
+        "bytes": 174948
+      },
+      {
+        "path": "Material\\MPR_Muscle_Character_SKDFACE001_mole_BLEND_kidsalb.g1t",
+        "bytes": 174856
+      },
+      {
+        "path": "Material\\Tifa_Hair_D.dds",
+        "bytes": 1398276
+      },
+      {
+        "path": "Material\\Tifa_Hair_D.png",
+        "bytes": 674787
+      },
+      {
+        "path": "Material\\Tifa_Upper_D.dds",
+        "bytes": 2796364
+      },
+      {
+        "path": "Character\\HTM_COS_105\\0.coll",
+        "bytes": 4416
+      },
+      {
+        "path": "Character\\HTM_COS_105\\0.extr",
+        "bytes": 4
+      },
+      {
+        "path": "Character\\HTM_COS_105\\0.fmt",
+        "bytes": 2092
+      },
+      {
+        "path": "Character\\HTM_COS_105\\0.ib",
+        "bytes": 38484
+      },
+      {
+        "path": "Character\\HTM_COS_105\\0.soft",
+        "bytes": 168856
+      },
+      {
+        "path": "Character\\HTM_COS_105\\0.vb",
+        "bytes": 464400
+      },
+      {
+        "path": "Character\\HTM_COS_105\\0.vgmap",
+        "bytes": 59
+      },
+      {
+        "path": "Character\\HTM_COS_105\\1.fmt",
+        "bytes": 2092
+      },
+      {
+        "path": "Character\\HTM_COS_105\\1.ib",
+        "bytes": 1104
+      },
+      {
+        "path": "Character\\HTM_COS_105\\1.vb",
+        "bytes": 24960
+      },
+      {
+        "path": "Character\\HTM_COS_105\\1.vgmap",
+        "bytes": 84
+      },
+      {
+        "path": "Character\\HTM_COS_105\\10.fmt",
+        "bytes": 2094
+      },
+      {
+        "path": "Character\\HTM_COS_105\\10.ib",
+        "bytes": 7764
+      },
+      {
+        "path": "Character\\HTM_COS_105\\10.vb",
+        "bytes": 81316
+      },
+      {
+        "path": "Character\\HTM_COS_105\\10.vgmap",
+        "bytes": 218
+      },
+      {
+        "path": "Character\\HTM_COS_105\\11.fmt",
+        "bytes": 1177
+      },
+      {
+        "path": "Character\\HTM_COS_105\\11.ib",
+        "bytes": 45204
+      },
+      {
+        "path": "Character\\HTM_COS_105\\11.vb",
+        "bytes": 206184
+      },
+      {
+        "path": "Character\\HTM_COS_105\\11.vgmap",
+        "bytes": 1842
+      },
+      {
+        "path": "Character\\HTM_COS_105\\12.fmt",
+        "bytes": 1177
+      },
+      {
+        "path": "Character\\HTM_COS_105\\12.ib",
+        "bytes": 3000
+      },
+      {
+        "path": "Character\\HTM_COS_105\\12.vb",
+        "bytes": 17160
+      },
+      {
+        "path": "Character\\HTM_COS_105\\12.vgmap",
+        "bytes": 143
+      },
+      {
+        "path": "Character\\HTM_COS_105\\13.fmt",
+        "bytes": 2094
+      },
+      {
+        "path": "Character\\HTM_COS_105\\13.ib",
+        "bytes": 4824
+      },
+      {
+        "path": "Character\\HTM_COS_105\\13.vb",
+        "bytes": 65424
+      },
+      {
+        "path": "Character\\HTM_COS_105\\13.vgmap",
+        "bytes": 149
+      },
+      {
+        "path": "Character\\HTM_COS_105\\14.fmt",
+        "bytes": 2094
+      },
+      {
+        "path": "Character\\HTM_COS_105\\14.ib",
+        "bytes": 4824
+      },
+      {
+        "path": "Character\\HTM_COS_105\\14.vb",
+        "bytes": 65424
+      },
+      {
+        "path": "Character\\HTM_COS_105\\14.vgmap",
+        "bytes": 149
+      },
+      {
+        "path": "Character\\HTM_COS_105\\2.fmt",
+        "bytes": 2092
+      },
+      {
+        "path": "Character\\HTM_COS_105\\2.ib",
+        "bytes": 2496
+      },
+      {
+        "path": "Character\\HTM_COS_105\\2.vb",
+        "bytes": 32520
+      },
+      {
+        "path": "Character\\HTM_COS_105\\2.vgmap",
+        "bytes": 22
+      },
+      {
+        "path": "Character\\HTM_COS_105\\3.fmt",
+        "bytes": 2092
+      },
+      {
+        "path": "Character\\HTM_COS_105\\3.ib",
+        "bytes": 2496
+      },
+      {
+        "path": "Character\\HTM_COS_105\\3.vb",
+        "bytes": 32520
+      },
+      {
+        "path": "Character\\HTM_COS_105\\3.vgmap",
+        "bytes": 22
+      },
+      {
+        "path": "Character\\HTM_COS_105\\4.fmt",
+        "bytes": 2094
+      },
+      {
+        "path": "Character\\HTM_COS_105\\4.ib",
+        "bytes": 4578
+      },
+      {
+        "path": "Character\\HTM_COS_105\\4.vb",
+        "bytes": 62524
+      },
+      {
+        "path": "Character\\HTM_COS_105\\4.vgmap",
+        "bytes": 149
+      },
+      {
+        "path": "Character\\HTM_COS_105\\5.fmt",
+        "bytes": 2094
+      },
+      {
+        "path": "Character\\HTM_COS_105\\5.ib",
+        "bytes": 4566
+      },
+      {
+        "path": "Character\\HTM_COS_105\\5.vb",
+        "bytes": 61712
+      },
+      {
+        "path": "Character\\HTM_COS_105\\5.vgmap",
+        "bytes": 149
+      },
+      {
+        "path": "Character\\HTM_COS_105\\6.fmt",
+        "bytes": 1177
+      },
+      {
+        "path": "Character\\HTM_COS_105\\6.ib",
+        "bytes": 45204
+      },
+      {
+        "path": "Character\\HTM_COS_105\\6.vb",
+        "bytes": 206184
+      },
+      {
+        "path": "Character\\HTM_COS_105\\6.vgmap",
+        "bytes": 1842
+      },
+      {
+        "path": "Character\\HTM_COS_105\\7.fmt",
+        "bytes": 1177
+      },
+      {
+        "path": "Character\\HTM_COS_105\\7.ib",
+        "bytes": 11328
+      },
+      {
+        "path": "Character\\HTM_COS_105\\7.vb",
+        "bytes": 53152
+      },
+      {
+        "path": "Character\\HTM_COS_105\\7.vgmap",
+        "bytes": 1842
+      },
+      {
+        "path": "Character\\HTM_COS_105\\8.fmt",
+        "bytes": 1177
+      },
+      {
+        "path": "Character\\HTM_COS_105\\8.ib",
+        "bytes": 136080
+      },
+      {
+        "path": "Character\\HTM_COS_105\\8.vb",
+        "bytes": 885544
+      },
+      {
+        "path": "Character\\HTM_COS_105\\8.vgmap",
+        "bytes": 1842
+      },
+      {
+        "path": "Character\\HTM_COS_105\\9.fmt",
+        "bytes": 2094
+      },
+      {
+        "path": "Character\\HTM_COS_105\\9.ib",
+        "bytes": 7764
+      },
+      {
+        "path": "Character\\HTM_COS_105\\9.vb",
+        "bytes": 81316
+      },
+      {
+        "path": "Character\\HTM_COS_105\\9.vgmap",
+        "bytes": 218
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_0.bin",
+        "bytes": 38484
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_1.bin",
+        "bytes": 1104
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_10.bin",
+        "bytes": 7764
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_11.bin",
+        "bytes": 45204
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_12.bin",
+        "bytes": 3000
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_13.bin",
+        "bytes": 4824
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_14.bin",
+        "bytes": 4824
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_2.bin",
+        "bytes": 2496
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_3.bin",
+        "bytes": 2496
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_4.bin",
+        "bytes": 4578
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_5.bin",
+        "bytes": 4566
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_6.bin",
+        "bytes": 238500
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_7.bin",
+        "bytes": 11328
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_8.bin",
+        "bytes": 136080
+      },
+      {
+        "path": "Character\\HTM_COS_105\\IB_9.bin",
+        "bytes": 7764
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_0.bin",
+        "bytes": 464400
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_1.bin",
+        "bytes": 24960
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_10.bin",
+        "bytes": 81316
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_11.bin",
+        "bytes": 206184
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_12.bin",
+        "bytes": 17160
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_13.bin",
+        "bytes": 65424
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_14.bin",
+        "bytes": 65424
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_2.bin",
+        "bytes": 32520
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_3.bin",
+        "bytes": 32520
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_4.bin",
+        "bytes": 62524
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_5.bin",
+        "bytes": 61712
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_6.bin",
+        "bytes": 1476024
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_7.bin",
+        "bytes": 53152
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_8.bin",
+        "bytes": 885544
+      },
+      {
+        "path": "Character\\HTM_COS_105\\VB_9.bin",
+        "bytes": 81316
+      }
+    ]
+  }
+]

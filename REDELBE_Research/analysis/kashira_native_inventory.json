@@ -1,0 +1,620 @@
+[
+  {
+    "name": "(Anime) DoA6LR Hitomi\u0027s Classic Select Screen Pose-DoA4 Stance",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\_Kashira\\Mods\\(Anime) DoA6LR Hitomi\u0027s Classic Select Screen Pose-DoA4 Stance.ktmod",
+    "assets": [
+      {
+        "id": "0x30d445d1",
+        "ext": "g1a",
+        "entry": "Content_Legacy/0x30D445D1.g1a",
+        "costumes": []
+      },
+      {
+        "id": "0x7564b324",
+        "ext": "g1a",
+        "entry": "Content_Legacy/0x7564B324.g1a",
+        "costumes": []
+      },
+      {
+        "id": "0x7c6c0811",
+        "ext": "g1a",
+        "entry": "Content_Legacy/0x7C6C0811.g1a",
+        "costumes": []
+      },
+      {
+        "id": "0x9b3baeaa",
+        "ext": "g1a",
+        "entry": "Content_Legacy/0x9B3BAEAA.g1a",
+        "costumes": []
+      }
+    ]
+  },
+  {
+    "name": "(BGPics) DoA6LR 7 Background Changes",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\_Kashira\\Mods\\(BGPics) DoA6LR 7 Background Changes.ktmod",
+    "assets": [
+      {
+        "id": "0x340e65d3",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x340e65d3.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x55fe8fcf",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x55fe8fcf.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x62ba72e5",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x62ba72e5.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xc48e9902",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xc48e9902.g1t",
+        "costumes": []
+      }
+    ]
+  },
+  {
+    "name": "(Blood) DoA6LR Bloody Hit Impact v1.2",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\_Kashira\\Mods\\(Blood) DoA6LR Bloody Hit Impact v1.2.ktmod",
+    "assets": [
+      {
+        "id": "0x81699a43",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x81699A43.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xf4fede01",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xF4FEDE01.g1t",
+        "costumes": []
+      }
+    ]
+  },
+  {
+    "name": "(Blood) DoA6LR More Blood on Mai Shiranui (Basic Blood)",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\_Kashira\\Mods\\(Blood) DoA6LR More Blood on Mai Shiranui (Basic Blood).ktmod",
+    "assets": [
+      {
+        "id": "0x04e21f15",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x04E21F15.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x0a43e296",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x0A43E296.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x1555b336",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x1555B336.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x1c511af6",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x1C511AF6.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x22a0d1d2",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x22A0D1D2.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x359170f8",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x359170F8.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x55217dd6",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x55217DD6.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x599fda91",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x599FDA91.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x5a834157",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x5A834157.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x64bcc45c",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x64BCC45C.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x7841f414",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x7841F414.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x7da3b795",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x7DA3B795.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x91824a16",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x91824A16.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x96e40d97",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x96E40D97.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xa084c96b",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xA084C96B.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xa8f145f7",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xA8F145F7.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xaf40fcd3",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xAF40FCD3.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xb0246399",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xB0246399.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xb4a2c054",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xB4A2C054.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xc57699ca",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xC57699CA.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xcde31656",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xCDE31656.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xe6400592",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xE6400592.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xeba1c913",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xEBA1C913.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xfc75a289",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xFC75A289.g1t",
+        "costumes": []
+      }
+    ]
+  },
+  {
+    "name": "(Blood) DoA6LR Uncensored Female Break Blow Spit v1.1",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\_Kashira\\Mods\\(Blood) DoA6LR Uncensored Female Break Blow Spit v1.1.ktmod",
+    "assets": [
+      {
+        "id": "0x03c150bc",
+        "ext": "g1e",
+        "entry": "Content_Legacy/0x03C150BC.g1e",
+        "costumes": []
+      },
+      {
+        "id": "0x04b0dffc",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x04B0DFFC.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x07e1fad5",
+        "ext": "ktid",
+        "entry": "Content_Legacy/0x07E1FAD5.ktid",
+        "costumes": []
+      },
+      {
+        "id": "0x1317d8fd",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x1317D8FD.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x147ed8de",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x147ED8DE.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x269f9ad3",
+        "ext": "g1e",
+        "entry": "Content_Legacy/0x269F9AD3.g1e",
+        "costumes": []
+      },
+      {
+        "id": "0x2b535e06",
+        "ext": "g1e",
+        "entry": "Content_Legacy/0x2B535E06.g1e",
+        "costumes": []
+      },
+      {
+        "id": "0x33d4cb3d",
+        "ext": "ktid",
+        "entry": "Content_Legacy/0x33D4CB3D.ktid",
+        "costumes": []
+      },
+      {
+        "id": "0x46de5414",
+        "ext": "ktid",
+        "entry": "Content_Legacy/0x46DE5414.ktid",
+        "costumes": []
+      },
+      {
+        "id": "0x81699a43",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x81699A43.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x973eff38",
+        "ext": "ktid",
+        "entry": "Content_Legacy/0x973EFF38.ktid",
+        "costumes": []
+      },
+      {
+        "id": "0x9aacd236",
+        "ext": "g1e",
+        "entry": "Content_Legacy/0x9AACD236.g1e",
+        "costumes": []
+      },
+      {
+        "id": "0xa2102810",
+        "ext": "ktid",
+        "entry": "Content_Legacy/0xA2102810.ktid",
+        "costumes": []
+      },
+      {
+        "id": "0xa2253eab",
+        "ext": "g1e",
+        "entry": "Content_Legacy/0xA2253EAB.g1e",
+        "costumes": []
+      },
+      {
+        "id": "0xaffb964f",
+        "ext": "ktid",
+        "entry": "Content_Legacy/0xAFFB964F.ktid",
+        "costumes": []
+      },
+      {
+        "id": "0xc7d0ebf7",
+        "ext": "g1e",
+        "entry": "Content_Legacy/0xC7D0EBF7.g1e",
+        "costumes": []
+      },
+      {
+        "id": "0xd47de8b4",
+        "ext": "g1e",
+        "entry": "Content_Legacy/0xD47DE8B4.g1e",
+        "costumes": []
+      },
+      {
+        "id": "0xdf95db6e",
+        "ext": "g1e",
+        "entry": "Content_Legacy/0xDF95DB6E.g1e",
+        "costumes": []
+      },
+      {
+        "id": "0xe2bfe9f4",
+        "ext": "g1e",
+        "entry": "Content_Legacy/0xE2BFE9F4.g1e",
+        "costumes": []
+      },
+      {
+        "id": "0xf4fede01",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xF4FEDE01.g1t",
+        "costumes": []
+      }
+    ]
+  },
+  {
+    "name": "(DoA Summer 24) ~LR~ Last Days of Summer Liza Dress SFW (Momiji)",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\_Kashira\\Mods\\(DoA Summer 24) ~LR~ Last Days of Summer Liza Dress SFW (Momiji).ktmod",
+    "assets": [
+      {
+        "id": "0x1221f597",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x1221F597.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x3ae674a6",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x3AE674A6.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x3af161bc",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x3AF161BC.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x50517fe9",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x50517FE9.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x667bfc9c",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x667BFC9C.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x7644a49c",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x7644A49C.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x79caca47",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x79CACA47.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x7c36ab51",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x7C36AB51.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x7fbcd0fc",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x7FBCD0FC.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x98fd26fe",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x98FD26FE.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xa056a55e",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xa056a55e.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xa8a5ebd8",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xA8A5EBD8.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xa8c80287",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xA8C80287.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xae21d524",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xAE21D524.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xafbec60c",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xAFBEC60C.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xb3762ca2",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xB3762CA2.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xb6fc524d",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xB6FC524D.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xc1e641da",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xC1E641DA.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xc3647d17",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xC3647D17.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xc532d03e",
+        "ext": "g1m",
+        "entry": "Content_Legacy/0xC532D03E.g1m",
+        "costumes": [
+          "MOM_COS_105"
+        ]
+      },
+      {
+        "id": "0xcc3625e2",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xCC3625E2.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xdca4d319",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xDCA4D319.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xde230e56",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xDE230E56.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xf7636458",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xF7636458.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xf8e19f95",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xF8E19F95.g1t",
+        "costumes": []
+      }
+    ]
+  },
+  {
+    "name": "(DoA Summer 26) ~LR~ Last Days of Summer Liza Dress SFW (Minato)",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\_Kashira\\Mods\\(DoA Summer 26) ~LR~ Last Days of Summer Liza Dress SFW (Minato).ktmod",
+    "assets": [
+      {
+        "id": "0x0b3e6fd7",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x0b3e6fd7.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x18c7c58a",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x18c7c58a.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x1eb9cc3f",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x1eb9cc3f.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x32081b8c",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x32081b8c.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x37fa2241",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x37fa2241.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x55f94d90",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x55f94d90.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x6f39a392",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x6f39a392.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x8c279a89",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x8c279a89.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x9219a13e",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x9219a13e.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0x97de9ad8",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0x97de9ad8.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xc5e58351",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xc5e58351.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xc959228f",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xc959228f.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xcc3625e2",
+        "ext": "g1t",
+        "entry": "Content_Legacy/0xcc3625e2.g1t",
+        "costumes": []
+      },
+      {
+        "id": "0xd0bac93c",
+        "ext": "g1m",
+        "entry": "Content_Legacy/0xd0bac93c.g1m",
+        "costumes": [
+          "MNT_COS_011"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "(DoA6LR) Uncensored Fiend Costume v1 (Rachel) v1.1",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\_Kashira\\Mods\\(DoA6LR) Uncensored Fiend Costume v1 (Rachel) v1.1.ktmod",
+    "assets": [
+      {
+        "id": "0x549de776",
+        "ext": "g1m",
+        "entry": "Content_Legacy/0x549DE776.g1m",
+        "costumes": [
+          "RAC_COS_005"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+37af2b0 48895c2408                   mov qword ptr [rsp + 8], rbx
+37af2b5 4889742410                   mov qword ptr [rsp + 0x10], rsi
+37af2ba 57                           push rdi
+37af2bb 4883ec40                     sub rsp, 0x40
+37af2bf 488d0daecff804               lea rcx, [rip + 0x4f8cfae]
+37af2c6 418bf1                       mov esi, r9d
+37af2c9 418bf8                       mov edi, r8d
+37af2cc 8bda                         mov ebx, edx
+37af2ce e8a5ee3500                   call 0x3b0e178
+37af2d3 8b4c2470                     mov ecx, dword ptr [rsp + 0x70]
+37af2d7 4c8d442428                   lea r8, [rsp + 0x28]
+37af2dc 895c2428                     mov dword ptr [rsp + 0x28], ebx
+37af2e0 488d542420                   lea rdx, [rsp + 0x20]
+37af2e5 488b1dbcef6402               mov rbx, qword ptr [rip + 0x264efbc]
+37af2ec 894c2438                     mov dword ptr [rsp + 0x38], ecx
+37af2f0 897c242c                     mov dword ptr [rsp + 0x2c], edi
+37af2f4 89742430                     mov dword ptr [rsp + 0x30], esi
+37af2f8 488d8b00010000               lea rcx, [rbx + 0x100]
+37af2ff c744243400000000             mov dword ptr [rsp + 0x34], 0
+37af307 e84429a2fe                   call 0x21d1c50
+37af30c 488b4c2420                   mov rcx, qword ptr [rsp + 0x20]
+37af311 483b8b00010000               cmp rcx, qword ptr [rbx + 0x100]
+37af318 7512                         jne 0x37af32c
+37af31a 33c0                         xor eax, eax
+37af31c 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af321 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af326 4883c440                     add rsp, 0x40
+37af32a 5f                           pop rdi
+37af32b c3                           ret 
+37af32c f30f104158                   movss xmm0, dword ptr [rcx + 0x58]
+37af331 f30f5e4154                   divss xmm0, dword ptr [rcx + 0x54]
+37af336 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af33b 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af340 f3480f2cc0                   cvttss2si rax, xmm0
+37af345 4883c440                     add rsp, 0x40
+37af349 5f                           pop rdi
+37af34a c3                           ret 

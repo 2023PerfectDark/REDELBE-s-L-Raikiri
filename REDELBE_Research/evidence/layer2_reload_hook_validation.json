@@ -1,0 +1,45 @@
+{
+  "verified_prologues": [
+    {
+      "rva": "0x22c8270",
+      "length": 17,
+      "instructions": 8
+    },
+    {
+      "rva": "0x21beda0",
+      "length": 17,
+      "instructions": 8
+    },
+    {
+      "rva": "0x3919430",
+      "length": 15,
+      "instructions": 6
+    },
+    {
+      "rva": "0x2a3f740",
+      "length": 16,
+      "instructions": 7
+    },
+    {
+      "rva": "0x22c6220",
+      "length": 16,
+      "instructions": 5
+    },
+    {
+      "rva": "0x22c6260",
+      "length": 15,
+      "instructions": 4
+    },
+    {
+      "rva": "0x22c6310",
+      "length": 14,
+      "instructions": 6
+    },
+    {
+      "rva": "0x22c63b0",
+      "length": 15,
+      "instructions": 7
+    }
+  ],
+  "result": "PASS"
+}

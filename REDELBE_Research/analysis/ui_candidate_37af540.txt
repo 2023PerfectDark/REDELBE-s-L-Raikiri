@@ -1,0 +1,37 @@
+37af540 48895c2408                   mov qword ptr [rsp + 8], rbx
+37af545 4889742410                   mov qword ptr [rsp + 0x10], rsi
+37af54a 57                           push rdi
+37af54b 4883ec40                     sub rsp, 0x40
+37af54f 488d0d1ecdf804               lea rcx, [rip + 0x4f8cd1e]
+37af556 418bf1                       mov esi, r9d
+37af559 418bf8                       mov edi, r8d
+37af55c 8bda                         mov ebx, edx
+37af55e e815ec3500                   call 0x3b0e178
+37af563 8b442470                     mov eax, dword ptr [rsp + 0x70]
+37af567 4c8d442428                   lea r8, [rsp + 0x28]
+37af56c 895c2428                     mov dword ptr [rsp + 0x28], ebx
+37af570 488d542420                   lea rdx, [rsp + 0x20]
+37af575 488b1d2ced6402               mov rbx, qword ptr [rip + 0x264ed2c]
+37af57c 897c242c                     mov dword ptr [rsp + 0x2c], edi
+37af580 89742430                     mov dword ptr [rsp + 0x30], esi
+37af584 89442434                     mov dword ptr [rsp + 0x34], eax
+37af588 488d8b00010000               lea rcx, [rbx + 0x100]
+37af58f c7442438ffffffff             mov dword ptr [rsp + 0x38], 0xffffffff
+37af597 e8b426a2fe                   call 0x21d1c50
+37af59c 488b442420                   mov rax, qword ptr [rsp + 0x20]
+37af5a1 483b8300010000               cmp rax, qword ptr [rbx + 0x100]
+37af5a8 7512                         jne 0x37af5bc
+37af5aa 33c0                         xor eax, eax
+37af5ac 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af5b1 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af5b6 4883c440                     add rsp, 0x40
+37af5ba 5f                           pop rdi
+37af5bb c3                           ret 
+37af5bc f30f104058                   movss xmm0, dword ptr [rax + 0x58]
+37af5c1 f30f5e4054                   divss xmm0, dword ptr [rax + 0x54]
+37af5c6 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af5cb 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af5d0 f3480f2cc0                   cvttss2si rax, xmm0
+37af5d5 4883c440                     add rsp, 0x40
+37af5d9 5f                           pop rdi
+37af5da c3                           ret 

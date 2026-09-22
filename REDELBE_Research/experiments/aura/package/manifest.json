@@ -1,0 +1,18 @@
+{
+  "status": "UNVERIFIED HONOKA IDLE TEST",
+  "active_package": "sets/20260918_174218_1c867baa",
+  "baseline_root_sha256": "465cdd45f245bb614f660b4bbaaa8bb5d2136e5f1d5c2f5cd9dda9e2e51d2ec3",
+  "original_root_target": "overlay/root.rdb",
+  "changes": [
+    {
+      "id": "0x285cb0c3",
+      "original_sha256": "0a05a6cb87c630337694bba5916b6804c7f57d675a02874ea6036036d76bf9e3",
+      "patched_sha256": "e495ea6ecf61cc7bcfa5d8e921b813be15c1cea14a0a06db445253b667a1290f"
+    },
+    {
+      "id": "0xf589e402",
+      "original_sha256": "ba0354954f480b9a2840442a5129a890c5ebea564cbc2b2faa725f29570a682f",
+      "patched_sha256": "70803af96c4f34bc5e38b5785408c0a295279ae2a2f2dc249396dde16c689615"
+    }
+  ]
+}

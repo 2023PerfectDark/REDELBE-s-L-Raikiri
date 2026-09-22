@@ -1,0 +1,378 @@
+{
+  "pid": 4992,
+  "modules": [
+    {
+      "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\DOA6.exe",
+      "base": 140696534515712,
+      "size": 47038464
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\ntdll.dll",
+      "base": 140705154727936,
+      "size": 2519040
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\KERNEL32.DLL",
+      "base": 140705127464960,
+      "size": 831488
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\KERNELBASE.dll",
+      "base": 140705114095616,
+      "size": 4202496
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\apphelp.dll",
+      "base": 140705050460160,
+      "size": 651264
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\WS2_32.dll",
+      "base": 140705143652352,
+      "size": 524288
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\ucrtbase.dll",
+      "base": 140705111998464,
+      "size": 1359872
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\RPCRT4.dll",
+      "base": 140705128316928,
+      "size": 1146880
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\IPHLPAPI.DLL",
+      "base": 140705075822592,
+      "size": 208896
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\USER32.dll",
+      "base": 140705138016256,
+      "size": 1896448
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\WindowsCodecs.dll",
+      "base": 140705009434624,
+      "size": 2326528
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\win32u.dll",
+      "base": 140705110491136,
+      "size": 159744
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\combase.dll",
+      "base": 140705144242176,
+      "size": 3690496
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\GDI32.dll",
+      "base": 140705118355456,
+      "size": 176128
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\dbghelp.dll",
+      "base": 140704782155776,
+      "size": 2408448
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\gdi32full.dll",
+      "base": 140705108459520,
+      "size": 1216512
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\msvcp_win.dll",
+      "base": 140705110687744,
+      "size": 667648
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\OLEAUT32.dll",
+      "base": 140705126547456,
+      "size": 888832
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\ADVAPI32.dll",
+      "base": 140705124581376,
+      "size": 770048
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\msvcrt.dll",
+      "base": 140705118552064,
+      "size": 692224
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\sechost.dll",
+      "base": 140705123074048,
+      "size": 692224
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\SHELL32.dll",
+      "base": 140705129496576,
+      "size": 7962624
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\ole32.dll",
+      "base": 140705141948416,
+      "size": 1679360
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\VCOMP140.DLL",
+      "base": 140703608209408,
+      "size": 217088
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\D3DCOMPILER_43.dll",
+      "base": 140735202328576,
+      "size": 2551808
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\dwmapi.dll",
+      "base": 140705056030720,
+      "size": 192512
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\XINPUT1_3.dll",
+      "base": 140704974700544,
+      "size": 196608
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\MF.dll",
+      "base": 140703816613888,
+      "size": 622592
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\shcore.dll",
+      "base": 140705125498880,
+      "size": 1028096
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\MFPlat.DLL",
+      "base": 140703774736384,
+      "size": 2248704
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\MFReadWrite.dll",
+      "base": 140735652298752,
+      "size": 872448
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\dxva2.dll",
+      "base": 140704292274176,
+      "size": 188416
+    },
+    {
+      "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\d3d11.dll",
+      "base": 140736722763776,
+      "size": 315392
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\cfgmgr32.dll",
+      "base": 140705103151104,
+      "size": 335872
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\MSVCP140.dll",
+      "base": 140704652787712,
+      "size": 643072
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\D3DCOMPILER_47.dll",
+      "base": 140705004519424,
+      "size": 4714496
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\WINMM.dll",
+      "base": 140704938590208,
+      "size": 221184
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\VCRUNTIME140.dll",
+      "base": 140704654491648,
+      "size": 180224
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\VCRUNTIME140_1.dll",
+      "base": 140704654688256,
+      "size": 49152
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\cryptsp.dll",
+      "base": 140705091223552,
+      "size": 110592
+    },
+    {
+      "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\steam_api64.dll",
+      "base": 140735490949120,
+      "size": 745472
+    },
+    {
+      "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\d3d9.dll",
+      "base": 140735141904384,
+      "size": 5079040
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\IMM32.dll",
+      "base": 140705121566720,
+      "size": 200704
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\WININET.dll",
+      "base": 140704644857856,
+      "size": 2699264
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\VERSION.dll",
+      "base": 140704996786176,
+      "size": 45056
+    },
+    {
+      "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\DINPUT8.dll",
+      "base": 1686110208,
+      "size": 4464640
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\dbgcore.DLL",
+      "base": 140704084328448,
+      "size": 241664
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\MFCORE.DLL",
+      "base": 140736171474944,
+      "size": 4296704
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\RTWorkQ.DLL",
+      "base": 140704000507904,
+      "size": 241664
+    },
+    {
+      "path": "C:\\WINDOWS\\system32\\dinput8.dll",
+      "base": 140703790465024,
+      "size": 307200
+    },
+    {
+      "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\steam_api64_cl.dll",
+      "base": 140736718241792,
+      "size": 311296
+    },
+    {
+      "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\HideFromBandai.dll",
+      "base": 140705098235904,
+      "size": 110592
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\bcryptPrimitives.dll",
+      "base": 140705113374720,
+      "size": 704512
+    },
+    {
+      "path": "C:\\WINDOWS\\system32\\d3d11.dll",
+      "base": 140705021165568,
+      "size": 2490368
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\dxgi.dll",
+      "base": 140705054588928,
+      "size": 1290240
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\powrprof.dll",
+      "base": 140705094303744,
+      "size": 385024
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\UMPDC.dll",
+      "base": 140705092927488,
+      "size": 86016
+    },
+    {
+      "path": "D:\\Games Only\\Steam folder\\gameoverlayrenderer64.dll",
+      "base": 140737440186368,
+      "size": 1798144
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\PSAPI.DLL",
+      "base": 140705153810432,
+      "size": 32768
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\inputhost.dll",
+      "base": 140704299286528,
+      "size": 1978368
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\CoreMessaging.dll",
+      "base": 140705035517952,
+      "size": 1224704
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\CRYPTBASE.DLL",
+      "base": 140705091354624,
+      "size": 49152
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\kernel.appcore.dll",
+      "base": 140705082376192,
+      "size": 110592
+    },
+    {
+      "path": "D:\\Games Only\\Steam folder\\steamclient64.dll",
+      "base": 140735808602112,
+      "size": 26726400
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\SHLWAPI.dll",
+      "base": 140705137557504,
+      "size": 417792
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\CRYPT32.dll",
+      "base": 140705106821120,
+      "size": 1564672
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\imagehlp.dll",
+      "base": 140705119272960,
+      "size": 131072
+    },
+    {
+      "path": "C:\\WINDOWS\\System32\\SETUPAPI.dll",
+      "base": 140705147977728,
+      "size": 4747264
+    },
+    {
+      "path": "D:\\Games Only\\Steam folder\\tier0_s64.dll",
+      "base": 140736684425216,
+      "size": 3203072
+    },
+    {
+      "path": "D:\\Games Only\\Steam folder\\vstdlib_s64.dll",
+      "base": 140736680427520,
+      "size": 798720
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\MSWSOCK.dll",
+      "base": 140705088208896,
+      "size": 442368
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\bcrypt.dll",
+      "base": 140705105707008,
+      "size": 172032
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\Secur32.dll",
+      "base": 140705051181056,
+      "size": 53248
+    },
+    {
+      "path": "C:\\WINDOWS\\SYSTEM32\\SSPICLI.DLL",
+      "base": 140705085194240,
+      "size": 299008
+    }
+  ],
+  "unreadable_pages": [],
+  "sha256": "78c8f50f89898932fa6b1ebcc83833ca036e0b52bdf7ea7fbf7bca85a8a6171f",
+  "layout": "memory: file offset equals RVA"
+}

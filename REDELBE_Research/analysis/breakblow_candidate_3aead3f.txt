@@ -1,0 +1,12 @@
+3aead3f 48897c2430                   mov qword ptr [rsp + 0x30], rdi
+3aead44 488b3d75bc3702               mov rdi, qword ptr [rip + 0x237bc75]
+3aead4b 488bcf                       mov rcx, rdi
+3aead4e 66c787040100000101           mov word ptr [rdi + 0x104], 0x101
+3aead57 c7870001000000000000         mov dword ptr [rdi + 0x100], 0
+3aead61 e8eaf6edff                   call 0x39ca450
+3aead66 488d8fb0060000               lea rcx, [rdi + 0x6b0]
+3aead6d 41b101                       mov r9b, 1
+3aead70 41b808000000                 mov r8d, 8
+3aead76 0fb6d3                       movzx edx, bl
+3aead79 e81277eeff                   call 0x39d2490
+3aead7e 488b7c2430                   mov rdi, qword ptr [rsp + 0x30]

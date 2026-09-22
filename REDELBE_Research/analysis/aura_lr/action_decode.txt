@@ -1,0 +1,743 @@
+{
+  "name": "CE1ResourceAction［RID_COS_000_ActRID_EFF_ATTACH］",
+  "id": "0x399961",
+  "offset": 37672,
+  "columns": [
+    {
+      "name": "AnimationDataObjectNameHashArray",
+      "hash": "0x9e1e3953",
+      "type": 5,
+      "values": [
+        2768546733
+      ],
+      "offset": 37948
+    },
+    {
+      "name": "DopeSheetObjectNameHashArray",
+      "hash": "0xe1773a02",
+      "type": 5,
+      "values": [
+        4022245328,
+        895474287,
+        3904106541,
+        3590769407,
+        463998366,
+        1632194621,
+        2800390876,
+        3968587131,
+        841816090,
+        2010012345,
+        3178208600,
+        51437559,
+        1219633814,
+        2381527168,
+        3549723423
+      ],
+      "offset": 37952
+    },
+    {
+      "name": "StartFrame",
+      "hash": "0x750e63cb",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 38012
+    },
+    {
+      "name": "FrameLength",
+      "hash": "0xf977f44d",
+      "type": 8,
+      "values": [
+        -0.01666666753590107
+      ],
+      "offset": 38016
+    },
+    {
+      "name": "OffsetFrameLengthFromEnd",
+      "hash": "0xd3f46c71",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 38020
+    },
+    {
+      "name": "InterpolateFrame",
+      "hash": "0x4bef4ecc",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 38024
+    },
+    {
+      "name": "TranslationContinuationTarget",
+      "hash": "0xa26ba507",
+      "type": 4,
+      "values": [
+        -1
+      ],
+      "offset": 38028
+    },
+    {
+      "name": "RotationContinuationTarget",
+      "hash": "0xa87d31e6",
+      "type": 4,
+      "values": [
+        -1
+      ],
+      "offset": 38032
+    },
+    {
+      "name": "Flag",
+      "hash": "0x5d92acc",
+      "type": 5,
+      "values": [
+        20000
+      ],
+      "offset": 38036
+    },
+    {
+      "name": "ActionID",
+      "hash": "0x7fb88531",
+      "type": 5,
+      "values": [
+        20000
+      ],
+      "offset": 38040
+    },
+    {
+      "name": "LoopStartFrame",
+      "hash": "0xc2afedcf",
+      "type": 8,
+      "values": [
+        -1.0
+      ],
+      "offset": 38044
+    },
+    {
+      "name": "UC_GenerationCount",
+      "hash": "0xed4bdb46",
+      "type": 4,
+      "values": [
+        0
+      ],
+      "offset": 38048
+    },
+    {
+      "name": "UC_ENUM_GenerationType",
+      "hash": "0xe0df9a5f",
+      "type": 4,
+      "values": [
+        0
+      ],
+      "offset": 38052
+    },
+    {
+      "name": "UC_GenerationParamLine",
+      "hash": "0x9c375998",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 38056
+    },
+    {
+      "name": "UC_GenerationParamFan",
+      "hash": "0x841330b1",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 38060
+    },
+    {
+      "name": "UC_GenerationParamCone",
+      "hash": "0xc31c9147",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 38064
+    },
+    {
+      "name": "UC_GenerationParamConeRandom",
+      "hash": "0xc29c41ea",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 38068
+    },
+    {
+      "name": "UC_GenerationParamCircleRandom",
+      "hash": "0x93474397",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 38072
+    },
+    {
+      "name": "UC_TRS_InitialTranslation",
+      "hash": "0x9af9a4d8",
+      "type": 8,
+      "values": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "offset": 38076
+    },
+    {
+      "name": "UC_ROT_InitialQuaternion",
+      "hash": "0xc7c7b329",
+      "type": 8,
+      "values": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "offset": 38088
+    },
+    {
+      "name": "UC_BITFLAG_BulletFlag0",
+      "hash": "0xe819aeab",
+      "type": 4,
+      "values": [
+        1
+      ],
+      "offset": 38104
+    }
+  ]
+}
+{
+  "name": "CE1DopeSheetEffect［EFF_rid_00_body_aura］［RID_COS_000_ActRID_EFF_ATTACH］［001］",
+  "id": "0x355fda6f",
+  "offset": 7783808,
+  "columns": [
+    {
+      "name": "DisplaysetObjectNameHash",
+      "hash": "0xb6e1578",
+      "type": 5,
+      "values": [
+        3231828573
+      ],
+      "offset": 7784168
+    },
+    {
+      "name": "Translation",
+      "hash": "0xb68c798f",
+      "type": 8,
+      "values": [
+        -4.291533969080774e-06,
+        -14.260970115661621,
+        1.1920930091946502e-06
+      ],
+      "offset": 7784172
+    },
+    {
+      "name": "Quaternion",
+      "hash": "0x9a6003be",
+      "type": 8,
+      "values": [
+        0.4940808117389679,
+        0.505850076675415,
+        0.49408069252967834,
+        -0.5058497786521912
+      ],
+      "offset": 7784184
+    },
+    {
+      "name": "Scale",
+      "hash": "0xb278f6d6",
+      "type": 8,
+      "values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "offset": 7784200
+    },
+    {
+      "name": "ParentObjectName",
+      "hash": "0x3807d594",
+      "type": 4,
+      "values": [
+        9
+      ],
+      "offset": 7784212
+    },
+    {
+      "name": "Flag",
+      "hash": "0x5d92acc",
+      "type": 5,
+      "values": [
+        3221233664
+      ],
+      "offset": 7784216
+    },
+    {
+      "name": "SourceLifeSpan",
+      "hash": "0x51e76d41",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784220
+    },
+    {
+      "name": "SourceScale",
+      "hash": "0xfc207611",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784224
+    },
+    {
+      "name": "SourceMass",
+      "hash": "0x9aa523cf",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784228
+    },
+    {
+      "name": "SourceAirResistance",
+      "hash": "0x90d2cf18",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784232
+    },
+    {
+      "name": "SourceCharge",
+      "hash": "0x9d4df4f",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784236
+    },
+    {
+      "name": "SourceSpeed",
+      "hash": "0x3acd54f4",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784240
+    },
+    {
+      "name": "SourceRed",
+      "hash": "0xc012d2aa",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784244
+    },
+    {
+      "name": "SourceGreen",
+      "hash": "0xd1b88e38",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784248
+    },
+    {
+      "name": "SourceBlue",
+      "hash": "0x46fa16f5",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784252
+    },
+    {
+      "name": "SourceAlpha",
+      "hash": "0xc2a775bd",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784256
+    },
+    {
+      "name": "SourceUser0",
+      "hash": "0xc6e47836",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784260
+    },
+    {
+      "name": "SourceUser1",
+      "hash": "0xce961d95",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784264
+    },
+    {
+      "name": "WarmupFrameNum",
+      "hash": "0x87a18179",
+      "type": 4,
+      "values": [
+        0
+      ],
+      "offset": 7784268
+    },
+    {
+      "name": "FadeoutFrameNum",
+      "hash": "0xec76bf5",
+      "type": 4,
+      "values": [
+        -1
+      ],
+      "offset": 7784272
+    },
+    {
+      "name": "SelfHash",
+      "hash": "0x71dd9b9a",
+      "type": 5,
+      "values": [
+        895474287
+      ],
+      "offset": 7784276
+    },
+    {
+      "name": "ReferenceHash",
+      "hash": "0xb2e69a87",
+      "type": 5,
+      "values": [
+        0
+      ],
+      "offset": 7784280
+    },
+    {
+      "name": "OnGroundType",
+      "hash": "0x7e239000",
+      "type": 5,
+      "values": [
+        0
+      ],
+      "offset": 7784284
+    },
+    {
+      "name": "ContinuousEffectHash",
+      "hash": "0x7867bf0e",
+      "type": 5,
+      "values": [],
+      "offset": 7784288
+    },
+    {
+      "name": "DataPacketFrame",
+      "hash": "0xbd84e645",
+      "type": 8,
+      "values": [
+        1.0
+      ],
+      "offset": 7784288
+    },
+    {
+      "name": "DataPacketValue",
+      "hash": "0xe54ec981",
+      "type": 5,
+      "values": [
+        3429266686
+      ],
+      "offset": 7784292
+    },
+    {
+      "name": "0x7d717150",
+      "hash": "0x7d717150",
+      "type": 4,
+      "values": [
+        -1
+      ],
+      "offset": 7784296
+    },
+    {
+      "name": "0x377514e8",
+      "hash": "0x377514e8",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 7784300
+    }
+  ]
+}
+{
+  "name": "CE1DopeSheetEffect［EFF_rid_00_body_aura］［RID_COS_000_ActRID_EFF_ATTACH］［000］",
+  "id": "0xefbe97d0",
+  "offset": 35129812,
+  "columns": [
+    {
+      "name": "DisplaysetObjectNameHash",
+      "hash": "0xb6e1578",
+      "type": 5,
+      "values": [
+        3231828573
+      ],
+      "offset": 35130172
+    },
+    {
+      "name": "Translation",
+      "hash": "0xb68c798f",
+      "type": 8,
+      "values": [
+        6.9141387939453125e-06,
+        -4.999999046325684,
+        -4.172325134277344e-07
+      ],
+      "offset": 35130176
+    },
+    {
+      "name": "Quaternion",
+      "hash": "0x9a6003be",
+      "type": 8,
+      "values": [
+        0.5000007748603821,
+        0.4999993145465851,
+        0.5000007748603821,
+        -0.49999919533729553
+      ],
+      "offset": 35130188
+    },
+    {
+      "name": "Scale",
+      "hash": "0xb278f6d6",
+      "type": 8,
+      "values": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "offset": 35130204
+    },
+    {
+      "name": "ParentObjectName",
+      "hash": "0x3807d594",
+      "type": 4,
+      "values": [
+        10
+      ],
+      "offset": 35130216
+    },
+    {
+      "name": "Flag",
+      "hash": "0x5d92acc",
+      "type": 5,
+      "values": [
+        3221233664
+      ],
+      "offset": 35130220
+    },
+    {
+      "name": "SourceLifeSpan",
+      "hash": "0x51e76d41",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130224
+    },
+    {
+      "name": "SourceScale",
+      "hash": "0xfc207611",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130228
+    },
+    {
+      "name": "SourceMass",
+      "hash": "0x9aa523cf",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130232
+    },
+    {
+      "name": "SourceAirResistance",
+      "hash": "0x90d2cf18",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130236
+    },
+    {
+      "name": "SourceCharge",
+      "hash": "0x9d4df4f",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130240
+    },
+    {
+      "name": "SourceSpeed",
+      "hash": "0x3acd54f4",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130244
+    },
+    {
+      "name": "SourceRed",
+      "hash": "0xc012d2aa",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130248
+    },
+    {
+      "name": "SourceGreen",
+      "hash": "0xd1b88e38",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130252
+    },
+    {
+      "name": "SourceBlue",
+      "hash": "0x46fa16f5",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130256
+    },
+    {
+      "name": "SourceAlpha",
+      "hash": "0xc2a775bd",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130260
+    },
+    {
+      "name": "SourceUser0",
+      "hash": "0xc6e47836",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130264
+    },
+    {
+      "name": "SourceUser1",
+      "hash": "0xce961d95",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130268
+    },
+    {
+      "name": "WarmupFrameNum",
+      "hash": "0x87a18179",
+      "type": 4,
+      "values": [
+        0
+      ],
+      "offset": 35130272
+    },
+    {
+      "name": "FadeoutFrameNum",
+      "hash": "0xec76bf5",
+      "type": 4,
+      "values": [
+        -1
+      ],
+      "offset": 35130276
+    },
+    {
+      "name": "SelfHash",
+      "hash": "0x71dd9b9a",
+      "type": 5,
+      "values": [
+        4022245328
+      ],
+      "offset": 35130280
+    },
+    {
+      "name": "ReferenceHash",
+      "hash": "0xb2e69a87",
+      "type": 5,
+      "values": [
+        0
+      ],
+      "offset": 35130284
+    },
+    {
+      "name": "OnGroundType",
+      "hash": "0x7e239000",
+      "type": 5,
+      "values": [
+        0
+      ],
+      "offset": 35130288
+    },
+    {
+      "name": "ContinuousEffectHash",
+      "hash": "0x7867bf0e",
+      "type": 5,
+      "values": [],
+      "offset": 35130292
+    },
+    {
+      "name": "DataPacketFrame",
+      "hash": "0xbd84e645",
+      "type": 8,
+      "values": [
+        1.0
+      ],
+      "offset": 35130292
+    },
+    {
+      "name": "DataPacketValue",
+      "hash": "0xe54ec981",
+      "type": 5,
+      "values": [
+        3429266686
+      ],
+      "offset": 35130296
+    },
+    {
+      "name": "0x7d717150",
+      "hash": "0x7d717150",
+      "type": 4,
+      "values": [
+        -1
+      ],
+      "offset": 35130300
+    },
+    {
+      "name": "0x377514e8",
+      "hash": "0x377514e8",
+      "type": 8,
+      "values": [
+        0.0
+      ],
+      "offset": 35130304
+    }
+  ]
+}

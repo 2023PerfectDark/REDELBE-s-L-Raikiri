@@ -1,0 +1,44 @@
+[
+  {
+    "name": "KAS_DOA5_WIN_120_PORT_TEST.g1a",
+    "bones": 344,
+    "frames": 185,
+    "bytes": 691048,
+    "max_displacement_cm": 0.8917253997739931
+  },
+  {
+    "name": "KAS_DOA5_WIN_122_PORT_TEST.g1a",
+    "bones": 344,
+    "frames": 420,
+    "bytes": 1088440,
+    "max_displacement_cm": 1.0147094482613848
+  },
+  {
+    "name": "KAS_DOA5_WIN_124_PORT_TEST.g1a",
+    "bones": 344,
+    "frames": 269,
+    "bytes": 1363532,
+    "max_displacement_cm": 1.0692936849579875
+  },
+  {
+    "name": "KAS_DOA5_ENTRY_100_PORT_TEST.g1a",
+    "bones": 344,
+    "frames": 60,
+    "bytes": 378572,
+    "max_displacement_cm": 0.7283282106894796
+  },
+  {
+    "name": "KAS_DOA5_ENTRY_101_PORT_TEST.g1a",
+    "bones": 344,
+    "frames": 60,
+    "bytes": 333076,
+    "max_displacement_cm": 0.6862547294805585
+  },
+  {
+    "name": "KAS_DOA5_ENTRY_102_PORT_TEST.g1a",
+    "bones": 344,
+    "frames": 126,
+    "bytes": 470016,
+    "max_displacement_cm": 1.0154260996147113
+  }
+]

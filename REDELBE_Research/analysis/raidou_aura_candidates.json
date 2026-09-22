@@ -1,0 +1,184 @@
+[
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x3ddf081",
+    "names": [
+      "R_EFPL\uff3bCE1_EFF_rid_02_body_limb_win\uff3d",
+      "TypeInfo::Resource::General::BinaryFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0xdd85b39",
+    "names": [
+      "R_KTID\uff3bCE1_EFF_rid_00_body_aura_win\uff3d",
+      "TypeInfo::Resource::KTGL::TextureBindTableCSVFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x1be04d4f",
+    "names": [
+      "R_EFPL\uff3bCE1_EFF_rid_00_body_aura\uff3d",
+      "TypeInfo::Resource::General::BinaryFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x269d398d",
+    "names": [
+      "R_G1E\uff3bCE1_EFF_rid_01_head_aura_win\uff3d",
+      "TypeInfo::Resource::KTGL::EffectData",
+      "EFPLResourceNameHash"
+    ],
+    "lr_banks": [
+      "root"
+    ]
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x42dfde8a",
+    "names": [
+      "R_G1E\uff3bCE1_EFF_rid_00_body_aura_win\uff3d",
+      "TypeInfo::Resource::KTGL::EffectData",
+      "EFPLResourceNameHash"
+    ],
+    "lr_banks": [
+      "root"
+    ]
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x51822d68",
+    "names": [
+      "R_KTID\uff3bCE1_EFF_rid_02_body_limb_win\uff3d",
+      "TypeInfo::Resource::KTGL::TextureBindTableCSVFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x542223af",
+    "names": [
+      "R_EFPL\uff3bCE1_EFF_rid_01_head_aura_win\uff3d",
+      "TypeInfo::Resource::General::BinaryFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x5f8a1f7e",
+    "names": [
+      "R_EFPL\uff3bCE1_EFF_rid_02_body_limb\uff3d",
+      "TypeInfo::Resource::General::BinaryFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x6360b6f0",
+    "names": [
+      "R_G1E\uff3bCE1_EFF_rid_01_head_aura\uff3d",
+      "TypeInfo::Resource::KTGL::EffectData",
+      "EFPLResourceNameHash"
+    ],
+    "lr_banks": [
+      "root"
+    ]
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x69848a36",
+    "names": [
+      "R_KTID\uff3bCE1_EFF_rid_00_body_aura\uff3d",
+      "TypeInfo::Resource::KTGL::TextureBindTableCSVFile"
+    ],
+    "lr_banks": [
+      "root"
+    ]
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0x7fa35bed",
+    "names": [
+      "R_G1E\uff3bCE1_EFF_rid_00_body_aura\uff3d",
+      "TypeInfo::Resource::KTGL::EffectData",
+      "EFPLResourceNameHash"
+    ],
+    "lr_banks": [
+      "root"
+    ]
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0xa1c66096",
+    "names": [
+      "R_KTID\uff3bCE1_EFF_rid_01_head_aura_win\uff3d",
+      "TypeInfo::Resource::KTGL::TextureBindTableCSVFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0xad2e5c65",
+    "names": [
+      "R_KTID\uff3bCE1_EFF_rid_02_body_limb\uff3d",
+      "TypeInfo::Resource::KTGL::TextureBindTableCSVFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0xafce52ac",
+    "names": [
+      "R_EFPL\uff3bCE1_EFF_rid_01_head_aura\uff3d",
+      "TypeInfo::Resource::General::BinaryFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0xb8ab8a7b",
+    "names": [
+      "R_G1E\uff3bCE1_EFF_rid_02_body_limb_win\uff3d",
+      "TypeInfo::Resource::KTGL::EffectData",
+      "EFPLResourceNameHash"
+    ],
+    "lr_banks": [
+      "root"
+    ]
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0xc0341e52",
+    "names": [
+      "R_EFPL\uff3bCE1_EFF_rid_00_body_aura_win\uff3d",
+      "TypeInfo::Resource::General::BinaryFile"
+    ],
+    "lr_banks": []
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0xf56f07de",
+    "names": [
+      "R_G1E\uff3bCE1_EFF_rid_02_body_limb\uff3d",
+      "TypeInfo::Resource::KTGL::EffectData",
+      "EFPLResourceNameHash"
+    ],
+    "lr_banks": [
+      "root"
+    ]
+  },
+  {
+    "bank": "RRPreview.rdb",
+    "id": "0xfd728f93",
+    "names": [
+      "R_KTID\uff3bCE1_EFF_rid_01_head_aura\uff3d",
+      "TypeInfo::Resource::KTGL::TextureBindTableCSVFile"
+    ],
+    "lr_banks": []
+  }
+]

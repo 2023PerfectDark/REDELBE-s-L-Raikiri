@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7fa35bed",
+    "name": "CE1_EFF_rid_00_body_aura.g1e",
+    "size": 12272,
+    "sha256": "3a489217468d40f9ddb3e663aec7ed26fe52017b7b09fa4a0161e3385de67fea"
+  },
+  {
+    "id": "6360b6f0",
+    "name": "CE1_EFF_rid_01_head_aura.g1e",
+    "size": 12160,
+    "sha256": "214458117eb820645f891f1e029996d3d3d5828fff64ef85265e0353f2af88ed"
+  },
+  {
+    "id": "f56f07de",
+    "name": "CE1_EFF_rid_02_body_limb.g1e",
+    "size": 12096,
+    "sha256": "a972952acaf74f39ba67d2b9f60b059e76a24fe3db0ea26b8d80b5ea07a21b68"
+  },
+  {
+    "id": "67eeced6",
+    "name": "CE1_MPR_CGEffect_Effect_muscle_aura00_2_kidsalb.g1t",
+    "size": 349576,
+    "sha256": "9b8e83d327fcd189c103318208e31635c8fde8cbca9ba9899a2d0f4e41d33277"
+  },
+  {
+    "id": "ebee8364",
+    "name": "CE1_MPR_CGEffect_Effect_muscle_aura00_2_kidsnmh.g1t",
+    "size": 349576,
+    "sha256": "dc86e383ecf978272003bc3a9177f89cd298ef27102612e8d7ada92f8bc5c630"
+  }
+]

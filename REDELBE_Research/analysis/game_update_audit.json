@@ -1,0 +1,92 @@
+{
+  "new_exe_sha256": "d1a9c6707575ce2cc932772124d9cf6ceba2f56ef060b8bd7b9d2e71828c4713",
+  "backup_exe_sha256": "35e9949d790afbb963c2a1ed16fecc0f2c4dc214271d5240791404abb77bc9ea",
+  "loader_hash_gate_accepts_update": false,
+  "hook_checks": [
+    {
+      "rva": "0x22ca6e0",
+      "signature_matches": false,
+      "first_256_bytes_unchanged": false
+    },
+    {
+      "rva": "0x22c8270",
+      "signature_matches": false,
+      "first_256_bytes_unchanged": false
+    },
+    {
+      "rva": "0x21beda0",
+      "signature_matches": false,
+      "first_256_bytes_unchanged": false
+    },
+    {
+      "rva": "0x3919430",
+      "signature_matches": false,
+      "first_256_bytes_unchanged": false
+    },
+    {
+      "rva": "0x2a3f740",
+      "signature_matches": false,
+      "first_256_bytes_unchanged": false
+    },
+    {
+      "rva": "0x22c6220",
+      "signature_matches": false,
+      "first_256_bytes_unchanged": false
+    },
+    {
+      "rva": "0x22c6260",
+      "signature_matches": false,
+      "first_256_bytes_unchanged": false
+    },
+    {
+      "rva": "0x22c6310",
+      "signature_matches": false,
+      "first_256_bytes_unchanged": false
+    },
+    {
+      "rva": "0x22c63b0",
+      "signature_matches": false,
+      "first_256_bytes_unchanged": false
+    },
+    {
+      "rva": "0x21c1e90",
+      "bytes_unchanged": false
+    },
+    {
+      "rva": "0x22dbff0",
+      "bytes_unchanged": false
+    },
+    {
+      "rva": "0x22ca7cc",
+      "bytes_unchanged": false
+    },
+    {
+      "rva": "0x22cc812",
+      "bytes_unchanged": false
+    },
+    {
+      "rva": "0xe4aea3",
+      "bytes_unchanged": false
+    },
+    {
+      "rva": "0x41baa80",
+      "bytes_unchanged": false
+    },
+    {
+      "rva": "0x39a7c61",
+      "bytes_unchanged": false
+    },
+    {
+      "rva": "0x39b0fdc",
+      "bytes_unchanged": false
+    }
+  ],
+  "index_counts": {
+    "root": 81305,
+    "system": 96198
+  },
+  "hanabi_restoration": {
+    "compatible": true,
+    "verified_dependencies": 11
+  }
+}

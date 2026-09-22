@@ -1,0 +1,122 @@
+[
+  {
+    "file": "voice_004_EN_00.wav",
+    "text": " I know what I must do.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_EN_01.wav",
+    "text": " I can't avoid this fight.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_EN_02.wav",
+    "text": " I'm sorry. I... I must go on.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_EN_03.wav",
+    "text": " I am ready.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_EN_04.wav",
+    "text": " Ha!",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_EN_05.wav",
+    "text": " This is Mugantenshin!",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_EN_06.wav",
+    "text": " We settle this.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_EN_07.wav",
+    "text": " Hiya!",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_EN_08.wav",
+    "text": " I'm sorry. I... I must go on.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_EN_09.wav",
+    "text": " You will never defeat me.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_00.wav",
+    "text": "もう、迷わない",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_01.wav",
+    "text": "戦いは避けられない",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_02.wav",
+    "text": "ごめんなさい、私、行かなくちゃ",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_03.wav",
+    "text": "覚悟決めたわ",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_04.wav",
+    "text": "これが無限天神流よ",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_05.wav",
+    "text": "はっ",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_06.wav",
+    "text": "ごめんなさい、私、いかなくちゃ",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_07.wav",
+    "text": "ニーさん",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_08.wav",
+    "text": "勝負よ",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_004_JP_09.wav",
+    "text": "あなたに私は倒せない",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  }
+]

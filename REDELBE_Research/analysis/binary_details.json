@@ -1,0 +1,3732 @@
+{
+  "reference": {
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\DOA6.exe",
+    "sha256": "7922bba920bf471730baad946b2641553f6957f510a5eaca39ea6ce9634b1efc",
+    "imports": {
+      "DINPUT8.dll": [
+        {
+          "name": "DirectInput8Create",
+          "rva": "0x1b9a020"
+        }
+      ],
+      "IPHLPAPI.DLL": [
+        {
+          "name": "GetAdaptersAddresses",
+          "rva": "0x1b9a080"
+        }
+      ],
+      "WindowsCodecs.dll": [
+        {
+          "name": "WICConvertBitmapSource",
+          "rva": "0x1b9a978"
+        }
+      ],
+      "dbghelp.dll": [
+        {
+          "name": "MiniDumpWriteDump",
+          "rva": "0x1b9a9c8"
+        }
+      ],
+      "steam_api64.dll": [
+        {
+          "name": "SteamAPI_RestartAppIfNecessary",
+          "rva": "0x1b9aa58"
+        },
+        {
+          "name": "SteamAPI_Shutdown",
+          "rva": "0x1b9aa60"
+        },
+        {
+          "name": "SteamInternal_FindOrCreateUserInterface",
+          "rva": "0x1b9aa68"
+        },
+        {
+          "name": "SteamAPI_GetHSteamUser",
+          "rva": "0x1b9aa70"
+        },
+        {
+          "name": "SteamInternal_ContextInit",
+          "rva": "0x1b9aa78"
+        },
+        {
+          "name": "SteamAPI_Init",
+          "rva": "0x1b9aa80"
+        },
+        {
+          "name": "SteamAPI_RunCallbacks",
+          "rva": "0x1b9aa88"
+        },
+        {
+          "name": "SteamAPI_UnregisterCallback",
+          "rva": "0x1b9aa90"
+        },
+        {
+          "name": "SteamAPI_RegisterCallback",
+          "rva": "0x1b9aa98"
+        },
+        {
+          "name": "SteamAPI_GetHSteamPipe",
+          "rva": "0x1b9aaa0"
+        },
+        {
+          "name": "SteamAPI_SetMiniDumpComment",
+          "rva": "0x1b9aaa8"
+        },
+        {
+          "name": "SteamAPI_WriteMiniDump",
+          "rva": "0x1b9aab0"
+        },
+        {
+          "name": "SteamAPI_UnregisterCallResult",
+          "rva": "0x1b9aab8"
+        },
+        {
+          "name": "SteamAPI_RegisterCallResult",
+          "rva": "0x1b9aac0"
+        },
+        {
+          "name": "SteamInternal_CreateInterface",
+          "rva": "0x1b9aac8"
+        }
+      ],
+      "WS2_32.dll": [
+        {
+          "name": "socket",
+          "rva": "0x1b9a8f8"
+        },
+        {
+          "name": "InetNtopW",
+          "rva": "0x1b9a900"
+        },
+        {
+          "name": "connect",
+          "rva": "0x1b9a908"
+        },
+        {
+          "name": "WSAGetLastError",
+          "rva": "0x1b9a910"
+        },
+        {
+          "name": "htons",
+          "rva": "0x1b9a918"
+        },
+        {
+          "name": "InetPtonW",
+          "rva": "0x1b9a920"
+        },
+        {
+          "name": "send",
+          "rva": "0x1b9a928"
+        },
+        {
+          "name": "getsockname",
+          "rva": "0x1b9a930"
+        },
+        {
+          "name": "WSAStartup",
+          "rva": "0x1b9a938"
+        },
+        {
+          "name": "shutdown",
+          "rva": "0x1b9a940"
+        },
+        {
+          "name": "closesocket",
+          "rva": "0x1b9a948"
+        },
+        {
+          "name": "WSACleanup",
+          "rva": "0x1b9a950"
+        },
+        {
+          "name": "htonl",
+          "rva": "0x1b9a958"
+        },
+        {
+          "name": "ntohs",
+          "rva": "0x1b9a960"
+        },
+        {
+          "name": "ntohl",
+          "rva": "0x1b9a968"
+        }
+      ],
+      "KERNEL32.dll": [
+        {
+          "name": "FindNextFileA",
+          "rva": "0x1b9a090"
+        },
+        {
+          "name": "FindFirstFileExA",
+          "rva": "0x1b9a098"
+        },
+        {
+          "name": "GetProcessHeap",
+          "rva": "0x1b9a0a0"
+        },
+        {
+          "name": "GetConsoleCP",
+          "rva": "0x1b9a0a8"
+        },
+        {
+          "name": "ReadConsoleW",
+          "rva": "0x1b9a0b0"
+        },
+        {
+          "name": "GetConsoleMode",
+          "rva": "0x1b9a0b8"
+        },
+        {
+          "name": "SetFilePointerEx",
+          "rva": "0x1b9a0c0"
+        },
+        {
+          "name": "EnumSystemLocalesW",
+          "rva": "0x1b9a0c8"
+        },
+        {
+          "name": "GetUserDefaultLCID",
+          "rva": "0x1b9a0d0"
+        },
+        {
+          "name": "IsValidLocale",
+          "rva": "0x1b9a0d8"
+        },
+        {
+          "name": "GetTimeFormatW",
+          "rva": "0x1b9a0e0"
+        },
+        {
+          "name": "GetDateFormatW",
+          "rva": "0x1b9a0e8"
+        },
+        {
+          "name": "GetTimeZoneInformation",
+          "rva": "0x1b9a0f0"
+        },
+        {
+          "name": "SetConsoleCtrlHandler",
+          "rva": "0x1b9a0f8"
+        },
+        {
+          "name": "GetFileType",
+          "rva": "0x1b9a100"
+        },
+        {
+          "name": "GetACP",
+          "rva": "0x1b9a108"
+        },
+        {
+          "name": "GetStdHandle",
+          "rva": "0x1b9a110"
+        },
+        {
+          "name": "HeapReAlloc",
+          "rva": "0x1b9a118"
+        },
+        {
+          "name": "HeapFree",
+          "rva": "0x1b9a120"
+        },
+        {
+          "name": "HeapAlloc",
+          "rva": "0x1b9a128"
+        },
+        {
+          "name": "ExitProcess",
+          "rva": "0x1b9a130"
+        },
+        {
+          "name": "GetFullPathNameA",
+          "rva": "0x1b9a138"
+        },
+        {
+          "name": "EnterCriticalSection",
+          "rva": "0x1b9a140"
+        },
+        {
+          "name": "LeaveCriticalSection",
+          "rva": "0x1b9a148"
+        },
+        {
+          "name": "SetEvent",
+          "rva": "0x1b9a150"
+        },
+        {
+          "name": "SizeofResource",
+          "rva": "0x1b9a158"
+        },
+        {
+          "name": "GetCurrentProcess",
+          "rva": "0x1b9a160"
+        },
+        {
+          "name": "GetModuleFileNameW",
+          "rva": "0x1b9a168"
+        },
+        {
+          "name": "CreateMutexW",
+          "rva": "0x1b9a170"
+        },
+        {
+          "name": "K32EnumProcessModulesEx",
+          "rva": "0x1b9a178"
+        },
+        {
+          "name": "Sleep",
+          "rva": "0x1b9a180"
+        },
+        {
+          "name": "GetLastError",
+          "rva": "0x1b9a188"
+        },
+        {
+          "name": "GetLogicalProcessorInformation",
+          "rva": "0x1b9a190"
+        },
+        {
+          "name": "LockResource",
+          "rva": "0x1b9a198"
+        },
+        {
+          "name": "GlobalAlloc",
+          "rva": "0x1b9a1a0"
+        },
+        {
+          "name": "DeleteFileW",
+          "rva": "0x1b9a1a8"
+        },
+        {
+          "name": "CloseHandle",
+          "rva": "0x1b9a1b0"
+        },
+        {
+          "name": "LoadResource",
+          "rva": "0x1b9a1b8"
+        },
+        {
+          "name": "FindResourceW",
+          "rva": "0x1b9a1c0"
+        },
+        {
+          "name": "GlobalLock",
+          "rva": "0x1b9a1c8"
+        },
+        {
+          "name": "LocalFree",
+          "rva": "0x1b9a1d0"
+        },
+        {
+          "name": "GlobalUnlock",
+          "rva": "0x1b9a1d8"
+        },
+        {
+          "name": "GetModuleHandleW",
+          "rva": "0x1b9a1e0"
+        },
+        {
+          "name": "VirtualFree",
+          "rva": "0x1b9a1e8"
+        },
+        {
+          "name": "VirtualAlloc",
+          "rva": "0x1b9a1f0"
+        },
+        {
+          "name": "CreateDirectoryW",
+          "rva": "0x1b9a1f8"
+        },
+        {
+          "name": "ReadFile",
+          "rva": "0x1b9a200"
+        },
+        {
+          "name": "GetFileSizeEx",
+          "rva": "0x1b9a208"
+        },
+        {
+          "name": "FindFirstFileExW",
+          "rva": "0x1b9a210"
+        },
+        {
+          "name": "FindNextFileW",
+          "rva": "0x1b9a218"
+        },
+        {
+          "name": "WriteFile",
+          "rva": "0x1b9a220"
+        },
+        {
+          "name": "RemoveDirectoryW",
+          "rva": "0x1b9a228"
+        },
+        {
+          "name": "GetTempPathW",
+          "rva": "0x1b9a230"
+        },
+        {
+          "name": "FindClose",
+          "rva": "0x1b9a238"
+        },
+        {
+          "name": "CreateFileW",
+          "rva": "0x1b9a240"
+        },
+        {
+          "name": "GetCurrentThreadId",
+          "rva": "0x1b9a248"
+        },
+        {
+          "name": "GetLocalTime",
+          "rva": "0x1b9a250"
+        },
+        {
+          "name": "MoveFileExW",
+          "rva": "0x1b9a258"
+        },
+        {
+          "name": "GetCurrentProcessId",
+          "rva": "0x1b9a260"
+        },
+        {
+          "name": "GetTempFileNameW",
+          "rva": "0x1b9a268"
+        },
+        {
+          "name": "IsDebuggerPresent",
+          "rva": "0x1b9a270"
+        },
+        {
+          "name": "FlushFileBuffers",
+          "rva": "0x1b9a278"
+        },
+        {
+          "name": "SetThreadPriority",
+          "rva": "0x1b9a280"
+        },
+        {
+          "name": "WaitForSingleObject",
+          "rva": "0x1b9a288"
+        },
+        {
+          "name": "ResumeThread",
+          "rva": "0x1b9a290"
+        },
+        {
+          "name": "CreateEventW",
+          "rva": "0x1b9a298"
+        },
+        {
+          "name": "GetExitCodeThread",
+          "rva": "0x1b9a2a0"
+        },
+        {
+          "name": "GetSystemInfo",
+          "rva": "0x1b9a2a8"
+        },
+        {
+          "name": "RaiseException",
+          "rva": "0x1b9a2b0"
+        },
+        {
+          "name": "CreateEventA",
+          "rva": "0x1b9a2b8"
+        },
+        {
+          "name": "TryEnterCriticalSection",
+          "rva": "0x1b9a2c0"
+        },
+        {
+          "name": "CreateMutexA",
+          "rva": "0x1b9a2c8"
+        },
+        {
+          "name": "ReleaseMutex",
+          "rva": "0x1b9a2d0"
+        },
+        {
+          "name": "SuspendThread",
+          "rva": "0x1b9a2d8"
+        },
+        {
+          "name": "ResetEvent",
+          "rva": "0x1b9a2e0"
+        },
+        {
+          "name": "OpenThread",
+          "rva": "0x1b9a2e8"
+        },
+        {
+          "name": "DeleteCriticalSection",
+          "rva": "0x1b9a2f0"
+        },
+        {
+          "name": "InitializeCriticalSection",
+          "rva": "0x1b9a2f8"
+        },
+        {
+          "name": "WaitForMultipleObjects",
+          "rva": "0x1b9a300"
+        },
+        {
+          "name": "MultiByteToWideChar",
+          "rva": "0x1b9a308"
+        },
+        {
+          "name": "FreeLibrary",
+          "rva": "0x1b9a310"
+        },
+        {
+          "name": "LoadLibraryA",
+          "rva": "0x1b9a318"
+        },
+        {
+          "name": "CreateSemaphoreW",
+          "rva": "0x1b9a320"
+        },
+        {
+          "name": "IsValidCodePage",
+          "rva": "0x1b9a328"
+        },
+        {
+          "name": "ReleaseSemaphore",
+          "rva": "0x1b9a330"
+        },
+        {
+          "name": "FormatMessageA",
+          "rva": "0x1b9a338"
+        },
+        {
+          "name": "GetCurrentDirectoryW",
+          "rva": "0x1b9a340"
+        },
+        {
+          "name": "GetDriveTypeW",
+          "rva": "0x1b9a348"
+        },
+        {
+          "name": "WideCharToMultiByte",
+          "rva": "0x1b9a350"
+        },
+        {
+          "name": "GetFileTime",
+          "rva": "0x1b9a358"
+        },
+        {
+          "name": "FindFirstFileW",
+          "rva": "0x1b9a360"
+        },
+        {
+          "name": "SetFileTime",
+          "rva": "0x1b9a368"
+        },
+        {
+          "name": "MoveFileW",
+          "rva": "0x1b9a370"
+        },
+        {
+          "name": "GetFileAttributesW",
+          "rva": "0x1b9a378"
+        },
+        {
+          "name": "FileTimeToLocalFileTime",
+          "rva": "0x1b9a380"
+        },
+        {
+          "name": "FileTimeToSystemTime",
+          "rva": "0x1b9a388"
+        },
+        {
+          "name": "SystemTimeToFileTime",
+          "rva": "0x1b9a390"
+        },
+        {
+          "name": "LocalFileTimeToFileTime",
+          "rva": "0x1b9a398"
+        },
+        {
+          "name": "OutputDebugStringA",
+          "rva": "0x1b9a3a0"
+        },
+        {
+          "name": "QueryPerformanceFrequency",
+          "rva": "0x1b9a3a8"
+        },
+        {
+          "name": "QueryPerformanceCounter",
+          "rva": "0x1b9a3b0"
+        },
+        {
+          "name": "GetTickCount64",
+          "rva": "0x1b9a3b8"
+        },
+        {
+          "name": "GetTickCount",
+          "rva": "0x1b9a3c0"
+        },
+        {
+          "name": "SetThreadAffinityMask",
+          "rva": "0x1b9a3c8"
+        },
+        {
+          "name": "LocalAlloc",
+          "rva": "0x1b9a3d0"
+        },
+        {
+          "name": "GetSystemDirectoryW",
+          "rva": "0x1b9a3d8"
+        },
+        {
+          "name": "lstrcmpA",
+          "rva": "0x1b9a3e0"
+        },
+        {
+          "name": "SetLastError",
+          "rva": "0x1b9a3e8"
+        },
+        {
+          "name": "LoadLibraryExW",
+          "rva": "0x1b9a3f0"
+        },
+        {
+          "name": "GetFullPathNameW",
+          "rva": "0x1b9a3f8"
+        },
+        {
+          "name": "VerifyVersionInfoW",
+          "rva": "0x1b9a400"
+        },
+        {
+          "name": "VerSetConditionMask",
+          "rva": "0x1b9a408"
+        },
+        {
+          "name": "OutputDebugStringW",
+          "rva": "0x1b9a410"
+        },
+        {
+          "name": "CreateProcessW",
+          "rva": "0x1b9a418"
+        },
+        {
+          "name": "CreateProcessA",
+          "rva": "0x1b9a420"
+        },
+        {
+          "name": "SetEnvironmentVariableW",
+          "rva": "0x1b9a428"
+        },
+        {
+          "name": "GetModuleFileNameA",
+          "rva": "0x1b9a430"
+        },
+        {
+          "name": "GetModuleHandleA",
+          "rva": "0x1b9a438"
+        },
+        {
+          "name": "InitializeSRWLock",
+          "rva": "0x1b9a440"
+        },
+        {
+          "name": "TryAcquireSRWLockExclusive",
+          "rva": "0x1b9a448"
+        },
+        {
+          "name": "TryAcquireSRWLockShared",
+          "rva": "0x1b9a450"
+        },
+        {
+          "name": "ReleaseSRWLockExclusive",
+          "rva": "0x1b9a458"
+        },
+        {
+          "name": "AcquireSRWLockExclusive",
+          "rva": "0x1b9a460"
+        },
+        {
+          "name": "ReleaseSRWLockShared",
+          "rva": "0x1b9a468"
+        },
+        {
+          "name": "AcquireSRWLockShared",
+          "rva": "0x1b9a470"
+        },
+        {
+          "name": "WakeAllConditionVariable",
+          "rva": "0x1b9a478"
+        },
+        {
+          "name": "InitializeConditionVariable",
+          "rva": "0x1b9a480"
+        },
+        {
+          "name": "GetStartupInfoW",
+          "rva": "0x1b9a488"
+        },
+        {
+          "name": "IsProcessorFeaturePresent",
+          "rva": "0x1b9a490"
+        },
+        {
+          "name": "TerminateProcess",
+          "rva": "0x1b9a498"
+        },
+        {
+          "name": "SetUnhandledExceptionFilter",
+          "rva": "0x1b9a4a0"
+        },
+        {
+          "name": "UnhandledExceptionFilter",
+          "rva": "0x1b9a4a8"
+        },
+        {
+          "name": "RtlVirtualUnwind",
+          "rva": "0x1b9a4b0"
+        },
+        {
+          "name": "RtlLookupFunctionEntry",
+          "rva": "0x1b9a4b8"
+        },
+        {
+          "name": "RtlCaptureContext",
+          "rva": "0x1b9a4c0"
+        },
+        {
+          "name": "InitializeSListHead",
+          "rva": "0x1b9a4c8"
+        },
+        {
+          "name": "GetLocaleInfoW",
+          "rva": "0x1b9a4d0"
+        },
+        {
+          "name": "LCMapStringW",
+          "rva": "0x1b9a4d8"
+        },
+        {
+          "name": "CompareStringW",
+          "rva": "0x1b9a4e0"
+        },
+        {
+          "name": "GetStringTypeW",
+          "rva": "0x1b9a4e8"
+        },
+        {
+          "name": "GetCPInfo",
+          "rva": "0x1b9a4f0"
+        },
+        {
+          "name": "DecodePointer",
+          "rva": "0x1b9a4f8"
+        },
+        {
+          "name": "EncodePointer",
+          "rva": "0x1b9a500"
+        },
+        {
+          "name": "GetSystemTimeAsFileTime",
+          "rva": "0x1b9a508"
+        },
+        {
+          "name": "TlsFree",
+          "rva": "0x1b9a510"
+        },
+        {
+          "name": "TlsSetValue",
+          "rva": "0x1b9a518"
+        },
+        {
+          "name": "TlsGetValue",
+          "rva": "0x1b9a520"
+        },
+        {
+          "name": "TlsAlloc",
+          "rva": "0x1b9a528"
+        },
+        {
+          "name": "InitializeCriticalSectionAndSpinCount",
+          "rva": "0x1b9a530"
+        },
+        {
+          "name": "FormatMessageW",
+          "rva": "0x1b9a538"
+        },
+        {
+          "name": "GetNativeSystemInfo",
+          "rva": "0x1b9a540"
+        },
+        {
+          "name": "GetCurrentThread",
+          "rva": "0x1b9a548"
+        },
+        {
+          "name": "WaitForSingleObjectEx",
+          "rva": "0x1b9a550"
+        },
+        {
+          "name": "DuplicateHandle",
+          "rva": "0x1b9a558"
+        },
+        {
+          "name": "SignalObjectAndWait",
+          "rva": "0x1b9a560"
+        },
+        {
+          "name": "SwitchToThread",
+          "rva": "0x1b9a568"
+        },
+        {
+          "name": "CreateThread",
+          "rva": "0x1b9a570"
+        },
+        {
+          "name": "GetThreadPriority",
+          "rva": "0x1b9a578"
+        },
+        {
+          "name": "CreateTimerQueueTimer",
+          "rva": "0x1b9a580"
+        },
+        {
+          "name": "ChangeTimerQueueTimer",
+          "rva": "0x1b9a588"
+        },
+        {
+          "name": "DeleteTimerQueueTimer",
+          "rva": "0x1b9a590"
+        },
+        {
+          "name": "GetNumaHighestNodeNumber",
+          "rva": "0x1b9a598"
+        },
+        {
+          "name": "GetProcessAffinityMask",
+          "rva": "0x1b9a5a0"
+        },
+        {
+          "name": "RegisterWaitForSingleObject",
+          "rva": "0x1b9a5a8"
+        },
+        {
+          "name": "UnregisterWait",
+          "rva": "0x1b9a5b0"
+        },
+        {
+          "name": "GetThreadTimes",
+          "rva": "0x1b9a5b8"
+        },
+        {
+          "name": "GetOEMCP",
+          "rva": "0x1b9a5c0"
+        },
+        {
+          "name": "GetCommandLineA",
+          "rva": "0x1b9a5c8"
+        },
+        {
+          "name": "GetCommandLineW",
+          "rva": "0x1b9a5d0"
+        },
+        {
+          "name": "GetEnvironmentStringsW",
+          "rva": "0x1b9a5d8"
+        },
+        {
+          "name": "FreeEnvironmentStringsW",
+          "rva": "0x1b9a5e0"
+        },
+        {
+          "name": "SetEnvironmentVariableA",
+          "rva": "0x1b9a5e8"
+        },
+        {
+          "name": "SetStdHandle",
+          "rva": "0x1b9a5f0"
+        },
+        {
+          "name": "SetCurrentDirectoryW",
+          "rva": "0x1b9a5f8"
+        },
+        {
+          "name": "WriteConsoleW",
+          "rva": "0x1b9a600"
+        },
+        {
+          "name": "HeapSize",
+          "rva": "0x1b9a608"
+        },
+        {
+          "name": "RtlCaptureStackBackTrace",
+          "rva": "0x1b9a610"
+        },
+        {
+          "name": "CreateSemaphoreA",
+          "rva": "0x1b9a618"
+        },
+        {
+          "name": "FreeLibraryAndExitThread",
+          "rva": "0x1b9a620"
+        },
+        {
+          "name": "SetEndOfFile",
+          "rva": "0x1b9a628"
+        },
+        {
+          "name": "GetProcAddress",
+          "rva": "0x1b9a630"
+        },
+        {
+          "name": "GetModuleHandleExW",
+          "rva": "0x1b9a638"
+        },
+        {
+          "name": "ExitThread",
+          "rva": "0x1b9a640"
+        },
+        {
+          "name": "RtlUnwindEx",
+          "rva": "0x1b9a648"
+        },
+        {
+          "name": "RtlPcToFileHeader",
+          "rva": "0x1b9a650"
+        },
+        {
+          "name": "LoadLibraryW",
+          "rva": "0x1b9a658"
+        },
+        {
+          "name": "WaitForMultipleObjectsEx",
+          "rva": "0x1b9a660"
+        },
+        {
+          "name": "UnregisterWaitEx",
+          "rva": "0x1b9a668"
+        },
+        {
+          "name": "QueryDepthSList",
+          "rva": "0x1b9a670"
+        },
+        {
+          "name": "InterlockedFlushSList",
+          "rva": "0x1b9a678"
+        },
+        {
+          "name": "InterlockedPushEntrySList",
+          "rva": "0x1b9a680"
+        },
+        {
+          "name": "InterlockedPopEntrySList",
+          "rva": "0x1b9a688"
+        },
+        {
+          "name": "GetVersionExW",
+          "rva": "0x1b9a690"
+        },
+        {
+          "name": "VirtualProtect",
+          "rva": "0x1b9a698"
+        },
+        {
+          "name": "SetProcessAffinityMask",
+          "rva": "0x1b9a6a0"
+        },
+        {
+          "name": "CreateTimerQueue",
+          "rva": "0x1b9a6a8"
+        }
+      ],
+      "USER32.dll": [
+        {
+          "name": "CallWindowProcA",
+          "rva": "0x1b9a770"
+        },
+        {
+          "name": "EnumDisplayDevicesA",
+          "rva": "0x1b9a778"
+        },
+        {
+          "name": "EnumDisplaySettingsA",
+          "rva": "0x1b9a780"
+        },
+        {
+          "name": "CharNextA",
+          "rva": "0x1b9a788"
+        },
+        {
+          "name": "CharNextW",
+          "rva": "0x1b9a790"
+        },
+        {
+          "name": "GetWindowLongPtrA",
+          "rva": "0x1b9a798"
+        },
+        {
+          "name": "GetMonitorInfoA",
+          "rva": "0x1b9a7a0"
+        },
+        {
+          "name": "MessageBoxW",
+          "rva": "0x1b9a7a8"
+        },
+        {
+          "name": "PeekMessageW",
+          "rva": "0x1b9a7b0"
+        },
+        {
+          "name": "SetWindowLongW",
+          "rva": "0x1b9a7b8"
+        },
+        {
+          "name": "GetWindowTextW",
+          "rva": "0x1b9a7c0"
+        },
+        {
+          "name": "GetMessageW",
+          "rva": "0x1b9a7c8"
+        },
+        {
+          "name": "DefWindowProcW",
+          "rva": "0x1b9a7d0"
+        },
+        {
+          "name": "AdjustWindowRectEx",
+          "rva": "0x1b9a7d8"
+        },
+        {
+          "name": "PostMessageW",
+          "rva": "0x1b9a7e0"
+        },
+        {
+          "name": "GetDC",
+          "rva": "0x1b9a7e8"
+        },
+        {
+          "name": "SetWindowPos",
+          "rva": "0x1b9a7f0"
+        },
+        {
+          "name": "MonitorFromWindow",
+          "rva": "0x1b9a7f8"
+        },
+        {
+          "name": "SetWindowLongPtrW",
+          "rva": "0x1b9a800"
+        },
+        {
+          "name": "EnumDisplayMonitors",
+          "rva": "0x1b9a808"
+        },
+        {
+          "name": "CreateWindowExW",
+          "rva": "0x1b9a810"
+        },
+        {
+          "name": "GetSystemMetrics",
+          "rva": "0x1b9a818"
+        },
+        {
+          "name": "UnregisterClassW",
+          "rva": "0x1b9a820"
+        },
+        {
+          "name": "GetWindowLongPtrW",
+          "rva": "0x1b9a828"
+        },
+        {
+          "name": "RegisterClassExW",
+          "rva": "0x1b9a830"
+        },
+        {
+          "name": "ShowWindow",
+          "rva": "0x1b9a838"
+        },
+        {
+          "name": "DispatchMessageW",
+          "rva": "0x1b9a840"
+        },
+        {
+          "name": "GetMonitorInfoW",
+          "rva": "0x1b9a848"
+        },
+        {
+          "name": "TranslateMessage",
+          "rva": "0x1b9a850"
+        },
+        {
+          "name": "LoadCursorW",
+          "rva": "0x1b9a858"
+        },
+        {
+          "name": "PostQuitMessage",
+          "rva": "0x1b9a860"
+        },
+        {
+          "name": "SetForegroundWindow",
+          "rva": "0x1b9a868"
+        },
+        {
+          "name": "LoadImageW",
+          "rva": "0x1b9a870"
+        },
+        {
+          "name": "ShowCursor",
+          "rva": "0x1b9a878"
+        },
+        {
+          "name": "ReleaseDC",
+          "rva": "0x1b9a880"
+        },
+        {
+          "name": "BeginPaint",
+          "rva": "0x1b9a888"
+        },
+        {
+          "name": "EndPaint",
+          "rva": "0x1b9a890"
+        },
+        {
+          "name": "SetWindowLongPtrA",
+          "rva": "0x1b9a898"
+        }
+      ],
+      "GDI32.dll": [
+        {
+          "name": "CreateDIBSection",
+          "rva": "0x1b9a030"
+        },
+        {
+          "name": "SetBrushOrgEx",
+          "rva": "0x1b9a038"
+        },
+        {
+          "name": "BitBlt",
+          "rva": "0x1b9a040"
+        },
+        {
+          "name": "SelectObject",
+          "rva": "0x1b9a048"
+        },
+        {
+          "name": "DeleteObject",
+          "rva": "0x1b9a050"
+        },
+        {
+          "name": "CreateCompatibleDC",
+          "rva": "0x1b9a058"
+        },
+        {
+          "name": "StretchBlt",
+          "rva": "0x1b9a060"
+        },
+        {
+          "name": "DeleteDC",
+          "rva": "0x1b9a068"
+        },
+        {
+          "name": "SetStretchBltMode",
+          "rva": "0x1b9a070"
+        }
+      ],
+      "ADVAPI32.dll": [
+        {
+          "name": "GetUserNameW",
+          "rva": "0x1b9a000"
+        }
+      ],
+      "SHELL32.dll": [
+        {
+          "name": "CommandLineToArgvW",
+          "rva": "0x1b9a758"
+        },
+        {
+          "name": "SHGetKnownFolderPath",
+          "rva": "0x1b9a760"
+        }
+      ],
+      "ole32.dll": [
+        {
+          "name": "CoInitializeEx",
+          "rva": "0x1b9aa00"
+        },
+        {
+          "name": "CoInitialize",
+          "rva": "0x1b9aa08"
+        },
+        {
+          "name": "CoSetProxyBlanket",
+          "rva": "0x1b9aa10"
+        },
+        {
+          "name": "CoTaskMemFree",
+          "rva": "0x1b9aa18"
+        },
+        {
+          "name": "PropVariantClear",
+          "rva": "0x1b9aa20"
+        },
+        {
+          "name": "CoUninitialize",
+          "rva": "0x1b9aa28"
+        },
+        {
+          "name": "CreateStreamOnHGlobal",
+          "rva": "0x1b9aa30"
+        },
+        {
+          "name": "CoCreateInstance",
+          "rva": "0x1b9aa38"
+        },
+        {
+          "name": "CoTaskMemAlloc",
+          "rva": "0x1b9aa40"
+        },
+        {
+          "name": "CoGetClassObject",
+          "rva": "0x1b9aa48"
+        }
+      ],
+      "OLEAUT32.dll": [
+        {
+          "name": "VariantInit",
+          "rva": "0x1b9a748"
+        }
+      ],
+      "VCOMP140.DLL": [
+        {
+          "name": "_vcomp_set_num_threads",
+          "rva": "0x1b9a8a8"
+        },
+        {
+          "name": "_vcomp_fork",
+          "rva": "0x1b9a8b0"
+        },
+        {
+          "name": "_vcomp_for_static_init",
+          "rva": "0x1b9a8b8"
+        },
+        {
+          "name": "_vcomp_for_static_end",
+          "rva": "0x1b9a8c0"
+        },
+        {
+          "name": "_vcomp_for_dynamic_next",
+          "rva": "0x1b9a8c8"
+        },
+        {
+          "name": "_vcomp_for_dynamic_init",
+          "rva": "0x1b9a8d0"
+        },
+        {
+          "name": "_vcomp_barrier",
+          "rva": "0x1b9a8d8"
+        },
+        {
+          "name": "omp_set_num_threads",
+          "rva": "0x1b9a8e0"
+        },
+        {
+          "name": "omp_get_num_procs",
+          "rva": "0x1b9a8e8"
+        }
+      ],
+      "D3DCOMPILER_43.dll": [
+        {
+          "name": "D3DReflect",
+          "rva": "0x1b9a010"
+        }
+      ],
+      "dwmapi.dll": [
+        {
+          "name": "DwmGetCompositionTimingInfo",
+          "rva": "0x1b9a9d8"
+        }
+      ],
+      "XINPUT1_3.dll": [
+        {
+          "name": "#2",
+          "rva": "0x1b9a988"
+        },
+        {
+          "name": "#3",
+          "rva": "0x1b9a990"
+        },
+        {
+          "name": "#4",
+          "rva": "0x1b9a998"
+        }
+      ],
+      "d3d9.dll": [
+        {
+          "name": "Direct3DCreate9Ex",
+          "rva": "0x1b9a9b8"
+        }
+      ],
+      "MF.dll": [
+        {
+          "name": "MFGetService",
+          "rva": "0x1b9a6b8"
+        }
+      ],
+      "MFPlat.DLL": [
+        {
+          "name": "MFStartup",
+          "rva": "0x1b9a6c8"
+        },
+        {
+          "name": "MFInvokeCallback",
+          "rva": "0x1b9a6d0"
+        },
+        {
+          "name": "MFCreateSample",
+          "rva": "0x1b9a6d8"
+        },
+        {
+          "name": "MFShutdown",
+          "rva": "0x1b9a6e0"
+        },
+        {
+          "name": "MFCreateMemoryBuffer",
+          "rva": "0x1b9a6e8"
+        },
+        {
+          "name": "MFCreateWaveFormatExFromMFMediaType",
+          "rva": "0x1b9a6f0"
+        },
+        {
+          "name": "MFCreateMFVideoFormatFromMFMediaType",
+          "rva": "0x1b9a6f8"
+        },
+        {
+          "name": "MFCreateMediaType",
+          "rva": "0x1b9a700"
+        },
+        {
+          "name": "MFCreateAttributes",
+          "rva": "0x1b9a708"
+        },
+        {
+          "name": "MFCreateAlignedMemoryBuffer",
+          "rva": "0x1b9a710"
+        },
+        {
+          "name": "MFPutWorkItem",
+          "rva": "0x1b9a718"
+        },
+        {
+          "name": "MFCreateAsyncResult",
+          "rva": "0x1b9a720"
+        },
+        {
+          "name": "MFCreateFile",
+          "rva": "0x1b9a728"
+        }
+      ],
+      "MFReadWrite.dll": [
+        {
+          "name": "MFCreateSourceReaderFromByteStream",
+          "rva": "0x1b9a738"
+        }
+      ],
+      "dxva2.dll": [
+        {
+          "name": "DXVA2CreateVideoService",
+          "rva": "0x1b9a9e8"
+        },
+        {
+          "name": "DXVA2CreateDirect3DDeviceManager9",
+          "rva": "0x1b9a9f0"
+        }
+      ],
+      "d3d11.dll": [
+        {
+          "name": "D3D11CreateDevice",
+          "rva": "0x1b9a9a8"
+        }
+      ]
+    }
+  },
+  "target": {
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round\\DOA6LR.exe",
+    "sha256": "35e9949d790afbb963c2a1ed16fecc0f2c4dc214271d5240791404abb77bc9ea",
+    "imports": {
+      "KERNEL32.dll": [
+        {
+          "name": "SizeofResource",
+          "rva": "0x41ba090"
+        },
+        {
+          "name": "HeapSize",
+          "rva": "0x41ba098"
+        },
+        {
+          "name": "GetProcessHeap",
+          "rva": "0x41ba0a0"
+        },
+        {
+          "name": "FreeEnvironmentStringsW",
+          "rva": "0x41ba0a8"
+        },
+        {
+          "name": "GetEnvironmentStringsW",
+          "rva": "0x41ba0b0"
+        },
+        {
+          "name": "GetCurrentProcess",
+          "rva": "0x41ba0b8"
+        },
+        {
+          "name": "GetCommandLineW",
+          "rva": "0x41ba0c0"
+        },
+        {
+          "name": "SetEndOfFile",
+          "rva": "0x41ba0c8"
+        },
+        {
+          "name": "GetOEMCP",
+          "rva": "0x41ba0d0"
+        },
+        {
+          "name": "WriteConsoleW",
+          "rva": "0x41ba0d8"
+        },
+        {
+          "name": "GetACP",
+          "rva": "0x41ba0e0"
+        },
+        {
+          "name": "GetModuleFileNameW",
+          "rva": "0x41ba0e8"
+        },
+        {
+          "name": "IsValidCodePage",
+          "rva": "0x41ba0f0"
+        },
+        {
+          "name": "GetConsoleOutputCP",
+          "rva": "0x41ba0f8"
+        },
+        {
+          "name": "HeapReAlloc",
+          "rva": "0x41ba100"
+        },
+        {
+          "name": "SetFilePointerEx",
+          "rva": "0x41ba108"
+        },
+        {
+          "name": "CreateMutexW",
+          "rva": "0x41ba110"
+        },
+        {
+          "name": "ReadConsoleW",
+          "rva": "0x41ba118"
+        },
+        {
+          "name": "GetConsoleMode",
+          "rva": "0x41ba120"
+        },
+        {
+          "name": "EnumSystemLocalesW",
+          "rva": "0x41ba128"
+        },
+        {
+          "name": "DebugBreak",
+          "rva": "0x41ba130"
+        },
+        {
+          "name": "K32EnumProcessModulesEx",
+          "rva": "0x41ba138"
+        },
+        {
+          "name": "MultiByteToWideChar",
+          "rva": "0x41ba140"
+        },
+        {
+          "name": "Sleep",
+          "rva": "0x41ba148"
+        },
+        {
+          "name": "GetTickCount64",
+          "rva": "0x41ba150"
+        },
+        {
+          "name": "GetUserDefaultLCID",
+          "rva": "0x41ba158"
+        },
+        {
+          "name": "GetLastError",
+          "rva": "0x41ba160"
+        },
+        {
+          "name": "GetLogicalProcessorInformation",
+          "rva": "0x41ba168"
+        },
+        {
+          "name": "IsValidLocale",
+          "rva": "0x41ba170"
+        },
+        {
+          "name": "GetTimeFormatW",
+          "rva": "0x41ba178"
+        },
+        {
+          "name": "LockResource",
+          "rva": "0x41ba180"
+        },
+        {
+          "name": "GlobalAlloc",
+          "rva": "0x41ba188"
+        },
+        {
+          "name": "DeleteFileW",
+          "rva": "0x41ba190"
+        },
+        {
+          "name": "CloseHandle",
+          "rva": "0x41ba198"
+        },
+        {
+          "name": "GetDateFormatW",
+          "rva": "0x41ba1a0"
+        },
+        {
+          "name": "GetTimeZoneInformation",
+          "rva": "0x41ba1a8"
+        },
+        {
+          "name": "LoadResource",
+          "rva": "0x41ba1b0"
+        },
+        {
+          "name": "FindResourceW",
+          "rva": "0x41ba1b8"
+        },
+        {
+          "name": "SetConsoleCtrlHandler",
+          "rva": "0x41ba1c0"
+        },
+        {
+          "name": "GetFileType",
+          "rva": "0x41ba1c8"
+        },
+        {
+          "name": "HeapAlloc",
+          "rva": "0x41ba1d0"
+        },
+        {
+          "name": "GlobalLock",
+          "rva": "0x41ba1d8"
+        },
+        {
+          "name": "HeapFree",
+          "rva": "0x41ba1e0"
+        },
+        {
+          "name": "GetStdHandle",
+          "rva": "0x41ba1e8"
+        },
+        {
+          "name": "LocalFree",
+          "rva": "0x41ba1f0"
+        },
+        {
+          "name": "CreateMutexExW",
+          "rva": "0x41ba1f8"
+        },
+        {
+          "name": "ExitProcess",
+          "rva": "0x41ba200"
+        },
+        {
+          "name": "GetModuleHandleExW",
+          "rva": "0x41ba208"
+        },
+        {
+          "name": "ExitThread",
+          "rva": "0x41ba210"
+        },
+        {
+          "name": "WideCharToMultiByte",
+          "rva": "0x41ba218"
+        },
+        {
+          "name": "RtlPcToFileHeader",
+          "rva": "0x41ba220"
+        },
+        {
+          "name": "RtlUnwindEx",
+          "rva": "0x41ba228"
+        },
+        {
+          "name": "WaitForMultipleObjectsEx",
+          "rva": "0x41ba230"
+        },
+        {
+          "name": "UnregisterWaitEx",
+          "rva": "0x41ba238"
+        },
+        {
+          "name": "SetThreadpoolTimer",
+          "rva": "0x41ba240"
+        },
+        {
+          "name": "QueryDepthSList",
+          "rva": "0x41ba248"
+        },
+        {
+          "name": "HeapQueryInformation",
+          "rva": "0x41ba250"
+        },
+        {
+          "name": "GlobalUnlock",
+          "rva": "0x41ba258"
+        },
+        {
+          "name": "CloseThreadpoolTimer",
+          "rva": "0x41ba260"
+        },
+        {
+          "name": "InterlockedFlushSList",
+          "rva": "0x41ba268"
+        },
+        {
+          "name": "InterlockedPushEntrySList",
+          "rva": "0x41ba270"
+        },
+        {
+          "name": "InterlockedPopEntrySList",
+          "rva": "0x41ba278"
+        },
+        {
+          "name": "WaitForThreadpoolTimerCallbacks",
+          "rva": "0x41ba280"
+        },
+        {
+          "name": "CreateSemaphoreExW",
+          "rva": "0x41ba288"
+        },
+        {
+          "name": "SetProcessAffinityMask",
+          "rva": "0x41ba290"
+        },
+        {
+          "name": "VirtualProtect",
+          "rva": "0x41ba298"
+        },
+        {
+          "name": "GetVersionExW",
+          "rva": "0x41ba2a0"
+        },
+        {
+          "name": "GetModuleHandleW",
+          "rva": "0x41ba2a8"
+        },
+        {
+          "name": "FreeLibraryAndExitThread",
+          "rva": "0x41ba2b0"
+        },
+        {
+          "name": "GetThreadTimes",
+          "rva": "0x41ba2b8"
+        },
+        {
+          "name": "UnregisterWait",
+          "rva": "0x41ba2c0"
+        },
+        {
+          "name": "RegisterWaitForSingleObject",
+          "rva": "0x41ba2c8"
+        },
+        {
+          "name": "SetThreadAffinityMask",
+          "rva": "0x41ba2d0"
+        },
+        {
+          "name": "GetProcessAffinityMask",
+          "rva": "0x41ba2d8"
+        },
+        {
+          "name": "lstrcmpW",
+          "rva": "0x41ba2e0"
+        },
+        {
+          "name": "VirtualFree",
+          "rva": "0x41ba2e8"
+        },
+        {
+          "name": "VirtualAlloc",
+          "rva": "0x41ba2f0"
+        },
+        {
+          "name": "GetNumaHighestNodeNumber",
+          "rva": "0x41ba2f8"
+        },
+        {
+          "name": "SetStdHandle",
+          "rva": "0x41ba300"
+        },
+        {
+          "name": "DeleteTimerQueueTimer",
+          "rva": "0x41ba308"
+        },
+        {
+          "name": "ChangeTimerQueueTimer",
+          "rva": "0x41ba310"
+        },
+        {
+          "name": "CreateDirectoryW",
+          "rva": "0x41ba318"
+        },
+        {
+          "name": "ReadFile",
+          "rva": "0x41ba320"
+        },
+        {
+          "name": "GetFileSizeEx",
+          "rva": "0x41ba328"
+        },
+        {
+          "name": "FindFirstFileExW",
+          "rva": "0x41ba330"
+        },
+        {
+          "name": "FindNextFileW",
+          "rva": "0x41ba338"
+        },
+        {
+          "name": "WriteFile",
+          "rva": "0x41ba340"
+        },
+        {
+          "name": "RemoveDirectoryW",
+          "rva": "0x41ba348"
+        },
+        {
+          "name": "CreateTimerQueueTimer",
+          "rva": "0x41ba350"
+        },
+        {
+          "name": "GetTempPathW",
+          "rva": "0x41ba358"
+        },
+        {
+          "name": "FindClose",
+          "rva": "0x41ba360"
+        },
+        {
+          "name": "CreateFileW",
+          "rva": "0x41ba368"
+        },
+        {
+          "name": "GetCurrentThreadId",
+          "rva": "0x41ba370"
+        },
+        {
+          "name": "GetThreadPriority",
+          "rva": "0x41ba378"
+        },
+        {
+          "name": "LoadLibraryW",
+          "rva": "0x41ba380"
+        },
+        {
+          "name": "GetLocalTime",
+          "rva": "0x41ba388"
+        },
+        {
+          "name": "GetProcAddress",
+          "rva": "0x41ba390"
+        },
+        {
+          "name": "SetEvent",
+          "rva": "0x41ba398"
+        },
+        {
+          "name": "GetCurrentProcessId",
+          "rva": "0x41ba3a0"
+        },
+        {
+          "name": "FreeLibrary",
+          "rva": "0x41ba3a8"
+        },
+        {
+          "name": "GetTempFileNameW",
+          "rva": "0x41ba3b0"
+        },
+        {
+          "name": "IsDebuggerPresent",
+          "rva": "0x41ba3b8"
+        },
+        {
+          "name": "FlushFileBuffers",
+          "rva": "0x41ba3c0"
+        },
+        {
+          "name": "CreateThread",
+          "rva": "0x41ba3c8"
+        },
+        {
+          "name": "SetThreadPriority",
+          "rva": "0x41ba3d0"
+        },
+        {
+          "name": "WaitForSingleObject",
+          "rva": "0x41ba3d8"
+        },
+        {
+          "name": "ResumeThread",
+          "rva": "0x41ba3e0"
+        },
+        {
+          "name": "CreateEventW",
+          "rva": "0x41ba3e8"
+        },
+        {
+          "name": "GetExitCodeThread",
+          "rva": "0x41ba3f0"
+        },
+        {
+          "name": "SignalObjectAndWait",
+          "rva": "0x41ba3f8"
+        },
+        {
+          "name": "CreateTimerQueue",
+          "rva": "0x41ba400"
+        },
+        {
+          "name": "InitializeSListHead",
+          "rva": "0x41ba408"
+        },
+        {
+          "name": "LeaveCriticalSection",
+          "rva": "0x41ba410"
+        },
+        {
+          "name": "GetStartupInfoW",
+          "rva": "0x41ba418"
+        },
+        {
+          "name": "OpenSemaphoreW",
+          "rva": "0x41ba420"
+        },
+        {
+          "name": "IsProcessorFeaturePresent",
+          "rva": "0x41ba428"
+        },
+        {
+          "name": "TerminateProcess",
+          "rva": "0x41ba430"
+        },
+        {
+          "name": "SetUnhandledExceptionFilter",
+          "rva": "0x41ba438"
+        },
+        {
+          "name": "UnhandledExceptionFilter",
+          "rva": "0x41ba440"
+        },
+        {
+          "name": "RtlVirtualUnwind",
+          "rva": "0x41ba448"
+        },
+        {
+          "name": "SetCurrentDirectoryW",
+          "rva": "0x41ba450"
+        },
+        {
+          "name": "RtlCaptureStackBackTrace",
+          "rva": "0x41ba458"
+        },
+        {
+          "name": "RtlUnwind",
+          "rva": "0x41ba460"
+        },
+        {
+          "name": "RtlLookupFunctionEntry",
+          "rva": "0x41ba468"
+        },
+        {
+          "name": "RtlCaptureContext",
+          "rva": "0x41ba470"
+        },
+        {
+          "name": "GetLocaleInfoW",
+          "rva": "0x41ba478"
+        },
+        {
+          "name": "LCMapStringW",
+          "rva": "0x41ba480"
+        },
+        {
+          "name": "CompareStringW",
+          "rva": "0x41ba488"
+        },
+        {
+          "name": "GetStringTypeW",
+          "rva": "0x41ba490"
+        },
+        {
+          "name": "GetCPInfo",
+          "rva": "0x41ba498"
+        },
+        {
+          "name": "DecodePointer",
+          "rva": "0x41ba4a0"
+        },
+        {
+          "name": "EncodePointer",
+          "rva": "0x41ba4a8"
+        },
+        {
+          "name": "GetTickCount",
+          "rva": "0x41ba4b0"
+        },
+        {
+          "name": "GetSystemTimeAsFileTime",
+          "rva": "0x41ba4b8"
+        },
+        {
+          "name": "TlsFree",
+          "rva": "0x41ba4c0"
+        },
+        {
+          "name": "TlsSetValue",
+          "rva": "0x41ba4c8"
+        },
+        {
+          "name": "TlsGetValue",
+          "rva": "0x41ba4d0"
+        },
+        {
+          "name": "CreateEventA",
+          "rva": "0x41ba4d8"
+        },
+        {
+          "name": "SetThreadInformation",
+          "rva": "0x41ba4e0"
+        },
+        {
+          "name": "SetThreadPriorityBoost",
+          "rva": "0x41ba4e8"
+        },
+        {
+          "name": "SetThreadSelectedCpuSets",
+          "rva": "0x41ba4f0"
+        },
+        {
+          "name": "SetThreadDescription",
+          "rva": "0x41ba4f8"
+        },
+        {
+          "name": "GetSystemInfo",
+          "rva": "0x41ba500"
+        },
+        {
+          "name": "GetCurrentThread",
+          "rva": "0x41ba508"
+        },
+        {
+          "name": "TryEnterCriticalSection",
+          "rva": "0x41ba510"
+        },
+        {
+          "name": "LoadLibraryExW",
+          "rva": "0x41ba518"
+        },
+        {
+          "name": "LocalAlloc",
+          "rva": "0x41ba520"
+        },
+        {
+          "name": "CreateMutexA",
+          "rva": "0x41ba528"
+        },
+        {
+          "name": "ReleaseMutex",
+          "rva": "0x41ba530"
+        },
+        {
+          "name": "SuspendThread",
+          "rva": "0x41ba538"
+        },
+        {
+          "name": "ResetEvent",
+          "rva": "0x41ba540"
+        },
+        {
+          "name": "OpenThread",
+          "rva": "0x41ba548"
+        },
+        {
+          "name": "DeleteCriticalSection",
+          "rva": "0x41ba550"
+        },
+        {
+          "name": "InitializeCriticalSection",
+          "rva": "0x41ba558"
+        },
+        {
+          "name": "WaitForMultipleObjects",
+          "rva": "0x41ba560"
+        },
+        {
+          "name": "FormatMessageA",
+          "rva": "0x41ba568"
+        },
+        {
+          "name": "CreateEventExA",
+          "rva": "0x41ba570"
+        },
+        {
+          "name": "CreateSemaphoreA",
+          "rva": "0x41ba578"
+        },
+        {
+          "name": "ReleaseSemaphore",
+          "rva": "0x41ba580"
+        },
+        {
+          "name": "InitializeSRWLock",
+          "rva": "0x41ba588"
+        },
+        {
+          "name": "AcquireSRWLockShared",
+          "rva": "0x41ba590"
+        },
+        {
+          "name": "AcquireSRWLockExclusive",
+          "rva": "0x41ba598"
+        },
+        {
+          "name": "ReleaseSRWLockShared",
+          "rva": "0x41ba5a0"
+        },
+        {
+          "name": "ReleaseSRWLockExclusive",
+          "rva": "0x41ba5a8"
+        },
+        {
+          "name": "InitializeConditionVariable",
+          "rva": "0x41ba5b0"
+        },
+        {
+          "name": "TryAcquireSRWLockExclusive",
+          "rva": "0x41ba5b8"
+        },
+        {
+          "name": "WakeAllConditionVariable",
+          "rva": "0x41ba5c0"
+        },
+        {
+          "name": "SleepConditionVariableSRW",
+          "rva": "0x41ba5c8"
+        },
+        {
+          "name": "GetCurrentDirectoryW",
+          "rva": "0x41ba5d0"
+        },
+        {
+          "name": "GetDriveTypeW",
+          "rva": "0x41ba5d8"
+        },
+        {
+          "name": "GetFileTime",
+          "rva": "0x41ba5e0"
+        },
+        {
+          "name": "FindFirstFileW",
+          "rva": "0x41ba5e8"
+        },
+        {
+          "name": "SetFileTime",
+          "rva": "0x41ba5f0"
+        },
+        {
+          "name": "MoveFileW",
+          "rva": "0x41ba5f8"
+        },
+        {
+          "name": "GetFileAttributesW",
+          "rva": "0x41ba600"
+        },
+        {
+          "name": "FileTimeToLocalFileTime",
+          "rva": "0x41ba608"
+        },
+        {
+          "name": "FileTimeToSystemTime",
+          "rva": "0x41ba610"
+        },
+        {
+          "name": "SystemTimeToFileTime",
+          "rva": "0x41ba618"
+        },
+        {
+          "name": "LocalFileTimeToFileTime",
+          "rva": "0x41ba620"
+        },
+        {
+          "name": "OutputDebugStringA",
+          "rva": "0x41ba628"
+        },
+        {
+          "name": "QueryPerformanceFrequency",
+          "rva": "0x41ba630"
+        },
+        {
+          "name": "QueryPerformanceCounter",
+          "rva": "0x41ba638"
+        },
+        {
+          "name": "RaiseException",
+          "rva": "0x41ba640"
+        },
+        {
+          "name": "GetSystemCpuSetInformation",
+          "rva": "0x41ba648"
+        },
+        {
+          "name": "CreateWaitableTimerA",
+          "rva": "0x41ba650"
+        },
+        {
+          "name": "SetWaitableTimer",
+          "rva": "0x41ba658"
+        },
+        {
+          "name": "GetSystemDirectoryW",
+          "rva": "0x41ba660"
+        },
+        {
+          "name": "lstrcmpA",
+          "rva": "0x41ba668"
+        },
+        {
+          "name": "SetLastError",
+          "rva": "0x41ba670"
+        },
+        {
+          "name": "GetFullPathNameW",
+          "rva": "0x41ba678"
+        },
+        {
+          "name": "VerifyVersionInfoW",
+          "rva": "0x41ba680"
+        },
+        {
+          "name": "VerSetConditionMask",
+          "rva": "0x41ba688"
+        },
+        {
+          "name": "OutputDebugStringW",
+          "rva": "0x41ba690"
+        },
+        {
+          "name": "CreateProcessW",
+          "rva": "0x41ba698"
+        },
+        {
+          "name": "CreateProcessA",
+          "rva": "0x41ba6a0"
+        },
+        {
+          "name": "SetEnvironmentVariableW",
+          "rva": "0x41ba6a8"
+        },
+        {
+          "name": "LoadLibraryA",
+          "rva": "0x41ba6b0"
+        },
+        {
+          "name": "GetModuleFileNameA",
+          "rva": "0x41ba6b8"
+        },
+        {
+          "name": "GetModuleHandleA",
+          "rva": "0x41ba6c0"
+        },
+        {
+          "name": "SleepConditionVariableCS",
+          "rva": "0x41ba6c8"
+        },
+        {
+          "name": "WakeConditionVariable",
+          "rva": "0x41ba6d0"
+        },
+        {
+          "name": "TryAcquireSRWLockShared",
+          "rva": "0x41ba6d8"
+        },
+        {
+          "name": "GetCommandLineA",
+          "rva": "0x41ba6e0"
+        },
+        {
+          "name": "LoadLibraryExA",
+          "rva": "0x41ba6e8"
+        },
+        {
+          "name": "TlsAlloc",
+          "rva": "0x41ba6f0"
+        },
+        {
+          "name": "InitializeCriticalSectionAndSpinCount",
+          "rva": "0x41ba6f8"
+        },
+        {
+          "name": "FormatMessageW",
+          "rva": "0x41ba700"
+        },
+        {
+          "name": "GetNativeSystemInfo",
+          "rva": "0x41ba708"
+        },
+        {
+          "name": "SwitchToThread",
+          "rva": "0x41ba710"
+        },
+        {
+          "name": "WaitForSingleObjectEx",
+          "rva": "0x41ba718"
+        },
+        {
+          "name": "DuplicateHandle",
+          "rva": "0x41ba720"
+        },
+        {
+          "name": "CreateSemaphoreW",
+          "rva": "0x41ba728"
+        },
+        {
+          "name": "MoveFileExW",
+          "rva": "0x41ba730"
+        },
+        {
+          "name": "EnterCriticalSection",
+          "rva": "0x41ba738"
+        }
+      ],
+      "WS2_32.dll": [
+        {
+          "name": "InetPtonW",
+          "rva": "0x41ba9c0"
+        },
+        {
+          "name": "WSAStartup",
+          "rva": "0x41ba9c8"
+        },
+        {
+          "name": "send",
+          "rva": "0x41ba9d0"
+        },
+        {
+          "name": "WSAGetLastError",
+          "rva": "0x41ba9d8"
+        },
+        {
+          "name": "socket",
+          "rva": "0x41ba9e0"
+        },
+        {
+          "name": "InetNtopW",
+          "rva": "0x41ba9e8"
+        },
+        {
+          "name": "shutdown",
+          "rva": "0x41ba9f0"
+        },
+        {
+          "name": "closesocket",
+          "rva": "0x41ba9f8"
+        },
+        {
+          "name": "WSACleanup",
+          "rva": "0x41baa00"
+        },
+        {
+          "name": "htons",
+          "rva": "0x41baa08"
+        },
+        {
+          "name": "recvfrom",
+          "rva": "0x41baa10"
+        },
+        {
+          "name": "ioctlsocket",
+          "rva": "0x41baa18"
+        },
+        {
+          "name": "ntohl",
+          "rva": "0x41baa20"
+        },
+        {
+          "name": "ntohs",
+          "rva": "0x41baa28"
+        },
+        {
+          "name": "htonl",
+          "rva": "0x41baa30"
+        },
+        {
+          "name": "getsockname",
+          "rva": "0x41baa38"
+        },
+        {
+          "name": "bind",
+          "rva": "0x41baa40"
+        },
+        {
+          "name": "connect",
+          "rva": "0x41baa48"
+        },
+        {
+          "name": "sendto",
+          "rva": "0x41baa50"
+        }
+      ],
+      "ADVAPI32.dll": [
+        {
+          "name": "GetUserNameW",
+          "rva": "0x41ba000"
+        }
+      ],
+      "USER32.dll": [
+        {
+          "name": "ShowWindow",
+          "rva": "0x41ba7f0"
+        },
+        {
+          "name": "EndPaint",
+          "rva": "0x41ba7f8"
+        },
+        {
+          "name": "BeginPaint",
+          "rva": "0x41ba800"
+        },
+        {
+          "name": "ReleaseDC",
+          "rva": "0x41ba808"
+        },
+        {
+          "name": "ShowCursor",
+          "rva": "0x41ba810"
+        },
+        {
+          "name": "LoadImageW",
+          "rva": "0x41ba818"
+        },
+        {
+          "name": "SetForegroundWindow",
+          "rva": "0x41ba820"
+        },
+        {
+          "name": "GetWindowLongPtrW",
+          "rva": "0x41ba828"
+        },
+        {
+          "name": "EnumDisplayDevicesA",
+          "rva": "0x41ba830"
+        },
+        {
+          "name": "PostQuitMessage",
+          "rva": "0x41ba838"
+        },
+        {
+          "name": "KillTimer",
+          "rva": "0x41ba840"
+        },
+        {
+          "name": "UnregisterClassW",
+          "rva": "0x41ba848"
+        },
+        {
+          "name": "GetSystemMetrics",
+          "rva": "0x41ba850"
+        },
+        {
+          "name": "CreateWindowExW",
+          "rva": "0x41ba858"
+        },
+        {
+          "name": "EnumDisplayMonitors",
+          "rva": "0x41ba860"
+        },
+        {
+          "name": "SetWindowLongPtrW",
+          "rva": "0x41ba868"
+        },
+        {
+          "name": "MonitorFromWindow",
+          "rva": "0x41ba870"
+        },
+        {
+          "name": "SetWindowPos",
+          "rva": "0x41ba878"
+        },
+        {
+          "name": "RegisterClassExW",
+          "rva": "0x41ba880"
+        },
+        {
+          "name": "GetDC",
+          "rva": "0x41ba888"
+        },
+        {
+          "name": "PostMessageW",
+          "rva": "0x41ba890"
+        },
+        {
+          "name": "MessageBoxW",
+          "rva": "0x41ba898"
+        },
+        {
+          "name": "AdjustWindowRectEx",
+          "rva": "0x41ba8a0"
+        },
+        {
+          "name": "DefWindowProcW",
+          "rva": "0x41ba8a8"
+        },
+        {
+          "name": "GetMessageW",
+          "rva": "0x41ba8b0"
+        },
+        {
+          "name": "GetKeyboardLayoutNameW",
+          "rva": "0x41ba8b8"
+        },
+        {
+          "name": "GetWindowTextW",
+          "rva": "0x41ba8c0"
+        },
+        {
+          "name": "SetWindowLongW",
+          "rva": "0x41ba8c8"
+        },
+        {
+          "name": "PeekMessageW",
+          "rva": "0x41ba8d0"
+        },
+        {
+          "name": "SetCursor",
+          "rva": "0x41ba8d8"
+        },
+        {
+          "name": "LoadCursorW",
+          "rva": "0x41ba8e0"
+        },
+        {
+          "name": "DispatchMessageW",
+          "rva": "0x41ba8e8"
+        },
+        {
+          "name": "SetTimer",
+          "rva": "0x41ba8f0"
+        },
+        {
+          "name": "GetMonitorInfoW",
+          "rva": "0x41ba8f8"
+        },
+        {
+          "name": "TrackMouseEvent",
+          "rva": "0x41ba900"
+        },
+        {
+          "name": "MessageBoxA",
+          "rva": "0x41ba908"
+        },
+        {
+          "name": "CharNextA",
+          "rva": "0x41ba910"
+        },
+        {
+          "name": "CharNextW",
+          "rva": "0x41ba918"
+        },
+        {
+          "name": "SetWindowLongPtrA",
+          "rva": "0x41ba920"
+        },
+        {
+          "name": "GetWindowLongPtrA",
+          "rva": "0x41ba928"
+        },
+        {
+          "name": "GetMonitorInfoA",
+          "rva": "0x41ba930"
+        },
+        {
+          "name": "MonitorFromRect",
+          "rva": "0x41ba938"
+        },
+        {
+          "name": "GetWindowRect",
+          "rva": "0x41ba940"
+        },
+        {
+          "name": "EnumDisplaySettingsA",
+          "rva": "0x41ba948"
+        },
+        {
+          "name": "TranslateMessage",
+          "rva": "0x41ba950"
+        }
+      ],
+      "GDI32.dll": [
+        {
+          "name": "SetBrushOrgEx",
+          "rva": "0x41ba030"
+        },
+        {
+          "name": "BitBlt",
+          "rva": "0x41ba038"
+        },
+        {
+          "name": "SelectObject",
+          "rva": "0x41ba040"
+        },
+        {
+          "name": "CreateDIBSection",
+          "rva": "0x41ba048"
+        },
+        {
+          "name": "CreateCompatibleDC",
+          "rva": "0x41ba050"
+        },
+        {
+          "name": "StretchBlt",
+          "rva": "0x41ba058"
+        },
+        {
+          "name": "DeleteDC",
+          "rva": "0x41ba060"
+        },
+        {
+          "name": "SetStretchBltMode",
+          "rva": "0x41ba068"
+        },
+        {
+          "name": "DeleteObject",
+          "rva": "0x41ba070"
+        }
+      ],
+      "ole32.dll": [
+        {
+          "name": "CoTaskMemFree",
+          "rva": "0x41bab08"
+        },
+        {
+          "name": "PropVariantClear",
+          "rva": "0x41bab10"
+        },
+        {
+          "name": "CoInitializeEx",
+          "rva": "0x41bab18"
+        },
+        {
+          "name": "CoUninitialize",
+          "rva": "0x41bab20"
+        },
+        {
+          "name": "CreateStreamOnHGlobal",
+          "rva": "0x41bab28"
+        },
+        {
+          "name": "CoCreateInstance",
+          "rva": "0x41bab30"
+        },
+        {
+          "name": "CoSetProxyBlanket",
+          "rva": "0x41bab38"
+        },
+        {
+          "name": "CoInitialize",
+          "rva": "0x41bab40"
+        },
+        {
+          "name": "CoTaskMemAlloc",
+          "rva": "0x41bab48"
+        }
+      ],
+      "WindowsCodecs.dll": [
+        {
+          "name": "WICConvertBitmapSource",
+          "rva": "0x41baa60"
+        }
+      ],
+      "SHELL32.dll": [
+        {
+          "name": "SHGetKnownFolderPath",
+          "rva": "0x41ba7d8"
+        },
+        {
+          "name": "CommandLineToArgvW",
+          "rva": "0x41ba7e0"
+        }
+      ],
+      "dxgi.dll": [
+        {
+          "name": "CreateDXGIFactory2",
+          "rva": "0x41baaf0"
+        },
+        {
+          "name": "CreateDXGIFactory",
+          "rva": "0x41baaf8"
+        }
+      ],
+      "XINPUTUAP.dll": [
+        {
+          "name": "XInputGetState",
+          "rva": "0x41baa80"
+        },
+        {
+          "name": "XInputSetState",
+          "rva": "0x41baa88"
+        },
+        {
+          "name": "XInputGetCapabilities",
+          "rva": "0x41baa90"
+        }
+      ],
+      "IPHLPAPI.DLL": [
+        {
+          "name": "GetAdaptersAddresses",
+          "rva": "0x41ba080"
+        }
+      ],
+      "DINPUT8.dll": [
+        {
+          "name": "DirectInput8Create",
+          "rva": "0x41ba020"
+        }
+      ],
+      "steam_api64.dll": [
+        {
+          "name": "SteamAPI_UnregisterCallback",
+          "rva": "0x41bac18"
+        },
+        {
+          "name": "SteamAPI_RunCallbacks",
+          "rva": "0x41bac20"
+        },
+        {
+          "name": "SteamAPI_RestartAppIfNecessary",
+          "rva": "0x41bac28"
+        },
+        {
+          "name": "SteamInternal_SteamAPI_Init",
+          "rva": "0x41bac30"
+        },
+        {
+          "name": "SteamAPI_Shutdown",
+          "rva": "0x41bac38"
+        },
+        {
+          "name": "SteamInternal_FindOrCreateUserInterface",
+          "rva": "0x41bac40"
+        },
+        {
+          "name": "SteamAPI_RegisterCallResult",
+          "rva": "0x41bac48"
+        },
+        {
+          "name": "SteamAPI_UnregisterCallResult",
+          "rva": "0x41bac50"
+        },
+        {
+          "name": "SteamAPI_GetHSteamUser",
+          "rva": "0x41bac58"
+        },
+        {
+          "name": "SteamInternal_ContextInit",
+          "rva": "0x41bac60"
+        },
+        {
+          "name": "SteamAPI_RegisterCallback",
+          "rva": "0x41bac68"
+        },
+        {
+          "name": "SteamInternal_FindOrCreateGameServerInterface",
+          "rva": "0x41bac70"
+        },
+        {
+          "name": "SteamAPI_GetHSteamPipe",
+          "rva": "0x41bac78"
+        },
+        {
+          "name": "SteamInternal_CreateInterface",
+          "rva": "0x41bac80"
+        },
+        {
+          "name": "SteamAPI_SetMiniDumpComment",
+          "rva": "0x41bac88"
+        },
+        {
+          "name": "SteamAPI_WriteMiniDump",
+          "rva": "0x41bac90"
+        }
+      ],
+      "VCOMP140.DLL": [
+        {
+          "name": "omp_set_num_threads",
+          "rva": "0x41ba960"
+        },
+        {
+          "name": "_vcomp_for_static_init",
+          "rva": "0x41ba968"
+        },
+        {
+          "name": "_vcomp_for_static_end",
+          "rva": "0x41ba970"
+        },
+        {
+          "name": "_vcomp_for_dynamic_next",
+          "rva": "0x41ba978"
+        },
+        {
+          "name": "_vcomp_for_dynamic_init",
+          "rva": "0x41ba980"
+        },
+        {
+          "name": "_vcomp_barrier",
+          "rva": "0x41ba988"
+        },
+        {
+          "name": "_vcomp_fork",
+          "rva": "0x41ba990"
+        },
+        {
+          "name": "_vcomp_set_num_threads",
+          "rva": "0x41ba998"
+        },
+        {
+          "name": "omp_get_num_procs",
+          "rva": "0x41ba9a0"
+        }
+      ],
+      "sl.interposer.dll": [
+        {
+          "name": "slGetFeatureVersion",
+          "rva": "0x41bab58"
+        },
+        {
+          "name": "CreateDXGIFactory1",
+          "rva": "0x41bab60"
+        },
+        {
+          "name": "slInit",
+          "rva": "0x41bab68"
+        },
+        {
+          "name": "slShutdown",
+          "rva": "0x41bab70"
+        },
+        {
+          "name": "slIsFeatureSupported",
+          "rva": "0x41bab78"
+        },
+        {
+          "name": "slIsFeatureLoaded",
+          "rva": "0x41bab80"
+        },
+        {
+          "name": "D3D12SerializeRootSignature",
+          "rva": "0x41bab88"
+        },
+        {
+          "name": "D3D12CreateDevice",
+          "rva": "0x41bab90"
+        },
+        {
+          "name": "D3D12GetDebugInterface",
+          "rva": "0x41bab98"
+        },
+        {
+          "name": "slSetD3DDevice",
+          "rva": "0x41baba0"
+        },
+        {
+          "name": "slGetNewFrameToken",
+          "rva": "0x41baba8"
+        },
+        {
+          "name": "slGetFeatureFunction",
+          "rva": "0x41babb0"
+        },
+        {
+          "name": "slGetNativeInterface",
+          "rva": "0x41babb8"
+        },
+        {
+          "name": "slUpgradeInterface",
+          "rva": "0x41babc0"
+        },
+        {
+          "name": "slSetFeatureLoaded",
+          "rva": "0x41babc8"
+        },
+        {
+          "name": "slSetTagForFrame",
+          "rva": "0x41babd0"
+        },
+        {
+          "name": "slSetTag",
+          "rva": "0x41babd8"
+        },
+        {
+          "name": "slEvaluateFeature",
+          "rva": "0x41babe0"
+        },
+        {
+          "name": "slFreeResources",
+          "rva": "0x41babe8"
+        },
+        {
+          "name": "slAllocateResources",
+          "rva": "0x41babf0"
+        },
+        {
+          "name": "D3D11CreateDevice",
+          "rva": "0x41babf8"
+        },
+        {
+          "name": "slGetFeatureRequirements",
+          "rva": "0x41bac00"
+        },
+        {
+          "name": "slSetConstants",
+          "rva": "0x41bac08"
+        }
+      ],
+      "D3DCOMPILER_47.dll": [
+        {
+          "name": "D3DReflect",
+          "rva": "0x41ba010"
+        }
+      ],
+      "dxcompiler.dll": [
+        {
+          "name": "DxcCreateInstance",
+          "rva": "0x41baae0"
+        }
+      ],
+      "MFPlat.DLL": [
+        {
+          "name": "MFCreateAsyncResult",
+          "rva": "0x41ba748"
+        },
+        {
+          "name": "MFInvokeCallback",
+          "rva": "0x41ba750"
+        },
+        {
+          "name": "MFTEnumEx",
+          "rva": "0x41ba758"
+        },
+        {
+          "name": "MFCreateSample",
+          "rva": "0x41ba760"
+        },
+        {
+          "name": "MFCreateAlignedMemoryBuffer",
+          "rva": "0x41ba768"
+        },
+        {
+          "name": "MFStartup",
+          "rva": "0x41ba770"
+        },
+        {
+          "name": "MFCreateMemoryBuffer",
+          "rva": "0x41ba778"
+        },
+        {
+          "name": "MFCreateWaveFormatExFromMFMediaType",
+          "rva": "0x41ba780"
+        },
+        {
+          "name": "MFCreateMFVideoFormatFromMFMediaType",
+          "rva": "0x41ba788"
+        },
+        {
+          "name": "MFPutWorkItem2",
+          "rva": "0x41ba790"
+        },
+        {
+          "name": "MFCreateMediaType",
+          "rva": "0x41ba798"
+        },
+        {
+          "name": "MFCreateFile",
+          "rva": "0x41ba7a0"
+        },
+        {
+          "name": "MFCreateAttributes",
+          "rva": "0x41ba7a8"
+        },
+        {
+          "name": "MFCreateDXGIDeviceManager",
+          "rva": "0x41ba7b0"
+        },
+        {
+          "name": "MFShutdown",
+          "rva": "0x41ba7b8"
+        }
+      ],
+      "MFReadWrite.dll": [
+        {
+          "name": "MFCreateSourceReaderFromByteStream",
+          "rva": "0x41ba7c8"
+        }
+      ],
+      "XAudio2_9.dll": [
+        {
+          "name": "#2",
+          "rva": "0x41baa70"
+        }
+      ],
+      "WINMM.dll": [
+        {
+          "name": "timeGetTime",
+          "rva": "0x41ba9b0"
+        }
+      ],
+      "api-ms-win-core-featurestaging-l1-1-1.dll": [
+        {
+          "name": "GetFeatureVariant",
+          "rva": "0x41baad0"
+        }
+      ],
+      "api-ms-win-core-featurestaging-l1-1-0.dll": [
+        {
+          "name": "RecordFeatureError",
+          "rva": "0x41baaa0"
+        },
+        {
+          "name": "GetFeatureEnabledState",
+          "rva": "0x41baaa8"
+        },
+        {
+          "name": "RecordFeatureUsage",
+          "rva": "0x41baab0"
+        },
+        {
+          "name": "SubscribeFeatureStateChangeNotification",
+          "rva": "0x41baab8"
+        },
+        {
+          "name": "UnsubscribeFeatureStateChangeNotification",
+          "rva": "0x41baac0"
+        }
+      ]
+    }
+  },
+  "loader": {
+    "path": "C:\\Users\\Owner\\OneDrive\\Documents\\ChatGPT\\Revers E REDELBE\\REDELBE_Research\\original\\dinput8.dll",
+    "sha256": "4bbcc44a4b11260936882f4ec7b32084e79a21d48d1d8ab26bda1a4bae571337",
+    "imports": {
+      "ADVAPI32.dll": [
+        {
+          "name": "CryptAcquireContextA",
+          "rva": "0x43c728"
+        },
+        {
+          "name": "CryptGenRandom",
+          "rva": "0x43c730"
+        },
+        {
+          "name": "CryptReleaseContext",
+          "rva": "0x43c738"
+        },
+        {
+          "name": "RegCreateKeyExA",
+          "rva": "0x43c740"
+        },
+        {
+          "name": "RegOpenKeyExA",
+          "rva": "0x43c748"
+        },
+        {
+          "name": "RegQueryValueExA",
+          "rva": "0x43c750"
+        },
+        {
+          "name": "RegSetValueExA",
+          "rva": "0x43c758"
+        }
+      ],
+      "KERNEL32.dll": [
+        {
+          "name": "AddVectoredExceptionHandler",
+          "rva": "0x43c768"
+        },
+        {
+          "name": "Beep",
+          "rva": "0x43c770"
+        },
+        {
+          "name": "CloseHandle",
+          "rva": "0x43c778"
+        },
+        {
+          "name": "CreateFileA",
+          "rva": "0x43c780"
+        },
+        {
+          "name": "CreateFileW",
+          "rva": "0x43c788"
+        },
+        {
+          "name": "CreateMutexA",
+          "rva": "0x43c790"
+        },
+        {
+          "name": "CreateProcessA",
+          "rva": "0x43c798"
+        },
+        {
+          "name": "CreateSemaphoreA",
+          "rva": "0x43c7a0"
+        },
+        {
+          "name": "CreateThread",
+          "rva": "0x43c7a8"
+        },
+        {
+          "name": "CreateToolhelp32Snapshot",
+          "rva": "0x43c7b0"
+        },
+        {
+          "name": "DeleteCriticalSection",
+          "rva": "0x43c7b8"
+        },
+        {
+          "name": "EnterCriticalSection",
+          "rva": "0x43c7c0"
+        },
+        {
+          "name": "FindClose",
+          "rva": "0x43c7c8"
+        },
+        {
+          "name": "FindFirstFileExA",
+          "rva": "0x43c7d0"
+        },
+        {
+          "name": "FindNextFileA",
+          "rva": "0x43c7d8"
+        },
+        {
+          "name": "FlushInstructionCache",
+          "rva": "0x43c7e0"
+        },
+        {
+          "name": "FreeLibrary",
+          "rva": "0x43c7e8"
+        },
+        {
+          "name": "GetCurrentProcess",
+          "rva": "0x43c7f0"
+        },
+        {
+          "name": "GetCurrentProcessId",
+          "rva": "0x43c7f8"
+        },
+        {
+          "name": "GetCurrentThreadId",
+          "rva": "0x43c800"
+        },
+        {
+          "name": "GetExitCodeProcess",
+          "rva": "0x43c808"
+        },
+        {
+          "name": "GetFileSizeEx",
+          "rva": "0x43c810"
+        },
+        {
+          "name": "GetFileTime",
+          "rva": "0x43c818"
+        },
+        {
+          "name": "GetLastError",
+          "rva": "0x43c820"
+        },
+        {
+          "name": "GetModuleFileNameA",
+          "rva": "0x43c828"
+        },
+        {
+          "name": "GetModuleHandleA",
+          "rva": "0x43c830"
+        },
+        {
+          "name": "GetModuleHandleExA",
+          "rva": "0x43c838"
+        },
+        {
+          "name": "GetModuleHandleW",
+          "rva": "0x43c840"
+        },
+        {
+          "name": "GetProcAddress",
+          "rva": "0x43c848"
+        },
+        {
+          "name": "GetStartupInfoW",
+          "rva": "0x43c850"
+        },
+        {
+          "name": "GetSystemDirectoryA",
+          "rva": "0x43c858"
+        },
+        {
+          "name": "GetSystemInfo",
+          "rva": "0x43c860"
+        },
+        {
+          "name": "GetSystemTimeAsFileTime",
+          "rva": "0x43c868"
+        },
+        {
+          "name": "GetTempFileNameA",
+          "rva": "0x43c870"
+        },
+        {
+          "name": "GetTempPathA",
+          "rva": "0x43c878"
+        },
+        {
+          "name": "GetThreadContext",
+          "rva": "0x43c880"
+        },
+        {
+          "name": "GetTickCount",
+          "rva": "0x43c888"
+        },
+        {
+          "name": "GetTickCount64",
+          "rva": "0x43c890"
+        },
+        {
+          "name": "HeapAlloc",
+          "rva": "0x43c898"
+        },
+        {
+          "name": "HeapCreate",
+          "rva": "0x43c8a0"
+        },
+        {
+          "name": "HeapDestroy",
+          "rva": "0x43c8a8"
+        },
+        {
+          "name": "HeapFree",
+          "rva": "0x43c8b0"
+        },
+        {
+          "name": "HeapReAlloc",
+          "rva": "0x43c8b8"
+        },
+        {
+          "name": "InitializeCriticalSection",
+          "rva": "0x43c8c0"
+        },
+        {
+          "name": "IsDBCSLeadByteEx",
+          "rva": "0x43c8c8"
+        },
+        {
+          "name": "LeaveCriticalSection",
+          "rva": "0x43c8d0"
+        },
+        {
+          "name": "LoadLibraryA",
+          "rva": "0x43c8d8"
+        },
+        {
+          "name": "LoadLibraryW",
+          "rva": "0x43c8e0"
+        },
+        {
+          "name": "MultiByteToWideChar",
+          "rva": "0x43c8e8"
+        },
+        {
+          "name": "OpenThread",
+          "rva": "0x43c8f0"
+        },
+        {
+          "name": "OutputDebugStringA",
+          "rva": "0x43c8f8"
+        },
+        {
+          "name": "QueryPerformanceCounter",
+          "rva": "0x43c900"
+        },
+        {
+          "name": "ReadFile",
+          "rva": "0x43c908"
+        },
+        {
+          "name": "ReleaseMutex",
+          "rva": "0x43c910"
+        },
+        {
+          "name": "ReleaseSemaphore",
+          "rva": "0x43c918"
+        },
+        {
+          "name": "ResumeThread",
+          "rva": "0x43c920"
+        },
+        {
+          "name": "RtlAddFunctionTable",
+          "rva": "0x43c928"
+        },
+        {
+          "name": "RtlCaptureContext",
+          "rva": "0x43c930"
+        },
+        {
+          "name": "RtlCaptureStackBackTrace",
+          "rva": "0x43c938"
+        },
+        {
+          "name": "RtlLookupFunctionEntry",
+          "rva": "0x43c940"
+        },
+        {
+          "name": "RtlVirtualUnwind",
+          "rva": "0x43c948"
+        },
+        {
+          "name": "SetEvent",
+          "rva": "0x43c950"
+        },
+        {
+          "name": "SetFilePointerEx",
+          "rva": "0x43c958"
+        },
+        {
+          "name": "SetLastError",
+          "rva": "0x43c960"
+        },
+        {
+          "name": "SetThreadContext",
+          "rva": "0x43c968"
+        },
+        {
+          "name": "SetUnhandledExceptionFilter",
+          "rva": "0x43c970"
+        },
+        {
+          "name": "SignalObjectAndWait",
+          "rva": "0x43c978"
+        },
+        {
+          "name": "Sleep",
+          "rva": "0x43c980"
+        },
+        {
+          "name": "SuspendThread",
+          "rva": "0x43c988"
+        },
+        {
+          "name": "TerminateProcess",
+          "rva": "0x43c990"
+        },
+        {
+          "name": "Thread32First",
+          "rva": "0x43c998"
+        },
+        {
+          "name": "Thread32Next",
+          "rva": "0x43c9a0"
+        },
+        {
+          "name": "TlsAlloc",
+          "rva": "0x43c9a8"
+        },
+        {
+          "name": "TlsFree",
+          "rva": "0x43c9b0"
+        },
+        {
+          "name": "TlsGetValue",
+          "rva": "0x43c9b8"
+        },
+        {
+          "name": "TlsSetValue",
+          "rva": "0x43c9c0"
+        },
+        {
+          "name": "UnhandledExceptionFilter",
+          "rva": "0x43c9c8"
+        },
+        {
+          "name": "VirtualAlloc",
+          "rva": "0x43c9d0"
+        },
+        {
+          "name": "VirtualFree",
+          "rva": "0x43c9d8"
+        },
+        {
+          "name": "VirtualProtect",
+          "rva": "0x43c9e0"
+        },
+        {
+          "name": "VirtualQuery",
+          "rva": "0x43c9e8"
+        },
+        {
+          "name": "WaitForSingleObject",
+          "rva": "0x43c9f0"
+        },
+        {
+          "name": "WideCharToMultiByte",
+          "rva": "0x43c9f8"
+        }
+      ],
+      "msvcrt.dll": [
+        {
+          "name": "__dllonexit",
+          "rva": "0x43ca38"
+        },
+        {
+          "name": "__doserrno",
+          "rva": "0x43ca40"
+        },
+        {
+          "name": "__iob_func",
+          "rva": "0x43ca48"
+        },
+        {
+          "name": "__mb_cur_max",
+          "rva": "0x43ca50"
+        },
+        {
+          "name": "__pioinfo",
+          "rva": "0x43ca58"
+        },
+        {
+          "name": "_amsg_exit",
+          "rva": "0x43ca60"
+        },
+        {
+          "name": "_errno",
+          "rva": "0x43ca68"
+        },
+        {
+          "name": "_exit",
+          "rva": "0x43ca70"
+        },
+        {
+          "name": "_filelengthi64",
+          "rva": "0x43ca78"
+        },
+        {
+          "name": "_fileno",
+          "rva": "0x43ca80"
+        },
+        {
+          "name": "_fstat64",
+          "rva": "0x43ca88"
+        },
+        {
+          "name": "_initterm",
+          "rva": "0x43ca90"
+        },
+        {
+          "name": "_lock",
+          "rva": "0x43ca98"
+        },
+        {
+          "name": "_lseeki64",
+          "rva": "0x43caa0"
+        },
+        {
+          "name": "_mkdir",
+          "rva": "0x43caa8"
+        },
+        {
+          "name": "_onexit",
+          "rva": "0x43cab0"
+        },
+        {
+          "name": "_stat64",
+          "rva": "0x43cab8"
+        },
+        {
+          "name": "_stricmp",
+          "rva": "0x43cac0"
+        },
+        {
+          "name": "_strlwr",
+          "rva": "0x43cac8"
+        },
+        {
+          "name": "_strnicmp",
+          "rva": "0x43cad0"
+        },
+        {
+          "name": "_time64",
+          "rva": "0x43cad8"
+        },
+        {
+          "name": "_unlock",
+          "rva": "0x43cae0"
+        },
+        {
+          "name": "_vsnprintf",
+          "rva": "0x43cae8"
+        },
+        {
+          "name": "_wfopen",
+          "rva": "0x43caf0"
+        },
+        {
+          "name": "_wmkdir",
+          "rva": "0x43caf8"
+        },
+        {
+          "name": "_write",
+          "rva": "0x43cb00"
+        },
+        {
+          "name": "abort",
+          "rva": "0x43cb08"
+        },
+        {
+          "name": "atof",
+          "rva": "0x43cb10"
+        },
+        {
+          "name": "atoi",
+          "rva": "0x43cb18"
+        },
+        {
+          "name": "calloc",
+          "rva": "0x43cb20"
+        },
+        {
+          "name": "ceil",
+          "rva": "0x43cb28"
+        },
+        {
+          "name": "exit",
+          "rva": "0x43cb30"
+        },
+        {
+          "name": "fclose",
+          "rva": "0x43cb38"
+        },
+        {
+          "name": "ferror",
+          "rva": "0x43cb40"
+        },
+        {
+          "name": "fflush",
+          "rva": "0x43cb48"
+        },
+        {
+          "name": "fgetpos",
+          "rva": "0x43cb50"
+        },
+        {
+          "name": "fgets",
+          "rva": "0x43cb58"
+        },
+        {
+          "name": "floor",
+          "rva": "0x43cb60"
+        },
+        {
+          "name": "fopen",
+          "rva": "0x43cb68"
+        },
+        {
+          "name": "fprintf",
+          "rva": "0x43cb70"
+        },
+        {
+          "name": "fputc",
+          "rva": "0x43cb78"
+        },
+        {
+          "name": "fputs",
+          "rva": "0x43cb80"
+        },
+        {
+          "name": "fread",
+          "rva": "0x43cb88"
+        },
+        {
+          "name": "free",
+          "rva": "0x43cb90"
+        },
+        {
+          "name": "fseek",
+          "rva": "0x43cb98"
+        },
+        {
+          "name": "fsetpos",
+          "rva": "0x43cba0"
+        },
+        {
+          "name": "ftell",
+          "rva": "0x43cba8"
+        },
+        {
+          "name": "fwrite",
+          "rva": "0x43cbb0"
+        },
+        {
+          "name": "getc",
+          "rva": "0x43cbb8"
+        },
+        {
+          "name": "getenv",
+          "rva": "0x43cbc0"
+        },
+        {
+          "name": "getwc",
+          "rva": "0x43cbc8"
+        },
+        {
+          "name": "isalnum",
+          "rva": "0x43cbd0"
+        },
+        {
+          "name": "isalpha",
+          "rva": "0x43cbd8"
+        },
+        {
+          "name": "islower",
+          "rva": "0x43cbe0"
+        },
+        {
+          "name": "isspace",
+          "rva": "0x43cbe8"
+        },
+        {
+          "name": "isupper",
+          "rva": "0x43cbf0"
+        },
+        {
+          "name": "iswctype",
+          "rva": "0x43cbf8"
+        },
+        {
+          "name": "isxdigit",
+          "rva": "0x43cc00"
+        },
+        {
+          "name": "localeconv",
+          "rva": "0x43cc08"
+        },
+        {
+          "name": "malloc",
+          "rva": "0x43cc10"
+        },
+        {
+          "name": "memchr",
+          "rva": "0x43cc18"
+        },
+        {
+          "name": "memcmp",
+          "rva": "0x43cc20"
+        },
+        {
+          "name": "memcpy",
+          "rva": "0x43cc28"
+        },
+        {
+          "name": "memmove",
+          "rva": "0x43cc30"
+        },
+        {
+          "name": "memset",
+          "rva": "0x43cc38"
+        },
+        {
+          "name": "putc",
+          "rva": "0x43cc40"
+        },
+        {
+          "name": "putwc",
+          "rva": "0x43cc48"
+        },
+        {
+          "name": "raise",
+          "rva": "0x43cc50"
+        },
+        {
+          "name": "rand",
+          "rva": "0x43cc58"
+        },
+        {
+          "name": "realloc",
+          "rva": "0x43cc60"
+        },
+        {
+          "name": "remove",
+          "rva": "0x43cc68"
+        },
+        {
+          "name": "rename",
+          "rva": "0x43cc70"
+        },
+        {
+          "name": "setlocale",
+          "rva": "0x43cc78"
+        },
+        {
+          "name": "setvbuf",
+          "rva": "0x43cc80"
+        },
+        {
+          "name": "signal",
+          "rva": "0x43cc88"
+        },
+        {
+          "name": "sprintf",
+          "rva": "0x43cc90"
+        },
+        {
+          "name": "srand",
+          "rva": "0x43cc98"
+        },
+        {
+          "name": "sscanf",
+          "rva": "0x43cca0"
+        },
+        {
+          "name": "strchr",
+          "rva": "0x43cca8"
+        },
+        {
+          "name": "strcmp",
+          "rva": "0x43ccb0"
+        },
+        {
+          "name": "strcoll",
+          "rva": "0x43ccb8"
+        },
+        {
+          "name": "strcpy",
+          "rva": "0x43ccc0"
+        },
+        {
+          "name": "strerror",
+          "rva": "0x43ccc8"
+        },
+        {
+          "name": "strftime",
+          "rva": "0x43ccd0"
+        },
+        {
+          "name": "strlen",
+          "rva": "0x43ccd8"
+        },
+        {
+          "name": "strncmp",
+          "rva": "0x43cce0"
+        },
+        {
+          "name": "strstr",
+          "rva": "0x43cce8"
+        },
+        {
+          "name": "strtol",
+          "rva": "0x43ccf0"
+        },
+        {
+          "name": "strtoul",
+          "rva": "0x43ccf8"
+        },
+        {
+          "name": "strxfrm",
+          "rva": "0x43cd00"
+        },
+        {
+          "name": "system",
+          "rva": "0x43cd08"
+        },
+        {
+          "name": "tolower",
+          "rva": "0x43cd10"
+        },
+        {
+          "name": "towlower",
+          "rva": "0x43cd18"
+        },
+        {
+          "name": "towupper",
+          "rva": "0x43cd20"
+        },
+        {
+          "name": "ungetc",
+          "rva": "0x43cd28"
+        },
+        {
+          "name": "ungetwc",
+          "rva": "0x43cd30"
+        },
+        {
+          "name": "vfprintf",
+          "rva": "0x43cd38"
+        },
+        {
+          "name": "wcscoll",
+          "rva": "0x43cd40"
+        },
+        {
+          "name": "wcsftime",
+          "rva": "0x43cd48"
+        },
+        {
+          "name": "wcslen",
+          "rva": "0x43cd50"
+        },
+        {
+          "name": "wcsstr",
+          "rva": "0x43cd58"
+        },
+        {
+          "name": "wcsxfrm",
+          "rva": "0x43cd60"
+        }
+      ],
+      "SHELL32.dll": [
+        {
+          "name": "SHFileOperationA",
+          "rva": "0x43cd70"
+        }
+      ],
+      "USER32.dll": [
+        {
+          "name": "MessageBoxA",
+          "rva": "0x43cd80"
+        }
+      ],
+      "VERSION.dll": [
+        {
+          "name": "GetFileVersionInfoA",
+          "rva": "0x43cd90"
+        },
+        {
+          "name": "GetFileVersionInfoSizeA",
+          "rva": "0x43cd98"
+        },
+        {
+          "name": "VerQueryValueA",
+          "rva": "0x43cda0"
+        }
+      ]
+    }
+  }
+}

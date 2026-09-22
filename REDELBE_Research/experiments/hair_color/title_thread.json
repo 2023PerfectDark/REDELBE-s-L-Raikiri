@@ -1,0 +1,183 @@
+{
+  "pid": 29832,
+  "tid": 46552,
+  "rip": "ntdll.dll+0x164a14",
+  "rsp": "0x895f38df98",
+  "stack_candidates": [
+    {
+      "offset": "0x0",
+      "value": "0x7ffa59f36027",
+      "module": "ntdll.dll+0x16027"
+    },
+    {
+      "offset": "0x68",
+      "value": "0x7ffa5a0f2458",
+      "module": "ntdll.dll+0x1d2458"
+    },
+    {
+      "offset": "0x80",
+      "value": "0x7ffa59f367f8",
+      "module": "ntdll.dll+0x167f8"
+    },
+    {
+      "offset": "0xa0",
+      "value": "0x7ffa59f3245b",
+      "module": "ntdll.dll+0x1245b"
+    },
+    {
+      "offset": "0x110",
+      "value": "0x7ffa59f31fa0",
+      "module": "ntdll.dll+0x11fa0"
+    },
+    {
+      "offset": "0x140",
+      "value": "0x7ffa5a098378",
+      "module": "ntdll.dll+0x178378"
+    },
+    {
+      "offset": "0x150",
+      "value": "0x7ffa5a098700",
+      "module": "ntdll.dll+0x178700"
+    },
+    {
+      "offset": "0x158",
+      "value": "0x7ffa5a09aa14",
+      "module": "ntdll.dll+0x17aa14"
+    },
+    {
+      "offset": "0x5b0",
+      "value": "0x7ffa59f36ef7",
+      "module": "ntdll.dll+0x16ef7"
+    },
+    {
+      "offset": "0x600",
+      "value": "0x7ffa59f3fce8",
+      "module": "ntdll.dll+0x1fce8"
+    },
+    {
+      "offset": "0x608",
+      "value": "0x7ffa5a0990e0",
+      "module": "ntdll.dll+0x1790e0"
+    },
+    {
+      "offset": "0x628",
+      "value": "0x7ffa5a098fc8",
+      "module": "ntdll.dll+0x178fc8"
+    },
+    {
+      "offset": "0x690",
+      "value": "0x7ffa59f3fac0",
+      "module": "ntdll.dll+0x1fac0"
+    },
+    {
+      "offset": "0x810",
+      "value": "0x7ffa53691fb3",
+      "module": "CoreMessaging.dll+0x21fb3"
+    },
+    {
+      "offset": "0x860",
+      "value": "0x7ffa59f5cd60",
+      "module": "ntdll.dll+0x3cd60"
+    },
+    {
+      "offset": "0x868",
+      "value": "0x7ffa5a0990e0",
+      "module": "ntdll.dll+0x1790e0"
+    },
+    {
+      "offset": "0x888",
+      "value": "0x7ffa5a098fc8",
+      "module": "ntdll.dll+0x178fc8"
+    },
+    {
+      "offset": "0x950",
+      "value": "0x7ff997f4d255",
+      "module": "gameoverlayrenderer64.dll+0xad255"
+    },
+    {
+      "offset": "0x970",
+      "value": "0x7ffa536a31e2",
+      "module": "CoreMessaging.dll+0x331e2"
+    },
+    {
+      "offset": "0xa00",
+      "value": "0x7ffa536a2b65",
+      "module": "CoreMessaging.dll+0x32b65"
+    },
+    {
+      "offset": "0xb10",
+      "value": "0x7ffa59f46844",
+      "module": "ntdll.dll+0x26844"
+    },
+    {
+      "offset": "0xba0",
+      "value": "0x7ffa59f4670b",
+      "module": "ntdll.dll+0x2670b"
+    },
+    {
+      "offset": "0xbf0",
+      "value": "0x7ffa53680cb4",
+      "module": "CoreMessaging.dll+0x10cb4"
+    },
+    {
+      "offset": "0xc08",
+      "value": "0x7ffa53680bc0",
+      "module": "CoreMessaging.dll+0x10bc0"
+    },
+    {
+      "offset": "0xc10",
+      "value": "0x7ffa5722a6fb",
+      "module": "KERNELBASE.dll+0xba6fb"
+    },
+    {
+      "offset": "0xc30",
+      "value": "0x7ffa4f1fdf41",
+      "module": "CoreUIComponents.dll+0x1df41"
+    },
+    {
+      "offset": "0xc40",
+      "value": "0x7ffa4f1fe408",
+      "module": "CoreUIComponents.dll+0x1e408"
+    },
+    {
+      "offset": "0xc70",
+      "value": "0x7ffa4f1fe2e2",
+      "module": "CoreUIComponents.dll+0x1e2e2"
+    },
+    {
+      "offset": "0xd40",
+      "value": "0x7ffa5722a6fb",
+      "module": "KERNELBASE.dll+0xba6fb"
+    },
+    {
+      "offset": "0xec8",
+      "value": "0x7ffa4f406c01",
+      "module": "CoreUIComponents.dll+0x226c01"
+    },
+    {
+      "offset": "0xf60",
+      "value": "0x7ffa5719124f",
+      "module": "KERNELBASE.dll+0x2124f"
+    },
+    {
+      "offset": "0xfb8",
+      "value": "0x7ffa58f7fb88",
+      "module": "MSCTF.dll+0x11fb88"
+    },
+    {
+      "offset": "0xfd0",
+      "value": "0x7ff997f4d173",
+      "module": "gameoverlayrenderer64.dll+0xad173"
+    },
+    {
+      "offset": "0xfe8",
+      "value": "0x7ffa30c19453",
+      "module": "textinputframework.dll+0x39453"
+    },
+    {
+      "offset": "0xff8",
+      "value": "0x7ffa58f7fb88",
+      "module": "MSCTF.dll+0x11fb88"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "source_commit": "7a02c1e56b40477b26a660884deda1f3ca8d2eab",
+  "positive_control": true,
+  "tested": "Current ShadPKG fake-key RSA stage, independently evaluated; full GUI not run",
+  "packages": [
+    {
+      "package": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100-DP",
+      "valid_32_byte_pkcs1_message": false
+    },
+    {
+      "package": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_0",
+      "valid_32_byte_pkcs1_message": false
+    }
+  ]
+}

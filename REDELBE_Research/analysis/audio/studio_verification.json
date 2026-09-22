@@ -1,0 +1,74 @@
+[
+  {
+    "bank": "SE1_Common_CHA_KOK_US.srsa",
+    "input": ".wav",
+    "target": "ms-adpcm",
+    "sample_rate": 22519,
+    "channels": 1,
+    "unrelated_audio_preserved": 164
+  },
+  {
+    "bank": "SE1_Common_CHA_KOK_US.srsa",
+    "input": ".mp3",
+    "target": "ms-adpcm",
+    "sample_rate": 22519,
+    "channels": 1,
+    "unrelated_audio_preserved": 164
+  },
+  {
+    "bank": "SE1_Common_CHA_KOK_US.srsa",
+    "input": ".ogg",
+    "target": "ms-adpcm",
+    "sample_rate": 22519,
+    "channels": 1,
+    "unrelated_audio_preserved": 164
+  },
+  {
+    "bank": "EV_BAY.srsa",
+    "input": ".wav",
+    "target": "ogg",
+    "sample_rate": 22050,
+    "channels": 1,
+    "unrelated_audio_preserved": 11
+  },
+  {
+    "bank": "EV_BAY.srsa",
+    "input": ".mp3",
+    "target": "ogg",
+    "sample_rate": 22050,
+    "channels": 1,
+    "unrelated_audio_preserved": 11
+  },
+  {
+    "bank": "EV_BAY.srsa",
+    "input": ".ogg",
+    "target": "ogg",
+    "sample_rate": 22050,
+    "channels": 1,
+    "unrelated_audio_preserved": 11
+  },
+  {
+    "bank": "SE1_Common_SV.srsa",
+    "input": ".wav",
+    "target": "external-ogg",
+    "sample_rate": 48000,
+    "channels": 2,
+    "unrelated_audio_preserved": 801
+  },
+  {
+    "bank": "SE1_Common_SV.srsa",
+    "input": ".mp3",
+    "target": "external-ogg",
+    "sample_rate": 48000,
+    "channels": 2,
+    "unrelated_audio_preserved": 801
+  },
+  {
+    "bank": "SE1_Common_SV.srsa",
+    "input": ".ogg",
+    "target": "external-ogg",
+    "sample_rate": 48000,
+    "channels": 2,
+    "unrelated_audio_preserved": 801
+  }
+]

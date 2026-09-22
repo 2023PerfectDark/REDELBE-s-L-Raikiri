@@ -1,0 +1,28 @@
+[
+  {
+    "name": "branch",
+    "data": "40534883ec20488bd9488d0d7415c504e873340200488383a835000004e86e96ceff4805c44c0100803800741b0fb68b6035000080f101e8f45df6ff488bc8e8ac31f8ff84c0744b0fb69b6035000048897c2430488b3d75bc3702488bcf66c787040100000101c7870001000000000000e8eaf6edff488d8fb006000041b10141b8080000000fb6d3e81277eeff488b7c2430b0014883c4205bc3",
+    "mask": "ffffffffffffffffffffffff00000000ff00000000ffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffffffff00000000ffffffff00000000ffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffff",
+    "hits": {
+      "old": [
+        61905792
+      ],
+      "new": [
+        61779184
+      ]
+    }
+  },
+  {
+    "name": "property",
+    "data": "89542410574883ec5048c7442428feffffff48895c2460488bd933ff897c2420488d0d6de3cc04e86c020a00488d542430488bcbe8a7b00eff90488b4424384885c00f84a40000003978080f849b0000000f57c0660f7f44244041b8020000004489442420488b5424384885d274258b420885c0741e8d4801f00fb14a0874098b420885c075efeb0b0f28442430660f7f442440488b442440488b00c744246802020000488b4020488b5008488b08483bca741481390202000074094883c110483bca75ef483bca480f44cf4885c90f95c34183e0fd4489442420488b4c24484885c97409e866f8defceb0232db488b4c24384885c97415bafffffffff00fc1510c83fa017506488b11ff52080fb6c3488b5c24604883c4505fc3",
+    "mask": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ff00000000ffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+    "hits": {
+      "old": [
+        61394288
+      ],
+      "new": [
+        61267680
+      ]
+    }
+  }
+]

@@ -1,0 +1,1 @@
+Temporary LR native facial reference on Kasumi DOA5 WIN120. Not original DOA5 expressions or verified lip sync. Full captured native face clip, rescaled to body duration. Does not independently override gaze. Restore previous Faces/0x0c263322.g1a after diagnostic.

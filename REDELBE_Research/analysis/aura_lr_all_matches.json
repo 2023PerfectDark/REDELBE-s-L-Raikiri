@@ -1,0 +1,53 @@
+[
+  {
+    "index": "root",
+    "resource": "0x285cb0c3",
+    "size": 37460040,
+    "matches": [
+      {
+        "id": "0x399961",
+        "offset": 37672,
+        "tracks": 15
+      },
+      {
+        "id": "0xc3844a7",
+        "offset": 1781052,
+        "tracks": 1
+      }
+    ]
+  },
+  {
+    "index": "root",
+    "resource": "0xd14d76ef",
+    "size": 37762232,
+    "matches": [
+      {
+        "id": "0x399961",
+        "offset": 38076,
+        "tracks": 15
+      },
+      {
+        "id": "0xc3844a7",
+        "offset": 1796000,
+        "tracks": 1
+      }
+    ]
+  },
+  {
+    "index": "root",
+    "resource": "0xf589e402",
+    "size": 8397900,
+    "matches": [
+      {
+        "id": "0x399961",
+        "offset": 8952,
+        "tracks": 15
+      },
+      {
+        "id": "0xc3844a7",
+        "offset": 419056,
+        "tracks": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "rva": "0x8b75f4",
+    "target": "0x4c95d70",
+    "name": "kids::placeable::camera::ApplyMotionEx"
+  },
+  {
+    "rva": "0x8bfc74",
+    "target": "0x4c96968",
+    "name": "kids::placeable::model::ApplyMotionWithHandle"
+  },
+  {
+    "rva": "0x8c04f4",
+    "target": "0x4c96a20",
+    "name": "kids::placeable::model::ApplyMotionReference"
+  },
+  {
+    "rva": "0x8c6494",
+    "target": "0x4c972d0",
+    "name": "kids::placeable::model::ApplyActionWithCameraToEnd"
+  },
+  {
+    "rva": "0x8c66b4",
+    "target": "0x4c97320",
+    "name": "kids::placeable::model::ApplyActionWithCameraAndLightContainerToEnd"
+  },
+  {
+    "rva": "0x8d4e54",
+    "target": "0x4c989a8",
+    "name": "kids::animation::GetFrameLength"
+  },
+  {
+    "rva": "0x8d6e34",
+    "target": "0x4c98c10",
+    "name": "kids::animationgraph::impl::ApplyMotion"
+  },
+  {
+    "rva": "0x8d78d4",
+    "target": "0x4c98d78",
+    "name": "kids::animationgraph::impl::ApplyMotionAsAdd"
+  },
+  {
+    "rva": "0x8d9694",
+    "target": "0x4c99078",
+    "name": "kids::animationgraph::impl::ApplyMotionWithVelocitySeparation"
+  },
+  {
+    "rva": "0xa38637",
+    "target": "0x4c95d70",
+    "name": "kids::placeable::camera::ApplyMotionEx"
+  },
+  {
+    "rva": "0xa3a487",
+    "target": "0x4c96968",
+    "name": "kids::placeable::model::ApplyMotionWithHandle"
+  },
+  {
+    "rva": "0xa3a9c7",
+    "target": "0x4c96a20",
+    "name": "kids::placeable::model::ApplyMotionReference"
+  },
+  {
+    "rva": "0xa40f47",
+    "target": "0x4c972d0",
+    "name": "kids::placeable::model::ApplyActionWithCameraToEnd"
+  },
+  {
+    "rva": "0xa41107",
+    "target": "0x4c97320",
+    "name": "kids::placeable::model::ApplyActionWithCameraAndLightContainerToEnd"
+  },
+  {
+    "rva": "0xa49d07",
+    "target": "0x4c989a8",
+    "name": "kids::animation::GetFrameLength"
+  },
+  {
+    "rva": "0xa5bed7",
+    "target": "0x4c98d78",
+    "name": "kids::animationgraph::impl::ApplyMotionAsAdd"
+  },
+  {
+    "rva": "0xa5c437",
+    "target": "0x4c98c10",
+    "name": "kids::animationgraph::impl::ApplyMotion"
+  },
+  {
+    "rva": "0xa74c17",
+    "target": "0x4c99078",
+    "name": "kids::animationgraph::impl::ApplyMotionWithVelocitySeparation"
+  },
+  {
+    "rva": "0x3311dea",
+    "target": "0x42f3da8",
+    "name": "kids::placeable::camera::ApplyMotion"
+  },
+  {
+    "rva": "0x3311e6a",
+    "target": "0x42f3dd0",
+    "name": "kids::placeable::model::ApplyMotion"
+  }
+]

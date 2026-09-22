@@ -1,0 +1,188 @@
+[
+  {
+    "id": "0x0143fbdc",
+    "index": "root",
+    "names": [
+      "KAS07120_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "motion",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 112800,
+    "payload_verified": true,
+    "signature": "_A2G0400",
+    "frames": 537,
+    "fps": 60.0,
+    "seconds": 8.95,
+    "camera_candidates": [
+      {
+        "name": "KAS_CAMERA_7120_WIN.g1a",
+        "id": "0x9d64f947",
+        "basis": "name match; playback unverified"
+      }
+    ]
+  },
+  {
+    "id": "0x16df3ea8",
+    "index": "root",
+    "names": [
+      "KAS_CAMERA_7020_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "camera",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 1616,
+    "payload_verified": true,
+    "signature": "_A1G2400",
+    "camera_candidates": []
+  },
+  {
+    "id": "0x7698706c",
+    "index": "root",
+    "names": [
+      "KAS_FACIAL_7122_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "facial",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 231812,
+    "payload_verified": true,
+    "signature": "_A2G0400",
+    "frames": 537,
+    "fps": 60.0,
+    "seconds": 8.95,
+    "camera_candidates": []
+  },
+  {
+    "id": "0x7a96e18d",
+    "index": "root",
+    "names": [
+      "KAS_FACIAL_7121_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "facial",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 87092,
+    "payload_verified": true,
+    "signature": "_A2G0400",
+    "frames": 537,
+    "fps": 60.0,
+    "seconds": 8.95,
+    "camera_candidates": []
+  },
+  {
+    "id": "0x7e9552ae",
+    "index": "root",
+    "names": [
+      "KAS_FACIAL_7120_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "facial",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 269476,
+    "payload_verified": true,
+    "signature": "_A2G0400",
+    "frames": 537,
+    "fps": 60.0,
+    "seconds": 8.95,
+    "camera_candidates": []
+  },
+  {
+    "id": "0x9d64f947",
+    "index": "root",
+    "names": [
+      "KAS_CAMERA_7120_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "camera",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 5216,
+    "payload_verified": true,
+    "signature": "_A1G2400",
+    "camera_candidates": []
+  },
+  {
+    "id": "0xa768919b",
+    "index": "root",
+    "names": [
+      "KAS07020_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "motion",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 77656,
+    "payload_verified": true,
+    "signature": "_A2G0400",
+    "frames": 491,
+    "fps": 60.0,
+    "seconds": 8.183333333333334,
+    "camera_candidates": [
+      {
+        "name": "KAS_CAMERA_7020_WIN.g1a",
+        "id": "0x16df3ea8",
+        "basis": "name match; playback unverified"
+      }
+    ]
+  },
+  {
+    "id": "0xf012b5cd",
+    "index": "root",
+    "names": [
+      "KAS_FACIAL_7022_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "facial",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 240408,
+    "payload_verified": true,
+    "signature": "_A2G0400",
+    "frames": 491,
+    "fps": 60.0,
+    "seconds": 8.183333333333334,
+    "camera_candidates": []
+  },
+  {
+    "id": "0xf41126ee",
+    "index": "root",
+    "names": [
+      "KAS_FACIAL_7021_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "facial",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 155112,
+    "payload_verified": true,
+    "signature": "_A2G0400",
+    "frames": 491,
+    "fps": 60.0,
+    "seconds": 8.183333333333334,
+    "camera_candidates": []
+  },
+  {
+    "id": "0xf80f980f",
+    "index": "root",
+    "names": [
+      "KAS_FACIAL_7020_WIN.g1a"
+    ],
+    "character": "KAS",
+    "role": "facial",
+    "victory_name_hint": true,
+    "usage": "unknown",
+    "bytes": 345184,
+    "payload_verified": true,
+    "signature": "_A2G0400",
+    "frames": 491,
+    "fps": 60.0,
+    "seconds": 8.183333333333334,
+    "camera_candidates": []
+  }
+]

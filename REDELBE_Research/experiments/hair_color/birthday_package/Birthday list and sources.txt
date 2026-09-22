@@ -1,0 +1,50 @@
+DOA6LR roster birthday list
+
+Mai Shiranui: 01-01
+Helena: 01-30
+Kasumi: 02-23
+Honoka: 03-24
+Zack: 04-03
+Leifang: 04-23
+Diego: 05-16
+Hitomi: 05-25
+Kula Diamond: 05-29
+Marie Rose: 06-06
+Rachel: 06-14
+Ryu Hayabusa: 06-15
+Rig: 06-28
+Hayate: 07-03
+Bass: 07-04
+Lisa: 07-20
+Ayane: 08-05
+Raidou: 08-13
+Tamaki: 08-19
+Brad Wong: 09-10
+Momiji: 09-20
+Mila: 10-04
+Bayman: 10-10
+Minato: 11-03
+NiCO: 11-09
+Eliot: 11-22
+Jann Lee: 11-27
+Kokoro: 12-01
+Tina: 12-06
+Christie: 12-18
+Nyotengu: 11-19 (special day, celebrated as birthday by user request)
+Phase 4: Unknown; disabled
+
+Runtime date source: Windows GetLocalTime only, month and day. No internet requests.
+Notices appear on each launch on matching dates, including when update notes were previously dismissed.
+Multiple matching fighters are included. February 29 only matches February 29.
+Nyotengu's November 19 Special Day is enabled as a birthday by user request.
+Phase 4 has no confirmed date; not assigned Kasumi's birthday.
+
+Sources:
+Most DOA dates: https://www.freestepdodge.com/threads/dead-or-alive-fighter%E2%80%99s-birthday-list.9481/
+This is a community reference, not an official profile; editable dates permit corrections.
+Official LR profiles confirm Kasumi, Hayabusa, Hayate, Zack, Helena, Rachel, Tamaki, Minato:
+https://teamninja-studio.com/doa6/lastround/uk/characters/
+Minato: https://teamninja-studio.com/doa6/lastround/uk/characters/minato.html
+Mai: https://www.snk-corp.co.jp/us/games/kof-xiv/characters/mai.php
+Kula: https://www.snk-corp.co.jp/us/games/kof-xiv/characters/kula.php
+Nyotengu special day distinction: https://deadoralive.fandom.com/wiki/Birthday

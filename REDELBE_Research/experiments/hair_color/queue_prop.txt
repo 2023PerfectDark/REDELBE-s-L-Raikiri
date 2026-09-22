@@ -1,0 +1,83 @@
+RVA 3261d90
+03261d90 4c6311                           movsxd   r10, dword ptr [rcx] 
+03261d93 4183fa20                         cmp      r10d, 0x20 
+03261d97 7326                             jae      0x3261dbf 
+03261d99 418d4201                         lea      eax, [r10 + 1] 
+03261d9d 8901                             mov      dword ptr [rcx], eax 
+03261d9f 498bc2                           mov      rax, r10 
+03261da2 48c1e004                         shl      rax, 4 
+03261da6 89540804                         mov      dword ptr [rax + rcx + 4], edx 
+03261daa 4489440808                       mov      dword ptr [rax + rcx + 8], r8d 
+03261daf 44894c080c                       mov      dword ptr [rax + rcx + 0xc], r9d 
+03261db4 c744081000000000                 mov      dword ptr [rax + rcx + 0x10], 0 
+03261dbc b001                             mov      al, 1 
+03261dbe c3                               ret       
+03261dbf 32c0                             xor      al, al 
+03261dc1 c3                               ret       
+03261dc2 cc                               int3      
+03261dc3 cc                               int3      
+03261dc4 cc                               int3      
+03261dc5 cc                               int3      
+03261dc6 cc                               int3      
+03261dc7 cc                               int3      
+03261dc8 cc                               int3      
+03261dc9 cc                               int3      
+03261dca cc                               int3      
+03261dcb cc                               int3      
+03261dcc cc                               int3      
+03261dcd cc                               int3      
+03261dce cc                               int3      
+03261dcf cc                               int3      
+03261dd0 4c8bdc                           mov      r11, rsp 
+03261dd3 49895b08                         mov      qword ptr [r11 + 8], rbx 
+03261dd7 49897310                         mov      qword ptr [r11 + 0x10], rsi 
+03261ddb 57                               push     rdi 
+03261ddc 4881eca0000000                   sub      rsp, 0xa0 
+03261de3 488b8424d0000000                 mov      rax, qword ptr [rsp + 0xd0] 
+03261deb 498bf0                           mov      rsi, r8 
+03261dee f30f1099bc1d0000                 movss    xmm3, dword ptr [rcx + 0x1dbc] 
+03261df6 488bd9                           mov      rbx, rcx 
+03261df9 410f2973e8                       movaps   xmmword ptr [r11 - 0x18], xmm6 
+03261dfe 0f1028                           movups   xmm5, xmmword ptr [rax] 
+03261e01 0f104010                         movups   xmm0, xmmword ptr [rax + 0x10] 
+03261e05 0f104820                         movups   xmm1, xmmword ptr [rax + 0x20] 
+03261e09 0f107030                         movups   xmm6, xmmword ptr [rax + 0x30] 
+03261e0d 0f29442440                       movaps   xmmword ptr [rsp + 0x40], xmm0 
+03261e12 0f28e5                           movaps   xmm4, xmm5 
+03261e15 0f104040                         movups   xmm0, xmmword ptr [rax + 0x40] 
+03261e19 0f294c2450                       movaps   xmmword ptr [rsp + 0x50], xmm1 
+03261e1e f20f104850                       movsd    xmm1, qword ptr [rax + 0x50] 
+03261e23 8b4058                           mov      eax, dword ptr [rax + 0x58] 
+03261e26 0f29442470                       movaps   xmmword ptr [rsp + 0x70], xmm0 
+03261e2b 0f28c5                           movaps   xmm0, xmm5 
+03261e2e 0f29742460                       movaps   xmmword ptr [rsp + 0x60], xmm6 
+03261e33 0fc6c555                         shufps   xmm0, xmm5, 0x55 
+03261e37 0f296c2430                       movaps   xmmword ptr [rsp + 0x30], xmm5 
+03261e3c 418943e0                         mov      dword ptr [r11 - 0x20], eax 
+03261e40 8b8424e0000000                   mov      eax, dword ptr [rsp + 0xe0] 
+03261e47 48059f000000                     add      rax, 0x9f 
+03261e4d f30f11442424                     movss    dword ptr [rsp + 0x24], xmm0 
+03261e53 f30f1005ede7b201                 movss    xmm0, dword ptr [rip + 0x1b2e7ed] 
+03261e5b f2410f114bd8                     movsd    qword ptr [r11 - 0x28], xmm1 
+03261e61 48c1e004                         shl      rax, 4 
+03261e65 480382e8000000                   add      rax, qword ptr [rdx + 0xe8] 
+03261e6c f30f1144242c                     movss    dword ptr [rsp + 0x2c], xmm0 
+03261e72 0f28c5                           movaps   xmm0, xmm5 
+03261e75 0fc6f655                         shufps   xmm6, xmm6, 0x55 
+03261e79 f30f5cc6                         subss    xmm0, xmm6 
+03261e7d 0fc6e5aa                         shufps   xmm4, xmm5, 0xaa 
+03261e81 f30f1010                         movss    xmm2, dword ptr [rax] 
+03261e85 0f28ca                           movaps   xmm1, xmm2 
+03261e88 f30f116c2420                     movss    dword ptr [rsp + 0x20], xmm5 
+03261e8e f30f58cb                         addss    xmm1, xmm3 
+03261e92 f30f11642428                     movss    dword ptr [rsp + 0x28], xmm4 
+03261e98 0f2fc1                           comiss   xmm0, xmm1 
+03261e9b 0f87e0000000                     ja       0x3261f81 
+03261ea1 0f28c6                           movaps   xmm0, xmm6 
+03261ea4 f30f5cd3                         subss    xmm2, xmm3 
+03261ea8 f30f58c5                         addss    xmm0, xmm5 
+03261eac 0f2fd0                           comiss   xmm2, xmm0 
+03261eaf 0f87cc000000                     ja       0x3261f81 
+03261eb5 f30f105008                       movss    xmm2, dword ptr [rax + 8] 
+03261eba 0f28c4                           movaps   xmm0, xmm4 
+03261ebd 0f28ca                           movaps   xmm1, xmm2 

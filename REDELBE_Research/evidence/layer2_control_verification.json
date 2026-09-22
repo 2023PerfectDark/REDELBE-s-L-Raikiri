@@ -1,0 +1,10 @@
+{
+  "FirstSelectionLogLine": 1292,
+  "FirstModOpenLogLine": 1365,
+  "NoModOpenBeforeSelection": true,
+  "Controls": [
+    "F",
+    "L2/LT",
+    "Select/Back"
+  ]
+}

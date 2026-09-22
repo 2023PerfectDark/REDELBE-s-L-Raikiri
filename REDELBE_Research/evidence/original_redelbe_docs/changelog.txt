@@ -1,0 +1,219 @@
+3.0 
+- Added an option to disable the splash screen. To disable splash screen, set the ini setting "disable_splash" in the [Misc] section to true.
+  (Note that disabling the splash screen doesn't remove the game bug that affects some people where the game takes time starting sometimes).
+- The random music patch has been extended with a new mode called "fullmix". This mode allows to set several bgm's for each character/stage.
+  To enable, set "enable_random_music" to true in the [Random] section of the .ini file, and set "mode" in [RandomMusic] section to fullmix.
+  To customize the tracks, edit the file REDELBE/fullmix.ini.
+- Added a patch that allows modders to create a mesh transformation mod; the transformation happens when the attacker character does a breakblow or when they do a taunt.
+  Modders can implement this like if it were a layer2 breakable costume, and then add "transform = true" in the [General] section of the mod.ini file.
+- A layer2 mod of the Sweat stage can now use of the "disable_npc" introduced in previous update.
+  (an a version using it can be found in "[Optional] Extras/Story mode stages"
+
+
+2.9
+- More filenames available (matching rdbtool 2.9)
+- Bugfix: as noted in a previous changelog, there was a synchronization bug that was fixed for layer2 costume/hair mods, but not for stage. It is now fixed for stages as well.
+- Modders can now disable npc (spectators) in layer2 stage mods by adding "disable_npc = true" in the [Stage] section of the mod.ini.
+  This currently only work in Colosseum (day or night), Throwdown (afternoon or night) and Chinese Festival (both floors) stages.
+  Version of these stages without npc are now available in "[Optional] Extras/Story mode stages"
+- Modders can now specify a different bgm track in layer2 stage mods. To do so, add the line "bgm = xxx" in the [Stage] section, where xxx is the name of the track.
+  The name of the track is the name of the file as extracted from SE1_Common_BGM.srst by SRSXtool >= 1.0, without the extension. (For a sample, see the stages specified below)
+  The Colosseum Night, Colosseum Night (no spectators) and Douglas Memorial Stage from "[Optional] Extras/Story mode stages" will now use the bgm used in story mode.
+- A patch has been added to allow for random music (disabled by default). To enable, set "enable_random_music = true" in [Random] section.
+  To configure extra parameters, see the [RandomMusic] section.
+
+2.8
+- More filenames available (matching rdbtool 2.8)
+- Important bugfix: the loader of additional filenames was critically slow, causing a delay of between 10-20 seconds depending of cpu speed. The new implementation has brought it down to ~40 milisecs.
+  Now the game should boot faster.
+
+2.7 
+- REDELBE can now toggle (hide/show) the battle HUD using the F5 key. (You can press the key at any moment in the battle or in battle loading screen. You will hear a "beep" when doing it).
+  This is enabled by default, but it can be disabled in the .ini with the "enable_hide_battle_hud" setting in the [UI] section.
+- The stage used in survival mode can now be costumized using the ini setting "survival_stage" in the [Misc] section. (By default it is set to S0401CLS, the colosseum stage, for vanilla behavior)
+- More filenames available (matching rdbtool 2.7)
+- Bugfix: there was a bug affecting layer2 mods when they were randomly selected. Under some circumstances, REDELBE could get desynced with the game, and the mod data wouldn't load (effects were more visible on mods using work feature)
+          The bug has been fixed for costumes & hair mods; possibly a similar bug still exists for stages, that will be fixed in a future update.
+- Bugfix: Layer2 mod with files in RRP wouldn't properly work if the user had files in RRPreview folder.
+- Bugfix: the patch for random glasses was partially done even if the feature was not enabled.
+- All log lines will now display a time stamp (relative to the start of the game) in format H:MM:SS.mmm
+
+2.61
+- Bugfix: There was a critical bug affecting the so called "external files" (like any .srst file) in Layer2 mods. If a mod had one of these files, the game would crash whenever the layer2 mod was NOT active.
+
+2.6
+- Layer2 support for High Society (COS_105, HAIR_105) and school (COS_106) DLC.
+- More filenames available (matching rdbtool 2.6)
+- Modders can now use the subfolder "RRP" in any layer2 mod, to override files from RRPreview.
+
+2.5
+- More filenames available (matching rdbtool 2.5)
+- All random options (and also the Random costume mods) now also work in "Free training".
+
+2.4
+- Layer 2 support for Tamaki (SKD), design contest costumes (COS_039, HAIR_039, FACE_039) and some Honoka new standlone hair (HON_HAIR_100).
+- More filenames available (matching rdbtool 2.4)
+- Tamaki Random costume has been added in "[Optional] Extras/Random Costume"
+- Added debug option "log_numeric" in the .ini. This option, disabled by default, will print acess to the "numeric" files of the game (eg. 01/01.bin) to the log.
+
+2.3 (since this version, REDELBE is not longer compatible with game versions below 1.20)
+- Fixed compatibility with game version 1.20
+- Layer 2 support for gust costumes (COS_037, HAIR_037) and Atelier Ryza costumes (COS_038, HAIR_038)
+- More filenames available (matching rdbtool 2.3)
+- Fixed a bug regarding the BOSS/BOSSL layer2 stages (hidden forest night).
+  The bug happened only when the stage was selected randomly, and only if the previous loaded stage wasn't multi-level: under those circumstances, 
+  the game optimization code would cause a desync with REDELBE code that ended in these stages being partially loaded (they would load with proper illumination, but not with the expected night sky).
+
+2.2 (since this version, REDELBE is not longer compatible with game versions below 1.19)
+- Fixed compatibility with game version 1.19
+- Layer 2 support for chinese costumes (COS_104, HAIR_104)
+- More filenames available (matching rdbtool 2.2)
+- Modders can now use the afternoon version of the "The Throwdown" stage in a layer2 mod stage by using special "work" code "THROWA" (and this stage is included now in optional extras)
+- Nyotengu masks (ITM_GLASSES_NYO_002_MASK, ITM_GLASSES_NYO_003_MASK) can now be specified in the random glasses section of the .ini, and they have been added to the default .ini.
+
+
+2.1
+- Layer 2 support for Sci-Fi costumes (COS_036, HAIR_036, ZAC_COS_100), maid costumes (COS_103, HAIR_103) and SP4 costumes (COS_022, HAIR_022)
+- More filenames available (matching rdbtool 2.1)
+- Fix: "enable_random_underwear" and "enable_random_glasses" now work in all battles (of versus, survival, arcade and timeattack), and not only in the first battle.
+
+2.01
+- Fix: Random costume wasn't working because I forgot to update Layer2.xml in the package. It works now.
+
+2.0
+- Layer 2 support for Rachel (RAC), Santa bikinis (COS_035, HAIR_035), Hayate free costume (HYT_COS_100, HYT_HAIR_100, HYT_FACE_100) and Hitomi free hair (HTM_HAIR_009).
+- More filenames available (matching rdbtool 2.0)
+- Added random costume functionality. To use them install "Random costume" in "[Optional] Extras", and select the random costume in game as any other layer 2 mod.
+  Currently, this functionality only works in versus, arcade/time attack and survival. It doesn't work yet in training or online.
+- Added "[Optional] Extras" folder in the package, with extra functionality. Read the readme there for details.
+- The default values of "slot_info_in_css" and "slot_info_in_sss" in the default .ini file have been changed from "false" to "true", so that this functionality is now enabled by default.
+
+1.9
+- Layer2 support for Bass black christmas outfit (BAS_COS_107b, BAS_HAIR_107b) that was forgotten in previous update.
+- More filenames availablle (matching rdbtool 1.9)
+- The story stage where Hayate and Hayabusa fight (variant of the boss stage with more light) can now be used by a layer2 stage mod by using special code "BOSSL" in "work".
+
+1.8 (since this version, REDELBE is not longer compatible with game versions below 1.16)
+- Fixed compatibility with game version 1.16
+- Fixed crash bugs in certain layer 2 hair mods (or costume mods that included hair)
+- Layer2 support for christmas costumes (COS_107, HAIR_107) and Leifang free costume (LEI_COS_100)
+- More filenames availablle (matching rdbtool 1.8)
+- Added a couple of randomization options in the ini (they are disabled by default): enable_random_underwear and enable_random_glasses.
+  When enabled, the game will randomize the underwear & glasses respectively, on random characters (either selected by player or cpu).
+  Note: due to limitations of the game, currently the randomization of underwear and glasses only happens in the first battle of a series of battles (e.g. in versus mode, it would only apply in the first fight).
+  That limitation may be lifted in the future.
+  For glasses, the "RandomGlasses" section provides more control on the glasses that can be used, and the probability.
+- Added a ton of debug options in the ini file, all of them disabled by default.
+
+1.7 (since this version, REDELBE is not longer compatible with game versions below 1.15)
+- Fixed compatibility with game version 1.15
+- Layer 2 support for Training Wear DLC (COS_034, HAIR_034) and Kasumi free costume (KAS_COS_100)
+- More filenames available (matching rdbtool 1.7)
+- Layer 2 now supports for one more level of directory. This means that a mod called "Kasumi Mod" can now be at "REDELBE/Layer2/KASUMI/Kasumi Mod" and will work. (old paths will still work).
+
+1.6 (since this version, REDELBE is not longer compatible with game versions below 1.14)
+- Fixed compatibility with game version 1.14
+- Layer2 support for Revival Summer DLC (COS_101, HAIR_101)
+- More filenames available (matching rdbtool 1.6)
+
+1.5
+- Layer2 support for Witches costumes (COS_033, HAIR_033) and SP3 exclusives costumes (COS_021)
+- More filenames available (matching rdbtool 1.5)
+
+1.4
+- Layer2 support for Bunny costumes (COS_102, HAIR_102)
+- More filenames available (matching rdbtool 1.4)
+- Bugfix: the stage mod with the boss stage (hidden forest night) couldn't be selected randomly. It now can (atm, only in versus, support for arcade/ta in next version)
+- The story mode stages "Colosseum night" and "Road rage night" can now be used by mods by using the special "work" codes: COLNIGHT and RRNIGHT respectively.
+
+1.3
+- Layer2 support for Momiji and for the Ninja costumes (COS_032, HAIR_032, FACE_032)
+- More filenames available (matching rdbtool 1.3)
+
+1.2
+- Fixed compatibility with game version 1.10
+- Layer2 support for the free costumes added in 1.10 (COS_100, HAIR_100)
+- The default signature search size of the patch engine has been changed from 1MB to 2MB (it can make patches last longer)
+- More filenames available (matching rdbtool 1.2)
+
+1.1
+- Fixed compatibility with game version 1.09
+- Layer2 support for the "Summer Breeze" DLC costumes (COS_031, HAIR_031)
+- More filenames available (matching rdbtool 1.1)
+- Modders can now create a boss stage mod (hidden forest) by using a layer2 stage with "work = BOSS". Note that this is actually a pseudo-stage code that will make REDELBE apply the patch necessary for it to work.
+
+1.01
+- Important bugfix: if a Layer2 mod included non-ascii characters, all mods that alphabetically were after said mod would cease to work because REDELBE would stop the directory listing.
+  Note to modders: mods with non-ascii characters aren't still supported, the bugfix only fixes REDELBE stoping the listing of directories.
+- More filenames available in MaterialEditor (matching rdbtool 1.0)
+
+1.0 (since this version, REDELBE is not longer compatible with game versions below 1.08)
+- Fixed compatibility with game version 1.08
+- More filenames available, matching rdbtool 0.9
+- Layer2 support for the new costumes and the stage.
+- Bugfix: There was a display issue on hair mods when using the "slot_info_in_css" ini setting and the hair mod used the work feature. In those cases, the slot was incorrectly displayed instead of work.
+
+0.9
+- More filenames supported (matching rdbtool 0.8)
+- Layer2 stage mods functionality.
+- Layer2 stage mods count for random functionality (only applies to "Versus", "Arcade" and "Time Attack" modes). This is enabled by default, but if you want to disable it, look in [Random] in the .ini.
+- Added a patch to display the slot of current stage (and layer2 mod if any). This setting is disabled by default. To enable, activate "slot_info_in_sss" in [Misc] section
+  of the ini file. Note: this setting is strongly recommended to be enabled by people using/making Layer2 stage mods, as there is currently no other way to know if a layer2 stage mod was loaded.
+- Layer2 mods now support the following folders: "KIDS" (for files of KIDSSystemResource), and "Field4" (for files of Field4Editor)
+
+0.82
+- Bugfix: layer 2 breakable mods wouldnt't properly break when used by Player 1.
+
+0.81
+- Some more filenames of Mai/Kula available (matching rdbtool 0.71)
+
+0.8
+- Loli break blow uncensorship: support for game version 1.06+ (now previous game versions are not supported).
+- Layer 2: MAI and Kula (SNK) now supported.
+- Added a patch to display costume/hair names and the mod currently loaded. This feature is disabled by default. To enable it, look in the [Misc] section of the .ini file
+- More filenames supported (matching rdbtool 0.7)
+- Fixes from rdbtool 0.7 also apply to REDELBE.
+- When using the alternate button introduced in 0.7, in some circumstances, hair mods wouldn't be selected properly. 
+  Additional another bug related with hair mods which could cause similar to above was fixed aswell.
+
+0.7
+- Layer 2: fixed a bug in which face of Nico wouldn't change due to technical reasons.
+- Layer 2: added an alternate button for controllers: LTrigger (xbox) & L2 (Playstation), this button will traverse the list in the opposite order to the Back/Select/Share button.
+- REDELBE can now support more filenames in RRPreview (matching rdbtool 0.6)
+
+0.6
+- Layer2: added support for the pirates of the sea costumes dlc vol 2
+- REDELBE can now support the file names of the pirates of the sea costumes and some other file names (matching rdbtool 0.5)
+- Fixed a bug in which after reloading a battle, if a layer2 mod was active, in the reloaded battle the costume would go back to the vanilla costume of that slot.
+- Added a feature to allow the game to select random hairs when selecting random characters. This feature is disabled by default.
+  To enable it, look in the [Random] section of the .ini file. Further options can be configured in [RandomHair]
+
+
+0.5 (since this version, REDELBE is not longer compatible with game versions below 1.04a)
+- Fixed compatibility with game version 1.04a.
+- Layer2: added support for the pirates of the sea costumes.
+- REDELBE can now support the file names of the pirates of the sea costumes (matching rdbtool 0.4)
+- Layer2 costume mods now count towards randomization of costumes (enabled by default)
+  This apply to the following game modes: Versus, Arcade, Time Attack and Survival (both player and cpu).
+  If you don't want this feature, it can be disabled in the .ini.
+  It doesn't apply to hair mods, since the game doesn't randomize original hairs either (something for this will be optionally added in the future)
+  
+
+0.4
+- Added the new costume/hair functionality (aka "Layer2 mods"). Refer to the readme for usage.
+- Added an extra feature in the ini for the patch to uncensor break blows to Honoka/Marie/Nico.
+  This patch is ****NOT*** enabled by default. To enable it, use the ini file.
+  (For future reference: if I add any extra feature like this, they will always be disabled by default).  
+- ".rigbin" files didn't work in CharacterEditor due to an extra space in the source code.
+- REDELBE is now more "live-modding" friendly (changing modded files while game is running) (Still files must exist in REDELBE dir before game startup, but once they exist, they can be modified while the game is running).
+
+0.3
+- ScreenLayout and KIDSSystemResource weren't working due to a typo in the source code.
+- Supported names of wedding costumes (matching rdbtool 0.3)
+- Added an ini file, and debug options for it (to enable logging of files being accesed by game).
+
+0.2
+- Some files (such as .mtl) files wouldn't work in REDELBE dir due to a bug.
+
+0.1
+- Initial version

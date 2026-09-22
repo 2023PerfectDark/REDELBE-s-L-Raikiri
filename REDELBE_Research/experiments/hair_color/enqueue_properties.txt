@@ -1,0 +1,117 @@
+RVA 3336d20
+03336d20 4053                             push     rbx 
+03336d22 55                               push     rbp 
+03336d23 56                               push     rsi 
+03336d24 57                               push     rdi 
+03336d25 4156                             push     r14 
+03336d27 4883ec50                         sub      rsp, 0x50 
+03336d2b 488bd9                           mov      rbx, rcx 
+03336d2e e86d3241fe                       call     0x1749fa0 
+03336d33 488bcb                           mov      rcx, rbx 
+03336d36 0fb7f8                           movzx    edi, ax 
+03336d39 e8922341fe                       call     0x17490d0 
+03336d3e 488bd0                           mov      rdx, rax 
+03336d41 488d4c2438                       lea      rcx, [rsp + 0x38] 
+03336d46 488bf0                           mov      rsi, rax 
+03336d49 4c8b7028                         mov      r14, qword ptr [rax + 0x28] 
+03336d4d e84e45bdfd                       call     0xf0b2a0 
+03336d52 8bd7                             mov      edx, edi 
+03336d54 488d4c2438                       lea      rcx, [rsp + 0x38] 
+03336d59 48c1e204                         shl      rdx, 4 
+03336d5d e8be45bdfd                       call     0xf0b320 
+03336d62 488bd0                           mov      rdx, rax 
+03336d65 488bcb                           mov      rcx, rbx 
+03336d68 488be8                           mov      rbp, rax 
+03336d6b e8003141fe                       call     0x1749e70 
+03336d70 488d942498000000                 lea      rdx, [rsp + 0x98] 
+03336d78 488bcd                           mov      rcx, rbp 
+03336d7b e8b00241fe                       call     0x1747030 
+03336d80 488d4d10                         lea      rcx, [rbp + 0x10] 
+03336d84 488d542430                       lea      rdx, [rsp + 0x30] 
+03336d89 e8a20241fe                       call     0x1747030 
+03336d8e 488d4d20                         lea      rcx, [rbp + 0x20] 
+03336d92 488d942490000000                 lea      rdx, [rsp + 0x90] 
+03336d9a e8910241fe                       call     0x1747030 
+03336d9f 488d4d30                         lea      rcx, [rbp + 0x30] 
+03336da3 488d542434                       lea      rdx, [rsp + 0x34] 
+03336da8 e8830241fe                       call     0x1747030 
+03336dad 83ff04                           cmp      edi, 4 
+03336db0 7512                             jne      0x3336dc4 
+03336db2 8b8c2490000000                   mov      ecx, dword ptr [rsp + 0x90] 
+03336db9 8bc1                             mov      eax, ecx 
+03336dbb 898c2488000000                   mov      dword ptr [rsp + 0x88], ecx 
+03336dc2 eb1f                             jmp      0x3336de3 
+03336dc4 488d4d40                         lea      rcx, [rbp + 0x40] 
+03336dc8 488d942488000000                 lea      rdx, [rsp + 0x88] 
+03336dd0 e85b0241fe                       call     0x1747030 
+03336dd5 8b8c2490000000                   mov      ecx, dword ptr [rsp + 0x90] 
+03336ddc 8b842488000000                   mov      eax, dword ptr [rsp + 0x88] 
+03336de3 33ff                             xor      edi, edi 
+03336de5 85c9                             test     ecx, ecx 
+03336de7 7470                             je       0x3336e59 
+03336de9 85c0                             test     eax, eax 
+03336deb 746c                             je       0x3336e59 
+03336ded 48638c2498000000                 movsxd   rcx, dword ptr [rsp + 0x98] 
+03336df5 483b4e08                         cmp      rcx, qword ptr [rsi + 8] 
+03336df9 7308                             jae      0x3336e03 
+03336dfb 488b06                           mov      rax, qword ptr [rsi] 
+03336dfe 4803c1                           add      rax, rcx 
+03336e01 eb03                             jmp      0x3336e06 
+03336e03 488bc7                           mov      rax, rdi 
+03336e06 48634c2430                       movsxd   rcx, dword ptr [rsp + 0x30] 
+03336e0b 488b00                           mov      rax, qword ptr [rax] 
+03336e0e 488d1cc8                         lea      rbx, [rax + rcx*8] 
+03336e12 4885db                           test     rbx, rbx 
+03336e15 7442                             je       0x3336e59 
+03336e17 488b1b                           mov      rbx, qword ptr [rbx] 
+03336e1a 4885db                           test     rbx, rbx 
+03336e1d 743a                             je       0x3336e59 
+03336e1f 48397b20                         cmp      qword ptr [rbx + 0x20], rdi 
+03336e23 7434                             je       0x3336e59 
+03336e25 488b4b18                         mov      rcx, qword ptr [rbx + 0x18] 
+03336e29 498bd6                           mov      rdx, r14 
+03336e2c e8bfa8a6fd                       call     0xda16f0 
+03336e31 84c0                             test     al, al 
+03336e33 7424                             je       0x3336e59 
+03336e35 8b4c2434                         mov      ecx, dword ptr [rsp + 0x34] 
+03336e39 498bd6                           mov      rdx, r14 
+03336e3c 448b8c2488000000                 mov      r9d, dword ptr [rsp + 0x88] 
+03336e44 448b842490000000                 mov      r8d, dword ptr [rsp + 0x90] 
+03336e4c 894c2420                         mov      dword ptr [rsp + 0x20], ecx 
+03336e50 488b4b20                         mov      rcx, qword ptr [rbx + 0x20] 
+03336e54 e82702ceff                       call     0x3017080 
+03336e59 488d4c2438                       lea      rcx, [rsp + 0x38] 
+03336e5e e87d44bdfd                       call     0xf0b2e0 
+03336e63 0fb7c7                           movzx    eax, di 
+03336e66 4883c450                         add      rsp, 0x50 
+03336e6a 415e                             pop      r14 
+03336e6c 5f                               pop      rdi 
+03336e6d 5e                               pop      rsi 
+03336e6e 5d                               pop      rbp 
+03336e6f 5b                               pop      rbx 
+03336e70 c3                               ret       
+03336e71 cc                               int3      
+03336e72 cc                               int3      
+03336e73 cc                               int3      
+03336e74 cc                               int3      
+03336e75 cc                               int3      
+03336e76 cc                               int3      
+03336e77 cc                               int3      
+03336e78 cc                               int3      
+03336e79 cc                               int3      
+03336e7a cc                               int3      
+03336e7b cc                               int3      
+03336e7c cc                               int3      
+03336e7d cc                               int3      
+03336e7e cc                               int3      
+03336e7f cc                               int3      
+03336e80 48895c2408                       mov      qword ptr [rsp + 8], rbx 
+03336e85 55                               push     rbp 
+03336e86 56                               push     rsi 
+03336e87 57                               push     rdi 
+03336e88 4883ec40                         sub      rsp, 0x40 
+03336e8c 488bf9                           mov      rdi, rcx 
+03336e8f e80c3141fe                       call     0x1749fa0 
+03336e94 488bcf                           mov      rcx, rdi 
+03336e97 0fb7d8                           movzx    ebx, ax 
+03336e9a e8312241fe                       call     0x17490d0 

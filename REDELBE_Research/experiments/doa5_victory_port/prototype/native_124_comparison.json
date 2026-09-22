@@ -1,0 +1,122 @@
+[
+  {
+    "bone": 1,
+    "channel": 0,
+    "max_first_frame_difference": 0.0
+  },
+  {
+    "bone": 1,
+    "channel": 1,
+    "max_first_frame_difference": 0.967041015625
+  },
+  {
+    "bone": 2,
+    "channel": 0,
+    "max_first_frame_difference": 3.0517578125e-05
+  },
+  {
+    "bone": 2,
+    "channel": 1,
+    "max_first_frame_difference": 0.0001220703125
+  },
+  {
+    "bone": 12,
+    "channel": 0,
+    "max_first_frame_difference": 0.18927001953125
+  },
+  {
+    "bone": 10,
+    "channel": 0,
+    "max_first_frame_difference": 3.0517578125e-05
+  },
+  {
+    "bone": 7,
+    "channel": 0,
+    "max_first_frame_difference": 0.004119873046875
+  },
+  {
+    "bone": 17,
+    "channel": 0,
+    "max_first_frame_difference": 6.103515625e-05
+  },
+  {
+    "bone": 19,
+    "channel": 0,
+    "max_first_frame_difference": 0.317840576171875
+  },
+  {
+    "bone": 3,
+    "channel": 0,
+    "max_first_frame_difference": 0.002349853515625
+  },
+  {
+    "bone": 5,
+    "channel": 0,
+    "max_first_frame_difference": 0.006591796875
+  },
+  {
+    "bone": 15,
+    "channel": 0,
+    "max_first_frame_difference": 0.119354248046875
+  },
+  {
+    "bone": 8,
+    "channel": 0,
+    "max_first_frame_difference": 0.00372314453125
+  },
+  {
+    "bone": 18,
+    "channel": 0,
+    "max_first_frame_difference": 0.09698486328125
+  },
+  {
+    "bone": 20,
+    "channel": 0,
+    "max_first_frame_difference": 0.19390869140625
+  },
+  {
+    "bone": 4,
+    "channel": 0,
+    "max_first_frame_difference": 0.002197265625
+  },
+  {
+    "bone": 6,
+    "channel": 0,
+    "max_first_frame_difference": 0.001617431640625
+  },
+  {
+    "bone": 16,
+    "channel": 0,
+    "max_first_frame_difference": 0.1961669921875
+  },
+  {
+    "bone": 11,
+    "channel": 0,
+    "max_first_frame_difference": 0.2236328125
+  },
+  {
+    "bone": 9,
+    "channel": 0,
+    "max_first_frame_difference": 3.0517578125e-05
+  },
+  {
+    "bone": 13,
+    "channel": 0,
+    "max_first_frame_difference": 0.38555908203125
+  },
+  {
+    "bone": 23,
+    "channel": 0,
+    "max_first_frame_difference": 3.0517578125e-05
+  },
+  {
+    "bone": 14,
+    "channel": 0,
+    "max_first_frame_difference": 0.21038818359375
+  },
+  {
+    "bone": 24,
+    "channel": 0,
+    "max_first_frame_difference": 0.064300537109375
+  }
+]

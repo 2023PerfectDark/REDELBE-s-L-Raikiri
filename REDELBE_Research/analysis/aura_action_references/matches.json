@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0x2082ad97",
+    "name": "CE1CommonResource.motor.kidsobjdb",
+    "bytes": 2374296,
+    "hits": {
+      "0x399961": [
+        2302848
+      ]
+    }
+  },
+  {
+    "id": "0x285cb0c3",
+    "name": "CE1CommonResource.motor.kidssingletondb",
+    "bytes": 33281336,
+    "hits": {
+      "0x399961": [
+        34836
+      ]
+    }
+  },
+  {
+    "id": "0xf589e402",
+    "name": "Field_Common.character.level.kidsscndb",
+    "bytes": 7492808,
+    "hits": {
+      "0x399961": [
+        8584
+      ]
+    }
+  }
+]

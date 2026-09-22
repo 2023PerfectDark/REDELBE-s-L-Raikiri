@@ -1,0 +1,162 @@
+[
+  {
+    "rva": "0x4935a48",
+    "text": "mode::set_already_hair_color_change_ticket_return"
+  },
+  {
+    "rva": "0x4935a80",
+    "text": "mode::is_already_hair_color_change_ticket_return_tus"
+  },
+  {
+    "rva": "0x4935b60",
+    "text": "mode::is_already_hair_color_change_ticket_return"
+  },
+  {
+    "rva": "0x49379d0",
+    "text": "mode::online::ticket_info::get_ticket_num_for_display"
+  },
+  {
+    "rva": "0x4937a08",
+    "text": "mode::online::ticket_info::is_ticket_cost_enough"
+  },
+  {
+    "rva": "0x4937aa8",
+    "text": "mode::online::ticket_info::request_reset_hair_color"
+  },
+  {
+    "rva": "0x4937adf",
+    "text": "Cmode::online::ticket_info::update_ticket"
+  },
+  {
+    "rva": "0x4937b0f",
+    "text": "?mode::online::ticket_info::consume_ticket"
+  },
+  {
+    "rva": "0x4937b3f",
+    "text": "?mode::online::ticket_info::consume_ticket_hair_color"
+  },
+  {
+    "rva": "0x4937b78",
+    "text": "mode::online::ticket_log::request_add_ticket_usage_record"
+  },
+  {
+    "rva": "0x4937bbc",
+    "text": "fff?mode::online::ticket_log::request_add_ticket_usage_record_hair_color"
+  },
+  {
+    "rva": "0x4937c08",
+    "text": "mode::online::ticket_info::request_upload"
+  },
+  {
+    "rva": "0x4937c37",
+    "text": "?mode::online::ticket_info::request_download"
+  },
+  {
+    "rva": "0x49382e7",
+    "text": "?mode::online::ticket_log::is_can_add_ticket_log"
+  },
+  {
+    "rva": "0x493b2c8",
+    "text": "mode::closet::hair_color::get_hair_color_change_need_ticket"
+  },
+  {
+    "rva": "0x493b947",
+    "text": "@mode::closet::premium_ticket::valid_period::get_valid_days"
+  },
+  {
+    "rva": "0x493b987",
+    "text": "@mode::closet::premium_ticket::valid_period::get_period_year"
+  },
+  {
+    "rva": "0x493b9c7",
+    "text": "@mode::closet::premium_ticket::valid_period::get_period_month"
+  },
+  {
+    "rva": "0x493ba08",
+    "text": "mode::closet::premium_ticket::valid_period::get_period_day"
+  },
+  {
+    "rva": "0x493ba47",
+    "text": "Fmode::closet::premium_ticket::has_unused_ticket"
+  },
+  {
+    "rva": "0x493ba78",
+    "text": "mode::closet::premium_ticket::request_consume_ticket"
+  },
+  {
+    "rva": "0x493bab0",
+    "text": "mode::closet::premium_ticket::valid_period::is_disp_info_changed"
+  },
+  {
+    "rva": "0x493baff",
+    "text": "Fmode::closet::premium_ticket::valid_period::get_disp_info_count"
+  },
+  {
+    "rva": "0x493bb40",
+    "text": "mode::closet::premium_ticket::valid_period::get_ticket_num"
+  },
+  {
+    "rva": "0x493bb80",
+    "text": "mode::closet::premium_ticket::check_request_completed"
+  },
+  {
+    "rva": "0x493bbb8",
+    "text": "mode::closet::premium_ticket::check_premium_ticket_region"
+  },
+  {
+    "rva": "0x493bbf8",
+    "text": "mode::closet::premium_ticket::is_available"
+  },
+  {
+    "rva": "0x493bc25",
+    "text": "PCHmode::closet::premium_ticket::get_request_error_code"
+  },
+  {
+    "rva": "0x493bc60",
+    "text": "mode::closet::premium_ticket::request_busy"
+  },
+  {
+    "rva": "0x493bc90",
+    "text": "mode::closet::premium_ticket::request_success"
+  },
+  {
+    "rva": "0x493bcc0",
+    "text": "mode::closet::premium_ticket::request_update_ticket_information"
+  },
+  {
+    "rva": "0x493bfd0",
+    "text": "mode::closet::premium_ticket::valid_period::is_indefinite_period"
+  },
+  {
+    "rva": "0x493c017",
+    "text": "Fmode::closet::premium_ticket::valid_period::is_valid_region"
+  },
+  {
+    "rva": "0x493c058",
+    "text": "mode::closet::premium_ticket::product::get_product_price"
+  },
+  {
+    "rva": "0x493c097",
+    "text": "=mode::closet::premium_ticket::product::get_costume_price"
+  },
+  {
+    "rva": "0x493c420",
+    "text": "mode::closet::premium_ticket::is_valid_ticket_num"
+  },
+  {
+    "rva": "0x493c4f0",
+    "text": "mode::closet::request_get_premium_ticket_dlc_data"
+  },
+  {
+    "rva": "0x493c597",
+    "text": "?mode::closet::get_ticket_product_hash"
+  },
+  {
+    "rva": "0x4d064f8",
+    "text": "OnlineSessionJoinTicketDataAllocator"
+  },
+  {
+    "rva": "0x4d19db0",
+    "text": "const char *__cdecl boost::detail::core_typeid_<struct network::DelaySignalFunction<struct network::async_result::UploadTicketLog> >::name(void)"
+  }
+]

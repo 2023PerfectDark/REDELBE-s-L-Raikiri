@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Default",
+    "rgb": null
+  },
+  {
+    "name": "Black",
+    "rgb": "18181C"
+  },
+  {
+    "name": "Dark Brown",
+    "rgb": "493022"
+  },
+  {
+    "name": "Light Brown",
+    "rgb": "92633F"
+  },
+  {
+    "name": "Dark Blonde",
+    "rgb": "B09A60"
+  },
+  {
+    "name": "Platinum Blonde",
+    "rgb": "EFE0B7"
+  },
+  {
+    "name": "Silver",
+    "rgb": "B9BDC5"
+  },
+  {
+    "name": "White",
+    "rgb": "F5F5F2"
+  },
+  {
+    "name": "Bright Red",
+    "rgb": "E33332"
+  },
+  {
+    "name": "Orange",
+    "rgb": "EF8528"
+  },
+  {
+    "name": "Yellow",
+    "rgb": "F3DA35"
+  },
+  {
+    "name": "Lime Green",
+    "rgb": "8DDD32"
+  },
+  {
+    "name": "Cyan",
+    "rgb": "40CDE8"
+  },
+  {
+    "name": "Royal Blue",
+    "rgb": "3958DC"
+  },
+  {
+    "name": "Purple",
+    "rgb": "9750CF"
+  },
+  {
+    "name": "Pink",
+    "rgb": "EF82BC"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "adapter_boundary_checks": "passed",
+  "upstream_source_modified": false,
+  "source_commit": "95f21e77d9f4e08fa1f2b3891df48d8791ee420b",
+  "results": [
+    {
+      "package": "delta",
+      "title": "44454144204f5220414c495645203600",
+      "title_id": "43555341313231353300",
+      "entry_count": 15,
+      "dump_result": "Internal extraction completed: 9 plaintext file(s), 1 encrypted skipped, 5 internal skipped, 0 invalid skipped. Output: C:\\Users\\Owner\\OneDrive\\Documents\\ChatGPT\\Revers E REDELBE\\REDELBE_Research\\analysis\\ps4_hair_color\\pkgtoolbox_test\\delta\\plaintext",
+      "pfs_report": "--- Internal PFS inspection ---\nState: absent\nImage: offset=0x0, size=0 bytes\nImage count: 1\nImage flags: 0xA0000000000603CC\nMount image: offset=0x0, size=123,438,288 bytes\nCache size: 0 bytes\nSigned size: 65,536 bytes\nNote: The package declares no PFS image.",
+      "passcode_result": "ValueError: Incorrect PS4 package passcode; no output was written"
+    },
+    {
+      "package": "full_update",
+      "title": "44454144204f5220414c495645203600",
+      "title_id": "43555341313231353300",
+      "entry_count": 27,
+      "dump_result": "Internal extraction completed: 19 plaintext file(s), 2 encrypted skipped, 6 internal skipped, 0 invalid skipped. Output: C:\\Users\\Owner\\OneDrive\\Documents\\ChatGPT\\Revers E REDELBE\\REDELBE_Research\\analysis\\ps4_hair_color\\pkgtoolbox_test\\full_update\\plaintext",
+      "pfs_report": "--- Internal PFS inspection ---\nState: protected-or-unsupported\nImage: offset=0x980000, size=32,037,994,496 bytes\nImage count: 1\nImage flags: 0xA0000000000603CC\nMount image: offset=0x0, size=32,047,955,968 bytes\nCache size: 22,085,632 bytes\nSigned size: 65,536 bytes\nSeed: 99128583d4f94d5ff6ecc77c66b74efa\nNote: No plaintext PFSC header is visible in the inspected window. The image is normally AES-XTS protected; metadata entries in clear text remain extractable.",
+      "passcode_result": "ValueError: Incorrect PS4 package passcode; no output was written"
+    }
+  ]
+}

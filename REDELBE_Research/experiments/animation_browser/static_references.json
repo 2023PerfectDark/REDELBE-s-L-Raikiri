@@ -1,0 +1,335 @@
+[
+  {
+    "name": "KAS07120_WIN.g1a",
+    "hash": "0x0143fbdc",
+    "hits": []
+  },
+  {
+    "name": "KAS_CAMERA_7020_WIN.g1a",
+    "hash": "0x16df3ea8",
+    "hits": []
+  },
+  {
+    "name": "KAS_FACIAL_7122_WIN.g1a",
+    "hash": "0x7698706c",
+    "hits": []
+  },
+  {
+    "name": "KAS_FACIAL_7121_WIN.g1a",
+    "hash": "0x7a96e18d",
+    "hits": []
+  },
+  {
+    "name": "KAS_FACIAL_7120_WIN.g1a",
+    "hash": "0x7e9552ae",
+    "hits": []
+  },
+  {
+    "name": "KAS_CAMERA_7120_WIN.g1a",
+    "hash": "0x9d64f947",
+    "hits": []
+  },
+  {
+    "name": "KAS07020_WIN.g1a",
+    "hash": "0xa768919b",
+    "hits": []
+  },
+  {
+    "name": "KAS_FACIAL_7022_WIN.g1a",
+    "hash": "0xf012b5cd",
+    "hits": []
+  },
+  {
+    "name": "KAS_FACIAL_7021_WIN.g1a",
+    "hash": "0xf41126ee",
+    "hits": []
+  },
+  {
+    "name": "KAS_FACIAL_7020_WIN.g1a",
+    "hash": "0xf80f980f",
+    "hits": []
+  },
+  {
+    "search": "WIN",
+    "hits": [
+      {
+        "rva": "0x4cbbb04",
+        "text": "GRID"
+      },
+      {
+        "rva": "0x4cbd660",
+        "text": "\ufffd\ufffd=\ufffd\ufffd\u007f"
+      },
+      {
+        "rva": "0x5cf4f58",
+        "text": "OfFile"
+      }
+    ]
+  },
+  {
+    "search": "Victory",
+    "hits": []
+  },
+  {
+    "search": "victory",
+    "hits": [
+      {
+        "rva": "0x4d32b2b",
+        "text": "atest_win_count"
+      },
+      {
+        "rva": "0x4d32b93",
+        "text": "ount"
+      },
+      {
+        "rva": "0x4d32bcb",
+        "text": "un_combo_over_count"
+      },
+      {
+        "rva": "0x4d32bf3",
+        "text": "tal_hold_success"
+      }
+    ]
+  },
+  {
+    "search": "Result",
+    "hits": [
+      {
+        "rva": "0x4298745",
+        "text": ""
+      },
+      {
+        "rva": "0x4298b2b",
+        "text": ""
+      },
+      {
+        "rva": "0x4298f91",
+        "text": "Vol0"
+      },
+      {
+        "rva": "0x4299477",
+        "text": "Vol1"
+      },
+      {
+        "rva": "0x4311650",
+        "text": "\ufffd\ufffd\u001a\ufffd\ufffd[\ufffdS5d\u001b\u0017<\ufffd\ufffdO\ufffd\ufffd\ufffd\ufffd%i\ufffd\ufffdResult::eOk"
+      },
+      {
+        "rva": "0x4311660",
+        "text": "\ufffd\ufffd\ufffd\ufffd%i\ufffd\ufffdResult::eOk"
+      },
+      {
+        "rva": "0x4311678",
+        "text": "Result::eErrorIO"
+      },
+      {
+        "rva": "0x4311698",
+        "text": "eErrorDriverOutOfDate"
+      },
+      {
+        "rva": "0x43116b8",
+        "text": "eErrorOSOutOfDate"
+      },
+      {
+        "rva": "0x43116d8",
+        "text": "eErrorOSDisabledHWS"
+      },
+      {
+        "rva": "0x43116f8",
+        "text": "eErrorDeviceNotCreated"
+      },
+      {
+        "rva": "0x4311720",
+        "text": "SupportedAdapterFound"
+      },
+      {
+        "rva": "0x4311748",
+        "text": "apterNotSupported"
+      },
+      {
+        "rva": "0x4311760",
+        "text": "Result::eErrorNoPlugins"
+      },
+      {
+        "rva": "0x4311778",
+        "text": "Result::eErrorVulkanAPI"
+      },
+      {
+        "rva": "0x4311790",
+        "text": "Result::eErrorDXGIAPI"
+      },
+      {
+        "rva": "0x43117a8",
+        "text": "Result::eErrorD3DAPI"
+      },
+      {
+        "rva": "0x43117c0",
+        "text": "Result::eErrorNRDAPI"
+      },
+      {
+        "rva": "0x43117d8",
+        "text": "Result::eErrorNVAPI"
+      },
+      {
+        "rva": "0x43117f0",
+        "text": "Result::eErrorReflexAPI"
+      },
+      {
+        "rva": "0x4311808",
+        "text": "Result::eErrorNGXFailed"
+      },
+      {
+        "rva": "0x4311828",
+        "text": "eErrorJSONParsing"
+      },
+      {
+        "rva": "0x4311848",
+        "text": "eErrorMissingProxy"
+      },
+      {
+        "rva": "0x4311870",
+        "text": "ssingResourceState"
+      },
+      {
+        "rva": "0x4311898",
+        "text": "validIntegration"
+      },
+      {
+        "rva": "0x43118c0",
+        "text": "ssingInputParameter"
+      },
+      {
+        "rva": "0x43118e0",
+        "text": "eErrorNotInitialized"
+      },
+      {
+        "rva": "0x4311900",
+        "text": "eErrorComputeFailed"
+      },
+      {
+        "rva": "0x4311920",
+        "text": "eErrorInitNotCalled"
+      },
+      {
+        "rva": "0x4311940",
+        "text": "eErrorExceptionHandler"
+      },
+      {
+        "rva": "0x4311960",
+        "text": "eErrorInvalidParameter"
+      },
+      {
+        "rva": "0x4311980",
+        "text": "eErrorMissingConstants"
+      },
+      {
+        "rva": "0x43119a8",
+        "text": "plicatedConstants"
+      },
+      {
+        "rva": "0x43119d0",
+        "text": "ssingOrInvalidAPI"
+      },
+      {
+        "rva": "0x43119f8",
+        "text": "mmonConstantsMissing"
+      },
+      {
+        "rva": "0x4311a20",
+        "text": "supportedInterface"
+      },
+      {
+        "rva": "0x4311a40",
+        "text": "eErrorFeatureMissing"
+      },
+      {
+        "rva": "0x4311a68",
+        "text": "atureNotSupported"
+      },
+      {
+        "rva": "0x4311a90",
+        "text": "atureMissingHooks"
+      },
+      {
+        "rva": "0x4311ab8",
+        "text": "atureFailedToLoad"
+      },
+      {
+        "rva": "0x4311ae0",
+        "text": "atureWrongPriority"
+      },
+      {
+        "rva": "0x4311b08",
+        "text": "atureMissingDependency"
+      },
+      {
+        "rva": "0x4311b38",
+        "text": "agerInvalidState"
+      },
+      {
+        "rva": "0x4311b58",
+        "text": "eErrorInvalidState"
+      },
+      {
+        "rva": "0x4383ecd",
+        "text": "holdToCleanUp"
+      },
+      {
+        "rva": "0x4383ef5",
+        "text": "sholdLowerLimit"
+      },
+      {
+        "rva": "0x4383f1d",
+        "text": "sholdUpperLimit"
+      },
+      {
+        "rva": "0x4383f45",
+        "text": "sholdLowerLimit"
+      },
+      {
+        "rva": "0x4c94d57",
+        "text": "ObjectParamContainsCheckResult"
+      },
+      {
+        "rva": "0x4c98659",
+        "text": "asdk::InAppPurchaseResetResult"
+      },
+      {
+        "rva": "0x4c987dd",
+        "text": "::ResourceDownloadSwitchResult"
+      },
+      {
+        "rva": "0x4c98814",
+        "text": "k::ResourceDownloadResetResult"
+      },
+      {
+        "rva": "0x4d06cc3",
+        "text": "y_%u"
+      },
+      {
+        "rva": "0x4d07a63",
+        "text": "ineDeviceModuleParamWithResult"
+      },
+      {
+        "rva": "0x4d0a2d1",
+        "text": "ram"
+      },
+      {
+        "rva": "0x5cf4719",
+        "text": "rkItem2"
+      },
+      {
+        "rva": "0x5cf4f7b",
+        "text": "\u0004SteamAPI_UnregisterCallResult"
+      },
+      {
+        "rva": "0x5cf4f99",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "search": "g2a",
+    "hits": []
+  }
+]

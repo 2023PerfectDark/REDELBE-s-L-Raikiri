@@ -1,0 +1,119 @@
+[
+  {
+    "file": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100-DP.pkg",
+    "offset": 0,
+    "bytes_scanned": 123438288,
+    "hits": {
+      "elf64": [],
+      "self_header": [],
+      "hair_color": [],
+      "eboot": [],
+      "g1t": [],
+      "g1m": []
+    }
+  },
+  {
+    "file": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_0.pkg",
+    "offset": 9961472,
+    "bytes_scanned": 16777216,
+    "hits": {
+      "elf64": [],
+      "self_header": [],
+      "hair_color": [],
+      "eboot": [],
+      "g1t": [],
+      "g1m": []
+    }
+  },
+  {
+    "file": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_1.pkg",
+    "offset": 0,
+    "bytes_scanned": 16777216,
+    "hits": {
+      "elf64": [],
+      "self_header": [],
+      "hair_color": [],
+      "eboot": [],
+      "g1t": [],
+      "g1m": []
+    }
+  },
+  {
+    "file": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_2.pkg",
+    "offset": 0,
+    "bytes_scanned": 16777216,
+    "hits": {
+      "elf64": [],
+      "self_header": [],
+      "hair_color": [],
+      "eboot": [],
+      "g1t": [],
+      "g1m": []
+    }
+  },
+  {
+    "file": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_3.pkg",
+    "offset": 0,
+    "bytes_scanned": 16777216,
+    "hits": {
+      "elf64": [],
+      "self_header": [],
+      "hair_color": [],
+      "eboot": [],
+      "g1t": [],
+      "g1m": []
+    }
+  },
+  {
+    "file": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_4.pkg",
+    "offset": 0,
+    "bytes_scanned": 16777216,
+    "hits": {
+      "elf64": [],
+      "self_header": [],
+      "hair_color": [],
+      "eboot": [],
+      "g1t": [],
+      "g1m": []
+    }
+  },
+  {
+    "file": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_5.pkg",
+    "offset": 0,
+    "bytes_scanned": 16777216,
+    "hits": {
+      "elf64": [],
+      "self_header": [],
+      "hair_color": [],
+      "eboot": [],
+      "g1t": [],
+      "g1m": []
+    }
+  },
+  {
+    "file": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_6.pkg",
+    "offset": 0,
+    "bytes_scanned": 16777216,
+    "hits": {
+      "elf64": [],
+      "self_header": [],
+      "hair_color": [],
+      "eboot": [],
+      "g1t": [],
+      "g1m": []
+    }
+  },
+  {
+    "file": "UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_7.pkg",
+    "offset": 0,
+    "bytes_scanned": 16777216,
+    "hits": {
+      "elf64": [],
+      "self_header": [],
+      "hair_color": [],
+      "eboot": [],
+      "g1t": [],
+      "g1m": []
+    }
+  }
+]

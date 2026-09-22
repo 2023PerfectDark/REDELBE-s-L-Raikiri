@@ -1,0 +1,18 @@
+{
+  "banks": 294,
+  "tracks": 11880,
+  "categories": {
+    "Announcer": 776,
+    "Character": 8931,
+    "Music": 184,
+    "SFX": 1989
+  },
+  "bank_errors": [],
+  "checks": [
+    "all banks indexed",
+    "four categories decoded by FFmpeg",
+    "planar decoder matches FFmpeg mono",
+    "2/4 channel PCM accepted",
+    "readable export filenames and hash manifest"
+  ]
+}

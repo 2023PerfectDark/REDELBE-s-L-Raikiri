@@ -1,0 +1,567 @@
+[
+  {
+    "file": "branding.xml",
+    "name": "Branding",
+    "type": "hook",
+    "search_start": "0xFC5928",
+    "comment": "addr 1.03b",
+    "matches": []
+  },
+  {
+    "file": "debug.xml",
+    "name": "DumpKeys",
+    "enabled": "Debug:dump_keys",
+    "type": "log",
+    "search_start": "0x15788E0",
+    "comment": "addr 1.03a",
+    "matches": []
+  },
+  {
+    "file": "debug.xml",
+    "name": "DumpDecrypted",
+    "enabled": "Debug:dump_all_decrypted",
+    "type": "hook",
+    "search_start": "0x157F9C0",
+    "comment": "addr 1.03a",
+    "matches": []
+  },
+  {
+    "file": "debug.xml",
+    "name": "DebugScript1",
+    "enabled": "Debug:debug_script",
+    "type": "notify",
+    "search_start": "0xB930D2",
+    "comment": "addr 1.03b",
+    "matches": []
+  },
+  {
+    "file": "debug.xml",
+    "name": "DebugScript2",
+    "enabled": "Debug:debug_script",
+    "type": "hook",
+    "search_start": "0xB8ACE0",
+    "comment": "addr 1.03b",
+    "matches": []
+  },
+  {
+    "file": "debug.xml",
+    "name": "LocateSGP",
+    "enabled": "Debug:debug_script",
+    "type": "notify",
+    "search_start": "0xBB6150",
+    "comment": "addr 1.05",
+    "matches": []
+  },
+  {
+    "file": "debug.xml",
+    "name": "HuntHashes",
+    "enabled": "Debug:hunt_hashes",
+    "type": "hook",
+    "search_start": "0x242C0",
+    "comment": "addr 1.03b",
+    "matches": []
+  },
+  {
+    "file": "debug.xml",
+    "name": "HookC++Exception",
+    "enabled": "Debug:enable_cpp_exception_hook",
+    "type": "hook",
+    "search_start": "0x19AA6DD",
+    "comment": "addr 1.15",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchMRCWI",
+    "type": "hook",
+    "search_start": "0x11D6DF0",
+    "comment": "signature 1.19",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchBGC",
+    "type": "hook",
+    "search_start": "0x170F84B",
+    "comment": "signature 1.04a",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchBGF",
+    "type": "hook",
+    "search_start": "0x170F87A",
+    "comment": "signature 1.04a",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchBGH",
+    "type": "hook",
+    "search_start": "0x170F8AC",
+    "comment": "signature 1.04a",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchGRCF",
+    "type": "hook",
+    "search_start": "0x183BD3D",
+    "comment": "signature 1.16",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchBGS",
+    "type": "hook",
+    "search_start": "0x178BD87",
+    "comment": "signature 1.06a",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchLPA",
+    "type": "hook",
+    "search_start": "0x102BAE4",
+    "comment": "signature 1.03b",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateMO",
+    "type": "notify",
+    "search_start": "0x16DF36E",
+    "comment": "signature 1.03b",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchICM",
+    "type": "hook",
+    "search_start": "0x11D59D0",
+    "comment": "signature 1.19",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchICM2",
+    "type": "hook",
+    "search_start": "0x11D59D0",
+    "comment": "signature 1.19",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchICM3",
+    "type": "hook",
+    "search_start": "0x11D59D0",
+    "comment": "signature 1.19",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchICF",
+    "type": "hook",
+    "search_start": "0x11332F0",
+    "comment": "signature 1.05",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateGDS",
+    "type": "notify",
+    "search_start": "0x131BE9",
+    "comment": "signature 1.03b",
+    "matches": [
+      "0xe4ae99"
+    ]
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchBI",
+    "type": "hook",
+    "search_start": "0x18462C0",
+    "comment": "signature 1.15",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchBF",
+    "type": "hook",
+    "search_start": "0x10C7A60",
+    "comment": "signature 1.03b",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchBNM",
+    "type": "hook",
+    "search_start": "0x1234060",
+    "comment": "signature 1.03b",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchBRM",
+    "type": "hook",
+    "search_start": "0x12340D0",
+    "comment": "signature 1.03b",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchSRARTA",
+    "type": "hook",
+    "search_start": "0x18B0DF6",
+    "comment": "signature 1.19",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchSRSV",
+    "type": "hook",
+    "search_start": "0x18B3D8C",
+    "comment": "signature 1.20",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchSRVS",
+    "type": "hook",
+    "search_start": "0x18C45A1",
+    "comment": "signature 1.19",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchSRFT",
+    "type": "hook",
+    "search_start": "0x18C86B5",
+    "comment": "signature 1.21",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchSRSARTA",
+    "type": "hook",
+    "search_start": "0x18B10BD",
+    "comment": "signature 1.20",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchSRSVS",
+    "type": "hook",
+    "search_start": "0x18C48BA",
+    "comment": "signature 1.20",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchSRFTS",
+    "type": "hook",
+    "search_start": "0x18C8237",
+    "comment": "signature 1.21",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateCO",
+    "type": "notify",
+    "search_start": "0x11298B5",
+    "comment": "signature 1.16",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateCISL",
+    "type": "notify",
+    "search_start": "0x11F9FC0",
+    "comment": "signature 1.14",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateCRDSL",
+    "type": "notify",
+    "search_start": "0x1132540",
+    "comment": "signature 1.04a",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateCGDHLIH_NNN",
+    "type": "notify",
+    "search_start": "0x11FEFE0",
+    "comment": "signature 1.16",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateCGDHLS_NNN",
+    "type": "notify",
+    "search_start": "0x11FF160",
+    "comment": "signature 1.16",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateOGCRFC",
+    "type": "notify",
+    "search_start": "0x1729F40",
+    "comment": "signature 1.04a",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateCGDFM",
+    "type": "notify",
+    "search_start": "0x1723930",
+    "comment": "signature 1.04a",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateLSPTU",
+    "type": "notify",
+    "search_start": "0xFFCDE0",
+    "comment": "signature 1.05",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateLO",
+    "type": "notify",
+    "search_start": "0x114F1A3",
+    "comment": "signature 1.05",
+    "matches": [
+      "0x2309de5"
+    ]
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchLSPTII",
+    "type": "hook",
+    "search_start": "0x178A8B0",
+    "comment": "signature 1.06a",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LoadStagesExt",
+    "type": "hook",
+    "search_start": "0x18487B0",
+    "comment": "signature 1.08",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "StagesParamExt",
+    "type": "hook",
+    "search_start": "0x18F1F80",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "LocateTDM",
+    "type": "notify",
+    "search_start": "0x18B2D00",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchGCSBGM",
+    "type": "hook",
+    "search_start": "0x18B2D00",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "FixRandomGlasses",
+    "type": "hook",
+    "search_start": "0x18AD6B5",
+    "enabled": "Random:enable_random_glasses",
+    "comment": "signature 1.17",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchCLRICtor",
+    "type": "hook",
+    "search_start": "0x14886C0",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "PatchMGDG",
+    "type": "hook",
+    "search_start": "0x11DF50A",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "Transform1",
+    "type": "hook",
+    "search_start": "0x19D96A0",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "Transform2",
+    "type": "hook",
+    "search_start": "0x2564F",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "Transform3",
+    "type": "notify",
+    "search_start": "0x19D96BB",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "Transform4",
+    "type": "notify",
+    "search_start": "0x19D605C",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "Transform5",
+    "type": "notify",
+    "search_start": "0x19D605C",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "layer2.xml",
+    "name": "Transform6",
+    "type": "notify",
+    "search_start": "0x19D6085",
+    "comment": "signature 1.22",
+    "matches": [
+      "0x3a37fc4"
+    ]
+  },
+  {
+    "file": "misc.xml",
+    "name": "SurvivalStagePatch",
+    "type": "notify",
+    "search_start": "0x18501F1",
+    "enabled": "IsSurvivalPatchNeeded()",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "misc.xml",
+    "name": "RandomMusicPatch",
+    "type": "hook",
+    "search_start": "0x18C384A",
+    "enabled": "Random:enable_random_music",
+    "comment": "signature 1.22",
+    "matches": [
+      "0x39837f6"
+    ]
+  },
+  {
+    "file": "misc.xml",
+    "name": "RandomMusicPatch2",
+    "type": "hook",
+    "search_start": "0x18C380C",
+    "enabled": "Random:enable_random_music",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "misc.xml",
+    "name": "RandomMusicPatch3",
+    "type": "nop",
+    "search_start": "0x18C3859",
+    "enabled": "Random:enable_random_music",
+    "comment": "signature 1.22",
+    "matches": []
+  },
+  {
+    "file": "misc.xml",
+    "name": "DisableSplashScreen",
+    "type": "write",
+    "search_start": "0x16D0051",
+    "enabled": "Misc:disable_splash",
+    "matches": []
+  },
+  {
+    "file": "ui.xml",
+    "name": "LocateLO2",
+    "type": "notify",
+    "search_start": "0x114F1A3",
+    "enabled": "UI:enable_hide_battle_hud",
+    "comment": "signature 1.05",
+    "matches": [
+      "0x2309de5"
+    ]
+  },
+  {
+    "file": "ui.xml",
+    "name": "PatchLSL",
+    "type": "hook",
+    "search_start": "0x1224C05",
+    "enabled": "UI:enable_hide_battle_hud",
+    "comment": "signature 1.22",
+    "matches": [
+      "0x1f87fc2"
+    ]
+  },
+  {
+    "file": "ui.xml",
+    "name": "PatchLHL",
+    "type": "hook",
+    "search_start": "0x121A6A2",
+    "enabled": "UI:enable_hide_battle_hud",
+    "comment": "signature 1.22",
+    "matches": [
+      "0x1f7b917"
+    ]
+  },
+  {
+    "file": "uncensorship.xml",
+    "name": "UncensorLoliBlow",
+    "type": "write",
+    "search_start": "0x1905616",
+    "comment": "addr 1.06a",
+    "matches": []
+  },
+  {
+    "file": "workarounds.xml",
+    "name": "Workaround115_1",
+    "type": "nop",
+    "search_start": "0x11D6FCF",
+    "comment": "addr 1.15",
+    "matches": []
+  },
+  {
+    "file": "workarounds.xml",
+    "name": "Workaround115_2",
+    "type": "nop",
+    "search_start": "0x11D767C",
+    "comment": "addr 1.16",
+    "matches": []
+  },
+  {
+    "file": "workarounds.xml",
+    "name": "Workaround115_3",
+    "type": "nop",
+    "search_start": "0x11D6468",
+    "comment": "addr 1.15",
+    "matches": []
+  }
+]

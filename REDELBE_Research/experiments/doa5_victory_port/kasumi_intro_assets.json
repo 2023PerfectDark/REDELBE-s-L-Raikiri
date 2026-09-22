@@ -1,0 +1,26 @@
+[
+  {
+    "name": "KASUMI_MOT_TAG_ENTRY.tdpack",
+    "archive": "common.lnk",
+    "index": 290,
+    "size": 34656
+  },
+  {
+    "name": "KASUMI_MOT_ENTRY_101.tdpack",
+    "archive": "common.lnk",
+    "index": 661,
+    "size": 34272
+  },
+  {
+    "name": "KASUMI_MOT_ENTRY_100.tdpack",
+    "archive": "common.lnk",
+    "index": 749,
+    "size": 34656
+  },
+  {
+    "name": "KASUMI_MOT_ENTRY_102.tdpack",
+    "archive": "common.lnk",
+    "index": 950,
+    "size": 39008
+  }
+]

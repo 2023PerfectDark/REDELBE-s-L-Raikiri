@@ -1,0 +1,19 @@
+39718a0 48895c2408                   mov qword ptr [rsp + 8], rbx
+39718a5 57                           push rdi
+39718a6 4883ec20                     sub rsp, 0x20
+39718aa 0fb6d9                       movzx ebx, cl
+39718ad 488d0dc0a9dc04               lea rcx, [rip + 0x4dca9c0]
+39718b4 e8bfc81900                   call 0x3b0e178
+39718b9 488b3d00514f02               mov rdi, qword ptr [rip + 0x24f5100]
+39718c0 488bcf                       mov rcx, rdi
+39718c3 66c787040100000101           mov word ptr [rdi + 0x104], 0x101
+39718cc c7870001000000000000         mov dword ptr [rdi + 0x100], 0
+39718d6 e8758b0500                   call 0x39ca450
+39718db 488d8fb0060000               lea rcx, [rdi + 0x6b0]
+39718e2 41b101                       mov r9b, 1
+39718e5 41b808000000                 mov r8d, 8
+39718eb 0fb6d3                       movzx edx, bl
+39718ee 488b5c2430                   mov rbx, qword ptr [rsp + 0x30]
+39718f3 4883c420                     add rsp, 0x20
+39718f7 5f                           pop rdi
+39718f8 e9930b0600                   jmp 0x39d2490

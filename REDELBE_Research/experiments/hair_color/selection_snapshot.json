@@ -1,0 +1,26 @@
+{
+  "pid": 13456,
+  "requests": [
+    {
+      "object": "0x7ff697152e70",
+      "player": "0x0",
+      "character": "0x200cd4",
+      "costume": "0xafc9df3a",
+      "face": "0xbc297582",
+      "hair": "0xb653d707",
+      "costume_color": "0x0",
+      "native_hair_color": "-0x1"
+    },
+    {
+      "object": "0x7ff697152e70",
+      "player": "0x1",
+      "character": "0x0",
+      "costume": "0xc6de52db",
+      "face": "0xbc28f906",
+      "hair": "0xb6535a8b",
+      "costume_color": "0x0",
+      "native_hair_color": "-0x1"
+    }
+  ],
+  "editor_slot": 0
+}

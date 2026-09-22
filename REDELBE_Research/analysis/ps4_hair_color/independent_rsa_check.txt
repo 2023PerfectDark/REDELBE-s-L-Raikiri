@@ -1,0 +1,6 @@
+UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_0.pkg
+Independent raw RSA fake-key PKCS1 padding valid: False
+Filesystem key verified: False
+UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100-DP.pkg
+Independent raw RSA fake-key PKCS1 padding valid: False
+Filesystem key verified: False

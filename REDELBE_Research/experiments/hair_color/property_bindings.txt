@@ -1,0 +1,99 @@
+RVA 8c4aa0
+008c4aa0 48894c2408                       mov      qword ptr [rsp + 8], rcx 
+008c4aa5 53                               push     rbx 
+008c4aa6 4883ec60                         sub      rsp, 0x60 
+008c4aaa 48c7442420feffffff               mov      qword ptr [rsp + 0x20], 0xfffffffffffffffe 
+008c4ab3 488d1d96ab6307                   lea      rbx, [rip + 0x763ab96] b'\x98\xd4\x83\xf5\xf7\x7f' | '풘\uf583翷'
+008c4aba 48899c2488000000                 mov      qword ptr [rsp + 0x88], rbx 
+008c4ac2 488d0d213ee207                   lea      rcx, [rip + 0x7e23e21] b'\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01' | 'āāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāā'
+008c4ac9 e8aa962403                       call     0x3b0e178 
+008c4ace 488d442470                       lea      rax, [rsp + 0x70] 
+008c4ad3 4889442428                       mov      qword ptr [rsp + 0x28], rax 
+008c4ad8 488d05b17c3104                   lea      rax, [rip + 0x4317cb1] b'' | ''
+008c4adf 4889442470                       mov      qword ptr [rsp + 0x70], rax 
+008c4ae4 488d442470                       lea      rax, [rsp + 0x70] 
+008c4ae9 4889442430                       mov      qword ptr [rsp + 0x30], rax 
+008c4aee 488d842480000000                 lea      rax, [rsp + 0x80] 
+008c4af6 4889442438                       mov      qword ptr [rsp + 0x38], rax 
+008c4afb 488d05bad63c04                   lea      rax, [rip + 0x43cd6ba] b'iiii*_' | '楩楩弪'
+008c4b02 4889842480000000                 mov      qword ptr [rsp + 0x80], rax 
+008c4b0a 488d442478                       lea      rax, [rsp + 0x78] 
+008c4b0f 4889442440                       mov      qword ptr [rsp + 0x40], rax 
+008c4b14 488d051d253d04                   lea      rax, [rip + 0x43d251d] b'kids::placeable::model::EnqPropertiesWithMaterialGroupID' | '楫獤㨺汰捡慥汢㩥洺摯汥㨺湅偱潲数瑲敩坳瑩䵨瑡牥慩䝬潲灵䑉'
+008c4b1b 4889442478                       mov      qword ptr [rsp + 0x78], rax 
+008c4b20 4c8b542478                       mov      r10, qword ptr [rsp + 0x78] 
+008c4b25 4c89542448                       mov      qword ptr [rsp + 0x48], r10 
+008c4b2a 4c8b9c2480000000                 mov      r11, qword ptr [rsp + 0x80] 
+008c4b32 4c895c2450                       mov      qword ptr [rsp + 0x50], r11 
+008c4b37 4d8bc2                           mov      r8, r10 
+008c4b3a 33d2                             xor      edx, edx 
+008c4b3c 450fb60a                         movzx    r9d, byte ptr [r10] 
+008c4b40 4584c9                           test     r9b, r9b 
+008c4b43 7432                             je       0x8c4b77 
+008c4b45 6666660f1f840000000000           nop      word ptr [rax + rax] 
+008c4b50 8bca                             mov      ecx, edx 
+008c4b52 c1e106                           shl      ecx, 6 
+008c4b55 8bc2                             mov      eax, edx 
+008c4b57 c1e802                           shr      eax, 2 
+008c4b5a 03c8                             add      ecx, eax 
+008c4b5c 410fbec1                         movsx    eax, r9b 
+008c4b60 81c1b979379e                     add      ecx, 0x9e3779b9 
+008c4b66 03c8                             add      ecx, eax 
+008c4b68 33d1                             xor      edx, ecx 
+008c4b6a 4d8d4001                         lea      r8, [r8 + 1] 
+008c4b6e 450fb608                         movzx    r9d, byte ptr [r8] 
+008c4b72 4584c9                           test     r9b, r9b 
+008c4b75 75d9                             jne      0x8c4b50 
+008c4b77 89542458                         mov      dword ptr [rsp + 0x58], edx 
+008c4b7b 488d054e783e04                   lea      rax, [rip + 0x43e784e] b'@\xb0\xb1\xf1\xf7\x7f' | '끀\uf1b1翷'
+008c4b82 488905c7aa6307                   mov      qword ptr [rip + 0x763aac7], rax 
+008c4b89 4c8915c8aa6307                   mov      qword ptr [rip + 0x763aac8], r10 
+008c4b90 4c891dc9aa6307                   mov      qword ptr [rip + 0x763aac9], r11 
+008c4b97 8915cbaa6307                     mov      dword ptr [rip + 0x763aacb], edx 
+008c4b9d 488d057c21a702                   lea      rax, [rip + 0x2a7217c] b'@SUVWAVH\x83\xecPH\x8b\xd9\xe8m2A\xfeH\x8b\xcb\x0f\xb7\xf8\xe8\x92#A\xfeH\x8b\xd0H\x8dL$8H\x8b\xf0L\x8bp(\xe8NE\xbd\xfd\x8b\xd7H\x8dL$8H\xc1\xe2\x04\xe8\xbeE\xbd\xfdH\x8b\xd0H\x8b\xcbH\x8b\xe8\xe8' | '區噕䅗䡖\uec83䡐�淨䄲䣾쮋뜏\ue8f8⎒﹁譈䣐䲍㠤譈䳰炋\ue828䕎ﶽ힋赈\u244c䠸\ue2c1\ue804䖾ﶽ譈䣐쮋譈\ue8e8\u3100﹁赈⒔\x98'
+008c4ba4 488905c5aa6307                   mov      qword ptr [rip + 0x763aac5], rax 
+008c4bab 48c705c2aa630700000000           mov      qword ptr [rip + 0x763aac2], 0 
+008c4bb6 488b442470                       mov      rax, qword ptr [rsp + 0x70] 
+008c4bbb 488905beaa6307                   mov      qword ptr [rip + 0x763aabe], rax 
+008c4bc2 48c705bbaa6307ffffffff           mov      qword ptr [rip + 0x763aabb], 0xffffffffffffffff 
+008c4bcd 488d055c4c3504                   lea      rax, [rip + 0x4354c5c] b'p\xe6k\xf1\xf7\x7f' | '\ue670\uf16b翷'
+008c4bd4 48890575aa6307                   mov      qword ptr [rip + 0x763aa75], rax 
+008c4bdb 488d0db6883604                   lea      rcx, [rip + 0x43688b6] b'`LM\xf1\xf7\x7f' | '䱠\uf14d翷'
+008c4be2 48890d67aa6307                   mov      qword ptr [rip + 0x763aa67], rcx 
+008c4be9 488bc3                           mov      rax, rbx 
+008c4bec 4883c460                         add      rsp, 0x60 
+008c4bf0 5b                               pop      rbx 
+008c4bf1 c3                               ret       
+RVA a3c0f0
+00a3c0f0 4053                             push     rbx 
+00a3c0f2 4883ec60                         sub      rsp, 0x60 
+00a3c0f6 48c7442420feffffff               mov      qword ptr [rsp + 0x20], 0xfffffffffffffffe 
+00a3c0ff 488bd9                           mov      rbx, rcx 
+00a3c102 488d0d67c0ca07                   lea      rcx, [rip + 0x7cac067] b'\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01' | 'āāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāā'
+00a3c109 e86a200d03                       call     0x3b0e178 
+00a3c10e b910000000                       mov      ecx, 0x10 
+00a3c113 65488b042558000000               mov      rax, qword ptr gs:[0x58] 
+00a3c11c 488b10                           mov      rdx, qword ptr [rax] 
+00a3c11f 8b0411                           mov      eax, dword ptr [rcx + rdx] 
+00a3c122 3905d80f4c07                     cmp      dword ptr [rip + 0x74c0fd8], eax 
+00a3c128 0f8fb7000000                     jg       0xa3c1e5 
+00a3c12e 4c8d051b354c07                   lea      r8, [rip + 0x74c351b] b'\x98\xd4\x83\xf5\xf7\x7f' | '풘\uf583翷'
+00a3c135 ba79d428e5                       mov      edx, 0xe528d479 
+00a3c13a 488bcb                           mov      rcx, rbx 
+00a3c13d 4883c460                         add      rsp, 0x60 
+00a3c141 5b                               pop      rbx 
+00a3c142 e9190b5700                       jmp      0xfacc60 
+00a3c147 89542458                         mov      dword ptr [rsp + 0x58], edx 
+00a3c14b 488d05f6fe1e04                   lea      rax, [rip + 0x41efef6] b'`\xc5J\xf1\xf7\x7f' | '애\uf14a翷'
+00a3c152 488905f7344c07                   mov      qword ptr [rip + 0x74c34f7], rax 
+00a3c159 488d0570022704                   lea      rax, [rip + 0x4270270] b'@\xb0\xb1\xf1\xf7\x7f' | '끀\uf1b1翷'
+00a3c160 488905e9344c07                   mov      qword ptr [rip + 0x74c34e9], rax 
+00a3c167 4c8915ea344c07                   mov      qword ptr [rip + 0x74c34ea], r10 
+00a3c16e 4c891deb344c07                   mov      qword ptr [rip + 0x74c34eb], r11 
+00a3c175 8915ed344c07                     mov      dword ptr [rip + 0x74c34ed], edx 
+00a3c17b 488d059eab8f02                   lea      rax, [rip + 0x28fab9e] b'@SUVWAVH\x83\xecPH\x8b\xd9\xe8m2A\xfeH\x8b\xcb\x0f\xb7\xf8\xe8\x92#A\xfeH\x8b\xd0H\x8dL$8H\x8b\xf0L\x8bp(\xe8NE\xbd\xfd\x8b\xd7H\x8dL$8H\xc1\xe2\x04\xe8\xbeE\xbd\xfdH\x8b\xd0H\x8b\xcbH\x8b\xe8\xe8' | '區噕䅗䡖\uec83䡐�淨䄲䣾쮋뜏\ue8f8⎒﹁譈䣐䲍㠤譈䳰炋\ue828䕎ﶽ힋赈\u244c䠸\ue2c1\ue804䖾ﶽ譈䣐쮋譈\ue8e8\u3100﹁赈⒔\x98'
+00a3c182 488905e7344c07                   mov      qword ptr [rip + 0x74c34e7], rax 
+00a3c189 48c705e4344c0700000000           mov      qword ptr [rip + 0x74c34e4], 0 
+00a3c194 488b442478                       mov      rax, qword ptr [rsp + 0x78] 
+00a3c199 488905e0344c07                   mov      qword ptr [rip + 0x74c34e0], rax 
+00a3c1a0 48c705dd344c07ffffffff           mov      qword ptr [rip + 0x74c34dd], 0xffffffffffffffff 

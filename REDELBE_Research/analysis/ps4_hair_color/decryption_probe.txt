@@ -1,0 +1,13 @@
+Package: UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100_0.pkg
+Entry keys present: True
+Image key present: True
+All-zero 32-character passcode valid: False
+Fake-package decryption returned key: False
+Recovered key passes package verification: False
+Outer derived-key RSA unwrap: succeeded
+Image-key AES layer: processed
+Unwrap failed: CryptographicException: A device attached to the system is not functioning.
+Package: UP4108-CUSA12153_00-DOA6FULLGAME0000-A0126-V0100-DP.pkg
+Entry keys present: True
+Image key present: False
+All-zero 32-character passcode valid: False

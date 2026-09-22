@@ -1,0 +1,57 @@
+exception (3221225477, 0, 0, 140698447702419, 2, 0)
+base 0x7ff6e6d10000
+rbx 0x2723ffe4440 memory 
+rdi 0x6 memory 
+r12 0x4 memory 
+r13 0xe155ffeb60 memory 702eb1ecf67f0000082fb1ecf67f000048f4ff55e100000088e8ff55e1000000
+vector at r13+1b8 d9fa46e8f67f0000f0a9f13d72020000d9fa46e8f67f0000
+r14 0x7ff6ecb12f08 memory 4044fe3f720200002047fe3f720200000000000000000000000000001231a0cf
+r15 0xe155ffeb60 memory 702eb1ecf67f0000082fb1ecf67f000048f4ff55e100000088e8ff55e1000000
+FUNCTION 22c81c0-22c8264 (saved baseline)
+22c81c0 mov qword ptr [rsp + 8], rbx
+22c81c5 mov qword ptr [rsp + 0x10], rsi
+22c81ca push rdi
+22c81cb sub rsp, 0x20
+22c81cf lea rcx, [rip + 0x647409e]
+22c81d6 mov ebx, r9d
+22c81d9 mov esi, r8d
+22c81dc mov edi, edx
+22c81de call 0x3b0e178
+22c81e3 mov ecx, edi
+22c81e5 call 0x37675c0
+22c81ea test al, al
+22c81ec je 0x22c8200
+22c81ee mov eax, esi
+22c81f0 mov rbx, qword ptr [rsp + 0x30]
+22c81f5 mov rsi, qword ptr [rsp + 0x38]
+22c81fa add rsp, 0x20
+22c81fe pop rdi
+22c81ff ret 
+22c8200 mov ecx, edi
+22c8202 call 0x37bdba0
+22c8207 mov ecx, eax
+22c8209 call 0x3767530
+22c820e test al, al
+22c8210 je 0x22c824b
+22c8212 mov rcx, qword ptr [rip + 0x3b36fa7]
+22c8219 mov r8d, edi
+22c821c add rcx, 0x78
+22c8220 mov edx, 0x677ab22
+22c8225 call 0x221bf00
+22c822a mov r8d, eax
+22c822d mov edx, 0xd8f88e69
+22c8232 mov ecx, 0x677ab22
+22c8237 mov rbx, qword ptr [rsp + 0x30]
+22c823c mov rsi, qword ptr [rsp + 0x38]
+22c8241 add rsp, 0x20
+22c8245 pop rdi
+22c8246 jmp 0x37b9760
+22c824b mov rsi, qword ptr [rsp + 0x38]
+22c8250 xor eax, eax
+22c8252 test ebx, ebx
+22c8254 cmovs ebx, eax
+22c8257 mov eax, ebx
+22c8259 mov rbx, qword ptr [rsp + 0x30]
+22c825e add rsp, 0x20
+22c8262 pop rdi
+22c8263 ret 

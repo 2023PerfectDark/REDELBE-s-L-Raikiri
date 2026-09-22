@@ -1,0 +1,290 @@
+[
+  {
+    "phase": "ENTRY",
+    "number": 100,
+    "kind": "Clips",
+    "target": "kas07010_ent.g1a",
+    "id": "219ac50b",
+    "bytes": 107304
+  },
+  {
+    "phase": "ENTRY",
+    "number": 100,
+    "kind": "Cameras",
+    "target": "kas_camera_7010_ent.g1a",
+    "id": "6ee14d38",
+    "bytes": 10944
+  },
+  {
+    "phase": "ENTRY",
+    "number": 100,
+    "kind": "Faces",
+    "target": "kas_facial_7010_ent.g1a",
+    "id": "5011a69f",
+    "bytes": 402104
+  },
+  {
+    "phase": "ENTRY",
+    "number": 100,
+    "kind": "Clips",
+    "target": "kas07110_ent.g1a",
+    "id": "7b762f4c",
+    "bytes": 107304
+  },
+  {
+    "phase": "ENTRY",
+    "number": 100,
+    "kind": "Cameras",
+    "target": "kas_camera_7110_ent.g1a",
+    "id": "f56707d7",
+    "bytes": 10944
+  },
+  {
+    "phase": "ENTRY",
+    "number": 100,
+    "kind": "Faces",
+    "target": "kas_facial_7110_ent.g1a",
+    "id": "d697613e",
+    "bytes": 402104
+  },
+  {
+    "phase": "ENTRY",
+    "number": 101,
+    "kind": "Clips",
+    "target": "kas07010_ent.g1a",
+    "id": "219ac50b",
+    "bytes": 107304
+  },
+  {
+    "phase": "ENTRY",
+    "number": 101,
+    "kind": "Cameras",
+    "target": "kas_camera_7010_ent.g1a",
+    "id": "6ee14d38",
+    "bytes": 10944
+  },
+  {
+    "phase": "ENTRY",
+    "number": 101,
+    "kind": "Faces",
+    "target": "kas_facial_7010_ent.g1a",
+    "id": "5011a69f",
+    "bytes": 356480
+  },
+  {
+    "phase": "ENTRY",
+    "number": 101,
+    "kind": "Clips",
+    "target": "kas07110_ent.g1a",
+    "id": "7b762f4c",
+    "bytes": 107304
+  },
+  {
+    "phase": "ENTRY",
+    "number": 101,
+    "kind": "Cameras",
+    "target": "kas_camera_7110_ent.g1a",
+    "id": "f56707d7",
+    "bytes": 10944
+  },
+  {
+    "phase": "ENTRY",
+    "number": 101,
+    "kind": "Faces",
+    "target": "kas_facial_7110_ent.g1a",
+    "id": "d697613e",
+    "bytes": 356480
+  },
+  {
+    "phase": "ENTRY",
+    "number": 102,
+    "kind": "Clips",
+    "target": "kas07010_ent.g1a",
+    "id": "219ac50b",
+    "bytes": 206848
+  },
+  {
+    "phase": "ENTRY",
+    "number": 102,
+    "kind": "Cameras",
+    "target": "kas_camera_7010_ent.g1a",
+    "id": "6ee14d38",
+    "bytes": 22896
+  },
+  {
+    "phase": "ENTRY",
+    "number": 102,
+    "kind": "Faces",
+    "target": "kas_facial_7010_ent.g1a",
+    "id": "5011a69f",
+    "bytes": 470016
+  },
+  {
+    "phase": "ENTRY",
+    "number": 102,
+    "kind": "Clips",
+    "target": "kas07110_ent.g1a",
+    "id": "7b762f4c",
+    "bytes": 206848
+  },
+  {
+    "phase": "ENTRY",
+    "number": 102,
+    "kind": "Cameras",
+    "target": "kas_camera_7110_ent.g1a",
+    "id": "f56707d7",
+    "bytes": 22896
+  },
+  {
+    "phase": "ENTRY",
+    "number": 102,
+    "kind": "Faces",
+    "target": "kas_facial_7110_ent.g1a",
+    "id": "d697613e",
+    "bytes": 470016
+  },
+  {
+    "phase": "WIN",
+    "number": 120,
+    "kind": "Clips",
+    "target": "kas07020_win.g1a",
+    "id": "a768919b",
+    "bytes": 460904
+  },
+  {
+    "phase": "WIN",
+    "number": 120,
+    "kind": "Cameras",
+    "target": "kas_camera_7020_win.g1a",
+    "id": "16df3ea8",
+    "bytes": 33552
+  },
+  {
+    "phase": "WIN",
+    "number": 120,
+    "kind": "Faces",
+    "target": "kas_facial_7020_win.g1a",
+    "id": "f80f980f",
+    "bytes": 2117932
+  },
+  {
+    "phase": "WIN",
+    "number": 120,
+    "kind": "Clips",
+    "target": "kas07120_win.g1a",
+    "id": "0143fbdc",
+    "bytes": 460904
+  },
+  {
+    "phase": "WIN",
+    "number": 120,
+    "kind": "Cameras",
+    "target": "kas_camera_7120_win.g1a",
+    "id": "9d64f947",
+    "bytes": 33552
+  },
+  {
+    "phase": "WIN",
+    "number": 120,
+    "kind": "Faces",
+    "target": "kas_facial_7120_win.g1a",
+    "id": "7e9552ae",
+    "bytes": 2117932
+  },
+  {
+    "phase": "WIN",
+    "number": 122,
+    "kind": "Clips",
+    "target": "kas07020_win.g1a",
+    "id": "a768919b",
+    "bytes": 896784
+  },
+  {
+    "phase": "WIN",
+    "number": 122,
+    "kind": "Cameras",
+    "target": "kas_camera_7020_win.g1a",
+    "id": "16df3ea8",
+    "bytes": 75744
+  },
+  {
+    "phase": "WIN",
+    "number": 122,
+    "kind": "Faces",
+    "target": "kas_facial_7020_win.g1a",
+    "id": "f80f980f",
+    "bytes": 2491992
+  },
+  {
+    "phase": "WIN",
+    "number": 122,
+    "kind": "Clips",
+    "target": "kas07120_win.g1a",
+    "id": "0143fbdc",
+    "bytes": 896784
+  },
+  {
+    "phase": "WIN",
+    "number": 122,
+    "kind": "Cameras",
+    "target": "kas_camera_7120_win.g1a",
+    "id": "9d64f947",
+    "bytes": 75744
+  },
+  {
+    "phase": "WIN",
+    "number": 122,
+    "kind": "Faces",
+    "target": "kas_facial_7120_win.g1a",
+    "id": "7e9552ae",
+    "bytes": 2491992
+  },
+  {
+    "phase": "WIN",
+    "number": 124,
+    "kind": "Clips",
+    "target": "kas07020_win.g1a",
+    "id": "a768919b",
+    "bytes": 619656
+  },
+  {
+    "phase": "WIN",
+    "number": 124,
+    "kind": "Cameras",
+    "target": "kas_camera_7020_win.g1a",
+    "id": "16df3ea8",
+    "bytes": 48672
+  },
+  {
+    "phase": "WIN",
+    "number": 124,
+    "kind": "Faces",
+    "target": "kas_facial_7020_win.g1a",
+    "id": "f80f980f",
+    "bytes": 2767084
+  },
+  {
+    "phase": "WIN",
+    "number": 124,
+    "kind": "Clips",
+    "target": "kas07120_win.g1a",
+    "id": "0143fbdc",
+    "bytes": 619656
+  },
+  {
+    "phase": "WIN",
+    "number": 124,
+    "kind": "Cameras",
+    "target": "kas_camera_7120_win.g1a",
+    "id": "9d64f947",
+    "bytes": 48672
+  },
+  {
+    "phase": "WIN",
+    "number": 124,
+    "kind": "Faces",
+    "target": "kas_facial_7120_win.g1a",
+    "id": "7e9552ae",
+    "bytes": 2767084
+  }
+]

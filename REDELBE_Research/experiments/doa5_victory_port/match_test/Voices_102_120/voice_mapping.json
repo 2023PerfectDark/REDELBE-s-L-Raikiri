@@ -1,0 +1,122 @@
+[
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa4_entry_08",
+    "source": "voice_004_EN_03.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa4_entry_11",
+    "source": "voice_004_EN_03.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa4_win_29",
+    "source": "voice_004_EN_00.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa4_win_31b",
+    "source": "voice_004_EN_00.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa6_entry_02",
+    "source": "voice_004_EN_03.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa6_entry_03",
+    "source": "voice_004_EN_03.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa6_entry_04",
+    "source": "voice_004_EN_03.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa6_entry_05",
+    "source": "voice_004_EN_03.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa6_entry_07",
+    "source": "voice_004_EN_03.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "cue": "ev_kas_us_doa6_win_01",
+    "source": "voice_004_EN_00.wav"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "request": "ev_kas_entry_request",
+    "sound": "ev_kas_us_doa4_entry_08"
+  },
+  {
+    "bank": "se1_common_ev_kas_us.srsa",
+    "request": "ev_kas_entry2_request",
+    "sound": "ev_kas_us_doa4_entry_08"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doa4_entry_08",
+    "source": "voice_004_JP_03.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doa4_entry_11",
+    "source": "voice_004_JP_03.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doa4_win_31b",
+    "source": "voice_004_JP_00.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doa6_entry_02",
+    "source": "voice_004_JP_03.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doa6_entry_03",
+    "source": "voice_004_JP_03.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doa6_entry_04",
+    "source": "voice_004_JP_03.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doa6_entry_05",
+    "source": "voice_004_JP_03.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doa6_entry_07",
+    "source": "voice_004_JP_03.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doa6_win_01",
+    "source": "voice_004_JP_00.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "cue": "ev_kas_doau_win_5",
+    "source": "voice_004_JP_00.wav"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "request": "ev_kas_entry_request",
+    "sound": "ev_kas_doa4_entry_08"
+  },
+  {
+    "bank": "ev_kas.srsa",
+    "request": "ev_kas_entry2_request",
+    "sound": "ev_kas_doa4_entry_08"
+  }
+]

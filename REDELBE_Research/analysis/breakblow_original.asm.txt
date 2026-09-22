@@ -1,0 +1,45 @@
+19d9220 48895c2408                   mov qword ptr [rsp + 8], rbx
+19d9225 57                           push rdi
+19d9226 4883ec20                     sub rsp, 0x20
+19d922a 488381a835000004             add qword ptr [rcx + 0x35a8], 4
+19d9232 488bd9                       mov rbx, rcx
+19d9235 e846afd9ff                   call 0x1774180
+19d923a 4805484c0100                 add rax, 0x14c48
+19d9240 803800                       cmp byte ptr [rax], 0
+19d9243 7449                         je 0x19d928e
+19d9245 0fb68b60350000               movzx ecx, byte ptr [rbx + 0x3560]
+19d924c 80f101                       xor cl, 1
+19d924f e89c21f8ff                   call 0x195b3f0
+19d9254 488bc8                       mov rcx, rax
+19d9257 e80497f9ff                   call 0x1972960
+19d925c 0fb6f8                       movzx edi, al
+19d925f 488b051227b900               mov rax, qword ptr [rip + 0xb92712]
+19d9266 31ff                         xor edi, edi
+19d9268 90                           nop 
+19d9269 eb1e                         jmp 0x19d9289
+19d926b 6683386d                     cmp word ptr [rax], 0x6d
+19d926f 0f92c1                       setb cl
+19d9272 84c9                         test cl, cl
+19d9274 7413                         je 0x19d9289
+19d9276 0fb68b60350000               movzx ecx, byte ptr [rbx + 0x3560]
+19d927d 80f101                       xor cl, 1
+19d9280 e86b21f8ff                   call 0x195b3f0
+19d9285 4080cf01                     or dil, 1
+19d9289 4084ff                       test dil, dil
+19d928c 7441                         je 0x19d92cf
+19d928e 488b3dcbb7c300               mov rdi, qword ptr [rip + 0xc3b7cb]
+19d9295 0fb69b60350000               movzx ebx, byte ptr [rbx + 0x3560]
+19d929c 488bcf                       mov rcx, rdi
+19d929f 66c787040100000101           mov word ptr [rdi + 0x104], 0x101
+19d92a8 c7870001000000000000         mov dword ptr [rdi + 0x100], 0
+19d92b2 e809d0f1ff                   call 0x18f62c0
+19d92b7 488d8fb0060000               lea rcx, [rdi + 0x6b0]
+19d92be 41b101                       mov r9b, 1
+19d92c1 41b808000000                 mov r8d, 8
+19d92c7 0fb6d3                       movzx edx, bl
+19d92ca e87139f2ff                   call 0x18fcc40
+19d92cf b001                         mov al, 1
+19d92d1 488b5c2430                   mov rbx, qword ptr [rsp + 0x30]
+19d92d6 4883c420                     add rsp, 0x20
+19d92da 5f                           pop rdi
+19d92db c3                           ret 

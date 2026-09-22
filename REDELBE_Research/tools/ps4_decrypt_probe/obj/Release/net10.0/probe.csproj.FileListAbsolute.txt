@@ -1,0 +1,12 @@
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\bin\Release\net10.0\probe.exe
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\bin\Release\net10.0\probe.deps.json
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\bin\Release\net10.0\probe.runtimeconfig.json
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\bin\Release\net10.0\probe.dll
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\bin\Release\net10.0\probe.pdb
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\obj\Release\net10.0\probe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\obj\Release\net10.0\probe.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\obj\Release\net10.0\probe.dll
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\obj\Release\net10.0\refint\probe.dll
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\obj\Release\net10.0\probe.pdb
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\obj\Release\net10.0\probe.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\tools\ps4_decrypt_probe\obj\Release\net10.0\ref\probe.dll

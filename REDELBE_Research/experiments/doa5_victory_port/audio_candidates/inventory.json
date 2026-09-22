@@ -1,0 +1,128 @@
+[
+  {
+    "bank": "CHAR_VOICE_005_EN.l1g",
+    "index": 0,
+    "language": "EN",
+    "source_sha256": "69595d9d2669b2f87a06decd978fbec4a89a9ccae99bec4240a171ec1534af51",
+    "ogg": "voice_005_EN_00.ogg",
+    "wav": "voice_005_EN_00.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_EN.l1g",
+    "index": 1,
+    "language": "EN",
+    "source_sha256": "69595d9d2669b2f87a06decd978fbec4a89a9ccae99bec4240a171ec1534af51",
+    "ogg": "voice_005_EN_01.ogg",
+    "wav": "voice_005_EN_01.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_EN.l1g",
+    "index": 2,
+    "language": "EN",
+    "source_sha256": "69595d9d2669b2f87a06decd978fbec4a89a9ccae99bec4240a171ec1534af51",
+    "ogg": "voice_005_EN_02.ogg",
+    "wav": "voice_005_EN_02.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_EN.l1g",
+    "index": 3,
+    "language": "EN",
+    "source_sha256": "69595d9d2669b2f87a06decd978fbec4a89a9ccae99bec4240a171ec1534af51",
+    "ogg": "voice_005_EN_03.ogg",
+    "wav": "voice_005_EN_03.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_EN.l1g",
+    "index": 4,
+    "language": "EN",
+    "source_sha256": "69595d9d2669b2f87a06decd978fbec4a89a9ccae99bec4240a171ec1534af51",
+    "ogg": "voice_005_EN_04.ogg",
+    "wav": "voice_005_EN_04.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_EN.l1g",
+    "index": 5,
+    "language": "EN",
+    "source_sha256": "69595d9d2669b2f87a06decd978fbec4a89a9ccae99bec4240a171ec1534af51",
+    "ogg": "voice_005_EN_05.ogg",
+    "wav": "voice_005_EN_05.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_EN.l1g",
+    "index": 6,
+    "language": "EN",
+    "source_sha256": "69595d9d2669b2f87a06decd978fbec4a89a9ccae99bec4240a171ec1534af51",
+    "ogg": "voice_005_EN_06.ogg",
+    "wav": "voice_005_EN_06.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_JP.l1g",
+    "index": 0,
+    "language": "JP",
+    "source_sha256": "a691b2bcddbced66074c204f3f7ce0c504c160ea8bd631b8e3365fce4523f6b7",
+    "ogg": "voice_005_JP_00.ogg",
+    "wav": "voice_005_JP_00.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_JP.l1g",
+    "index": 1,
+    "language": "JP",
+    "source_sha256": "a691b2bcddbced66074c204f3f7ce0c504c160ea8bd631b8e3365fce4523f6b7",
+    "ogg": "voice_005_JP_01.ogg",
+    "wav": "voice_005_JP_01.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_JP.l1g",
+    "index": 2,
+    "language": "JP",
+    "source_sha256": "a691b2bcddbced66074c204f3f7ce0c504c160ea8bd631b8e3365fce4523f6b7",
+    "ogg": "voice_005_JP_02.ogg",
+    "wav": "voice_005_JP_02.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_JP.l1g",
+    "index": 3,
+    "language": "JP",
+    "source_sha256": "a691b2bcddbced66074c204f3f7ce0c504c160ea8bd631b8e3365fce4523f6b7",
+    "ogg": "voice_005_JP_03.ogg",
+    "wav": "voice_005_JP_03.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_JP.l1g",
+    "index": 4,
+    "language": "JP",
+    "source_sha256": "a691b2bcddbced66074c204f3f7ce0c504c160ea8bd631b8e3365fce4523f6b7",
+    "ogg": "voice_005_JP_04.ogg",
+    "wav": "voice_005_JP_04.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_JP.l1g",
+    "index": 5,
+    "language": "JP",
+    "source_sha256": "a691b2bcddbced66074c204f3f7ce0c504c160ea8bd631b8e3365fce4523f6b7",
+    "ogg": "voice_005_JP_05.ogg",
+    "wav": "voice_005_JP_05.wav",
+    "pose_assignment": null
+  },
+  {
+    "bank": "CHAR_VOICE_005_JP.l1g",
+    "index": 6,
+    "language": "JP",
+    "source_sha256": "a691b2bcddbced66074c204f3f7ce0c504c160ea8bd631b8e3365fce4523f6b7",
+    "ogg": "voice_005_JP_06.ogg",
+    "wav": "voice_005_JP_06.wav",
+    "pose_assignment": null
+  }
+]

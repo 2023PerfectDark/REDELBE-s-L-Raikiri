@@ -1,0 +1,373 @@
+{
+  "KOK_COS_901": {
+    "files": {
+      "g1m": "0xfa90014",
+      "grp": "0xfa90015",
+      "mtl": "0xfa90016",
+      "oidex": "0xfa90017"
+    },
+    "ktid_rows": 22,
+    "material_count": 3,
+    "invalid_indices": [],
+    "texture_slots": [
+      [
+        {
+          "slot": 1,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 4,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 2,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 3,
+          "category": 5,
+          "in_range": true
+        },
+        {
+          "slot": 0,
+          "category": 41,
+          "in_range": true
+        },
+        {
+          "slot": 5,
+          "category": 37,
+          "in_range": true
+        },
+        {
+          "slot": 6,
+          "category": 47,
+          "in_range": true
+        }
+      ],
+      [
+        {
+          "slot": 8,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 11,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 9,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 10,
+          "category": 5,
+          "in_range": true
+        },
+        {
+          "slot": 7,
+          "category": 41,
+          "in_range": true
+        },
+        {
+          "slot": 12,
+          "category": 37,
+          "in_range": true
+        },
+        {
+          "slot": 13,
+          "category": 47,
+          "in_range": true
+        }
+      ],
+      [
+        {
+          "slot": 15,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 18,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 16,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 17,
+          "category": 5,
+          "in_range": true
+        },
+        {
+          "slot": 14,
+          "category": 41,
+          "in_range": true
+        },
+        {
+          "slot": 19,
+          "category": 62,
+          "in_range": true
+        },
+        {
+          "slot": 20,
+          "category": 55,
+          "in_range": true
+        },
+        {
+          "slot": 21,
+          "category": 47,
+          "in_range": true
+        }
+      ]
+    ]
+  },
+  "KOK_FACE_901": {
+    "files": {
+      "g1m": "0xfa90025",
+      "grp": "0xfa90026",
+      "mtl": "0xfa90027",
+      "oidex": "0xfa90028"
+    },
+    "ktid_rows": 34,
+    "material_count": 7,
+    "invalid_indices": [],
+    "texture_slots": [
+      [
+        {
+          "slot": 4,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 7,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 5,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 6,
+          "category": 5,
+          "in_range": true
+        }
+      ],
+      [
+        {
+          "slot": 8,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 11,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 9,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 10,
+          "category": 5,
+          "in_range": true
+        }
+      ],
+      [
+        {
+          "slot": 0,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 3,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 1,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 2,
+          "category": 5,
+          "in_range": true
+        }
+      ],
+      [
+        {
+          "slot": 20,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 23,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 21,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 22,
+          "category": 5,
+          "in_range": true
+        }
+      ],
+      [
+        {
+          "slot": 24,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 27,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 25,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 26,
+          "category": 5,
+          "in_range": true
+        }
+      ],
+      [
+        {
+          "slot": 13,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 16,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 15,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 12,
+          "category": 41,
+          "in_range": true
+        },
+        {
+          "slot": 14,
+          "category": 21,
+          "in_range": true
+        },
+        {
+          "slot": 17,
+          "category": 62,
+          "in_range": true
+        },
+        {
+          "slot": 18,
+          "category": 55,
+          "in_range": true
+        },
+        {
+          "slot": 19,
+          "category": 47,
+          "in_range": true
+        }
+      ],
+      [
+        {
+          "slot": 29,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 32,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 30,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 31,
+          "category": 5,
+          "in_range": true
+        },
+        {
+          "slot": 28,
+          "category": 41,
+          "in_range": true
+        },
+        {
+          "slot": 33,
+          "category": 62,
+          "in_range": true
+        }
+      ]
+    ]
+  },
+  "KOK_HAIR_901": {
+    "files": {
+      "g1m": "0xfa90079",
+      "grp": "0xfa9007a",
+      "mtl": "0xfa9007b",
+      "oidex": "0xfa9007c"
+    },
+    "ktid_rows": 20,
+    "material_count": 1,
+    "invalid_indices": [],
+    "texture_slots": [
+      [
+        {
+          "slot": 0,
+          "category": 1,
+          "in_range": true
+        },
+        {
+          "slot": 3,
+          "category": 2,
+          "in_range": true
+        },
+        {
+          "slot": 1,
+          "category": 3,
+          "in_range": true
+        },
+        {
+          "slot": 2,
+          "category": 5,
+          "in_range": true
+        },
+        {
+          "slot": 4,
+          "category": 37,
+          "in_range": true
+        },
+        {
+          "slot": 5,
+          "category": 47,
+          "in_range": true
+        }
+      ]
+    ]
+  }
+}

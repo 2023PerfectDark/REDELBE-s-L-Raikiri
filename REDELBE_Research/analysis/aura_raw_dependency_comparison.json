@@ -1,0 +1,66 @@
+{
+  "working_raidou": [
+    {
+      "address": "0x2155619d938",
+      "type_or_hash": "0x4d0102ac",
+      "data_pointer": "0x214c612f600"
+    },
+    {
+      "address": "0x2155630e038",
+      "type_or_hash": "0xb097d41f",
+      "data_pointer": "0x214c612f5c0"
+    },
+    {
+      "address": "0x2155619d938",
+      "type_or_hash": "0x4d0102ac",
+      "data_pointer": "0x214c612f600"
+    },
+    {
+      "address": "0x2155630e038",
+      "type_or_hash": "0xb097d41f",
+      "data_pointer": "0x214c612f5c0"
+    },
+    {
+      "address": "0x2155619d938",
+      "type_or_hash": "0x4d0102ac",
+      "data_pointer": "0x214c612f600"
+    },
+    {
+      "address": "0x215561dc7b8",
+      "type_or_hash": "0xb097d41f",
+      "data_pointer": "0x214c612f5f0"
+    }
+  ],
+  "failing_non_raidou": [
+    {
+      "address": "0x2155619d938",
+      "type_or_hash": "0x4d0102ac",
+      "data_pointer": "0x0"
+    },
+    {
+      "address": "0x2155630e038",
+      "type_or_hash": "0xb097d41f",
+      "data_pointer": "0x0"
+    },
+    {
+      "address": "0x2155619d938",
+      "type_or_hash": "0x4d0102ac",
+      "data_pointer": "0x0"
+    },
+    {
+      "address": "0x2155630e038",
+      "type_or_hash": "0xb097d41f",
+      "data_pointer": "0x0"
+    },
+    {
+      "address": "0x2155619d938",
+      "type_or_hash": "0x4d0102ac",
+      "data_pointer": "0x0"
+    },
+    {
+      "address": "0x215561dc7b8",
+      "type_or_hash": "0xb097d41f",
+      "data_pointer": "0x0"
+    }
+  ]
+}

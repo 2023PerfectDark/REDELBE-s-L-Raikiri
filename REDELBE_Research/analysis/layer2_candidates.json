@@ -1,0 +1,1026 @@
+{
+  "strings": [
+    {
+      "term": "request_character",
+      "rva": "0x4993888",
+      "text": "model::request_character"
+    },
+    {
+      "term": "request_character",
+      "rva": "0x4993a98",
+      "text": "model::request_character_with_id"
+    },
+    {
+      "term": "request_character",
+      "rva": "0x499894e",
+      "text": "\ufffd?mode::online::world_ranking::request_character_point_ranking"
+    },
+    {
+      "term": "request_character",
+      "rva": "0x49989ce",
+      "text": "\ufffdEmode::online::world_ranking::request_character_level_ranking"
+    },
+    {
+      "term": "play_anime",
+      "rva": "0x4992b8e",
+      "text": "\ufffd?layout::play_anime_at"
+    },
+    {
+      "term": "play_anime",
+      "rva": "0x4992ba8",
+      "text": "layout::play_anime_chain_at"
+    },
+    {
+      "term": "play_anime",
+      "rva": "0x4992bc8",
+      "text": "layout::play_anime_timeout_at"
+    },
+    {
+      "term": "play_anime",
+      "rva": "0x4992be8",
+      "text": "layout::play_anime"
+    },
+    {
+      "term": "play_anime",
+      "rva": "0x4d89550",
+      "text": "lr_photomode::shooting::play_anime_tab_change_photomode_menu"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x499398e",
+      "text": "\ufffd?layout::set_pane_text_photomode_motion_list"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4993d30",
+      "text": "layout::set_pane_text_closet_level_open"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4993db8",
+      "text": "layout::set_pane_text_database_other_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4993de8",
+      "text": "layout::set_pane_text_unlock_reward"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4993e10",
+      "text": "layout::set_pane_text_banner_message"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4993e38",
+      "text": "layout::set_pane_text_serialcode"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994150",
+      "text": "layout::set_pane_texture_lobby_match_table_member_antenna"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994190",
+      "text": "layout::set_pane_text_and_texture_lobby_match_table_member_profile"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49941d6",
+      "text": "\ufffd?layout::set_pane_text_lobby_match_room_information"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994270",
+      "text": "layout::set_pane_text_and_texture_lobby_match_lobby_setting_value"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49942ec",
+      "text": "\ufffd\ufffd\ufffd\ufffdlayout::set_pane_text_and_texture_lobby_match_table_member_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994330",
+      "text": "layout::set_pane_text_create_room_name"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994358",
+      "text": "layout::set_pane_text_and_texture_lobby_match_room_list_status"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994398",
+      "text": "layout::set_pane_text_lobby_match_room_list_detail"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49943ce",
+      "text": "\ufffd?layout::set_pane_text_and_texture_lobby_match_room_list_detail_title_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994420",
+      "text": "layout::set_pane_text_lobby_match_player_name"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994450",
+      "text": "layout::set_pane_text_lobby_match_player_message"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994484",
+      "text": "\ufffd\ufffd\ufffd\ufffdlayout::set_pane_text_replay_player_name"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49944b4",
+      "text": "\ufffd\ufffd\ufffd\ufffdlayout::set_pane_text_room_detail_grade_range"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49944e8",
+      "text": "layout::set_pane_text_database_battle_trend_info_left"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994520",
+      "text": "layout::set_pane_text_database_battle_trend_info_right"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994558",
+      "text": "layout::set_pane_text_database_blow_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994587",
+      "text": "?layout::set_pane_text_database_throw_hold_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49945b8",
+      "text": "layout::set_pane_text_gamertag"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49945d8",
+      "text": "layout::set_pane_text_build_version"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994600",
+      "text": "layout::set_pane_text_database_player_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x499462e",
+      "text": "\ufffd?layout::set_pane_text_database_total_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994660",
+      "text": "layout::set_pane_text_replay_base"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994684",
+      "text": "\ufffd\ufffd\ufffd\ufffdlayout::set_pane_text_replay_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49946b0",
+      "text": "layout::set_pane_text_replay_time"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49946d4",
+      "text": "\ufffd\ufffdL=layout::set_pane_texture_replay_grade"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994700",
+      "text": "layout::set_pane_text_and_texture_lobby_match_member_list_member_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994748",
+      "text": "layout::set_pane_text"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994760",
+      "text": "layout::set_pane_texture_lobby_match_member_list_member_antenna"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49947a0",
+      "text": "layout::set_pane_text_and_texture_lobby_match_member_list_member_profile"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49947ee",
+      "text": "\ufffd?layout::set_pane_text_world_ranking_name"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x499481c",
+      "text": "fff?layout::set_pane_text_i"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994838",
+      "text": "layout::set_pane_text_ii"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994858",
+      "text": "layout::set_pane_text_iii"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994878",
+      "text": "layout::set_pane_texture_lobby_match_grade"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49948a8",
+      "text": "layout::set_pane_texture_lobby_match_antenna"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x49948d8",
+      "text": "layout::set_pane_texture_replay_player_grade"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994908",
+      "text": "layout::set_pane_texture_system_message"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994930",
+      "text": "layout::set_pane_texture_ii"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994950",
+      "text": "layout::set_pane_texture_iii"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994970",
+      "text": "layout::set_pane_texture_grade"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994990",
+      "text": "layout::set_pane_texture_fight_log_grade"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994a08",
+      "text": "layout::set_pane_texture"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994a24",
+      "text": "\ufffd\ufffd\ufffd\ufffdlayout::set_pane_texture_i"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994a44",
+      "text": "\ufffd\ufffd\ufffd\ufffdlayout::set_pane_text_online_error"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994a6c",
+      "text": "\u0017\ufffdQ8layout::set_pane_text_online_id"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994a90",
+      "text": "layout::set_pane_text_online_name"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994ab4",
+      "text": "\n\ufffd\ufffd;layout::set_pane_text_online_rival_name"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994ae0",
+      "text": "layout::set_pane_text_skill_info"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994b08",
+      "text": "layout::set_pane_text_skill_info_page"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994b30",
+      "text": "layout::set_pane_text_combo_list"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994b58",
+      "text": "layout::set_pane_text_combo_list_combo_challenge"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994b8c",
+      "text": "\ufffd\ufffd\ufffd\ufffdlayout::set_pane_text_utf8"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994bad",
+      "text": "@\u001cFlayout::set_pane_text_number"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994bd0",
+      "text": "layout::set_pane_text_command"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994bf0",
+      "text": "layout::set_pane_text_command_left"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994c17",
+      "text": "@layout::set_pane_text_d"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994c30",
+      "text": "layout::set_pane_text_float_i"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994c50",
+      "text": "layout::set_pane_text_h"
+    },
+    {
+      "term": "set_pane_text",
+      "rva": "0x4994c68",
+      "text": "layout::set_pane_text_hh"
+    },
+    {
+      "term": "get_default_glasses",
+      "rva": "0x4993a77",
+      "text": "?model::get_default_glasses"
+    }
+  ],
+  "xrefs": [
+    {
+      "instruction": "0x23196b5",
+      "target": "0x4d89550",
+      "function": "0x2319650"
+    },
+    {
+      "instruction": "0x23245f8",
+      "target": "0x4d89550",
+      "function": "0x2324590"
+    },
+    {
+      "instruction": "0x23974c7",
+      "target": "0x4992ba8",
+      "function": "0x23974a0"
+    },
+    {
+      "instruction": "0x2397577",
+      "target": "0x4992bc8",
+      "function": "0x2397550"
+    },
+    {
+      "instruction": "0x2398227",
+      "target": "0x4994930",
+      "function": "0x2398200"
+    },
+    {
+      "instruction": "0x23982d7",
+      "target": "0x4994950",
+      "function": "0x23982b0"
+    },
+    {
+      "instruction": "0x2398857",
+      "target": "0x4994858",
+      "function": "0x2398830"
+    },
+    {
+      "instruction": "0x2398ef7",
+      "target": "0x4994b30",
+      "function": "0x2398ed0"
+    },
+    {
+      "instruction": "0x2399457",
+      "target": "0x4994358",
+      "function": "0x2399430"
+    },
+    {
+      "instruction": "0x2399637",
+      "target": "0x4994270",
+      "function": "0x2399610"
+    },
+    {
+      "instruction": "0x23998f7",
+      "target": "0x4994190",
+      "function": "0x23998d0"
+    },
+    {
+      "instruction": "0x2399b67",
+      "target": "0x49947a0",
+      "function": "0x2399b40"
+    },
+    {
+      "instruction": "0x2399c87",
+      "target": "0x4994660",
+      "function": "0x2399c60"
+    },
+    {
+      "instruction": "0x2399de7",
+      "target": "0x49946b0",
+      "function": "0x2399dc0"
+    },
+    {
+      "instruction": "0x239ba57",
+      "target": "0x4993888",
+      "function": "0x239ba30"
+    },
+    {
+      "instruction": "0x23c28bc",
+      "target": "0x4993888",
+      "function": "0x23c28a0"
+    },
+    {
+      "instruction": "0x23c2e3c",
+      "target": "0x49946b0",
+      "function": "0x23c2e20"
+    },
+    {
+      "instruction": "0x23c2ebc",
+      "target": "0x4994660",
+      "function": "0x23c2ea0"
+    },
+    {
+      "instruction": "0x23c2efc",
+      "target": "0x49947a0",
+      "function": "0x23c2ee0"
+    },
+    {
+      "instruction": "0x23c2f3c",
+      "target": "0x4994190",
+      "function": "0x23c2f20"
+    },
+    {
+      "instruction": "0x23c2fbc",
+      "target": "0x4994270",
+      "function": "0x23c2fa0"
+    },
+    {
+      "instruction": "0x23c303c",
+      "target": "0x4994358",
+      "function": "0x23c3020"
+    },
+    {
+      "instruction": "0x23c30bc",
+      "target": "0x4994b30",
+      "function": "0x23c30a0"
+    },
+    {
+      "instruction": "0x23c323c",
+      "target": "0x4994858",
+      "function": "0x23c3220"
+    },
+    {
+      "instruction": "0x23c333c",
+      "target": "0x4994950",
+      "function": "0x23c3320"
+    },
+    {
+      "instruction": "0x23c337c",
+      "target": "0x4994930",
+      "function": "0x23c3360"
+    },
+    {
+      "instruction": "0x23c367c",
+      "target": "0x4992bc8",
+      "function": "0x23c3660"
+    },
+    {
+      "instruction": "0x23c36bc",
+      "target": "0x4992ba8",
+      "function": "0x23c36a0"
+    },
+    {
+      "instruction": "0x37fca34",
+      "target": "0x4992be8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fcb1e",
+      "target": "0x4992ba8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fcb45",
+      "target": "0x4992bc8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fce2a",
+      "target": "0x4994a08",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fce78",
+      "target": "0x4994930",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fce9f",
+      "target": "0x4994950",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fcec6",
+      "target": "0x4994970",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fceed",
+      "target": "0x4994990",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fcf14",
+      "target": "0x4994878",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fcf3b",
+      "target": "0x49948a8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fcf62",
+      "target": "0x49948d8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fcf89",
+      "target": "0x4994908",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fcfb0",
+      "target": "0x4994748",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fcffe",
+      "target": "0x4994838",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd025",
+      "target": "0x4994858",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd073",
+      "target": "0x4994c30",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd09a",
+      "target": "0x4994c50",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd0c1",
+      "target": "0x4994c68",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd136",
+      "target": "0x4994bd0",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd15d",
+      "target": "0x4994bf0",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd184",
+      "target": "0x4994ae0",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd1ab",
+      "target": "0x4994b08",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd1d2",
+      "target": "0x4994b30",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd1f9",
+      "target": "0x4994b58",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd26e",
+      "target": "0x4994a90",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd2bc",
+      "target": "0x4994420",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd2e3",
+      "target": "0x4994450",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd358",
+      "target": "0x4994330",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd37f",
+      "target": "0x4994358",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd3a6",
+      "target": "0x4994398",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd3f4",
+      "target": "0x4994270",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd490",
+      "target": "0x4994150",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd4b7",
+      "target": "0x4994190",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd52c",
+      "target": "0x4994700",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd553",
+      "target": "0x4994760",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd57a",
+      "target": "0x49947a0",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd5c8",
+      "target": "0x4994660",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd616",
+      "target": "0x49946b0",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd664",
+      "target": "0x49945b8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd68b",
+      "target": "0x49945d8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd6b2",
+      "target": "0x4994600",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd700",
+      "target": "0x49944e8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd727",
+      "target": "0x4994520",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd74e",
+      "target": "0x4994558",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd79c",
+      "target": "0x4993db8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd7c3",
+      "target": "0x4993de8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd7ea",
+      "target": "0x4993e10",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd811",
+      "target": "0x4993e38",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fd838",
+      "target": "0x4993d30",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fdddb",
+      "target": "0x4993888",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x37fe072",
+      "target": "0x4993a98",
+      "function": "0x37fc190"
+    }
+  ],
+  "fragments": {
+    "PatchMRCWI": [
+      {
+        "instruction_span": [
+          3,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x11f7a57",
+            "function": "0x11f7a50"
+          },
+          {
+            "rva": "0x1590813",
+            "function": "0x1590810"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          2,
+          3
+        ],
+        "matches": [
+          {
+            "rva": "0x1590810",
+            "function": "0x1590810"
+          }
+        ]
+      }
+    ],
+    "PatchLPA": [],
+    "LocateMO": [],
+    "PatchICM": [],
+    "PatchICF": [],
+    "LocateLSPTU": [
+      {
+        "instruction_span": [
+          0,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x3269d60",
+            "function": "0x3269d60"
+          },
+          {
+            "rva": "0x37d6b80",
+            "function": "0x37d6b80"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          1,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x2ad2a6b",
+            "function": "0x2ad2a60"
+          },
+          {
+            "rva": "0x3269d6b",
+            "function": "0x3269d60"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          2,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x36011f0",
+            "function": "0x36011ec"
+          },
+          {
+            "rva": "0x3601300",
+            "function": "0x36012fc"
+          },
+          {
+            "rva": "0x37e7684",
+            "function": "0x37e7680"
+          },
+          {
+            "rva": "0x37ec214",
+            "function": "0x37ec210"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          0,
+          3
+        ],
+        "matches": [
+          {
+            "rva": "0x3269d60",
+            "function": "0x3269d60"
+          }
+        ]
+      }
+    ],
+    "PatchCLRICtor": [
+      {
+        "instruction_span": [
+          5,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0xe8e8c6",
+            "function": "0xe8e8b0"
+          },
+          {
+            "rva": "0x1d8add6",
+            "function": "0x1d8adc0"
+          },
+          {
+            "rva": "0x1efaee6",
+            "function": "0x1efaed0"
+          },
+          {
+            "rva": "0x20e0206",
+            "function": "0x20e01f0"
+          },
+          {
+            "rva": "0x20e07d6",
+            "function": "0x20e07c0"
+          },
+          {
+            "rva": "0x20e0956",
+            "function": "0x20e0940"
+          },
+          {
+            "rva": "0x2127796",
+            "function": "0x2127780"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          4,
+          3
+        ],
+        "matches": [
+          {
+            "rva": "0xe8e8bd",
+            "function": "0xe8e8b0"
+          },
+          {
+            "rva": "0x1d8adcd",
+            "function": "0x1d8adc0"
+          },
+          {
+            "rva": "0x1efaedd",
+            "function": "0x1efaed0"
+          },
+          {
+            "rva": "0x20e01fd",
+            "function": "0x20e01f0"
+          },
+          {
+            "rva": "0x20e07cd",
+            "function": "0x20e07c0"
+          },
+          {
+            "rva": "0x20e094d",
+            "function": "0x20e0940"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          3,
+          4
+        ],
+        "matches": [
+          {
+            "rva": "0xe8e8b9",
+            "function": "0xe8e8b0"
+          },
+          {
+            "rva": "0x1d8adc9",
+            "function": "0x1d8adc0"
+          },
+          {
+            "rva": "0x1efaed9",
+            "function": "0x1efaed0"
+          },
+          {
+            "rva": "0x20e01f9",
+            "function": "0x20e01f0"
+          },
+          {
+            "rva": "0x20e07c9",
+            "function": "0x20e07c0"
+          },
+          {
+            "rva": "0x20e0949",
+            "function": "0x20e0940"
+          }
+        ]
+      }
+    ],
+    "PatchMGDG": [
+      {
+        "instruction_span": [
+          1,
+          4
+        ],
+        "matches": [
+          {
+            "rva": "0x39a062b",
+            "function": "0x399ff00"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          3,
+          4
+        ],
+        "matches": [
+          {
+            "rva": "0x28ec894",
+            "function": "0x28ec640"
+          },
+          {
+            "rva": "0x2c1a435",
+            "function": "0x2c1a400"
+          },
+          {
+            "rva": "0x2c1a475",
+            "function": "0x2c1a400"
+          },
+          {
+            "rva": "0x2c1a665",
+            "function": "0x2c1a630"
+          },
+          {
+            "rva": "0x2c1a69e",
+            "function": "0x2c1a630"
+          }
+        ]
+      }
+    ]
+  }
+}

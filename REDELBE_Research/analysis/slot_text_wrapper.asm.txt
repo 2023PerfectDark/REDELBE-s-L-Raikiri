@@ -1,0 +1,36 @@
+RVA 37d6180
+037d6180 48895c2408                       mov      qword ptr [rsp + 8], rbx 
+037d6185 4889742410                       mov      qword ptr [rsp + 0x10], rsi 
+037d618a 57                               push     rdi 
+037d618b 4883ec30                         sub      rsp, 0x30 
+037d618f 488d0d9421fc04                   lea      rcx, [rip + 0x4fc2194] b'\x01\x01' | 'ā'
+037d6196 418bd9                           mov      ebx, r9d 
+037d6199 418bf8                           mov      edi, r8d 
+037d619c 8bf2                             mov      esi, edx 
+037d619e e8656e3500                       call     0x3b2d008 
+037d61a3 488b442460                       mov      rax, qword ptr [rsp + 0x60] 
+037d61a8 448bcf                           mov      r9d, edi 
+037d61ab 488b0df6406802                   mov      rcx, qword ptr [rip + 0x26840f6] 
+037d61b2 448bc6                           mov      r8d, esi 
+037d61b5 4889442428                       mov      qword ptr [rsp + 0x28], rax 
+037d61ba 895c2420                         mov      dword ptr [rsp + 0x20], ebx 
+037d61be e8cdbc9efe                       call     0x21c1e90 
+037d61c3 488b5c2440                       mov      rbx, qword ptr [rsp + 0x40] 
+037d61c8 488b742448                       mov      rsi, qword ptr [rsp + 0x48] 
+037d61cd 4883c430                         add      rsp, 0x30 
+037d61d1 5f                               pop      rdi 
+037d61d2 c3                               ret       
+037d61d3 cc                               int3      
+037d61d4 cc                               int3      
+037d61d5 cc                               int3      
+037d61d6 cc                               int3      
+037d61d7 cc                               int3      
+037d61d8 cc                               int3      
+037d61d9 cc                               int3      
+037d61da cc                               int3      
+037d61db cc                               int3      
+037d61dc cc                               int3      
+037d61dd cc                               int3      
+037d61de cc                               int3      
+037d61df cc                               int3      
+037d61e0 48895c2408                       mov      qword ptr [rsp + 8], rbx 

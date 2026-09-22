@@ -1,0 +1,70 @@
+RVA 37dc950
+037dc950 48895c2410                       mov      qword ptr [rsp + 0x10], rbx 
+037dc955 57                               push     rdi 
+037dc956 4883ec20                         sub      rsp, 0x20 
+037dc95a 488d0dc9b9fb04                   lea      rcx, [rip + 0x4fbb9c9] b'\x01\x01' | 'ā'
+037dc961 e8a2063500                       call     0x3b2d008 
+037dc966 488b3d6b206802                   mov      rdi, qword ptr [rip + 0x268206b] 
+037dc96d 4881c798000000                   add      rdi, 0x98 
+037dc974 488d9fb0050000                   lea      rbx, [rdi + 0x5b0] 
+037dc97b 483bfb                           cmp      rdi, rbx 
+037dc97e 0f84c0000000                     je       0x37dca44 
+037dc984 4881c73c010000                   add      rdi, 0x13c 
+037dc98b 4889742430                       mov      qword ptr [rsp + 0x30], rsi 
+037dc990 33f6                             xor      esi, esi 
+037dc992 488d97c4feffff                   lea      rdx, [rdi - 0x13c] 
+037dc999 e872ecaefe                       call     0x22cb610 
+037dc99e 488977f4                         mov      qword ptr [rdi - 0xc], rsi 
+037dc9a2 488d8f54010000                   lea      rcx, [rdi + 0x154] 
+037dc9a9 488977fc                         mov      qword ptr [rdi - 4], rsi 
+037dc9ad c74704ffffffff                   mov      dword ptr [rdi + 4], 0xffffffff 
+037dc9b4 4889770c                         mov      qword ptr [rdi + 0xc], rsi 
+037dc9b8 4088772c                         mov      byte ptr [rdi + 0x2c], sil 
+037dc9bc c68750010000ff                   mov      byte ptr [rdi + 0x150], 0xff 
+037dc9c3 e848aaaffe                       call     0x22d7410 
+037dc9c8 89b77c010000                     mov      dword ptr [rdi + 0x17c], esi 
+037dc9ce 488d8f1c010000                   lea      rcx, [rdi + 0x11c] 
+037dc9d5 488b8784010000                   mov      rax, qword ptr [rdi + 0x184] 
+037dc9dc 4889878c010000                   mov      qword ptr [rdi + 0x18c], rax 
+037dc9e3 e808b1affe                       call     0x22d7af0 
+037dc9e8 488d970c010000                   lea      rdx, [rdi + 0x10c] 
+037dc9ef 41b803000000                     mov      r8d, 3 
+037dc9f5 488d8f84000000                   lea      rcx, [rdi + 0x84] 
+037dc9fc 0f1f4000                         nop      dword ptr [rax] 
+037dca00 488b41b0                         mov      rax, qword ptr [rcx - 0x50] 
+037dca04 488d5204                         lea      rdx, [rdx + 4] 
+037dca08 488941b8                         mov      qword ptr [rcx - 0x48], rax 
+037dca0c 488b41f8                         mov      rax, qword ptr [rcx - 8] 
+037dca10 488901                           mov      qword ptr [rcx], rax 
+037dca13 488b4140                         mov      rax, qword ptr [rcx + 0x40] 
+037dca17 48894148                         mov      qword ptr [rcx + 0x48], rax 
+037dca1b 488d4918                         lea      rcx, [rcx + 0x18] 
+037dca1f 8972fc                           mov      dword ptr [rdx - 4], esi 
+037dca22 4983e801                         sub      r8, 1 
+037dca26 75d8                             jne      0x37dca00 
+037dca28 4881c7d8020000                   add      rdi, 0x2d8 
+037dca2f 488d87c4feffff                   lea      rax, [rdi - 0x13c] 
+037dca36 483bc3                           cmp      rax, rbx 
+037dca39 0f8553ffffff                     jne      0x37dc992 
+037dca3f 488b742430                       mov      rsi, qword ptr [rsp + 0x30] 
+037dca44 488b5c2438                       mov      rbx, qword ptr [rsp + 0x38] 
+037dca49 4883c420                         add      rsp, 0x20 
+037dca4d 5f                               pop      rdi 
+037dca4e c3                               ret       
+037dca4f cc                               int3      
+037dca50 cc                               int3      
+037dca51 cc                               int3      
+037dca52 cc                               int3      
+037dca53 cc                               int3      
+037dca54 cc                               int3      
+037dca55 cc                               int3      
+037dca56 cc                               int3      
+037dca57 cc                               int3      
+037dca58 cc                               int3      
+037dca59 cc                               int3      
+037dca5a cc                               int3      
+037dca5b cc                               int3      
+037dca5c cc                               int3      
+037dca5d cc                               int3      
+037dca5e cc                               int3      
+037dca5f cc                               int3      

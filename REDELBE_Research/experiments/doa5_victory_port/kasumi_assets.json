@@ -1,0 +1,317 @@
+[
+  {
+    "name": "KASUMI_INGAME.mpm",
+    "archive": "chara_initial.bin",
+    "index": 35,
+    "size": 3022208,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_SELECT.mpm",
+    "archive": "chara_initial.bin",
+    "index": 93,
+    "size": 67808,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_BOSS_DM01.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 1,
+    "size": 95232,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM09_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 16,
+    "size": 419232,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM20_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 20,
+    "size": 120832,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM12_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 33,
+    "size": 365728,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM00_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 40,
+    "size": 71392,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM08_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 56,
+    "size": 256384,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM02_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 68,
+    "size": 35008,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM25_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 72,
+    "size": 27424,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM21_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 86,
+    "size": 75680,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM15_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 87,
+    "size": 77248,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM26_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 96,
+    "size": 194528,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM04_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 111,
+    "size": 79584,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_BOSS_DM04.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 124,
+    "size": 16544,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM29_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 133,
+    "size": 151872,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM17_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 134,
+    "size": 939040,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_BOSS_DM00.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 149,
+    "size": 82848,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM03_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 152,
+    "size": 146560,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM23_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 177,
+    "size": 55680,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM13_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 185,
+    "size": 43104,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM01_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 228,
+    "size": 30272,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_BOSS_DM02.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 242,
+    "size": 132864,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM05_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 243,
+    "size": 200672,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM24_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 249,
+    "size": 30528,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_BOSS_DM03.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 271,
+    "size": 110240,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM32_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 273,
+    "size": 289952,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM27_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 276,
+    "size": 91040,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM30_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 277,
+    "size": 353184,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM28_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 293,
+    "size": 104672,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM16_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 295,
+    "size": 20608,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM11_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 296,
+    "size": 138176,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM14_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 309,
+    "size": 74624,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM06_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 337,
+    "size": 83232,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM18_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 340,
+    "size": 64800,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM19_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 341,
+    "size": 64768,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM31_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 353,
+    "size": 429536,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM22_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 354,
+    "size": 55552,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM10_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 356,
+    "size": 201344,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_DM07_MOT.mpm",
+    "archive": "chara_rtm.bin",
+    "index": 359,
+    "size": 384064,
+    "signature": "636861725f646174"
+  },
+  {
+    "name": "KASUMI_MOT_WIN_120.tdpack",
+    "archive": "common.bin",
+    "index": 394,
+    "size": 57904,
+    "signature": "74647061636b0000"
+  },
+  {
+    "name": "KASUMI_MOT_TAG_WIN.tdpack",
+    "archive": "common.bin",
+    "index": 1165,
+    "size": 57808,
+    "signature": "74647061636b0000"
+  },
+  {
+    "name": "KASUMI_MOT_WIN_122.tdpack",
+    "archive": "common.bin",
+    "index": 1173,
+    "size": 85792,
+    "signature": "74647061636b0000"
+  },
+  {
+    "name": "KASUMI_MOT_WIN_124.tdpack",
+    "archive": "patch_04_catalog.bin",
+    "index": 0,
+    "size": 103680,
+    "signature": "74647061636b0000"
+  },
+  {
+    "name": "KASUMI_MOT_WIN_123.tdpack",
+    "archive": "patch_04_catalog.bin",
+    "index": 41,
+    "size": 69216,
+    "signature": "74647061636b0000"
+  }
+]

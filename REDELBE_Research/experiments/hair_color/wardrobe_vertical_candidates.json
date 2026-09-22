@@ -1,0 +1,192 @@
+[
+  {
+    "rva": "0x49333a0",
+    "name": "model::request_try_character_with_id",
+    "references": [
+      "0x37df1d9"
+    ]
+  },
+  {
+    "rva": "0x4933470",
+    "name": "model::request_character_with_id",
+    "references": [
+      "0x37df1b2"
+    ]
+  },
+  {
+    "rva": "0x49339a8",
+    "name": "model::request_colored_character",
+    "references": [
+      "0x239bbb7",
+      "0x23c283c",
+      "0x37def69"
+    ]
+  },
+  {
+    "rva": "0x49339cf",
+    "name": "Fmodel::colored_character_completed",
+    "references": []
+  },
+  {
+    "rva": "0x4933a68",
+    "name": "model::request_character",
+    "references": [
+      "0x239ba57",
+      "0x23c28bc",
+      "0x37def1b"
+    ]
+  },
+  {
+    "rva": "0x4933a88",
+    "name": "model::character_completed",
+    "references": [
+      "0x239bb07",
+      "0x23c287c",
+      "0x37def42"
+    ]
+  },
+  {
+    "rva": "0x4c958d0",
+    "name": "kids::placeable::AddWorldPosition",
+    "references": [
+      "0x8b3bd4",
+      "0xa35d67"
+    ]
+  },
+  {
+    "rva": "0x4c95920",
+    "name": "kids::placeable::SetWorldPosition",
+    "references": [
+      "0x8b3df4",
+      "0xa35f27"
+    ]
+  },
+  {
+    "rva": "0x4c95bb8",
+    "name": "kids::placeable::SetLocalTranslationWithFCurve",
+    "references": [
+      "0x8b5bb4",
+      "0xa497c7"
+    ]
+  },
+  {
+    "rva": "0x4c95c60",
+    "name": "kids::placeable::NotifyTransformChangedToOctree",
+    "references": [
+      "0x8b6874",
+      "0xa37ce7"
+    ]
+  },
+  {
+    "rva": "0x4c95de0",
+    "name": "kids::placeable::camera::ApplyCameraOffset",
+    "references": [
+      "0x8b7814",
+      "0xa387f7"
+    ]
+  },
+  {
+    "rva": "0x4c97808",
+    "name": "kids::placeable::model::RegisterMatrixToDebugVisualizer",
+    "references": [
+      "0x8c99b4",
+      "0xa5a0b7"
+    ]
+  },
+  {
+    "rva": "0x4c97bd8",
+    "name": "kids::placeable::level::ApplyHeightMap",
+    "references": [
+      "0x8cca94",
+      "0xa44047"
+    ]
+  },
+  {
+    "rva": "0x4c97c48",
+    "name": "kids::placeable::level::ApplyHeightCollision",
+    "references": [
+      "0x8cccb4",
+      "0xa44207"
+    ]
+  },
+  {
+    "rva": "0x4c97c78",
+    "name": "kids::placeable::level::QuerySceneHeightNormal",
+    "references": [
+      "0x8cd0f4",
+      "0xa6e8e7"
+    ]
+  },
+  {
+    "rva": "0x4c97dc0",
+    "name": "kids::placeable::level::GetWorldPositionXYZ",
+    "references": [
+      "0x8cddb4",
+      "0xa44c87"
+    ]
+  },
+  {
+    "rva": "0x4c97e28",
+    "name": "kids::placeable::level::SetWorldPositionXYZ",
+    "references": [
+      "0x8cdfd4",
+      "0xa44e47"
+    ]
+  },
+  {
+    "rva": "0x4c97e60",
+    "name": "kids::placeable::level::AddWorldPositionXYZ",
+    "references": [
+      "0x8ce414",
+      "0xa451c7"
+    ]
+  },
+  {
+    "rva": "0x4c97e98",
+    "name": "kids::placeable::level::GetWorldPositionXYZByObjectHash",
+    "references": [
+      "0x8ce634",
+      "0xa45387"
+    ]
+  },
+  {
+    "rva": "0x4c97ed8",
+    "name": "kids::placeable::level::SetWorldPositionXYZByObjectHash",
+    "references": [
+      "0x8ce854",
+      "0xa45547"
+    ]
+  },
+  {
+    "rva": "0x4c97fc0",
+    "name": "kids::placeable::level::SetLocalPositionXYZByObjectHash",
+    "references": [
+      "0x8ceeb4",
+      "0xa45707"
+    ]
+  },
+  {
+    "rva": "0x4c98230",
+    "name": "kids::placeable::level::OrientateXZToSpecifiedPositionXZ",
+    "references": [
+      "0x8d0614",
+      "0xa46347"
+    ]
+  },
+  {
+    "rva": "0x4c98270",
+    "name": "kids::placeable::level::MoveWithCharacterController",
+    "references": [
+      "0x8d0a54",
+      "0xa466c7"
+    ]
+  },
+  {
+    "rva": "0x4c982e0",
+    "name": "kids::placeable::level::MoveAndJumpWithCharacterController",
+    "references": [
+      "0x8d0c74",
+      "0xa46887"
+    ]
+  }
+]

@@ -1,0 +1,3422 @@
+[
+  {
+    "number": 2,
+    "name": "(DoA6) Casual Sinful Autumn Punk SFW (Ayane)",
+    "slot": "AYA_COS_001",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Character\\AYA_COS_001.g1m",
+        "id": "0x63438245",
+        "extension": ".g1m",
+        "size": 2388032,
+        "sha256": "a4a8ebbf4af5f2d77920f6dbcb7c5a159a33e3777a151a68aa42b6244c25c1e1"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsalb.g1t",
+        "id": "0x32123aae",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "10146f91e353f4bbc0e676a5513b2d0878c01f9a71ce2cdaa1fb79949180c346"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsnmh.g1t",
+        "id": "0xb2fb6560",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "dcacdba067180f348a4864a2212d2a78b065b69c38825585699a930d9f0cd9ac"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsocc.g1t",
+        "id": "0xf02ced66",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "5d8db3b72f5288e10671e84de3e347356f6f49b369cb38d5a83e584e9cab0e7f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsrfr.g1t",
+        "id": "0xb8ed6c15",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "ff4a9c819134318d0e29b70c62f744f265331d9ba011ddef9b35f6e83f268668"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsshl.g1t",
+        "id": "0x06879fce",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "9c185f4fef9566859b17d37c90aced8b993547d47fda86f8b670efb380d4b9c4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_body_kidsalb.g1t",
+        "id": "0x2d323dd4",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "9cafe68467aaea80d4942bfb6cc196b0a9ab378a2a2bb1997dc26d418904049b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_body_kidsnmh.g1t",
+        "id": "0xc96e6962",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "d9254b8988895dd9002d60020d91be1aa1fdaaa8be19e3e5a08e5d7d82962921"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_body_kidsrfr.g1t",
+        "id": "0x81bd394d",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "69592c594c25289505e658e79abcfd7ee01e752ac6f3678027852286c98fd9a1"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_body_kidss4m.g1t",
+        "id": "0x5d000bdf",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "ffcb30460735f0484d11b0cbc84fa976c2a7898ea1a74973209f1d4be1f5b623"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d01_kidsalb.g1t",
+        "id": "0xd7f2bbb1",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "1db10731b05ec15e7fd5d52383991f8c2e8d12616e22b6257d1b6586ba8fa08c"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d01_kidsnmh.g1t",
+        "id": "0x58dbe663",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "c2ec4faa8e9019f6a807293f1a6e0624b1ba1ae6ac2ac89b07aae84045675cb0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d01_kidsocc.g1t",
+        "id": "0x960d6e69",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "a731a3f7a3feec96e61a5f60362e49188cd840c6ffb5cc56696db73fb6ea7783"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d01_kidsrfr.g1t",
+        "id": "0x5ecded18",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "3277a0a8539d6921d79347155fcf5e6402d19b1757f1cdf845475c607a6f3a00"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYAFACE001_face_kidsalb.g1t",
+        "id": "0xe159a369",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "1a96d65ec30809b0e8738adb57f65985f96e720cee7db3c64aca14cfd943ceb3"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)\\Material\\MPR_Muscle_Character_AYAFACE001_face_kidss4m.g1t",
+        "id": "0xab4596be",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "48e356c366b4cd60067c9dca8fddeeeaf26e9937824aa6bb80ed4fde836d5d26"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS001_body_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS001_body_kidsthk.g1t",
+      "MPR_Muscle_Character_AYACOS001_body_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS001_d01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 3,
+    "name": "(DOAX3S) Sweety SFW Non-Breakable (Ayane)",
+    "slot": "AYA_COS_001",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Character\\AYA_COS_001.g1m",
+        "id": "0x63438245",
+        "extension": ".g1m",
+        "size": 2767200,
+        "sha256": "e3fade398ceb1248b887e45c5959067a94d65c9bdeac796eaee31f7a68db36cd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsalb.g1t",
+        "id": "0xbeb265af",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "6c246e9c9fd977f1ed70e4bae168b877125119af0c28f99cda390274f9087314"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsnmh.g1t",
+        "id": "0x3f9b9061",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "08d0277ecf3a37632c10b6d49719daf844f59356a5891d5ac1d5bbd067db1192"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsocc.g1t",
+        "id": "0x7ccd1867",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "addf684f7e07f07f94b747c0ab2e804889fdb167b16c32313df61d0b5a4d9c73"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsrfr.g1t",
+        "id": "0x458d9716",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "05ad241baae0ce3f334b542d44bc54402ac4e5bfae4d6438ba69b36761a0a032"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsshl.g1t",
+        "id": "0x9327cacf",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidswtm.g1t",
+        "id": "0x28cd1a08",
+        "extension": ".g1t",
+        "size": 11184856,
+        "sha256": "b7cacad50647b996245fa2bde315c17088a69c00895a295caf46139d1d45ebfc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsalb.g1t",
+        "id": "0xa3f3d470",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "9b54b5ab8c2b9407eb2162d98b762d7f44c3777e5665b4d4e58f15e89fa8098e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsnmh.g1t",
+        "id": "0x24dcff22",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "08d0277ecf3a37632c10b6d49719daf844f59356a5891d5ac1d5bbd067db1192"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsocc.g1t",
+        "id": "0x620e8728",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "33c08a4da8e90836ba4881947f5e28b6d7e595816aa784f876783d8c2d3b38e3"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsrfr.g1t",
+        "id": "0x2acf05d7",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "05ad241baae0ce3f334b542d44bc54402ac4e5bfae4d6438ba69b36761a0a032"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsshl.g1t",
+        "id": "0x78693990",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsalb.g1t",
+        "id": "0x89354331",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "f3585214cfe50280cfccee2189f1e6b7a7784b2d3fa4f17700dd2a275a5252c4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsnmh.g1t",
+        "id": "0x0a1e6de3",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "08d0277ecf3a37632c10b6d49719daf844f59356a5891d5ac1d5bbd067db1192"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsrfr.g1t",
+        "id": "0x10107498",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "05ad241baae0ce3f334b542d44bc54402ac4e5bfae4d6438ba69b36761a0a032"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsshl.g1t",
+        "id": "0x5daaa851",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d01_kidsalb.g1t",
+        "id": "0xd7f2bbb1",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "6c246e9c9fd977f1ed70e4bae168b877125119af0c28f99cda390274f9087314"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d01_kidsnmh.g1t",
+        "id": "0x58dbe663",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "08d0277ecf3a37632c10b6d49719daf844f59356a5891d5ac1d5bbd067db1192"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d01_kidsocc.g1t",
+        "id": "0x960d6e69",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "addf684f7e07f07f94b747c0ab2e804889fdb167b16c32313df61d0b5a4d9c73"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d01_kidsrfr.g1t",
+        "id": "0x5ecded18",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "cc12b463bea6b320a65bccc72f7496b70098dd14a7f02cc7e86ceebf8b972eae"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d02_kidsalb.g1t",
+        "id": "0xbd342a72",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "9b54b5ab8c2b9407eb2162d98b762d7f44c3777e5665b4d4e58f15e89fa8098e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d02_kidsnmh.g1t",
+        "id": "0x3e1d5524",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "08d0277ecf3a37632c10b6d49719daf844f59356a5891d5ac1d5bbd067db1192"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d02_kidsrfr.g1t",
+        "id": "0x440f5bd9",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "cc12b463bea6b320a65bccc72f7496b70098dd14a7f02cc7e86ceebf8b972eae"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d03_kidsalb.g1t",
+        "id": "0xa2759933",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "f3585214cfe50280cfccee2189f1e6b7a7784b2d3fa4f17700dd2a275a5252c4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d03_kidsnmh.g1t",
+        "id": "0x235ec3e5",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "08d0277ecf3a37632c10b6d49719daf844f59356a5891d5ac1d5bbd067db1192"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_d04_kidsalb.g1t",
+        "id": "0x87b707f4",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "96ac27420df22c6d0efb0e65e967c5edd8a2748b4344187523094db865717c4d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYAFACE001_face_kidsalb.g1t",
+        "id": "0xe159a369",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "aac48213471c40fbffd58ae703d77321688634aeb070854a087226b1fbe86cff"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS001_b02_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS001_b03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS001_b03_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS001_d01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS001_d01_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS001_d02_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS001_d02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS001_d02_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS001_d03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS001_d03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS001_d03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS001_d03_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS001_d04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS001_d04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS001_d04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS001_d04_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 4,
+    "name": "(DoAXVV) Yom Office Wear Non-Breakable (Ayane)",
+    "slot": "AYA_COS_001",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Character\\AYA_COS_001.g1m",
+        "id": "0x63438245",
+        "extension": ".g1m",
+        "size": 2799428,
+        "sha256": "8bee4c9fa739b7e50a3da0ece7232f064755b861cd3152b3e7837dc35930ae6c"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsalb.g1t",
+        "id": "0xbeb265af",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "c0092f624b3a2f36ce6b3d9add5d4c5a742a24fd900067eb2f99221e687a6661"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsnmh.g1t",
+        "id": "0x3f9b9061",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "29bf93f2af9db866b2ce969f10ff5c938b01296d424c5a7235f45f128c7cd767"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsocc.g1t",
+        "id": "0x7ccd1867",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "e577b1fc4883b0a5ac2a94f32f84722be9175774e797369f87fd7e38123677c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsrfr.g1t",
+        "id": "0x458d9716",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "f3a58d07647d8cbf577773c7125bc52e83dc97de30a0f6d3bc2a4d11d5b17b62"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsshl.g1t",
+        "id": "0x9327cacf",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidswtm.g1t",
+        "id": "0x28cd1a08",
+        "extension": ".g1t",
+        "size": 11184856,
+        "sha256": "b7cacad50647b996245fa2bde315c17088a69c00895a295caf46139d1d45ebfc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsalb.g1t",
+        "id": "0xa3f3d470",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "61d111db65c0aa2635504d5ba51039a4133af8e2759b918dab08d97ed5221488"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsnmh.g1t",
+        "id": "0x24dcff22",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "29bf93f2af9db866b2ce969f10ff5c938b01296d424c5a7235f45f128c7cd767"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsocc.g1t",
+        "id": "0x620e8728",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "e577b1fc4883b0a5ac2a94f32f84722be9175774e797369f87fd7e38123677c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsrfr.g1t",
+        "id": "0x2acf05d7",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "f3a58d07647d8cbf577773c7125bc52e83dc97de30a0f6d3bc2a4d11d5b17b62"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsshl.g1t",
+        "id": "0x78693990",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsalb.g1t",
+        "id": "0x89354331",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "9038cc3f5a8a2373011616653c3218ce7af2986b1b817b4db7bb6b6275ea7dcb"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsnmh.g1t",
+        "id": "0x0a1e6de3",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "29bf93f2af9db866b2ce969f10ff5c938b01296d424c5a7235f45f128c7cd767"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsrfr.g1t",
+        "id": "0x10107498",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "f3a58d07647d8cbf577773c7125bc52e83dc97de30a0f6d3bc2a4d11d5b17b62"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsshl.g1t",
+        "id": "0x5daaa851",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS001_b02_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS001_b03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS001_b03_kidswtm.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 5,
+    "name": "Ayane Classic DoA4 Costume 2",
+    "slot": "AYA_COS_001",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Character\\AYA_COS_001.g1m",
+        "id": "0x63438245",
+        "extension": ".g1m",
+        "size": 2927212,
+        "sha256": "b0e8d1d9935e6f47b1c8e73a98d8307fd2af38824c7a0c65603c9fe0c60dcf10"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsalb.g1t",
+        "id": "0xbeb265af",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "069ed1905fa367d073cf45de58c63e92efdebe5d32e18f99f5e4fbac4053cba4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsnmh.g1t",
+        "id": "0x3f9b9061",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "85220b77a9d99b99349fcebb2ee92b35dfbd6b84c5a0fd6972dcbaa8cd259696"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsocc.g1t",
+        "id": "0x7ccd1867",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "7f2bc39c3f941dfa461b8a20c020c20c2219557b136c1869ef651622cd5c37fd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsrfr.g1t",
+        "id": "0x458d9716",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "0d738f469fc9efd46103b7d6e241512977251237f46f8e6f8f2a96ce7c250b5d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsshl.g1t",
+        "id": "0x9327cacf",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidswtm.g1t",
+        "id": "0x28cd1a08",
+        "extension": ".g1t",
+        "size": 11184856,
+        "sha256": "b7cacad50647b996245fa2bde315c17088a69c00895a295caf46139d1d45ebfc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsalb.g1t",
+        "id": "0xa3f3d470",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "069ed1905fa367d073cf45de58c63e92efdebe5d32e18f99f5e4fbac4053cba4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsnmh.g1t",
+        "id": "0x24dcff22",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "4cf5e54d7114e968f30a9c8e209199a5b43469c7a3d3a8ad203e9ec3798dddf0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsocc.g1t",
+        "id": "0x620e8728",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "7f2bc39c3f941dfa461b8a20c020c20c2219557b136c1869ef651622cd5c37fd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsrfr.g1t",
+        "id": "0x2acf05d7",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "0d738f469fc9efd46103b7d6e241512977251237f46f8e6f8f2a96ce7c250b5d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsshl.g1t",
+        "id": "0x78693990",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsalb.g1t",
+        "id": "0x89354331",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "069ed1905fa367d073cf45de58c63e92efdebe5d32e18f99f5e4fbac4053cba4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsnmh.g1t",
+        "id": "0x0a1e6de3",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "4cf5e54d7114e968f30a9c8e209199a5b43469c7a3d3a8ad203e9ec3798dddf0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsrfr.g1t",
+        "id": "0x10107498",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "0d738f469fc9efd46103b7d6e241512977251237f46f8e6f8f2a96ce7c250b5d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsshl.g1t",
+        "id": "0x5daaa851",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS001_b02_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS001_b03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS001_b03_kidswtm.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 6,
+    "name": "Ayane Xmas 2019 XNALara-XPS",
+    "slot": "AYA_COS_001",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Character\\AYA_COS_001.g1m",
+        "id": "0x63438245",
+        "extension": ".g1m",
+        "size": 2680336,
+        "sha256": "6409de36f71003bc740ed6aee79c2715e8a4d47a986c9dcfb4c0c3c85916b13b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsalb.g1t",
+        "id": "0x32123aae",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "2ad821f4128d9882e06afbc37bef54c2e9988f28e1494360baa76584bfc4d41b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsnmh.g1t",
+        "id": "0xb2fb6560",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "1cfbb774bf58097a089cbd6627e234cd350d9fc3c8337111dcf9a673b65ea073"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsocc.g1t",
+        "id": "0xf02ced66",
+        "extension": ".g1t",
+        "size": 699104,
+        "sha256": "8d5c2472bd586fa848dd8847bfbdf81425a37f58394c64af5f53813db1e8c58f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsrfr.g1t",
+        "id": "0xb8ed6c15",
+        "extension": ".g1t",
+        "size": 699104,
+        "sha256": "685d12a5406c45dc5012cb5c1a99f099f8a0e502bc9032770c4562c36d50c224"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidsshl.g1t",
+        "id": "0x06879fce",
+        "extension": ".g1t",
+        "size": 1398152,
+        "sha256": "d56840810c25759f8641483c62293d9773dac8a7a750296a6aeb9663b84015c4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_a01_kidswtm.g1t",
+        "id": "0x9c2cef07",
+        "extension": ".g1t",
+        "size": 2796248,
+        "sha256": "dce548bf050f066955d25d3d9199b82e4a41461f612dce9ac4c0144eeb945ee0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsalb.g1t",
+        "id": "0xbeb265af",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "2ad821f4128d9882e06afbc37bef54c2e9988f28e1494360baa76584bfc4d41b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsnmh.g1t",
+        "id": "0x3f9b9061",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "85220b77a9d99b99349fcebb2ee92b35dfbd6b84c5a0fd6972dcbaa8cd259696"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsocc.g1t",
+        "id": "0x7ccd1867",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "7f2bc39c3f941dfa461b8a20c020c20c2219557b136c1869ef651622cd5c37fd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsrfr.g1t",
+        "id": "0x458d9716",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "0d738f469fc9efd46103b7d6e241512977251237f46f8e6f8f2a96ce7c250b5d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidsshl.g1t",
+        "id": "0x9327cacf",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b01_kidswtm.g1t",
+        "id": "0x28cd1a08",
+        "extension": ".g1t",
+        "size": 11184856,
+        "sha256": "b7cacad50647b996245fa2bde315c17088a69c00895a295caf46139d1d45ebfc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsalb.g1t",
+        "id": "0xa3f3d470",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "069ed1905fa367d073cf45de58c63e92efdebe5d32e18f99f5e4fbac4053cba4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsnmh.g1t",
+        "id": "0x24dcff22",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "4cf5e54d7114e968f30a9c8e209199a5b43469c7a3d3a8ad203e9ec3798dddf0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsocc.g1t",
+        "id": "0x620e8728",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "7f2bc39c3f941dfa461b8a20c020c20c2219557b136c1869ef651622cd5c37fd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsrfr.g1t",
+        "id": "0x2acf05d7",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "0d738f469fc9efd46103b7d6e241512977251237f46f8e6f8f2a96ce7c250b5d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b02_kidsshl.g1t",
+        "id": "0x78693990",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsalb.g1t",
+        "id": "0x89354331",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "069ed1905fa367d073cf45de58c63e92efdebe5d32e18f99f5e4fbac4053cba4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsnmh.g1t",
+        "id": "0x0a1e6de3",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "4cf5e54d7114e968f30a9c8e209199a5b43469c7a3d3a8ad203e9ec3798dddf0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsrfr.g1t",
+        "id": "0x10107498",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "0d738f469fc9efd46103b7d6e241512977251237f46f8e6f8f2a96ce7c250b5d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS\\Material\\MPR_Muscle_Character_AYACOS001_b03_kidsshl.g1t",
+        "id": "0x5daaa851",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS001_b02_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS001_b03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS001_b03_kidswtm.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 7,
+    "name": "(Classic) NG2 Chinese Dress (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 2783360,
+        "sha256": "e6e62bb1b860d5a53cd92b2387bab94bf9858305a46b96d315652936358b766d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 1398184,
+        "sha256": "f8512c911f241e1b2be88d3431eae8a197121a812fc3c41764573733aff151da"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "8a4e566b9f39acc39c1b281785381cb5bd5acb05bb35e3d9eeb3c7f71164179f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "c30d57f2cd2b99e39d02a9036e80ef68bc9822297162082528baa5b34f66b778"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 1398184,
+        "sha256": "cc89f55ff3ebdf5232c1f86a909aa52d579295771cfa8a2b85bd4b08fe8c1b16"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsalb.g1t",
+        "id": "0xdb9f84f5",
+        "extension": ".g1t",
+        "size": 1398184,
+        "sha256": "f8512c911f241e1b2be88d3431eae8a197121a812fc3c41764573733aff151da"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsocc.g1t",
+        "id": "0x99ba37ad",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "c30d57f2cd2b99e39d02a9036e80ef68bc9822297162082528baa5b34f66b778"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsrfr.g1t",
+        "id": "0x627ab65c",
+        "extension": ".g1t",
+        "size": 1398184,
+        "sha256": "cc89f55ff3ebdf5232c1f86a909aa52d579295771cfa8a2b85bd4b08fe8c1b16"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b03_kidsalb.g1t",
+        "id": "0xc0e0f3b6",
+        "extension": ".g1t",
+        "size": 1398184,
+        "sha256": "f8512c911f241e1b2be88d3431eae8a197121a812fc3c41764573733aff151da"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b04_kidsalb.g1t",
+        "id": "0xa6226277",
+        "extension": ".g1t",
+        "size": 1398184,
+        "sha256": "f8512c911f241e1b2be88d3431eae8a197121a812fc3c41764573733aff151da"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsair.g1t",
+        "id": "0x735355e9",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "d13e9c3b2169e79fd7e1271377d64fd057703267b6a3cd440b4998dd58fdfa81"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 43744,
+        "sha256": "cb8a03584fadef6d6da9b70a728c994ad6621e6e647478170370fed6520d7654"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "a647ca3d3f8b6b85c393209dd5ef28be08f52de22d1e8b22f00ce28dc685ea63"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 60,
+        "sha256": "7b519aabbf9f066b27ab36e4cf6374593598d2bf2e5ac4aef063f67cf8ec6b4a"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "4681833e3d0102326e1cbb359e9fa15ba7c15258cdc2ec4a9624eb0414c20f29"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "1bfcd655751f564363440d2af817253ad321bd3b7c627c93d4dae05b636eb5d5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "34156cae0b1538d006b3653a80f000420074623a24c879f23b1423b37421f9b1"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "af576c80d26f570b16ce57ee16ba2fcf4ca0a4b7c75363586f6021317f492ff9"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "33f278b3fb911098d3613a3df916681a4590313283a103b25246424834a4bdc4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f02_kidsalb.g1t",
+        "id": "0x0e2030f9",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "0cd45406a5e03c8fd4829ef3592d99fee805a8b959500aa98abbef136c7b822b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f03_kidsalb.g1t",
+        "id": "0xf3619fba",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "1a19111b59481391ff778e4ffede007d503715226d83e058a4b8c4ba5c61d2ab"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f04_kidsalb.g1t",
+        "id": "0xd8a30e7b",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "948cb482b70ae0e7b1e37fada2d56a8181e6c40c45c0c186c636cabf9bcc6b68"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_b02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsalb.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidss4m.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsthk.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 8,
+    "name": "(Classic) November Throwback DoA2U Banshee (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 2027008,
+        "sha256": "cd249745537330487cd531d13eae28da3d1e5bb661f93d634859a8c66e49b9f7"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsalb.g1t",
+        "id": "0x69bdeb33",
+        "extension": ".g1t",
+        "size": 5536,
+        "sha256": "9ddc94314b0c971d98157b221f3b9d32f369507b39342574727e465fe92385f1"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsnmh.g1t",
+        "id": "0xeaa715e5",
+        "extension": ".g1t",
+        "size": 5536,
+        "sha256": "048da31abc90e32948f24660d8530fb538f7766fd947c85d1ede9274e44c1607"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsocc.g1t",
+        "id": "0x27d89deb",
+        "extension": ".g1t",
+        "size": 5536,
+        "sha256": "421ab66415aaf4fa5bb5a30cb3d24de72c3bb1017878dd8d3da69fe8b7f01c1d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsshl.g1t",
+        "id": "0x3e335053",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "118b465b7e3cb0f1af92548abfaf79267e9e4ce3ca577949f5d90a2865148201"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "ef6e827f054796e43d6eddeac750895c39cbe4f5cbe0f63b3029fbe0a3f42916"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "b6d4a1d4c67bd7f8615e2b36002b761370c11457e836a032d27635e0d162cee6"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "908894d82b55908a5537d3c9645669496748b95b60d5b97084a4aff057cd209f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsalb.g1t",
+        "id": "0xdb9f84f5",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "d712f3505597a507e9a0890340ccc061fa7077b8591b5d608019498062247dce"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsocc.g1t",
+        "id": "0x99ba37ad",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "b6d4a1d4c67bd7f8615e2b36002b761370c11457e836a032d27635e0d162cee6"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsrfr.g1t",
+        "id": "0x627ab65c",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "908894d82b55908a5537d3c9645669496748b95b60d5b97084a4aff057cd209f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b03_kidsalb.g1t",
+        "id": "0xc0e0f3b6",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "e0bda455b6a87051912fee301b3c2dc13e9e541beb8aac823e938420cfd5f94f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b04_kidsalb.g1t",
+        "id": "0xa6226277",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "9046b566a70abc8ce65a4fd7a2fefbbae2eb0187ded4e330de29bae60d561ae5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "2ae7b27af886250bc020e75a2b67e8f0d5112966843c0ef70bcba9d6ca471ee1"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "2dbf8ae82c0a2557aa8b67c332c894b28396adbb9f36d2d1457a5181db5309f0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "b904ee485583ae3bc58e4baaf4544df28f2f5b4c63f35b0c1a7f00870c2cc8b9"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "f080d9ae6d905a56e8acf5807c83dd14f71f1a84b77cfd07367fa11c6bbf572a"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "7578dc267f044abdf8b0de973bc6b0a34c2b0d8eae37f478aaa4648f7d589089"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "f58d104e759dce8eb80448e30c36e02a77c61bb568a510a8c6137c31458104ba"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "ec8fd683e22ef74bab30cf17963a3d4c48d6a64ab8f22f926a9a78499f3b9cff"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "a09b762507324d505cb7c4bfc8e8bb052e4091df00ef3dea64b835b032c97e24"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f02_kidsalb.g1t",
+        "id": "0x0e2030f9",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "3fb2696e95ae5bf534d4878b00376abd012d358510c18c5e1679856b4fefac06"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f03_kidsalb.g1t",
+        "id": "0xf3619fba",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "743489c3b171110e51fab903a92c553aa9226a090f059e8e772a64bac5c45d62"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f04_kidsalb.g1t",
+        "id": "0xd8a30e7b",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "850b7a2172a53bf3f4ce19d98c036817ed105cecde95dfa4e2e05e77ac2b29df"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_a01_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 9,
+    "name": "(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 1682856,
+        "sha256": "1a92e7f9b463491b3a641dd3667076e17126286a4438bc0a13e748afa4507a72"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsalb.g1t",
+        "id": "0x69bdeb33",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "e28dde8f671c5c2e33bf6821156ab83e95690b5d78b6773b41560a742aeb55dc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsnmh.g1t",
+        "id": "0xeaa715e5",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "9e9d1c60cb548f08a7b8bef6ea09a3a2c84aa462405d47bc6dd9923da041ae22"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsocc.g1t",
+        "id": "0x27d89deb",
+        "extension": ".g1t",
+        "size": 60,
+        "sha256": "7b519aabbf9f066b27ab36e4cf6374593598d2bf2e5ac4aef063f67cf8ec6b4a"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsshl.g1t",
+        "id": "0x3e335053",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "02d37965853abfe152356614f40fd9f4d75d6a82c16d4268e27fc469f4ae77c0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "1bff978174f1c9665ad328eb946282a1195c688bc823e85f105bea28486e7f99"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "69b6ca6ace35993597586b3948d2663937865ae106cac4297bbca3dc27a52464"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "463fc69cef968579dc8101cc8aa716cb7d1dda99bcd5692399456be724130bb2"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsalb.g1t",
+        "id": "0xdb9f84f5",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "02d37965853abfe152356614f40fd9f4d75d6a82c16d4268e27fc469f4ae77c0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsocc.g1t",
+        "id": "0x99ba37ad",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "69b6ca6ace35993597586b3948d2663937865ae106cac4297bbca3dc27a52464"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsrfr.g1t",
+        "id": "0x627ab65c",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "463fc69cef968579dc8101cc8aa716cb7d1dda99bcd5692399456be724130bb2"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b03_kidsalb.g1t",
+        "id": "0xc0e0f3b6",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "02d37965853abfe152356614f40fd9f4d75d6a82c16d4268e27fc469f4ae77c0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b04_kidsalb.g1t",
+        "id": "0xa6226277",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "02d37965853abfe152356614f40fd9f4d75d6a82c16d4268e27fc469f4ae77c0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 5536,
+        "sha256": "06aaf468f46e360b3e7ad57a697a45c0979979264846ce4c0710604002fcd4c8"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 5536,
+        "sha256": "9abca83cd93928f834a112a217b6690e3534d0e513f752a4511c53f9d3e9d1cf"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 5536,
+        "sha256": "20cf0a45b9842dbc8634232a6ee0c11ff15bf236232190e9d9f4f831513c0b58"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 5536,
+        "sha256": "69f8b4256c7b1e182d9c61a1ccf7c741ab0bd62df475aa6d05aca2c85d3ee4f2"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "6ec1dff0d6ba557cffe348409d8c247a9d67f4c7b629fbbb53af379be8d35425"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "ff228b2a2b190a238a1b124ccb7e34ccc99e54e90708e72e4120e40696cbb697"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "a64670e16329563a6077a06e0b94515fe662e1e5b8e53634c43fcb891145f2e5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "2d94f80a3c7fe73f69c1ceb3af69ef394be38c53cb83ae005a1374ce94b0dcec"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "9ca7921b461ba179d1f2ba30c905552bc78846f975025b1e7ed2c5207639e450"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "34156cae0b1538d006b3653a80f000420074623a24c879f23b1423b37421f9b1"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "ec8fd683e22ef74bab30cf17963a3d4c48d6a64ab8f22f926a9a78499f3b9cff"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "76e6f158edeb37edcf1fc6f4f8f03b8755984b8984b2bd6b3588e06b7085d9d6"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f02_kidsalb.g1t",
+        "id": "0x0e2030f9",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "06c34919f254fc31fe50e5b82c5b5454db60341f140e42240fcccb40303e601f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f03_kidsalb.g1t",
+        "id": "0xf3619fba",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "9ca7921b461ba179d1f2ba30c905552bc78846f975025b1e7ed2c5207639e450"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f04_kidsalb.g1t",
+        "id": "0xd8a30e7b",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "06c34919f254fc31fe50e5b82c5b5454db60341f140e42240fcccb40303e601f"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_a01_kidsair.g1t",
+      "MPR_Muscle_Character_AYACOS105_a01_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 10,
+    "name": "(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 1625064,
+        "sha256": "8284896a1bb4719c9be658a15b904f57c2ed3973f77be151d6a46d5e6a6a4d96"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsalb.g1t",
+        "id": "0x69bdeb33",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "e28dde8f671c5c2e33bf6821156ab83e95690b5d78b6773b41560a742aeb55dc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsnmh.g1t",
+        "id": "0xeaa715e5",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "9e9d1c60cb548f08a7b8bef6ea09a3a2c84aa462405d47bc6dd9923da041ae22"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsocc.g1t",
+        "id": "0x27d89deb",
+        "extension": ".g1t",
+        "size": 60,
+        "sha256": "7b519aabbf9f066b27ab36e4cf6374593598d2bf2e5ac4aef063f67cf8ec6b4a"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsshl.g1t",
+        "id": "0x3e335053",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "357efbee1daccdad45bacb05c116f9a02761dc6cec7146f4f2de18d34a4ac1c0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "1bff978174f1c9665ad328eb946282a1195c688bc823e85f105bea28486e7f99"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "69b6ca6ace35993597586b3948d2663937865ae106cac4297bbca3dc27a52464"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "ffce3ceb2559899bc95d09f419ab0c59367a0b9d243e0e7d132f242806d18529"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsalb.g1t",
+        "id": "0xdb9f84f5",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "357efbee1daccdad45bacb05c116f9a02761dc6cec7146f4f2de18d34a4ac1c0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsocc.g1t",
+        "id": "0x99ba37ad",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "69b6ca6ace35993597586b3948d2663937865ae106cac4297bbca3dc27a52464"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsrfr.g1t",
+        "id": "0x627ab65c",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "ffce3ceb2559899bc95d09f419ab0c59367a0b9d243e0e7d132f242806d18529"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b03_kidsalb.g1t",
+        "id": "0xc0e0f3b6",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "357efbee1daccdad45bacb05c116f9a02761dc6cec7146f4f2de18d34a4ac1c0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b04_kidsalb.g1t",
+        "id": "0xa6226277",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "357efbee1daccdad45bacb05c116f9a02761dc6cec7146f4f2de18d34a4ac1c0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 87496,
+        "sha256": "6bc45f4a33fb88fc05700885d122bf83750303ee9bae873ffccff08a5e68f2c8"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 43776,
+        "sha256": "a7644dcfa3f3482c8c083975eacee41dfdbaca164e25f99f3a6082e05ea3f59e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 43776,
+        "sha256": "24ca414b50b953c562a39edbc25e0fdf6d72341d9b4fa1445cb40b7fa870be4d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 87496,
+        "sha256": "ccd07ed32da337bde719501988fc15176e8e3924c969b338b4f30090f2bd6c82"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "1714909140fa7941a399e35df20822a5d392b5c66ea42f98b1ee85a16a548281"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "aed2d4004584b5192f6727272e13ee4cfe9ff73994c59296c48a12fd21ed9b76"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "57eeca7e6b9994659847ac55e45e1d9469e0c756d3224c69d8060a4d5ebfb46c"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "8517b3920b951d191531809c6c08fe7789f448a4c8e88023d5f06bfef3362087"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "9ca7921b461ba179d1f2ba30c905552bc78846f975025b1e7ed2c5207639e450"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "34156cae0b1538d006b3653a80f000420074623a24c879f23b1423b37421f9b1"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "ec8fd683e22ef74bab30cf17963a3d4c48d6a64ab8f22f926a9a78499f3b9cff"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "76e6f158edeb37edcf1fc6f4f8f03b8755984b8984b2bd6b3588e06b7085d9d6"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f02_kidsalb.g1t",
+        "id": "0x0e2030f9",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "06c34919f254fc31fe50e5b82c5b5454db60341f140e42240fcccb40303e601f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f03_kidsalb.g1t",
+        "id": "0xf3619fba",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "9ca7921b461ba179d1f2ba30c905552bc78846f975025b1e7ed2c5207639e450"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f04_kidsalb.g1t",
+        "id": "0xd8a30e7b",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "06c34919f254fc31fe50e5b82c5b5454db60341f140e42240fcccb40303e601f"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_a01_kidsair.g1t",
+      "MPR_Muscle_Character_AYACOS105_a01_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 11,
+    "name": "(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 1939800,
+        "sha256": "5d42aec0bd1836804529bc1e6012d9847df9bde254df8dd7dbf9808ab5dbd0b9"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsalb.g1t",
+        "id": "0x69bdeb33",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "a367d83df159e44a5aa2d4cee1378c7b4e0ec92d94c5be955c29d09a96a9dbc5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsnmh.g1t",
+        "id": "0xeaa715e5",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "b84f6c3b9daf10c8881b3d77fd25a8f5991e54e027204a81352ec760cae43377"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsocc.g1t",
+        "id": "0x27d89deb",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "bab313fee4883072356dc8d78793b24ce198d6725f34772872bb3c7fc71138d8"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsshl.g1t",
+        "id": "0x3e335053",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "c25c91360981e14f755d54e7f433a21ac817605d0b1fad7cb0acb5b00c678089"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "86c87813df56044557f10574446ab6824b1c45ffb8376dccfeef9b2f7df7e011"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "48284301a789064a58fd47de20c7a2a3bc920e7f6878b6d2a20c8cc17334b025"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "711f1a717abc6d7201eadd9dd5746639b3460ab12195d9156a3dbd56041208b5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 21920,
+        "sha256": "30e3fa6d48459d7179ea6242d248e8fd0f218590c39c236e264ebd942d295aea"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 21920,
+        "sha256": "828311f52cddebd1ad4d9272fef43ff668bf7702e941df46e9864c5d37437cd5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 21920,
+        "sha256": "e1a93da577b088a508862f46916ede315595334d3f2b8c3d4eab7c02595e5e4d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 21920,
+        "sha256": "82f4cd2f5c95f61bb44b58088a67ec6ef0176018e163f3c9423b8d4fcdf851dc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "706d58de62f505b40f69c85af27dd3eed8c2107c3e8992d37d481c1fb0bd0cb4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "5ed6772302c405c4503824c1c9ae185ab2fbc27fa6912583a148e81f81271606"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "4d317d7f068db33936d483436cb7093600fc1025e658fcd9160d9dfac101a781"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "a73c33c32689e7120ef5009fe9bc46993b3ede2485cd0fac6806c15905c82d28"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 87464,
+        "sha256": "5bbdc3ec1a03f8564fb5e6c0eabc8ff0f9aac557484dc05afeb1896cde8b2f11"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 87464,
+        "sha256": "0a28e7bc430afc0548e43bfcb027998ff03362824d0c2eec2bd4b61141fee7b8"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "b7c7201bc979ab305e580363e240ff5eb9b8bd11bea673f5b575f2ac66245f04"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 10992,
+        "sha256": "a09b762507324d505cb7c4bfc8e8bb052e4091df00ef3dea64b835b032c97e24"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_a01_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsalb.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidss4m.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsthk.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidswtm.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 12,
+    "name": "(Classic) November Throwback DoAD C2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 2074540,
+        "sha256": "38934fe9710b1e1a6de45b42ea8e27bd43bbd443eb76483ea0d8f904e0b23a18"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsalb.g1t",
+        "id": "0x69bdeb33",
+        "extension": ".g1t",
+        "size": 21920,
+        "sha256": "3e52e1cf4fe6df6e6f53d4a7c5f441477898e9001fac3e230ba293f0a683113f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsnmh.g1t",
+        "id": "0xeaa715e5",
+        "extension": ".g1t",
+        "size": 21920,
+        "sha256": "9f49ec29f8fc45be9a2b39c8b67a616dc35ea13d13b44df061230a5c5f92f2ed"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsocc.g1t",
+        "id": "0x27d89deb",
+        "extension": ".g1t",
+        "size": 21920,
+        "sha256": "fe5010f0093b9cf17c8be328fe9fdcfedfadb18ac15e3219481c5ea96e1d839e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsshl.g1t",
+        "id": "0x3e335053",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "a473651236e496c4902b1f80987a605854af2f2a0a29499bbaf8c5a25b0d0b1b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "7213759b97ad535261f0fa5defcecffa581d83bc7916981d8a321a3476d992a1"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "0b1df64f8846b6a61a6532658374f9aff9ac2cdf3965128724519de7be4c97fc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "983fb91b5fcf165927af6b5ae9f80e0e9c8386274c5a34f45eda0bd14002c4fd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "b7a15fb99bd40804de096d5020f0c2ab7d7d6c19ac3d71299f17e849b368d844"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 2796248,
+        "sha256": "5e170a47ef05ebb8cc7ac762613ffb9884968d4af02a88ee78aa96bd776b809d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "a4fe95ddb31c3ab6d8e9784402beb5059feffbf29e14e6270f814d9c4b10d54c"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "5ecc7f8412758580aa2192f0906fecd507fb852ab8c9a824e33e336b8db655bc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "7d7f911c1eda8f24e95e43a0016c9ec3068f6c8ba718736eb10d1ef0bb8b7ac2"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "b7bef3d57f05ea0eae943a9b5de2c5db1c6ff0b26d57568dc3915daa4122afe6"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 699096,
+        "sha256": "57f14c2d667926dfab72bff733ad0bf1408237761074776df838f30dcd0ae4ac"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "260ff488848548308511face435cbe0fcc186e702a377d293e5b2d6229dfb6bc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "b5f00c9cb645a7a6bb12ef283a17aaa36376497d18ff392c8eb184a0d6153b24"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "01883b43d6457a4124b029503eb15869c94953984f3f18b241196d9da7363a7d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "d796b1203aec3570ee4f151763ad02abd8931b9673c16265c4db955d5c8aa3e9"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "aa0ccf70a4e4bc1d22985739df0a8c7890cd1f9ededc0ffd68cdc720ec8ffaca"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "3f62d54b69a0593ac216ad480365791ce1298769cc8e4b2b5f32a2bc52b77e88"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "c5f249a335ae471ba5ab441cfc87de294033f11beb4c78acf61abcff411ef752"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "33f278b3fb911098d3613a3df916681a4590313283a103b25246424834a4bdc4"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_a01_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsalb.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidss4m.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsthk.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 13,
+    "name": "(Classic) November Throwback DoAX2 Saga 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 1929436,
+        "sha256": "8d7034d1a8e3b6662e49e0a7a2a63748ffa5457b685eef5ebd928cdeb4a25f74"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsalb.g1t",
+        "id": "0x69bdeb33",
+        "extension": ".g1t",
+        "size": 752,
+        "sha256": "ef58b5c9a6b9857601813c3e3603989dd9d57ec81d8a7af3f591f51b3194c905"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsnmh.g1t",
+        "id": "0xeaa715e5",
+        "extension": ".g1t",
+        "size": 752,
+        "sha256": "f1e768a241de07e9dbfb64dc55903302f8210951ce57a02fd899870a23cf3449"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsocc.g1t",
+        "id": "0x27d89deb",
+        "extension": ".g1t",
+        "size": 752,
+        "sha256": "cda9f4634d153caf5bca3faf7820a43cdd714c1793043ab879e4946089204d28"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsshl.g1t",
+        "id": "0x3e335053",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "5e6de17a201b03286c15431ebabe765c2f8025fd3e6a017da9c421a4801733c3"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "0209e7791f1c7aa81565323f7d50f1ec34d0156c68c874156c19b14ff6e2a789"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "fa3358ec665d8359cb764602100e3cbf92d3e644b20acdb36ea7fff6aa34dd12"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "d428d4460c955bdad28d562a8e17e420f6f93b5db582bc89e233f5abe1df54ee"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsalb.g1t",
+        "id": "0xdb9f84f5",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "94b094f6b92b27fb1092cf7fdbcf589f417ddd2a0e8bdb665d04f89fbe6ec78d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsocc.g1t",
+        "id": "0x99ba37ad",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "fa3358ec665d8359cb764602100e3cbf92d3e644b20acdb36ea7fff6aa34dd12"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b02_kidsrfr.g1t",
+        "id": "0x627ab65c",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "d428d4460c955bdad28d562a8e17e420f6f93b5db582bc89e233f5abe1df54ee"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b03_kidsalb.g1t",
+        "id": "0xc0e0f3b6",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "5ec0fa62747cc7a8cd705ee00414a31df07a308f104045eb800246d35a5a2638"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b04_kidsalb.g1t",
+        "id": "0xa6226277",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "5ec0fa62747cc7a8cd705ee00414a31df07a308f104045eb800246d35a5a2638"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "eb9d8615b6dfa23db6f92e38ea4fedff05dd1ca17df9edeb1961e09cdfd2759b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "dfaa3515c7ac701de12128ea04fe8fac83a94bb818a5730cd7c34b28f72f3eeb"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "8c284615abbd130ccb6123a643222ccf7be285bd616ecb8aa853805308664c42"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 2800,
+        "sha256": "68fb2727c10fc7945a4426f63fa80f79f08b6be463756acc9d852e0ead782dc0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "2f1ab96895ed645bf31b8d7dbbbb5a716ae54254e76c61a9303186dacffa8999"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "540389c88a6f50e0cbdec3afca26d2e0f5ec8af746c00919a66200c98649b4f2"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "e81c529c33a2e412bc279aaf96a53da62196746767042014d85ff74a2dadd5f3"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "725e187be9bee0825d68b3911e5bc9d1930d3fb5e486e3908546a06129d1f187"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f02_kidsalb.g1t",
+        "id": "0x0e2030f9",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "c8f81c46281e50ffe2d361272b9c503a58bf76644d391323785dec35455ce9d3"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f03_kidsalb.g1t",
+        "id": "0xf3619fba",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "9a865923cf8df407bd6462599b1c04024db40ec0eb8cc7420278444f6aa9323e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f04_kidsalb.g1t",
+        "id": "0xd8a30e7b",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "9a865923cf8df407bd6462599b1c04024db40ec0eb8cc7420278444f6aa9323e"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_a01_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_b04_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f02_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f03_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_f04_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 14,
+    "name": "(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 5733060,
+        "sha256": "747c253b983c65a4f85382ef9d85d2965f647eef3caaed6c1765d2f882f32108"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "99ec123e5df14d2048da586310f7f7fd8509c9f2017a2fd265866b8964a6fa89"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "7d24b70847739842b94aff4cc50e06f27bba83e8af1a65c6ad334bfb31a89f39"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "375ab14c11e1e88a5a6266e78b33f51468feecdd5cdd969a90eb8c38855fe4bb"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "9096581d69da01a1de7c8e1b1119b19278b214b8c2a689134b1a28e6cde92448"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "e038fa1ba1bf2accd84f8f31461bf8251ad2bf958d0754ea844e006cab7dcdcf"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "4a2b1d8478e982d23238627ab191b6523ed6287ba1321b498c080beae93de448"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "e1dc912b12731d48eadf3803f7a3368f0d15f18d73be9cdc4dc7b2e905f0feef"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "6853ff931f499fbd571b559445b1ff8769164d4060955d989788b3669da319cb"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "5bef6472d08c3db67969effc199a95c7a98ef9bfdb9fcbea2fde65588163a659"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "e5c887725302a74e0f75025019bf85846fbde1ba5fab398af803c67d1c977649"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "bc1883310ab380cbd781a82d0bdd11744c71434f5b8c1ac9f9e36312d90a6a27"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "f0d4296fa1786d1aa9aaae1b01611d16cd508042b59fc5bcf23fb06784bac160"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "33f278b3fb911098d3613a3df916681a4590313283a103b25246424834a4bdc4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYAFACE001_face_kidsalb.g1t",
+        "id": "0xe159a369",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "50afdb7d972ce5ea2d68c64a7fb0e01c282cb72a8eacdd201e39748bb0e1b363"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)\\Material\\MPR_Muscle_Character_AYAFACE001_face_kidss4m.g1t",
+        "id": "0xab4596be",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "56ee1055b0fe923a6d030044e977ad47a9d2a3862e3e4d7262512699b90de407"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 15,
+    "name": "(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 7172208,
+        "sha256": "c0c9cdeadbf719cb07fb7234eaa0a682d64257c789b2308f7aea89b375968d2a"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsalb.g1t",
+        "id": "0x69bdeb33",
+        "extension": ".g1t",
+        "size": 11016,
+        "sha256": "3aaab8ba796583675a68bf0c8aa64af29a9bdf681b3fc3edacdcd15717faf7dd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsnmh.g1t",
+        "id": "0xeaa715e5",
+        "extension": ".g1t",
+        "size": 5536,
+        "sha256": "beb3bb72541a2831392958847e8dbdb696cf208966f554e2619fcc60ad3f14e7"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsocc.g1t",
+        "id": "0x27d89deb",
+        "extension": ".g1t",
+        "size": 699104,
+        "sha256": "faab357348e4b6b4d42208628d73c47b8273d2e01f4d7ccf79d9a3d0d4126df6"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsshl.g1t",
+        "id": "0x3e335053",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "a473651236e496c4902b1f80987a605854af2f2a0a29499bbaf8c5a25b0d0b1b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "ccead35f1af476bae6cce77e119e98368354664c3aaeb4fdf8f361768c40a763"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "c0ee152a032ac742ade1bd589d2248700e89ebf33bbe4771b473f3f46398a5a7"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "9d0fc8431b10d2c75db6391ba306b53f1791a9683aaa3e70513ab44f037186d0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "064d5cb67cffa6316e5d92f94f592e488058ff195e3faba84429a9609b7b65db"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "0b4cb5d449bd6aa7e2de8b286ea8019277c5e5788fbe07516db0829fb50f6712"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 1398184,
+        "sha256": "99281c08c07ef23dc870c13aec2e2a669292c23756c5a675c1f8ca306502a029"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "7e0a9ee802b695bc141ab91590047ed29aa0b8cff3d15efe1c0e585839f83df0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "cb090a9f4287d64fd0e7cdf7763c3b01ba3ff71d27c4ed373ccb3aecce3ee279"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "ceffbe24d4168c815293044a91fc2558f2e608a4c0513b8c6a35de7c71b9c574"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "08a13b4b7c1cc68d0805d2730df450e3119c55e405ae262d3680b8e3c99ef719"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 22369704,
+        "sha256": "d4a9c585ba821ba41e54341a4641d2b3f11f72210be558dedc43a8754e81d05e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "01519bcad1307ef12fe6944cd4851b22d1b6b202466452dc9811a0586af2f4da"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "3db1f58b2e9d87ebf701bd6e6f047f6e1117203f9df7b63a5a2204f28b773691"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 11184880,
+        "sha256": "8d29c679317b5e72c3a31b66207d8b5950d47e623d6b7b71b7cc040de31e3c1f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "32df72d565e92a972f24f13cc8905a1308f65133ffbafcbf10826df2f1cc4df8"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "dba6eda56cbe02f1399c5a55534acf6599d0fb43c305dd3939feb9c4df991a9b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "1603ea3a28937ad2394f98fd5844cba7f887d8c7307048e65dc0f19ee0c252e1"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "64582e7a8bdbed4fef086cc1b1bd7d59e2700fea452efdd4d04117c073d69a10"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_a01_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 16,
+    "name": "(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 2610276,
+        "sha256": "d661cc00116c67936573472b2ee3a57e3609570f804476e4a7317acf0d296306"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "1941f6378ce3b82b1d3d5eb9badc9e239dd7d759a5c3288a2883b1ad32aa8113"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 1398176,
+        "sha256": "9fe96cbc30d508c6c1ab8aed058f8a9349c31e83ee9514a6c3f7cf77b5871c47"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 1398176,
+        "sha256": "64ad5fab2e8f70310ce0b84bd40f1e84b7e2819d5fdf770dd047af4fb82d8f12"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 1398176,
+        "sha256": "cce0777679d5a08b2aa8001d26881d0b85d53a61fb105edd87a3be8fd685411e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 2796248,
+        "sha256": "5e170a47ef05ebb8cc7ac762613ffb9884968d4af02a88ee78aa96bd776b809d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 2796296,
+        "sha256": "5c21624d137535beae7ebdbb5e4d1310e96dcf44b3f8618bfef2c0c3e72fc0aa"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 349576,
+        "sha256": "d69fe749c6c1a67c4bbf7dffdbf80abc1be2038552705493546ee3d43d847c56"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 349576,
+        "sha256": "71820119b4451687d806b11bac0801d465f3ae9cfa4abf7014c2accc45a34f15"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 1398176,
+        "sha256": "d285160c62460a3d6a3e6e431e91370dff869ce5cefc91ff4b336c2e94ae4ec9"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 699096,
+        "sha256": "57f14c2d667926dfab72bff733ad0bf1408237761074776df838f30dcd0ae4ac"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "08c0ec349bc3967c35a2dbfcb12935786bcc9540aeea2fdf6ae9caad0d8e1c71"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "bd088b1143d133ad592882a155941ae2e2dc5ab7a9de6fc7046a0ef82f7d6369"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "a17d81f0ac104f10e4a972af2eeefd390666f2adf2c5b2ec05a098bd593438f0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "27d68c9fdcdbc4ec662e27d3cebd9a8e189d68ebe70e395640d15c0f239223ac"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_body_kidsalb.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidss4m.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsthk.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 17,
+    "name": "(DoA6) Ninja Gaiden 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 2766500,
+        "sha256": "0c09feba3c8e40afb4cda27e465ccbc5efbb5f636431545e20a521e3f054ef39"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsalb.g1t",
+        "id": "0x69bdeb33",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "1042d0c5524c3496d063458784acec70e2c11a553d31dc0215bb7bc2f78a00e0"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsnmh.g1t",
+        "id": "0xeaa715e5",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "719c7edc292d079ad32862c968be53dd3b5b4b7e60240433fe9c31efba51458f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsocc.g1t",
+        "id": "0x27d89deb",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "e87b81a9ba9a223a6eb4244385b34ada8762bbc08dafe02c7f26a8b5bdfdabc2"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsshl.g1t",
+        "id": "0x3e335053",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "a473651236e496c4902b1f80987a605854af2f2a0a29499bbaf8c5a25b0d0b1b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "5bcf7dfbabfe4b70a408f9beb37c734d720fb69a3d60725a7cc62400c52914f4"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "0d978c682c7d088d5cc48cebd7215e8001c26cc347d4f12dabd35a2750aeefcd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "2426a7f54759671d0fbc3f78828da4d6a29bfad764b46d917910d331bc208696"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "f5dbe084aa8a05e63a6df38e2032500dffc3eef102c457c5738a07e26c1af01e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "a890fee7c43455d719026590bf111daf1b8afc50d364a476efb2d5c7bb2438cb"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "0828c3c4d4739d7d6e3d0db84e4b783c2af1cd15fab30ae0b5f9039f4d77b134"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "63a1c8c1fbbdb7f8b57a8850bb77ef9acd48ad0afc022806d24c162ae076fbdd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "2dc8d72e5dac191907c573d5b443ed13cbdf20a444ae9c258fb336681406060a"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 699096,
+        "sha256": "57f14c2d667926dfab72bff733ad0bf1408237761074776df838f30dcd0ae4ac"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "deac37989acb5fe06bcc9ff5c8309cef46c3b26d74f032468e01bbf8b596ccca"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "286f4f2d1819977e5883bfef727223db453c12a04b7a111a6604ca1a7e8bc642"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 87456,
+        "sha256": "6d96e276e12fc3ce50303fcdd5912cbe84aeb056972a590db22168d2b981b2fb"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "e5607fd9dc7e636e6870f0f2b0b0362aa07c7ce9f7711694e4eea7693c8ca1ca"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_a01_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 18,
+    "name": "(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 4960720,
+        "sha256": "33ee27df3f1890f688c70b3c7ef314cc871a8159a99427101ef1509f7321463d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "64e7652dec728383f1d3a3065916748629f26493ffff320d9c4ac8d2d8286138"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "caab23040b97089cbcafa3922a38bc01d703053f2b95e7aec0d0035b1a37e597"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "44909a71add270729f06431b0d052218f52497ad5ab4563a6a23445c07c1e010"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "d50c7206f05e3dc492f1a62aa694a81e43e609ded63d12e1a8521ccf9f373dd7"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "8ff9f2360d4d1d309289ac4741e6b3565042db63787265f04e100a1a30556f07"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "51578ea7081b99cc7c9194509fc52abcc752f1e59f8964f4b89a86caba2ec1e6"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "dbfcffd060519029a35f79d504e994dac221e6bf8ba63695a1b0295887d14579"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "c346954a6dda1eea3a65b422041a74d01e2b193c9f85dbaf3b380208eef94785"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_body_kidsalb.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidss4m.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsthk.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 19,
+    "name": "(DoA6) Yoga pants (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 1599180,
+        "sha256": "84abf35f0956f5eac94893c581073387a20a9d1a0b0f9997b255cbd888f709fd"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "2e832701cca756d87f04c0dda0a883c26e9a7b6de9cef5e3925149ab744fb088"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "30f0666f3d98a4e25809ebd0169a93a3d082773326004c3b4ad219cc68e8f723"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "b669956dfd98d1f33ed8c8162ed84024661065b311382d0ddacbcccf8b7f7f06"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "e601d77cdf2c76f6111eb809a26cef8e392e812c8ac97d4299c241d2e549904e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "116417d89bc957d1c3ee3911d5773634f365d843d58616bfd73792edbd09f7fc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "bba6cb9541739d621fbc1828a3f8d8e76739899cd4c0b086e26027039eec12dc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 349576,
+        "sha256": "71820119b4451687d806b11bac0801d465f3ae9cfa4abf7014c2accc45a34f15"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "1073273de8538a490a390aa4c015443a5cf9c2d405b58e4e45931e6b1c06d9a5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "8239aeec5176ee660cae5fd29389e38c77b6ab293ec14961ae4ccc1ecfcbfd8f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "991f771df7cbb2b96b050a49e893428bf05290cafac41f72e3a477799bec9ee9"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "72b854a4c549655032c50b8878f285eee3acfa6f3ad9d5541e0c06e98a1db437"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 174832,
+        "sha256": "ac7fbcff5f5e022422a44180bc4fa8bbae6169a1994c0e437c066f487bb7cb09"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 349600,
+        "sha256": "bdbf5e2e15d4d4390acfbc3068088b5e2dfd55c9eba5e6c0707a2468a4a2bd98"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 349600,
+        "sha256": "f846e0013f39435a1be3d65251a72508499162a1a40bf125e7ec45a8507c8505"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 349600,
+        "sha256": "ac3b336422dad30b1f87cfe55e92cb9c1a59c43050e2bc5c6c658415e1a7b369"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 174816,
+        "sha256": "33f278b3fb911098d3613a3df916681a4590313283a103b25246424834a4bdc4"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_body_kidsalb.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsnmh.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsocc.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidss4m.g1t",
+      "MPR_Muscle_Character_AYACOS105_body_kidsthk.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 20,
+    "name": "(NG2Black) Phantom Butterfly 2025 (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 8722320,
+        "sha256": "2c7e32eebe6ddc3ce063c63bd2851f73f025e8e968ca1baca1a3977a8f931767"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "4cbf9677ecb927970a2abcdb481d05353816bd92c92d46c070089a6caac53e40"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "6f1b3511552f6cb1a62c51735e34bc99943144e62d0adcfa4708d615545161af"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "8c1470fad6509f9c6a64f0bc81d0e81e09a885f258e4a9cab9253a8079b57670"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "68fd671255bfc480ff9d7949ab7d7721af01158186efcf3a4f5f3a4b10f9e5c8"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "26fe83887955f2d45f7f725546b16a350ad3ad8dcc7c0010f1d896f44d501198"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "7b5787c451be92fc0704eb7eebbee25d79254810bbca8887c99dda9aa9369817"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "2b5320f4f23bbf363eb70a10e21aefeae721678d36d78a6e0a173198558faf8a"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "781898724c19f6877ab0d1aa75bd05d519fa6d1260f0f9471a21391402dc1f7c"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "37cf9564974fd86b5091ee0698259dd792eb0a47f4cef34d70406646227ba7e3"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "235eeb5d410dbf8da71ea35d52b5323a252f7bf3b865ccf7ec8f7fcb1ef98e6e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "bc125b53e8183d0befc5da334e841666ae7321eb3c9cfb9256fda1e0fd4deaa3"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "55998dce8e55b65211fd43137801ac556f463077dd664303fcaea062945b042e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "52c403e0a595508f943e2c28a644239d2a1f0b3210336da3a251a82093a8e3bc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "29d3141a2ab53dc64ad65bf02f1c871999747485661c5a73c8eccb59eaacbead"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "daaa3030372044563d476250ab392838f591bec7e61e81defb5d4048ab8cd534"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "ae532b0b5f9f951ab58a5c4cc725703ae942d205f0f1513b3b91418bfdc3c81d"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 2796272,
+        "sha256": "5b0ad10c4a357b661aa2bde1deb736d09b0f299702115ec8a4bca5bf3664463f"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 5592488,
+        "sha256": "c2e4e84657902549ad8b70e2e762e175e672c62729740e2ac6799bb62c926404"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  },
+  {
+    "number": 21,
+    "name": "(DoA2U) Costume 10 (Ayane)",
+    "slot": "AYA_COS_105",
+    "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)",
+    "assets": [
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Character\\AYA_COS_105.g1m",
+        "id": "0xc65cbde0",
+        "extension": ".g1m",
+        "size": 1920456,
+        "sha256": "1735fbd901dc672d43515d6ac768eb83b2b61c95e13a3d9db0b280e6cc34c201"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsalb.g1t",
+        "id": "0x69bdeb33",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "169f4bea19470bc2faf63d2cc155c0153f57b51c0385994bdd9af42ee555ea0e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsnmh.g1t",
+        "id": "0xeaa715e5",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "bde6fe73e10a38393c21c48c228a5a23b637488f5afb228c01eade9b77874baf"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsocc.g1t",
+        "id": "0x27d89deb",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "26ae477c2faed00222afd919c8dd1c98fe86ff66b601b3c95de5f3d202572885"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_a01_kidsshl.g1t",
+        "id": "0x3e335053",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "a473651236e496c4902b1f80987a605854af2f2a0a29499bbaf8c5a25b0d0b1b"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsalb.g1t",
+        "id": "0xf65e1634",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "3a036117e75ecf0cdd07f3f04a85832352fedfbe3e5e72a5e4fd900964d93bea"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsnmh.g1t",
+        "id": "0x774740e6",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "856e0a7e562de8d247d4c248e64ea75cf4032212afa5d9c1690d2453fc6320de"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsocc.g1t",
+        "id": "0xb478c8ec",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "9ec851719ef3b23a4a088d4a220c3d30f8c79966947df7c4a1c2e1445ddeb03e"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsrfr.g1t",
+        "id": "0x7d39479b",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "783c7d40024c03e26657308b458ad8c1b83c646f9682ef0e36925e45b575aa80"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_b01_kidsshl.g1t",
+        "id": "0xcad37b54",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "3c77058ebfe93b8146f9ef02f86c47a98720606bc9aac2829974a30636ca82c5"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsalb.g1t",
+        "id": "0x0f9e6c36",
+        "extension": ".g1t",
+        "size": 1398184,
+        "sha256": "63f53169c38ec2ae7520113057599fb42901600bbe8466b7523facf39087631c"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsnmh.g1t",
+        "id": "0x908796e8",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "16467eb75c78f53b4f45f6b16c5b405b4b3f109b43a3d36179da4275143ebbea"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsocc.g1t",
+        "id": "0xcdb91eee",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "ffd084ac6414231f5cb770f0737173cb2bab1acecbd70ec1927b8df557f55f8a"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsrfr.g1t",
+        "id": "0x96799d9d",
+        "extension": ".g1t",
+        "size": 699120,
+        "sha256": "1c0ce36dd66ec6391679c5c296ed81b78c92e93b48e4ee4dafc8d027593b9a24"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_d01_kidsshl.g1t",
+        "id": "0xe413d156",
+        "extension": ".g1t",
+        "size": 699096,
+        "sha256": "57f14c2d667926dfab72bff733ad0bf1408237761074776df838f30dcd0ae4ac"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsalb.g1t",
+        "id": "0x9c3e9737",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "517f930b4636eb07864f02cf77a46afb91fefdcc48ffc271b4da340154318edc"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsnmh.g1t",
+        "id": "0x1d27c1e9",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "667608ea879a402f89fa4c6b789638e661bb2a7481f24c1f6fa1b1a8245a2106"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsocc.g1t",
+        "id": "0x5a5949ef",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "4c4e3cb5fc8b269f11fb1ada7f24aa68a881e2603cad68b63d68ae4b9dc209ef"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_e01_kidsrfr.g1t",
+        "id": "0x2319c89e",
+        "extension": ".g1t",
+        "size": 43760,
+        "sha256": "e63eadc96cd9a54a6412d936239836ec31039f5e03ba9c27f4f41284b4c2ca51"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsalb.g1t",
+        "id": "0x28dec238",
+        "extension": ".g1t",
+        "size": 43776,
+        "sha256": "f130277fd387f81165f979108f78ca8c64beb9d3769938995f85260860f55dcb"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsnmh.g1t",
+        "id": "0xa9c7ecea",
+        "extension": ".g1t",
+        "size": 43776,
+        "sha256": "8f565b2ef3f01a94e01c58a7912c3143f2f88942155f200fac7a836a62e7c4bf"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsocc.g1t",
+        "id": "0xe6f974f0",
+        "extension": ".g1t",
+        "size": 43776,
+        "sha256": "02c1493a840d213dd9d11aa7e6d80a9e110b937a95af5d3f4ff879125c90e23c"
+      },
+      {
+        "source": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)\\Material\\MPR_Muscle_Character_AYACOS105_f01_kidsrfr.g1t",
+        "id": "0xafb9f39f",
+        "extension": ".g1t",
+        "size": 72,
+        "sha256": "683ae0ad732e4d3931e9a1ddfcb925b853cf184af1b99c2f33220fde1f44379b"
+      }
+    ],
+    "omitted_legacy_textures": [
+      "MPR_Muscle_Character_AYACOS105_a01_kidsrfr.g1t",
+      "MPR_Muscle_Character_AYACOS105_e01_kidsshl.g1t",
+      "MPR_Muscle_Character_AYACOS105_f01_kidsshl.g1t"
+    ],
+    "visual_validation": "pending"
+  }
+]

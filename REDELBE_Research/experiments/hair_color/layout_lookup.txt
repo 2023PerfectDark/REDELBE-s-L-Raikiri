@@ -1,0 +1,28 @@
+RVA 21c3e20
+021c3e20 48895c2408                       mov      qword ptr [rsp + 8], rbx 
+021c3e25 4889742410                       mov      qword ptr [rsp + 0x10], rsi 
+021c3e2a 57                               push     rdi 
+021c3e2b 4883ec20                         sub      rsp, 0x20 
+021c3e2f 488bd9                           mov      rbx, rcx 
+021c3e32 498bf9                           mov      rdi, r9 
+021c3e35 488d0d38845706                   lea      rcx, [rip + 0x6578438] b'\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01\x01' | 'āāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāāā'
+021c3e3c 418bf0                           mov      esi, r8d 
+021c3e3f e834a39401                       call     0x3b0e178 
+021c3e44 4c8bc7                           mov      r8, rdi 
+021c3e47 8bd6                             mov      edx, esi 
+021c3e49 488bcb                           mov      rcx, rbx 
+021c3e4c e88ffdffff                       call     0x21c3be0 
+021c3e51 4885c0                           test     rax, rax 
+021c3e54 7420                             je       0x21c3e76 
+021c3e56 488b00                           mov      rax, qword ptr [rax] 
+021c3e59 488b4020                         mov      rax, qword ptr [rax + 0x20] 
+021c3e5d 4885c0                           test     rax, rax 
+021c3e60 7414                             je       0x21c3e76 
+021c3e62 488b4010                         mov      rax, qword ptr [rax + 0x10] 
+021c3e66 488b5c2430                       mov      rbx, qword ptr [rsp + 0x30] 
+021c3e6b 488b742438                       mov      rsi, qword ptr [rsp + 0x38] 
+021c3e70 4883c420                         add      rsp, 0x20 
+021c3e74 5f                               pop      rdi 
+021c3e75 c3                               ret       
+021c3e76 488b5c2430                       mov      rbx, qword ptr [rsp + 0x30] 
+021c3e7b 33c0                             xor      eax, eax 

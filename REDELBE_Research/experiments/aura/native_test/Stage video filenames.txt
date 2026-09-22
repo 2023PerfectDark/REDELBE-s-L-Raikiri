@@ -1,0 +1,49 @@
+STAGE VIDEO FILENAMES
+
+Put MP4 files directly in this StageVidPreviews folder. Each recognized slot,
+including the second variants, already has independent video selection in the
+installed test loader. Use the exact slot code shown by the game plus .mp4.
+
+Forbidden Fortune: S0101PIR.mp4 / S0102PIR.mp4
+Chinese Festival: S0301CRM.mp4 / S0302CRM.mp4
+A.P.O.: S0501PAS.mp4 / S0502PAS.mp4
+Unforgettable: S0701MUS.mp4 / S0702MUS.mp4
+Lost Paradise / Oboro: S0801LOS.mp4 / S0802LOS.mp4
+Road Rage: S0901WAY.mp4
+Sweat: S1301GYM.mp4
+
+Complete list of currently recognized slot filenames:
+S0101PIR.mp4
+S0102PIR.mp4
+S0201BST.mp4
+S0301CRM.mp4
+S0302CRM.mp4
+S0401CLS.mp4
+S0501PAS.mp4
+S0502PAS.mp4
+S0601LAB.mp4
+S0701MUS.mp4
+S0702MUS.mp4
+S0801LOS.mp4
+S0802LOS.mp4
+S0901WAY.mp4
+S1001KYO.mp4
+S1101BAM.mp4
+S1102BAM.mp4
+S1201PRO.mp4
+S1301GYM.mp4
+S1501GRD.mp4
+S1601ISL.mp4
+S5001IOR.mp4
+S5101SHP.mp4
+
+The list describes resource mappings; some slots may not be separate selectable
+entries in your game mode. Random keeps its normal preview picture.
+
+Changing stages or variants stops the previous video/audio, returns to the new
+picture and name, then fades in that slot's video after the name disappears.
+A missing video leaves the normal picture. You can add videos while the game is
+running. Revisit the slot after replacing an already-playing file.
+
+Audio and music settings: REDELBE_LR\REDELBE.ini, [StageVideoPreviews].
+Only Road Rage has been confirmed visually; please test other slots and variants.

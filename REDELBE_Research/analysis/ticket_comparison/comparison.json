@@ -1,0 +1,220 @@
+[
+  {
+    "id": "0x405747b",
+    "name": "doa_closet_ticket_period.g1t",
+    "DOA6": {
+      "size": 1137120,
+      "sha256": "0159d3a0c7b945d33b50092f6582374fe52503473c2ff6afd57484d6b77a88f1"
+    },
+    "LR": {
+      "size": 1137120,
+      "sha256": "0159d3a0c7b945d33b50092f6582374fe52503473c2ff6afd57484d6b77a88f1"
+    },
+    "identical": true
+  },
+  {
+    "id": "0x8c01c9d",
+    "name": "doa_closet_ticket_info.texinfo",
+    "DOA6": {
+      "size": 1252,
+      "sha256": "dfdc7b87298bd3bb39fe01a259438f86b98a36258bfc8e956c9d7e3550ffd01d"
+    },
+    "LR": {
+      "size": 1252,
+      "sha256": "dfdc7b87298bd3bb39fe01a259438f86b98a36258bfc8e956c9d7e3550ffd01d"
+    },
+    "identical": true
+  },
+  {
+    "id": "0xee39603",
+    "name": "Layout_doa_closet_ticket_period.kidssingletondb.kidsobjdb",
+    "DOA6": "not indexed",
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0x12ba9a72",
+    "name": "doa_closet_ticket_info_External_00.texinfo",
+    "DOA6": {
+      "size": 316,
+      "sha256": "25197c9b2ff643443052eb147bb6102002e431ebb952ca03e576ae9db0639172"
+    },
+    "LR": {
+      "size": 316,
+      "sha256": "25197c9b2ff643443052eb147bb6102002e431ebb952ca03e576ae9db0639172"
+    },
+    "identical": true
+  },
+  {
+    "id": "0x1736df26",
+    "name": "SLE_doa_closet_ticket_period.ktid",
+    "DOA6": {
+      "size": 347,
+      "sha256": "4473c145c717e27f611e9668760c4179bf85272481606b33116008e9631dc7ea"
+    },
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0x17629467",
+    "name": "Layout_doa_closet_ticket_info.ui.kidsscndb.kidsobjdb",
+    "DOA6": "not indexed",
+    "LR": {
+      "size": 337692,
+      "sha256": "367bdefcb49897af372c54cdd191b84b4a882ea9d72d5986788168db8c48eb76"
+    },
+    "identical": false
+  },
+  {
+    "id": "0x209fb60d",
+    "name": "Layout_doa_closet_ticket_period.ui.kidsobjdb",
+    "DOA6": "not indexed",
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0x2b8dc02f",
+    "name": "Layout_doa_closet_ticket_info.kidssingletondb.name",
+    "DOA6": "not indexed",
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0x69c01a80",
+    "name": "Layout_doa_closet_ticket_info.ui.kidsobjdb",
+    "DOA6": "not indexed",
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0x77b10168",
+    "name": "doa_closet_ticket_info.g1t",
+    "DOA6": {
+      "size": 617324,
+      "sha256": "effb7b07f2801474d7554a030d59f35f4d8f6359f56c8d42bc4d63f9a879bf17"
+    },
+    "LR": {
+      "size": 617324,
+      "sha256": "4de11488a95d2467398c3b6db7389afbdedb87149699292c1addb60d59f39d04"
+    },
+    "identical": false
+  },
+  {
+    "id": "0xa0aece30",
+    "name": "doa_closet_ticket_period.texinfo",
+    "DOA6": {
+      "size": 732,
+      "sha256": "6f17071fa83e555bc6ef342d68d1b0f6682449308f56f1756d49d34a76a24d62"
+    },
+    "LR": {
+      "size": 732,
+      "sha256": "6f17071fa83e555bc6ef342d68d1b0f6682449308f56f1756d49d34a76a24d62"
+    },
+    "identical": true
+  },
+  {
+    "id": "0xa59aabfc",
+    "name": "Layout_doa_closet_ticket_period.kidssingletondb.name",
+    "DOA6": "not indexed",
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0xa731e6ce",
+    "name": "Layout_doa_closet_ticket_info.ui.kidsscndb.name",
+    "DOA6": "not indexed",
+    "LR": {
+      "error": "Expected one 0xe2974db2.fdata, got 0"
+    },
+    "identical": false
+  },
+  {
+    "id": "0xb14f5e59",
+    "name": "SLE_doa_closet_ticket_info.ktid",
+    "DOA6": {
+      "size": 605,
+      "sha256": "8b575c9d29070eb962e95d25c9c0965850080fb4474e2f7ed364cf6b1bd4ebfd"
+    },
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0xc8cfa6db",
+    "name": "Layout_doa_closet_ticket_period.ui.kidsscndb.name",
+    "DOA6": "not indexed",
+    "LR": {
+      "error": "Expected one 0xe2974db2.fdata, got 0"
+    },
+    "identical": false
+  },
+  {
+    "id": "0xdc477ff6",
+    "name": "Layout_doa_closet_ticket_info.kidssingletondb.kidsobjdb",
+    "DOA6": "not indexed",
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0xef8b5234",
+    "name": "Layout_doa_closet_ticket_period.ui.kidsscndb.kidsobjdb",
+    "DOA6": "not indexed",
+    "LR": {
+      "size": 378532,
+      "sha256": "93734fd2abdcbe80fd8e04b766daa7ec6c5bbe975656160642f6ac148f53b144"
+    },
+    "identical": false
+  },
+  {
+    "id": "0xf4ceb966",
+    "name": "doa_closet_ticket_period.kscl",
+    "DOA6": {
+      "size": 23528,
+      "sha256": "9e2972b2764503cf5013f36f1115bad13c3be578a04bbf9b03d883ff1984610f"
+    },
+    "LR": {
+      "size": 24848,
+      "sha256": "21e44e0da64bc7a9cbf3637c6bb5828bd315b6b6a5dc8db61702d1d1b608d6fe"
+    },
+    "identical": false
+  },
+  {
+    "id": "0xf694ca19",
+    "name": "doa_closet_ticket_info.kscl",
+    "DOA6": {
+      "size": 21733,
+      "sha256": "bda57032d04a97cde0f4ee850daefb22a31332babf2e64f1bd69c4a5de4620ee"
+    },
+    "LR": {
+      "size": 22521,
+      "sha256": "b4193e71f3392edd2e424c2eb84a81f1c72b677251b66637159b1b1a128b4a5b"
+    },
+    "identical": false
+  },
+  {
+    "id": "0xf98f6ce7",
+    "name": "Layout_doa_closet_ticket_info.ui.kidsobjdb.name",
+    "DOA6": "not indexed",
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0xf9e40ab4",
+    "name": "Layout_doa_closet_ticket_period.ui.kidsobjdb.name",
+    "DOA6": "not indexed",
+    "LR": "not indexed",
+    "identical": false
+  },
+  {
+    "id": "0xfed5b1bd",
+    "name": "doa_closet_ticket_info_External_00.g1t",
+    "DOA6": {
+      "size": 49264,
+      "sha256": "60813e52430f0102ede0c248079614d07f1de7e30a749fb93dd424f7364b2954"
+    },
+    "LR": {
+      "size": 49264,
+      "sha256": "60813e52430f0102ede0c248079614d07f1de7e30a749fb93dd424f7364b2954"
+    },
+    "identical": true
+  }
+]

@@ -1,0 +1,1618 @@
+[
+  {
+    "rva": "0x436d338",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x438b1d4",
+    "text": "fff>AnimationPlayer"
+  },
+  {
+    "rva": "0x43a7ef8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43a7f28",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43ae518",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43ae598",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43c17e0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43c1807",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43c73b7",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43c7438",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43ca247",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43ca35f",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43d0120",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43d0207",
+    "text": ";G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43d4e80",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43d50d0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43dac38",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x43dac50",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x47fca80",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x47fcab6",
+    "text": "L=G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4802700",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x480279f",
+    "text": "FG1AFileResourceHash"
+  },
+  {
+    "rva": "0x4805880",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48058b6",
+    "text": "zDG1AFileResourceHash"
+  },
+  {
+    "rva": "0x480b53f",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x480b5bf",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x480e7a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x480e7d0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48144d7",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x481450f",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48177d8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48177ff",
+    "text": "@G1AFileResourceHash"
+  },
+  {
+    "rva": "0x481cfc8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x481d000",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x482d620",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x482d648",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4833850",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4833886",
+    "text": "L>G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4836830",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4836d3f",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x483c42f",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x483c447",
+    "text": "FG1AFileResourceHash"
+  },
+  {
+    "rva": "0x483f7be",
+    "text": " AG1AFileResourceHash"
+  },
+  {
+    "rva": "0x483f7e8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4844d96",
+    "text": "zDG1AFileResourceHash"
+  },
+  {
+    "rva": "0x4844db0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4848048",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4848880",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x484e310",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x484e348",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4851508",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4851598",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4856b47",
+    "text": "@G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4856b80",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4859828",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4859850",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x485fde7",
+    "text": "FG1AFileResourceHash"
+  },
+  {
+    "rva": "0x48603e4",
+    "text": "fff?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x486308d",
+    "text": "p}?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4863118",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4869350",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48693d7",
+    "text": "@G1AFileResourceHash"
+  },
+  {
+    "rva": "0x486c508",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x486c620",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4872a90",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4872b10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4875e40",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4875f18",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x487b438",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x487b55f",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x487e210",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x487e2d8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4884427",
+    "text": "FG1AFileResourceHash"
+  },
+  {
+    "rva": "0x488443f",
+    "text": "CG1AFileResourceHash"
+  },
+  {
+    "rva": "0x48877c6",
+    "text": ";EG1AFileResourceHash"
+  },
+  {
+    "rva": "0x48878de",
+    "text": "@?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x488cea8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x488d338",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4890420",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4890448",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4895a86",
+    "text": "HBG1AFileResourceHash"
+  },
+  {
+    "rva": "0x4895ac0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4898e48",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4898f78",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x489e968",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x489e9a0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48a1eb7",
+    "text": "FG1AFileResourceHash"
+  },
+  {
+    "rva": "0x48a1ede",
+    "text": "zEG1AFileResourceHash"
+  },
+  {
+    "rva": "0x48a73af",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48a73e8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48e39bf",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48e3a47",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48e9160",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48e9198",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48ecaf0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48ecb16",
+    "text": "L=G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48f23ee",
+    "text": "L=G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48f2428",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48f5f47",
+    "text": "@G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48f5f70",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48fb320",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48fb567",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48fe0a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x48fe350",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49042e8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4904368",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4906da0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4906dc8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x490c1df",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x490c1f8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x490df78",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x490e018",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49114a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49114d0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4918840",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4918868",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x491de10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x491de8e",
+    "text": "L=G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4920e68",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4920e90",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49262d6",
+    "text": "Q8G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4926460",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49299f8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4929a1e",
+    "text": "zEG1AFileResourceHash"
+  },
+  {
+    "rva": "0x492f18f",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x492f20f",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49403ff",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4940427",
+    "text": "@G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4945aa0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4946447",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4948a88",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4948aaf",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x494ebf0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x494ec26",
+    "text": "L=G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49631ef",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4963228",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4968700",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4968718",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x496b4be",
+    "text": "zDG1AFileResourceHash"
+  },
+  {
+    "rva": "0x496c0a0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4971530",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4971658",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4974438",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49744fe",
+    "text": "zDG1AFileResourceHash"
+  },
+  {
+    "rva": "0x497996f",
+    "text": "EG1AFileResourceHash"
+  },
+  {
+    "rva": "0x49799ef",
+    "text": "DG1AFileResourceHash"
+  },
+  {
+    "rva": "0x497d2c7",
+    "text": "FG1AFileResourceHash"
+  },
+  {
+    "rva": "0x497d2ef",
+    "text": "FG1AFileResourceHash"
+  },
+  {
+    "rva": "0x4982828",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4982897",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4986f98",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4986fc0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x498c8e8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x498c910",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x498ee08",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x498ee30",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4995627",
+    "text": "?G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49956a7",
+    "text": "CG1AFileResourceHash"
+  },
+  {
+    "rva": "0x4998967",
+    "text": "FG1AFileResourceHash"
+  },
+  {
+    "rva": "0x4998a18",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x499e470",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x499e488",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49a1a00",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49a1a38",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49a74a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49a74e0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49abcb8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49abd30",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49b1ad0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49b1b10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49b5980",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49b59b8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49ba778",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49ba958",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49beae8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49beb10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49c4290",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49c45b8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49caa60",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49caa98",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49d0598",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49d0638",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49d21d8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49d2260",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49d89e0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49d8a68",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49dacd8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49dad00",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49e0620",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49e0948",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49e4790",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49e47b8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49e9dd8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49e9e58",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49ec3b0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49ec3e8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49f2e40",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49f2e78",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49f4c70",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49f4d00",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49fab70",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49fab88",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49fe9e8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x49fea10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a044d0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a045d0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a06648",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a06670",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a0cff8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a0d030",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a0f4a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a0f4e0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a15328",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a15340",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a18698",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a186c0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a1e4d8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a1e4f0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a221b0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a22620",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a27d48",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a27e70",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a29df8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a29e20",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a309d8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a30b08",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a33d20",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a33da8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a38f18",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a38fa0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a3c840",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a3c868",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a42570",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a425f0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a44c98",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a44cc0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a4b830",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a4b8d0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a4e920",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a4e948",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a53b20",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a53b38",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a57cd0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a57cf8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a5d3e0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a5d418",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a60190",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a601b8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a65a08",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a65a40",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a69130",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a69158",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a6e9c8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a6ee90",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a721c8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a721f0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a77908",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a77988",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a7a328",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a7a3b8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a81470",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a81488",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a82df0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a82e68",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a88dc8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a89ee8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a8c3c0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a8c878",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a91fc8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a92048",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a94ea0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a94f30",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a9a818",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a9a850",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a9ed10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4a9ed38",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aa4210",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aa4340",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aa6170",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aa6248",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aac110",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aac128",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ab06b8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ab06e0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ab5d70",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ab6170",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ab8d98",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ab8dd0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4abe6b8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4abe738",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ac2c98",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ac2cc0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ac8770",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ac8880",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aca748",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aca770",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4acffd8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ad00e8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ad4018",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ad4040",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ad9668",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ad96a0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4adc9b0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4adc9d8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ae2020",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ae2058",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ae53a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ae53e0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aeadb0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aeadc8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aee168",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4aee1a0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4af3d40",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4af3de0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4af6a30",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4af6a68",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4afc3c0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4afc460",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b00240",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b00268",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b05870",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b058f0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b09380",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b093a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b0edf8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b0eee0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b10ce0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b10d70",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b17d90",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b17e10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b1aa90",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b1ab18",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b20208",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b20290",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b24110",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b24138",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b29698",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b29738",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b2cce8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b2cd10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b32350",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b32598",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b35780",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b357a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b3b200",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b3b238",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b3eca0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b3ef28",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b44518",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b44550",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b47580",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b475b8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b4ccf8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b4cd10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b50868",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b50890",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b57b10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b57c40",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b5a998",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b5aa60",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b605f0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b60628",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b64890",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b648b8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b69ff0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b6a060",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b6c1e8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b6c278",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b73488",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b734c0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b75b98",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b75bc0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b7b4a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b7b4d0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b7f5d0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b7f5f8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b84d60",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b84de0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b87b10",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b87b38",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b8d3e0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b8d418",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b8ffd0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b90060",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b95dc0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b95df8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b9b6a0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4b9b6c8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ba0d00",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ba0d70",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ba4040",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ba4108",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ba97c8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4ba9800",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4bab5e8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4bab6b0",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4bb1390",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4bb13a8",
+    "text": "G1AFileResourceHash"
+  },
+  {
+    "rva": "0x4c97878",
+    "text": "kids::placeable::model::SetSwing2AnimationBlendRate"
+  },
+  {
+    "rva": "0x4d32b28",
+    "text": "is_victory_after_fatal_rush_success"
+  },
+  {
+    "rva": "0x4d32b90",
+    "text": "is_victory_no_damage"
+  },
+  {
+    "rva": "0x4d32bc8",
+    "text": "is_victory_after_fatal_hold_success"
+  },
+  {
+    "rva": "0x4d32bf0",
+    "text": "is_victory_after_fatal_blow_success"
+  },
+  {
+    "rva": "0x88d708c",
+    "text": "9dg2AB^)En"
+  }
+]

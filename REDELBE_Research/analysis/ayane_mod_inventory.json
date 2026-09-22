@@ -1,0 +1,2579 @@
+[
+  {
+    "name": "(Classic) NG2 Chinese Dress (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) NG2 Chinese Dress (Ayane)",
+    "files": 53,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 52
+    },
+    "model_header": "5f4d31473733303080782a00180000000000000009000000"
+  },
+  {
+    "name": "(Classic) November Throwback DoA2U Banshee (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Banshee (Ayane)",
+    "files": 51,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 50
+    },
+    "model_header": "5f4d31473733303000ee1e00180000000000000009000000"
+  },
+  {
+    "name": "(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 1 (Ayane)",
+    "files": 57,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 56
+    },
+    "model_header": "5f4d314737333030a8ad1900180000000000000009000000"
+  },
+  {
+    "name": "(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA2U Tracksuit 2 (Ayane)",
+    "files": 57,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 56
+    },
+    "model_header": "5f4d314737333030e8cb1800180000000000000009000000"
+  },
+  {
+    "name": "(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoA5 Raging God - Nine of Violet (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d31473733303058991d00180000000000000009000000"
+  },
+  {
+    "name": "(Classic) November Throwback DoAD C2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAD C2 (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d314737333030aca71f00180000000000000009000000"
+  },
+  {
+    "name": "(Classic) November Throwback DoAX2 Saga 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Classic) November Throwback DoAX2 Saga 1 (Ayane)",
+    "files": 51,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 50
+    },
+    "model_header": "5f4d314737333030dc701d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) GitS Major Motoko Kusanagi Cosplay 2045 Suit (Ayane)",
+    "files": 18,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 17
+    },
+    "model_header": "5f4d314737333030c47a5700180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane Possessed Hollow)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane Possessed Hollow)",
+    "files": 32,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 30
+    },
+    "model_header": "5f4d31473733303070706d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane Possessed)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane Possessed)",
+    "files": 30,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 29
+    },
+    "model_header": "5f4d31473733303070706d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 23) Hiyori Sarugaki Cosplay (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d31473733303070706d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Arachne Mirage 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Arachne Mirage 1 (Ayane)",
+    "files": 29,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030584d4100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Arachne Mirage 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Arachne Mirage 2 (Ayane)",
+    "files": 29,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030b0b63600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Arachne Mirage Broken 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Arachne Mirage Broken 2 (Ayane)",
+    "files": 29,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303060f33100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Bloody Kiss (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Bloody Kiss (Ayane)",
+    "files": 19,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 17
+    },
+    "model_header": "5f4d314737333030f0be2f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Bloody Kiss Broken 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Bloody Kiss Broken 1 (Ayane)",
+    "files": 14,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 12
+    },
+    "model_header": "5f4d314737333030b8342e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Bloody Kiss Broken 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Bloody Kiss Broken 2 (Ayane)",
+    "files": 14,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 12
+    },
+    "model_header": "5f4d314737333030b06b2c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Charm Witch 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Charm Witch 1 (Ayane)",
+    "files": 44,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 42
+    },
+    "model_header": "5f4d314737333030e8932f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Charm Witch 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Charm Witch 2 (Ayane)",
+    "files": 44,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 42
+    },
+    "model_header": "5f4d31473733303088842a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Charm Witch Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Charm Witch Broken (Ayane)",
+    "files": 44,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 42
+    },
+    "model_header": "5f4d314737333030642f2600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) DoAXVV Darkness Queen Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) DoAXVV Darkness Queen Broken (Ayane)",
+    "files": 18,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 17
+    },
+    "model_header": "5f4d3147373330308c252300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Halloween 24) USFIV Alt3 Juri Han Cosplay (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Halloween 24) USFIV Alt3 Juri Han Cosplay (Ayane)",
+    "files": 18,
+    "types": {
+      ".g1m": 2,
+      ".grp": 1,
+      ".ktid": 1,
+      ".mtl": 1,
+      ".oid": 1,
+      ".oidex": 1,
+      ".g1t": 11
+    },
+    "model_header": "5f4d31473733303060502200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAX3 Labyrinth (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAX3 Labyrinth (Ayane)",
+    "files": 41,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 40
+    },
+    "model_header": "5f4d31473733303030443000180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAX3S Salmon Roe (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAX3S Salmon Roe (Ayane)",
+    "files": 16,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 15
+    },
+    "model_header": "5f4d31473733303044e33000180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV 2nd Swimsuit Contest W1-1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV 2nd Swimsuit Contest W1-1 (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d31473733303004303300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Eel (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Eel (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d314737333030f8982700180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Fylgja Non-Breakable (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Fylgja Non-Breakable (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d31473733303010ff3000180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Makeup Laurel Non-Breakable 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Makeup Laurel Non-Breakable 1 (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d3147373330307c766a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Makeup Laurel Non-Breakable 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Makeup Laurel Non-Breakable 2 (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d3147373330304c706a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Nishizawa 5mm [Gal Outfit] (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Nishizawa 5mm [Gal Outfit] (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 3,
+      ".g1t": 30
+    },
+    "model_header": "5f4d31473733303080e83c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Pistachio Bikini (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Pistachio Bikini (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d31473733303010ff2500180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Skinny Shark (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Skinny Shark (Ayane)",
+    "files": 16,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 15
+    },
+    "model_header": "5f4d31473733303034454200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Venus Wellness 2 Non-Breakable (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Venus Wellness 2 Non-Breakable (Ayane)",
+    "files": 56,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 55
+    },
+    "model_header": "5f4d3147373330307cdb2a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Zipline 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Zipline 1 (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d314737333030bc7a4200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Zipline 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Zipline 2 (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d31473733303028a54200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Zipline 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Zipline 3 (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d31473733303030184800180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) DoAXVV Zipline 4 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) DoAXVV Zipline 4 (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d31473733303018414600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) Sexy Aloha (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) Sexy Aloha (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d31473733303094683e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) Sweet & Spicy 4K Non-Breakable (Ayane) v1.1",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) Sweet & Spicy 4K Non-Breakable (Ayane) v1.1",
+    "files": 58,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 57
+    },
+    "model_header": "5f4d314737333030ecc74700180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 23) Tropical Sexy Costume (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 23) Tropical Sexy Costume (Ayane)",
+    "files": 6,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 5
+    },
+    "model_header": "5f4d31473733303018272a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) Designer Special Award Swimsuit (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) Designer Special Award Swimsuit (Ayane)",
+    "files": 13,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 12
+    },
+    "model_header": "5f4d314737333030a04a2400180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Asari (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Asari (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303094602200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Asari Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Asari Malfunction (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303068c42300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Fachan 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Fachan 1 (Ayane)",
+    "files": 42,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 41
+    },
+    "model_header": "5f4d314737333030d81f3b00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Fachan 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Fachan 2 (Ayane)",
+    "files": 42,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 41
+    },
+    "model_header": "5f4d31473733303064923800180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Fachan 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Fachan 3 (Ayane)",
+    "files": 42,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 41
+    },
+    "model_header": "5f4d314737333030ccf33500180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Gibbous (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Gibbous (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d3147373330306c7c3700180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Gibbous Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Gibbous Malfunction (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303000763700180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Lily (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Lily (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030dce22d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Lily (Ayane) - Copy",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Lily (Ayane) - Copy",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030dce22d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Lily Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Lily Malfunction (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303060742900180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Narwhal (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Narwhal (Ayane)",
+    "files": 47,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 46
+    },
+    "model_header": "5f4d3147373330309c842200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Narwhal Open (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Narwhal Open (Ayane)",
+    "files": 47,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 46
+    },
+    "model_header": "5f4d314737333030a8362400180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Peace (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Peace (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d3147373330306c3d3a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Sandwich (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Sandwich (Ayane)",
+    "files": 48,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 47
+    },
+    "model_header": "5f4d314737333030c4252500180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Tonkinese (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Tonkinese (Ayane)",
+    "files": 48,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 47
+    },
+    "model_header": "5f4d314737333030d0ff1f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Violet (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Violet (Ayane)",
+    "files": 48,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 47
+    },
+    "model_header": "5f4d31473733303094dd2200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Violet Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Violet Broken (Ayane)",
+    "files": 48,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 47
+    },
+    "model_header": "5f4d314737333030acc62300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Xtreme Sexy F (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Xtreme Sexy F (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303090d12600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Xtreme Sexy F Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Xtreme Sexy F Malfunction (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303030cd2600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAX3S Xtreme Sexy V (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAX3S Xtreme Sexy V (Ayane)",
+    "files": 18,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 17
+    },
+    "model_header": "5f4d314737333030a8a82500180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV 1st Design Contest Broken 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV 1st Design Contest Broken 1 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030809e2400180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV 1st Design Contest Broken 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV 1st Design Contest Broken 2 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303070782200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV 1st Design Contest Cute 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV 1st Design Contest Cute 1 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d3147373330307ccd2300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV 1st Design Contest Cute 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV 1st Design Contest Cute 2 (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d3147373330307ccd2300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Break The Night 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Break The Night 1 (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d314737333030e05e4100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Break The Night 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Break The Night 2 (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303080223300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Break The Night Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Break The Night Broken (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303070dc3000180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Buckle Up (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Buckle Up (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030b45e3c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Buckle Up Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Buckle Up Broken (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303068353200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Chill Style 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Chill Style 1 (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d31473733303014c82f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Chill Style 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Chill Style 2 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303064d02900180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Chill Style 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Chill Style 3 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030f4622900180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Chill Style 4 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Chill Style 4 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030d4a22500180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Chill Style 5 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Chill Style 5 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303044102600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Mellow Dream 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Mellow Dream 1 (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d314737333030dcd53500180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Mellow Dream Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Mellow Dream Broken (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d31473733303030472600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Neon Night Panther (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Neon Night Panther (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d31473733303058572100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Neon Night Panther Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Neon Night Panther Broken (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d31473733303080312000180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Siesta Blend 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Siesta Blend 2 (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d314737333030c0623700180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Sparkling Seafoam (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Sparkling Seafoam (Ayane)",
+    "files": 29,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 28
+    },
+    "model_header": "5f4d3147373330309c3c2900180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Sparkling Seafoam Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Sparkling Seafoam Malfunction (Ayane)",
+    "files": 29,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 28
+    },
+    "model_header": "5f4d314737333030c8aa2d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Tropical Tune (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Tropical Tune (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d3147373330302c424100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Tropical Tune 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Tropical Tune 2 (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d3147373330306c574100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Twilight Fish (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Twilight Fish (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d31473733303068b82600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Twilight Fish Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Twilight Fish Malfunction (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d314737333030087a2a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Velvet Time Rose (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Velvet Time Rose (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d31473733303010662a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Velvet Time Rose Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Velvet Time Rose Broken (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030c4d22600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Venus Nine 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Venus Nine 1 (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d314737333030d89b1e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Venus Nine 1 Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Venus Nine 1 Broken (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030502c1e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Venus Nine 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Venus Nine 2 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030f4811c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) DoAXVV Venus Nine 2 Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) DoAXVV Venus Nine 2 Broken (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303070ce1f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) One-Stop Shop (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) One-Stop Shop (Ayane)",
+    "files": 46,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 45
+    },
+    "model_header": "5f4d314737333030002e6200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 24) Show Your Bra 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 24) Show Your Bra 1 (Ayane)",
+    "files": 46,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 45
+    },
+    "model_header": "5f4d31473733303078fc5e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) After Shower 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) After Shower 1 (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d31473733303068391c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Beach Bikini (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Beach Bikini (Ayane)",
+    "files": 41,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 40
+    },
+    "model_header": "5f4d314737333030fc402300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Bikini Mix (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Bikini Mix (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d3147373330309c462100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoA5 Beach Party DLC ~DoAXVV Loquat~ (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoA5 Beach Party DLC ~DoAXVV Loquat~ (Ayane)",
+    "files": 48,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 47
+    },
+    "model_header": "5f4d314737333030c0001d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoA5 Kasumi's Design Award 2015 Dress 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoA5 Kasumi's Design Award 2015 Dress 1 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d314737333030e0ac2300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAX3S Godfather (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAX3S Godfather (Ayane)",
+    "files": 48,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 47
+    },
+    "model_header": "5f4d314737333030843a2a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV 2nd Design Contest (Cute) (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV 2nd Design Contest (Cute) (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d31473733303058f92000180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV 2nd Design Contest (Cute) Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV 2nd Design Contest (Cute) Malfunction (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d314737333030fc022000180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV All in One Sexy 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV All in One Sexy 1 (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d314737333030bc8b3e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV All in One Sexy 1 Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV All in One Sexy 1 Malfunction (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303004af3600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV All in One Sexy 2 Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV All in One Sexy 2 Malfunction (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303060953100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Layered Glow 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Layered Glow 1 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030ec412f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Neon Pop 1 Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Neon Pop 1 Broken (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303070a93f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Neon Pop 2 Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Neon Pop 2 Broken (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d314737333030b4b14000180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Raise the Sail (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Raise the Sail (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030dce94700180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Raise the Sail Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Raise the Sail Broken (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d3147373330309c2b4100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Resort Camisole Light Blue 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Resort Camisole Light Blue 1 (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d3147373330308cfe4f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Resort Camisole Light Blue 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Resort Camisole Light Blue 2 (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d314737333030ac773c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Rise and Shine Blouse 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Rise and Shine Blouse 1 (Ayane)",
+    "files": 62,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 61
+    },
+    "model_header": "5f4d31473733303050ca1c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Rise and Shine Blouse Malfunction 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Rise and Shine Blouse Malfunction 1 (Ayane)",
+    "files": 52,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 51
+    },
+    "model_header": "5f4d31473733303078491d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Rise and Shine Blouse Malfunction 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Rise and Shine Blouse Malfunction 2 (Ayane)",
+    "files": 52,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 51
+    },
+    "model_header": "5f4d314737333030b42c1d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Rise and Shine Blouse NSFW 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Rise and Shine Blouse NSFW 1 (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d314737333030082b1e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Rise and Shine Blouse NSFW 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Rise and Shine Blouse NSFW 2 (Ayane)",
+    "files": 52,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 51
+    },
+    "model_header": "5f4d31473733303068141e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV School Vibes 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV School Vibes 1 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d3147373330300c533e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV School Vibes 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV School Vibes 2 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d314737333030fccc3300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV School Vibes 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV School Vibes 3 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d314737333030fccc3300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV School Vibes Malfunction 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV School Vibes Malfunction 1 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d314737333030d8f63500180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV School Vibes Malfunction 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV School Vibes Malfunction 2 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d314737333030f84a2c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV School Vibes Malfunction 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV School Vibes Malfunction 3 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d314737333030f84a2c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Seer Moor (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Seer Moor (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030c0aa2400180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Summer Encore 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Summer Encore 1 (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030042c3900180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Sunshine Plage (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Sunshine Plage (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d314737333030b8f43600180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) DoAXVV Sunshine Plage Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) DoAXVV Sunshine Plage Broken (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d314737333030b4f82e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Halter Bikini NSFW (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Halter Bikini NSFW (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d31473733303018a63300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Halter Bikini NSFW Malfunction 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Halter Bikini NSFW Malfunction 1 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d314737333030ac9e3200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Halter Bikini NSFW Malfunction 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Halter Bikini NSFW Malfunction 2 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d31473733303000683200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Halter Bikini SFW (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Halter Bikini SFW (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d3147373330302c853300180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Halter Bikini SFW Malfunction (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Halter Bikini SFW Malfunction (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d31473733303000683200180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) MR Psylocke Cosplay Breeze Butterfly 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) MR Psylocke Cosplay Breeze Butterfly 1 (Ayane)",
+    "files": 11,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 10
+    },
+    "model_header": "5f4d31473733303068e43b00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) MR Psylocke Cosplay Breeze Butterfly 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) MR Psylocke Cosplay Breeze Butterfly 2 (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 2,
+      ".grp": 1,
+      ".oid": 1,
+      ".oidex": 1,
+      ".g1t": 17
+    },
+    "model_header": "5f4d31473733303008c03c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) MR Psylocke Cosplay Breeze Butterfly 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) MR Psylocke Cosplay Breeze Butterfly 3 (Ayane)",
+    "files": 13,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 12
+    },
+    "model_header": "5f4d31473733303000653700180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) MR Psylocke Cosplay Breeze Butterfly 4 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) MR Psylocke Cosplay Breeze Butterfly 4 (Ayane)",
+    "files": 11,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 10
+    },
+    "model_header": "5f4d31473733303000653700180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) NG2S Skimpy Nocturnal Butterfly (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) NG2S Skimpy Nocturnal Butterfly (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d314737333030a0692400180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Short Party Dress (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Short Party Dress (Ayane)",
+    "files": 18,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 17
+    },
+    "model_header": "5f4d31473733303008881e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Stellar Blade Midsummer Alice (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Stellar Blade Midsummer Alice (Ayane)",
+    "files": 12,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 11
+    },
+    "model_header": "5f4d31473733303000364000180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) Strip Bikini SFW (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) Strip Bikini SFW (Ayane)",
+    "files": 41,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 40
+    },
+    "model_header": "5f4d31473733303058942500180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 25) VVPRlSM Bikini & Sheer Tunic 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 25) VVPRlSM Bikini & Sheer Tunic 2 (Ayane)",
+    "files": 40,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 39
+    },
+    "model_header": "5f4d314737333030944c6900180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 26) DoAX2 Saga 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 26) DoAX2 Saga 2 (Ayane)",
+    "files": 56,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 55
+    },
+    "model_header": "5f4d314737333030a8a81c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 26) DoAX3S Kurama 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 26) DoAX3S Kurama 2 (Ayane)",
+    "files": 37,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 36
+    },
+    "model_header": "5f4d31473733303094092800180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 26) DoAXVV Crimson Riders 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 26) DoAXVV Crimson Riders 1 (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d31473733303058e04100180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 26) DoAXVV Lucent Canvas 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 26) DoAXVV Lucent Canvas 2 (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d31473733303098d03c00180000000000000009000000"
+  },
+  {
+    "name": "(DoA Summer 26) Stellar Blade Neurocircuit Bondage (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA Summer 26) Stellar Blade Neurocircuit Bondage (Ayane)",
+    "files": 12,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 11
+    },
+    "model_header": "5f4d31473733303050d15400180000000000000009000000"
+  },
+  {
+    "name": "(DoA2U) Costume 10 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA2U) Costume 10 (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d314737333030c84d1d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA5) Angel Devil Bunny Bikini (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA5) Angel Devil Bunny Bikini (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d314737333030b0663f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA5) Shiori Cosplay Sexy Dress (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA5) Shiori Cosplay Sexy Dress (Ayane)",
+    "files": 38,
+    "types": {
+      ".g1m": 2,
+      ".grp": 1,
+      ".ktid": 1,
+      ".mtl": 1,
+      ".oid": 1,
+      ".oidex": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d314737333030ecd23100180000000000000009000000"
+  },
+  {
+    "name": "(DoA6 Xmas 22) Jingle Bells Eve SFW Non-Breakable (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6 Xmas 22) Jingle Bells Eve SFW Non-Breakable (Ayane)",
+    "files": 67,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 66
+    },
+    "model_header": "5f4d314737333030b4827300180000000000000009000000"
+  },
+  {
+    "name": "(DoA6 Xmas 23) Sweet Merry Night Non-Breakable (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6 Xmas 23) Sweet Merry Night Non-Breakable (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d31473733303000363700180000000000000009000000"
+  },
+  {
+    "name": "(DoA6 Xmas 24) DoAXVV Merry Christmas Starlight 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6 Xmas 24) DoAXVV Merry Christmas Starlight 1 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303060125a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6 Xmas 24) DoAXVV Noel Charmant (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6 Xmas 24) DoAXVV Noel Charmant (Ayane)",
+    "files": 20,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 18
+    },
+    "model_header": "5f4d31473733303084fb2600180000000000000009000000"
+  },
+  {
+    "name": "(DoA6 Xmas 24) Sexy Edge's Early Present (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6 Xmas 24) Sexy Edge's Early Present (Ayane)",
+    "files": 12,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 11
+    },
+    "model_header": "5f4d31473733303014325700180000000000000009000000"
+  },
+  {
+    "name": "(DoA6 Xmas 25) Jingle Bells Eve NSFW (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6 Xmas 25) Jingle Bells Eve NSFW (Ayane)",
+    "files": 14,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 13
+    },
+    "model_header": "5f4d314737333030a4024a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Aespa Winter PUBG (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Aespa Winter PUBG (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d314737333030bc001f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Aradia Lace (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Aradia Lace (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030f8653b00180000000000000009000000"
+  },
+  {
+    "name": "(DOA6) Attitude Dress 4K (Ayane) v1",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOA6) Attitude Dress 4K (Ayane) v1",
+    "files": 80,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 79
+    },
+    "model_header": "5f4d314737333030741f6d00180000000000000009000000"
+  },
+  {
+    "name": "(DOA6) Attitude Dress 4K v1 [Ayane Possessed Gyaru] 4K",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOA6) Attitude Dress 4K v1 [Ayane Possessed Gyaru] 4K",
+    "files": 82,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 81
+    },
+    "model_header": "5f4d3147373330302cdd6d00180000000000000009000000"
+  },
+  {
+    "name": "(DOA6) Attitude Dress 4K v1 [Ayane Possessed] 4K",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOA6) Attitude Dress 4K v1 [Ayane Possessed] 4K",
+    "files": 81,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 80
+    },
+    "model_header": "5f4d3147373330302cdd6d00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Casual Sinful Autumn Punk SFW (Ayane)",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Casual Sinful Autumn Punk SFW (Ayane)",
+    "files": 20,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 19
+    },
+    "model_header": "5f4d31473733303040702400180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Cat Lingerie 4K (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Cat Lingerie 4K (Ayane)",
+    "files": 18,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 17
+    },
+    "model_header": "5f4d31473733303070aca100180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Cold Hearted 4K (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Cold Hearted 4K (Ayane)",
+    "files": 43,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 42
+    },
+    "model_header": "5f4d314737333030a4464e00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Duke Nukem Kate Holsom Cosplay (Ayane)",
+    "files": 22,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 21
+    },
+    "model_header": "5f4d31473733303064d42700180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Front Cut-out Mini Dress Lewd Harder Nipples (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Front Cut-out Mini Dress Lewd Harder Nipples (Ayane)",
+    "files": 46,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 45
+    },
+    "model_header": "5f4d3147373330303c8c5f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Front Cut-out Mini Dress SFW (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Front Cut-out Mini Dress SFW (Ayane)",
+    "files": 57,
+    "types": {
+      ".g1m": 2,
+      ".grp": 1,
+      ".ktid": 1,
+      ".mtl": 1,
+      ".oid": 1,
+      ".oidex": 1,
+      ".g1t": 50
+    },
+    "model_header": "5f4d3147373330303c8c5f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Kasumi's Outfit 3 (Ayane)",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Kasumi's Outfit 3 (Ayane)",
+    "files": 66,
+    "types": {
+      ".g1m": 1,
+      ".grp": 1,
+      ".ktid": 1,
+      ".mtl": 1,
+      ".oid": 1,
+      ".oidex": 1,
+      ".rigbin": 1,
+      ".g1t": 59
+    },
+    "model_header": "5f4d31473733303098091f00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Kasumi's Tropical Sailor Outfit (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Kasumi's Tropical Sailor Outfit (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".grp": 1,
+      ".oid": 1,
+      ".oidex": 1,
+      ".rigbin": 1,
+      ".g1t": 18
+    },
+    "model_header": "5f4d31473733303028621700180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Natala Micro Mini Dress 4K (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Natala Micro Mini Dress 4K (Ayane)",
+    "files": 46,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 45
+    },
+    "model_header": "5f4d314737333030e8c84500180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Ninja Gaiden 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Ninja Gaiden 2 (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d314737333030a4362a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Peephole NSFW (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Peephole NSFW (Ayane)",
+    "files": 46,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 45
+    },
+    "model_header": "5f4d31473733303070c93b00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Peephole SFW (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Peephole SFW (Ayane)",
+    "files": 45,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 44
+    },
+    "model_header": "5f4d314737333030007b3b00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Race Queen Audition v1.3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Race Queen Audition v1.3 (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d3147373330307c117500180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) TFD Freyna Cosplay Viper Suit (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d314737333030d0b14b00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Workout Fever 4K (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Workout Fever 4K (Ayane)",
+    "files": 79,
+    "types": {
+      ".g1m": 3,
+      ".grp": 1,
+      ".oid": 1,
+      ".oidex": 1,
+      ".g1t": 71,
+      ".ktid": 2
+    },
+    "model_header": "5f4d314737333030742a5a00180000000000000009000000"
+  },
+  {
+    "name": "(DoA6) Yoga pants (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoA6) Yoga pants (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030cc661800180000000000000009000000"
+  },
+  {
+    "name": "(DoAX3S) Fortune Bikini (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAX3S) Fortune Bikini (Ayane)",
+    "files": 11,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 10
+    },
+    "model_header": "5f4d314737333030081b3400180000000000000009000000"
+  },
+  {
+    "name": "(DoAX3S) Kurama (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAX3S) Kurama (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d31473733303010dd2300180000000000000009000000"
+  },
+  {
+    "name": "(DOAX3S) Sweety SFW Non-Breakable (Ayane)",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DOAX3S) Sweety SFW Non-Breakable (Ayane)",
+    "files": 43,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 42
+    },
+    "model_header": "5f4d31473733303060392a00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Cut The Wind (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Cut The Wind (Ayane)",
+    "files": 45,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 43
+    },
+    "model_header": "5f4d314737333030c4a42500180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Cut The Wind Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Cut The Wind Broken (Ayane)",
+    "files": 13,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 12
+    },
+    "model_header": "5f4d314737333030bc922a00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Fluffy Foam NSFW (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Fluffy Foam NSFW (Ayane)",
+    "files": 26,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 25
+    },
+    "model_header": "5f4d31473733303024be4d00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Fluffy Foam SFW (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Fluffy Foam SFW (Ayane)",
+    "files": 25,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 24
+    },
+    "model_header": "5f4d31473733303024be4d00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Hurrah Venus 1 Broken Non-Breakable (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Hurrah Venus 1 Broken Non-Breakable (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303074ed2500180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Hurrah Venus 1 Non-Breakable (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Hurrah Venus 1 Non-Breakable (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d314737333030047e2400180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) INNOCENCE Broken Non Breakable v1.5 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) INNOCENCE Broken Non Breakable v1.5 (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d314737333030481b2800180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Jewel Peridot (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Jewel Peridot (Ayane)",
+    "files": 39,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 37
+    },
+    "model_header": "5f4d3147373330305c443500180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Magic Trick Hour 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Magic Trick Hour 1 (Ayane)",
+    "files": 47,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 46
+    },
+    "model_header": "5f4d3147373330308c0f2f00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Makeup Neige (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Makeup Neige (Ayane)",
+    "files": 31,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 30
+    },
+    "model_header": "5f4d31473733303028455700180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Move Your Body 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Move Your Body 1 (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030e02f2200180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Move Your Body 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Move Your Body 2 (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d314737333030e02f2200180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Move Your Body 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Move Your Body 3 (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030e8621d00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Move Your Body 4 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Move Your Body 4 (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d314737333030e8621d00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Neon Pop 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Neon Pop 1 (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d314737333030e4464e00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Neon Pop 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Neon Pop 2 (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d31473733303070e44600180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Nocturne Desire (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Nocturne Desire (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 22
+    },
+    "model_header": "5f4d3147373330308c1b4900180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Nocturne Rapport (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Nocturne Rapport (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d31473733303054414400180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Nocturne Rapport Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Nocturne Rapport Broken (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d31473733303078fc3700180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Nocturne Segreto (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Nocturne Segreto (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030747b4400180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Nocturne Segreto Malfunction 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Nocturne Segreto Malfunction 1 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303030fc3a00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Nocturne Segreto Malfunction 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Nocturne Segreto Malfunction 2 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d314737333030d04c3900180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Nocturne Segreto Malfunction 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Nocturne Segreto Malfunction 3 (Ayane)",
+    "files": 28,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 27
+    },
+    "model_header": "5f4d31473733303048693000180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Reincarnation Shenmi Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Reincarnation Shenmi Broken (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d31473733303000a83000180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Soiree Doree 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Soiree Doree 1 (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d3147373330301ca87600180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Sweet Spot (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Sweet Spot (Ayane)",
+    "files": 18,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 17
+    },
+    "model_header": "5f4d31473733303054634400180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Sweet Spot Broken (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Sweet Spot Broken (Ayane)",
+    "files": 18,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 17
+    },
+    "model_header": "5f4d314737333030543b4200180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Unlock Heart Non-Breakable (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Unlock Heart Non-Breakable (Ayane)",
+    "files": 33,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 32
+    },
+    "model_header": "5f4d314737333030d0ed3100180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Voyage Canary 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Voyage Canary 1 (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d31473733303020683d00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Voyage Canary 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Voyage Canary 2 (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d31473733303028fd3f00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Voyage Canary 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Voyage Canary 3 (Ayane)",
+    "files": 32,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 31
+    },
+    "model_header": "5f4d31473733303090343c00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Voyage Canary Malfunction 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Voyage Canary Malfunction 1 (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030ac744200180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Voyage Canary Malfunction 2 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Voyage Canary Malfunction 2 (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030e4dd2c00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Voyage Canary Malfunction 3 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Voyage Canary Malfunction 3 (Ayane)",
+    "files": 27,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 26
+    },
+    "model_header": "5f4d314737333030e4dd2c00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVV) Yom Office Wear Non-Breakable (Ayane)",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVV) Yom Office Wear Non-Breakable (Ayane)",
+    "files": 19,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 18
+    },
+    "model_header": "5f4d31473733303044b72a00180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVVPRlSM) DLC Outfit 1 v1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVVPRlSM) DLC Outfit 1 v1 (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d314737333030ec2b4800180000000000000009000000"
+  },
+  {
+    "name": "(DoAXVVPRlSM) Tamaki's Default Outfit (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(DoAXVVPRlSM) Tamaki's Default Outfit (Ayane)",
+    "files": 17,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 16
+    },
+    "model_header": "5f4d3147373330307c517100180000000000000009000000"
+  },
+  {
+    "name": "(Dress-Up Darling) Marin Kitagawa Bikini Cosplay NSFW 4K (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Dress-Up Darling) Marin Kitagawa Bikini Cosplay NSFW 4K (Ayane)",
+    "files": 43,
+    "types": {
+      ".g1m": 3,
+      ".grp": 2,
+      ".ktid": 2,
+      ".mtl": 2,
+      ".oid": 2,
+      ".oidex": 2,
+      ".g1t": 30
+    },
+    "model_header": "5f4d3147373330303c537000180000000000000009000000"
+  },
+  {
+    "name": "(Dress-Up Darling) Marin Kitagawa Bikini Cosplay SFW 4K (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(Dress-Up Darling) Marin Kitagawa Bikini Cosplay SFW 4K (Ayane)",
+    "files": 43,
+    "types": {
+      ".g1m": 3,
+      ".grp": 2,
+      ".ktid": 2,
+      ".mtl": 2,
+      ".oid": 2,
+      ".oidex": 2,
+      ".g1t": 30
+    },
+    "model_header": "5f4d3147373330303c537000180000000000000009000000"
+  },
+  {
+    "name": "(FF) Cindy Aurum Cosplay (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(FF) Cindy Aurum Cosplay (Ayane)",
+    "files": 23,
+    "types": {
+      ".g1m": 3,
+      ".g1t": 20
+    },
+    "model_header": "5f4d31473733303038be4900180000000000000009000000"
+  },
+  {
+    "name": "(High Heels) Clubbing High Heels 1 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(High Heels) Clubbing High Heels 1 (Ayane)",
+    "files": 7,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 6
+    },
+    "model_header": "5f4d314737333030c4284c00180000000000000009000000"
+  },
+  {
+    "name": "(High Heels) Diva Ankle Boots (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(High Heels) Diva Ankle Boots (Ayane)",
+    "files": 7,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 6
+    },
+    "model_header": "5f4d314737333030144b6000180000000000000009000000"
+  },
+  {
+    "name": "(High Heels) Madison High Heels (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(High Heels) Madison High Heels (Ayane)",
+    "files": 7,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 6
+    },
+    "model_header": "5f4d314737333030e4fa2e00180000000000000009000000"
+  },
+  {
+    "name": "(NG2Black) Phantom Butterfly 2025 (Ayane)",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG2Black) Phantom Butterfly 2025 (Ayane)",
+    "files": 21,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 20
+    },
+    "model_header": "5f4d31473733303090178500180000000000000009000000"
+  },
+  {
+    "name": "(NG4) Ayane's Default Outfit",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG4) Ayane's Default Outfit",
+    "files": 67,
+    "types": {
+      ".g1m": 2,
+      ".grp": 1,
+      ".oid": 1,
+      ".oidex": 1,
+      ".g1t": 62
+    },
+    "model_header": "5f4d314737333030745c4200180000000000000009000000"
+  },
+  {
+    "name": "(NG4) Ayane's Default Outfit Broken",
+    "slot": "AYA_COS_105",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(NG4) Ayane's Default Outfit Broken",
+    "files": 57,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 56
+    },
+    "model_header": "5f4d314737333030b44b3b00180000000000000009000000"
+  },
+  {
+    "name": "(RyanReos) MilkApron SFW (Ayane) v1",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\(RyanReos) MilkApron SFW (Ayane) v1",
+    "files": 208,
+    "types": {
+      ".g1m": 1,
+      ".ktid": 22,
+      ".g1t": 185
+    },
+    "model_header": "5f4d314737333030e84e2000180000000000000009000000"
+  },
+  {
+    "name": "Ayane (Bat Lingerie) v1",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane (Bat Lingerie) v1",
+    "files": 27,
+    "types": {
+      ".g1m": 2,
+      ".g1t": 25
+    },
+    "model_header": "5f4d31473733303064a74400180000000000000009000000"
+  },
+  {
+    "name": "Ayane Classic DoA4 Costume 2",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Classic DoA4 Costume 2",
+    "files": 19,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 18
+    },
+    "model_header": "5f4d3147373330306caa2c00180000000000000009000000"
+  },
+  {
+    "name": "Ayane Xmas 2019 XNALara-XPS",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Ayane Xmas 2019 XNALara-XPS",
+    "files": 25,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 24
+    },
+    "model_header": "5f4d31473733303010e62800180000000000000009000000"
+  },
+  {
+    "name": "Slutty Dress Theme Ayane - Copy - Copy - Copy",
+    "slot": "AYA_COS_001",
+    "path": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6\\REDELBE\\Layer2\\Slutty Dress Theme Ayane - Copy - Copy - Copy",
+    "files": 145,
+    "types": {
+      ".g1m": 1,
+      ".g1t": 127,
+      ".ktid": 17
+    },
+    "model_header": "5f4d3147373330300cab1b00180000000000000009000000"
+  }
+]

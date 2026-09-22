@@ -1,0 +1,49 @@
+[
+  {
+    "part": 0,
+    "size": 4294967296,
+    "magic": "7f434e54",
+    "pfs_flags": 11529215046068863948,
+    "pfs_offset": 9961472,
+    "pfs_size": 32037994496,
+    "package_size": 32047955968,
+    "split0": 0,
+    "split1": 0,
+    "type": "0x1a"
+  },
+  {
+    "part": 1,
+    "size": 4294967296,
+    "magic": "1fdb93e1"
+  },
+  {
+    "part": 2,
+    "size": 4294967296,
+    "magic": "dfbba521"
+  },
+  {
+    "part": 3,
+    "size": 4294967296,
+    "magic": "b5b0e162"
+  },
+  {
+    "part": 4,
+    "size": 4294967296,
+    "magic": "3e3abd4b"
+  },
+  {
+    "part": 5,
+    "size": 4294967296,
+    "magic": "4cda577d"
+  },
+  {
+    "part": 6,
+    "size": 4294967296,
+    "magic": "d55be5d2"
+  },
+  {
+    "part": 7,
+    "size": 1983184896,
+    "magic": "4e80c6c1"
+  }
+]

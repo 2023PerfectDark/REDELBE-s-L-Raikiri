@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ApplyCameraOffset",
+    "xref": "0x8b7814",
+    "string": "0x4c95de0"
+  },
+  {
+    "name": "Orbit",
+    "xref": "0x8b7c54",
+    "string": "0x4c95e18"
+  },
+  {
+    "name": "SetEyeAt",
+    "xref": "0x8b82b4",
+    "string": "0x4c95e60"
+  },
+  {
+    "name": "ApplyCameraOffset",
+    "xref": "0xa387f7",
+    "string": "0x4c95de0"
+  },
+  {
+    "name": "Orbit",
+    "xref": "0xa38b77",
+    "string": "0x4c95e18"
+  },
+  {
+    "name": "SetEyeAt",
+    "xref": "0xa70c87",
+    "string": "0x4c95e60"
+  }
+]

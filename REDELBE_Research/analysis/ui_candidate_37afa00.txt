@@ -1,0 +1,36 @@
+37afa00 48895c2408                   mov qword ptr [rsp + 8], rbx
+37afa05 4889742410                   mov qword ptr [rsp + 0x10], rsi
+37afa0a 57                           push rdi
+37afa0b 4883ec40                     sub rsp, 0x40
+37afa0f 488d0d5ec8f804               lea rcx, [rip + 0x4f8c85e]
+37afa16 418bf1                       mov esi, r9d
+37afa19 418bf8                       mov edi, r8d
+37afa1c 8bda                         mov ebx, edx
+37afa1e e855e73500                   call 0x3b0e178
+37afa23 8b442470                     mov eax, dword ptr [rsp + 0x70]
+37afa27 4c8d442428                   lea r8, [rsp + 0x28]
+37afa2c 89442438                     mov dword ptr [rsp + 0x38], eax
+37afa30 488d542420                   lea rdx, [rsp + 0x20]
+37afa35 488b056ce86402               mov rax, qword ptr [rip + 0x264e86c]
+37afa3c 895c2428                     mov dword ptr [rsp + 0x28], ebx
+37afa40 897c242c                     mov dword ptr [rsp + 0x2c], edi
+37afa44 89742430                     mov dword ptr [rsp + 0x30], esi
+37afa48 488d9800010000               lea rbx, [rax + 0x100]
+37afa4f c744243400000000             mov dword ptr [rsp + 0x34], 0
+37afa57 488bcb                       mov rcx, rbx
+37afa5a e8f121a2fe                   call 0x21d1c50
+37afa5f 488b4c2420                   mov rcx, qword ptr [rsp + 0x20]
+37afa64 483b0b                       cmp rcx, qword ptr [rbx]
+37afa67 7512                         jne 0x37afa7b
+37afa69 32c0                         xor al, al
+37afa6b 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37afa70 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37afa75 4883c440                     add rsp, 0x40
+37afa79 5f                           pop rdi
+37afa7a c3                           ret 
+37afa7b 4883c138                     add rcx, 0x38
+37afa7f 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37afa84 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37afa89 4883c440                     add rsp, 0x40
+37afa8d 5f                           pop rdi
+37afa8e e9ad70a0fe                   jmp 0x21b6b40

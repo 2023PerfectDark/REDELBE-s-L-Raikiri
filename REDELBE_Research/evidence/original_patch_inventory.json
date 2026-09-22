@@ -1,0 +1,461 @@
+[
+  {
+    "file": "branding.xml",
+    "sha256": "3a2c3dedb5765b62841f25ce659d9fa5947b9610477470f1b7f4a9fa40381545",
+    "patches": [
+      {
+        "name": "Branding",
+        "type": "hook",
+        "search_start": "0xFC5928",
+        "comment": "addr 1.03b"
+      }
+    ]
+  },
+  {
+    "file": "debug.xml",
+    "sha256": "2d9b338e1025c10be4f6314f66c4e6c6b8c23e99b514c8def2b64be1e70cb14d",
+    "patches": [
+      {
+        "name": "DumpKeys",
+        "enabled": "Debug:dump_keys",
+        "type": "log",
+        "search_start": "0x15788E0",
+        "comment": "addr 1.03a"
+      },
+      {
+        "name": "DumpDecrypted",
+        "enabled": "Debug:dump_all_decrypted",
+        "type": "hook",
+        "search_start": "0x157F9C0",
+        "comment": "addr 1.03a"
+      },
+      {
+        "name": "DebugScript1",
+        "enabled": "Debug:debug_script",
+        "type": "notify",
+        "search_start": "0xB930D2",
+        "comment": "addr 1.03b"
+      },
+      {
+        "name": "DebugScript2",
+        "enabled": "Debug:debug_script",
+        "type": "hook",
+        "search_start": "0xB8ACE0",
+        "comment": "addr 1.03b"
+      },
+      {
+        "name": "LocateSGP",
+        "enabled": "Debug:debug_script",
+        "type": "notify",
+        "search_start": "0xBB6150",
+        "comment": "addr 1.05"
+      },
+      {
+        "name": "HuntHashes",
+        "enabled": "Debug:hunt_hashes",
+        "type": "hook",
+        "search_start": "0x242C0",
+        "comment": "addr 1.03b"
+      },
+      {
+        "name": "HookC++Exception",
+        "enabled": "Debug:enable_cpp_exception_hook",
+        "type": "hook",
+        "search_start": "0x19AA6DD",
+        "comment": "addr 1.15"
+      }
+    ]
+  },
+  {
+    "file": "layer2.xml",
+    "sha256": "979d8406fecd1d64db66a854aadd07f822656f8bc34463b9c8bb17c119537559",
+    "patches": [
+      {
+        "name": "PatchMRCWI",
+        "type": "hook",
+        "search_start": "0x11D6DF0",
+        "comment": "signature 1.19"
+      },
+      {
+        "name": "PatchBGC",
+        "type": "hook",
+        "search_start": "0x170F84B",
+        "comment": "signature 1.04a"
+      },
+      {
+        "name": "PatchBGF",
+        "type": "hook",
+        "search_start": "0x170F87A",
+        "comment": "signature 1.04a"
+      },
+      {
+        "name": "PatchBGH",
+        "type": "hook",
+        "search_start": "0x170F8AC",
+        "comment": "signature 1.04a"
+      },
+      {
+        "name": "PatchGRCF",
+        "type": "hook",
+        "search_start": "0x183BD3D",
+        "comment": "signature 1.16"
+      },
+      {
+        "name": "PatchBGS",
+        "type": "hook",
+        "search_start": "0x178BD87",
+        "comment": "signature 1.06a"
+      },
+      {
+        "name": "PatchLPA",
+        "type": "hook",
+        "search_start": "0x102BAE4",
+        "comment": "signature 1.03b"
+      },
+      {
+        "name": "LocateMO",
+        "type": "notify",
+        "search_start": "0x16DF36E",
+        "comment": "signature 1.03b"
+      },
+      {
+        "name": "PatchICM",
+        "type": "hook",
+        "search_start": "0x11D59D0",
+        "comment": "signature 1.19"
+      },
+      {
+        "name": "PatchICM2",
+        "type": "hook",
+        "search_start": "0x11D59D0",
+        "comment": "signature 1.19"
+      },
+      {
+        "name": "PatchICM3",
+        "type": "hook",
+        "search_start": "0x11D59D0",
+        "comment": "signature 1.19"
+      },
+      {
+        "name": "PatchICF",
+        "type": "hook",
+        "search_start": "0x11332F0",
+        "comment": "signature 1.05"
+      },
+      {
+        "name": "LocateGDS",
+        "type": "notify",
+        "search_start": "0x131BE9",
+        "comment": "signature 1.03b"
+      },
+      {
+        "name": "PatchBI",
+        "type": "hook",
+        "search_start": "0x18462C0",
+        "comment": "signature 1.15"
+      },
+      {
+        "name": "PatchBF",
+        "type": "hook",
+        "search_start": "0x10C7A60",
+        "comment": "signature 1.03b"
+      },
+      {
+        "name": "PatchBNM",
+        "type": "hook",
+        "search_start": "0x1234060",
+        "comment": "signature 1.03b"
+      },
+      {
+        "name": "PatchBRM",
+        "type": "hook",
+        "search_start": "0x12340D0",
+        "comment": "signature 1.03b"
+      },
+      {
+        "name": "PatchSRARTA",
+        "type": "hook",
+        "search_start": "0x18B0DF6",
+        "comment": "signature 1.19"
+      },
+      {
+        "name": "PatchSRSV",
+        "type": "hook",
+        "search_start": "0x18B3D8C",
+        "comment": "signature 1.20"
+      },
+      {
+        "name": "PatchSRVS",
+        "type": "hook",
+        "search_start": "0x18C45A1",
+        "comment": "signature 1.19"
+      },
+      {
+        "name": "PatchSRFT",
+        "type": "hook",
+        "search_start": "0x18C86B5",
+        "comment": "signature 1.21"
+      },
+      {
+        "name": "PatchSRSARTA",
+        "type": "hook",
+        "search_start": "0x18B10BD",
+        "comment": "signature 1.20"
+      },
+      {
+        "name": "PatchSRSVS",
+        "type": "hook",
+        "search_start": "0x18C48BA",
+        "comment": "signature 1.20"
+      },
+      {
+        "name": "PatchSRFTS",
+        "type": "hook",
+        "search_start": "0x18C8237",
+        "comment": "signature 1.21"
+      },
+      {
+        "name": "LocateCO",
+        "type": "notify",
+        "search_start": "0x11298B5",
+        "comment": "signature 1.16"
+      },
+      {
+        "name": "LocateCISL",
+        "type": "notify",
+        "search_start": "0x11F9FC0",
+        "comment": "signature 1.14"
+      },
+      {
+        "name": "LocateCRDSL",
+        "type": "notify",
+        "search_start": "0x1132540",
+        "comment": "signature 1.04a"
+      },
+      {
+        "name": "LocateCGDHLIH_NNN",
+        "type": "notify",
+        "search_start": "0x11FEFE0",
+        "comment": "signature 1.16"
+      },
+      {
+        "name": "LocateCGDHLS_NNN",
+        "type": "notify",
+        "search_start": "0x11FF160",
+        "comment": "signature 1.16"
+      },
+      {
+        "name": "LocateOGCRFC",
+        "type": "notify",
+        "search_start": "0x1729F40",
+        "comment": "signature 1.04a"
+      },
+      {
+        "name": "LocateCGDFM",
+        "type": "notify",
+        "search_start": "0x1723930",
+        "comment": "signature 1.04a"
+      },
+      {
+        "name": "LocateLSPTU",
+        "type": "notify",
+        "search_start": "0xFFCDE0",
+        "comment": "signature 1.05"
+      },
+      {
+        "name": "LocateLO",
+        "type": "notify",
+        "search_start": "0x114F1A3",
+        "comment": "signature 1.05"
+      },
+      {
+        "name": "PatchLSPTII",
+        "type": "hook",
+        "search_start": "0x178A8B0",
+        "comment": "signature 1.06a"
+      },
+      {
+        "name": "LoadStagesExt",
+        "type": "hook",
+        "search_start": "0x18487B0",
+        "comment": "signature 1.08"
+      },
+      {
+        "name": "StagesParamExt",
+        "type": "hook",
+        "search_start": "0x18F1F80",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "LocateTDM",
+        "type": "notify",
+        "search_start": "0x18B2D00",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "PatchGCSBGM",
+        "type": "hook",
+        "search_start": "0x18B2D00",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "FixRandomGlasses",
+        "type": "hook",
+        "search_start": "0x18AD6B5",
+        "enabled": "Random:enable_random_glasses",
+        "comment": "signature 1.17"
+      },
+      {
+        "name": "PatchCLRICtor",
+        "type": "hook",
+        "search_start": "0x14886C0",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "PatchMGDG",
+        "type": "hook",
+        "search_start": "0x11DF50A",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "Transform1",
+        "type": "hook",
+        "search_start": "0x19D96A0",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "Transform2",
+        "type": "hook",
+        "search_start": "0x2564F",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "Transform3",
+        "type": "notify",
+        "search_start": "0x19D96BB",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "Transform4",
+        "type": "notify",
+        "search_start": "0x19D605C",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "Transform5",
+        "type": "notify",
+        "search_start": "0x19D605C",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "Transform6",
+        "type": "notify",
+        "search_start": "0x19D6085",
+        "comment": "signature 1.22"
+      }
+    ]
+  },
+  {
+    "file": "misc.xml",
+    "sha256": "61cfcfb1aa6f25f6cea2425eb4dbcfa4d4a7322e8ed091dfbf9572c3771d5915",
+    "patches": [
+      {
+        "name": "SurvivalStagePatch",
+        "type": "notify",
+        "search_start": "0x18501F1",
+        "enabled": "IsSurvivalPatchNeeded()",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "RandomMusicPatch",
+        "type": "hook",
+        "search_start": "0x18C384A",
+        "enabled": "Random:enable_random_music",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "RandomMusicPatch2",
+        "type": "hook",
+        "search_start": "0x18C380C",
+        "enabled": "Random:enable_random_music",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "RandomMusicPatch3",
+        "type": "nop",
+        "search_start": "0x18C3859",
+        "enabled": "Random:enable_random_music",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "DisableSplashScreen",
+        "type": "write",
+        "search_start": "0x16D0051",
+        "enabled": "Misc:disable_splash"
+      }
+    ]
+  },
+  {
+    "file": "ui.xml",
+    "sha256": "a30a2392b253c490e3c6c5ada93fed7729b8c245d0d127eb9c6d23672efb6c12",
+    "patches": [
+      {
+        "name": "LocateLO2",
+        "type": "notify",
+        "search_start": "0x114F1A3",
+        "enabled": "UI:enable_hide_battle_hud",
+        "comment": "signature 1.05"
+      },
+      {
+        "name": "PatchLSL",
+        "type": "hook",
+        "search_start": "0x1224C05",
+        "enabled": "UI:enable_hide_battle_hud",
+        "comment": "signature 1.22"
+      },
+      {
+        "name": "PatchLHL",
+        "type": "hook",
+        "search_start": "0x121A6A2",
+        "enabled": "UI:enable_hide_battle_hud",
+        "comment": "signature 1.22"
+      }
+    ]
+  },
+  {
+    "file": "uncensorship.xml",
+    "sha256": "427a9773b83b1c5bbd5dcda0fe4a1fa5e99c0fd165ab94f08e40ea9d8c7a346b",
+    "patches": [
+      {
+        "name": "UncensorLoliBlow",
+        "type": "write",
+        "search_start": "0x1905616",
+        "comment": "addr 1.06a"
+      }
+    ]
+  },
+  {
+    "file": "workarounds.xml",
+    "sha256": "8d11f7070ae6e0873f3a2f08a338c306e334dd93a0e75f02d96382bcdecb0b0d",
+    "patches": [
+      {
+        "name": "Workaround115_1",
+        "type": "nop",
+        "search_start": "0x11D6FCF",
+        "comment": "addr 1.15"
+      },
+      {
+        "name": "Workaround115_2",
+        "type": "nop",
+        "search_start": "0x11D767C",
+        "comment": "addr 1.16"
+      },
+      {
+        "name": "Workaround115_3",
+        "type": "nop",
+        "search_start": "0x11D6468",
+        "comment": "addr 1.15"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "REDELBE_Kashira_Prepare/1.0.0": {
+        "dependencies": {
+          "Kashira.Core": "1.0.0"
+        },
+        "runtime": {
+          "REDELBE_Kashira_Prepare.dll": {}
+        }
+      },
+      "Kashira.Core/1.0.0": {
+        "runtime": {
+          "Kashira.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "REDELBE_Kashira_Prepare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kashira.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "00000001",
+    "name": "digests",
+    "bytes": 480,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000010",
+    "name": "entry_keys",
+    "bytes": 2048,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000021",
+    "name": "unknown_21",
+    "bytes": 256,
+    "encrypted": true,
+    "keyIndex": 3,
+    "state": "outer layer decrypted; inner encryption may remain",
+    "error": null
+  },
+  {
+    "id": "00000080",
+    "name": "general_digests",
+    "bytes": 448,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "000000c0",
+    "name": "unknown_c0",
+    "bytes": 1600,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000100",
+    "name": "metas",
+    "bytes": 480,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000200",
+    "name": "entry_names",
+    "bytes": 86,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000406",
+    "name": "imageinfo_dat",
+    "bytes": 4096,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000407",
+    "name": "target_deltainfo_dat",
+    "bytes": 3911920,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000408",
+    "name": "origin_deltainfo_dat",
+    "bytes": 3911920,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001000",
+    "name": "param_sfo",
+    "bytes": 1936,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001001",
+    "name": "playgo_chunk_dat",
+    "bytes": 544,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001002",
+    "name": "playgo_chunk_sha",
+    "bytes": 1956052,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001003",
+    "name": "playgo_manifest_xml",
+    "bytes": 399,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001008",
+    "name": "app__playgo_chunk_dat",
+    "bytes": 576,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  }
+]

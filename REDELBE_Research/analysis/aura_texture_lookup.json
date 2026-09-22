@@ -1,0 +1,90 @@
+[
+  {
+    "database": "CE1CommonResource.motor.kidssingletondb.kidsobjdb",
+    "id": "0x7072dbf",
+    "refs": [
+      {
+        "property": "0x6c7321d2",
+        "id": "0xebee8364",
+        "name": "CE1_MPR_CGEffect_Effect_muscle_aura00_2_kidsnmh.g1t"
+      }
+    ]
+  },
+  {
+    "database": "CE1CommonResource.motor.kidssingletondb.kidsobjdb",
+    "id": "0x1ddfc7f4",
+    "refs": [
+      {
+        "property": "0x6c7321d2",
+        "id": "0x445c5b59",
+        "name": "MPR_Muscle_Stage_epitest_5x5_a_kidsrfr.g1t"
+      }
+    ]
+  },
+  {
+    "database": "CE1CommonResource.motor.kidssingletondb.kidsobjdb",
+    "id": "0x39fc500d",
+    "refs": [
+      {
+        "property": "0x6c7321d2",
+        "id": "0x67eeced6",
+        "name": "CE1_MPR_CGEffect_Effect_muscle_aura00_2_kidsalb.g1t"
+      }
+    ]
+  },
+  {
+    "database": "CE1CommonResource.motor.kidssingletondb.kidsobjdb",
+    "id": "0x4fba76c5",
+    "refs": [
+      {
+        "property": "0x6c7321d2",
+        "id": "0x7589067d",
+        "name": "MPR_Muscle_Character_ITMAYAKUNAI_metal_kidsocc.g1t"
+      }
+    ]
+  },
+  {
+    "database": "Field_Common.character.level.kidssingletondb.kidsobjdb",
+    "id": "0x7072dbf",
+    "refs": [
+      {
+        "property": "0x6c7321d2",
+        "id": "0xebee8364",
+        "name": "CE1_MPR_CGEffect_Effect_muscle_aura00_2_kidsnmh.g1t"
+      }
+    ]
+  },
+  {
+    "database": "Field_Common.character.level.kidssingletondb.kidsobjdb",
+    "id": "0x1ddfc7f4",
+    "refs": [
+      {
+        "property": "0x6c7321d2",
+        "id": "0x445c5b59",
+        "name": "MPR_Muscle_Stage_epitest_5x5_a_kidsrfr.g1t"
+      }
+    ]
+  },
+  {
+    "database": "Field_Common.character.level.kidssingletondb.kidsobjdb",
+    "id": "0x39fc500d",
+    "refs": [
+      {
+        "property": "0x6c7321d2",
+        "id": "0x67eeced6",
+        "name": "CE1_MPR_CGEffect_Effect_muscle_aura00_2_kidsalb.g1t"
+      }
+    ]
+  },
+  {
+    "database": "Field_Common.character.level.kidssingletondb.kidsobjdb",
+    "id": "0x4fba76c5",
+    "refs": [
+      {
+        "property": "0x6c7321d2",
+        "id": "0x7589067d",
+        "name": "MPR_Muscle_Character_ITMAYAKUNAI_metal_kidsocc.g1t"
+      }
+    ]
+  }
+]

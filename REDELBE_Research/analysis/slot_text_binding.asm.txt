@@ -1,0 +1,20 @@
+RVA 37fd0d0
+037fd0d0 98                               cwde      
+037fd0d1 420000                           add      byte ptr [rax], al 
+037fd0d4 e8f7b9b9fe                       call     0x2398ad0 
+037fd0d9 488bc8                           mov      rcx, rax 
+037fd0dc e83fbab9fe                       call     0x2398b20 
+037fd0e1 4c8d0d9890fdff                   lea      r9, [rip - 0x26f68] b'H\x89\\$\x08H\x89t$\x10WH\x83\xec0H\x8d\r\x94!\xfc\x04A\x8b\xd9A\x8b\xf8\x8b\xf2\xe8en5' | '襈\u245c䠈璉ဤ䡗\uec83䠰ඍ↔Ӽ譁䇙\uf88b\uf28b旨㕮䠀䒋怤譄䣏උ䃶ɨ譄䣆䒉⠤岉․취麼䣾岋䀤譈⑴䡈쒃弰쳃쳌쳌쳌쳌쳌쳌襈\u245c䠈沉ဤ襈⑴團荈レ赈⼍'
+037fd0e8 4c8d05a17a1901                   lea      r8, [rip + 0x1197aa1] b'layout::set_pane_text_utf8' | '慬潹瑵㨺敳彴慰敮瑟硥彴瑵㡦'
+037fd0ef 488d542420                       lea      rdx, [rsp + 0x20] 
+037fd0f4 488d8d98420000                   lea      rcx, [rbp + 0x4298] 
+037fd0fb e890afb9fe                       call     0x2398090 
+037fd100 488bc8                           mov      rcx, rax 
+037fd103 e888bab9fe                       call     0x2398b90 
+037fd108 4c8d0dd18cfdff                   lea      r9, [rip - 0x2732f] b'@SVWH\x81\xec\x80' | '區坖腈胬'
+037fd10f 4c8d059a7a1901                   lea      r8, [rip + 0x1197a9a] b'layout::set_pane_text_number' | '慬潹瑵㨺敳彴慰敮瑟硥彴畮扭牥'
+037fd116 488d542420                       lea      rdx, [rsp + 0x20] 
+037fd11b 488d8d98420000                   lea      rcx, [rbp + 0x4298] 
+037fd122 e8b9acb9fe                       call     0x2397de0 
+037fd127 488bc8                           mov      rcx, rax 
+037fd12a e8d1bab9fe                       call     0x2398c00 

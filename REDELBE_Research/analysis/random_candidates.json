@@ -1,0 +1,502 @@
+{
+  "strings": [
+    {
+      "term": "random",
+      "rva": "0x4346f30",
+      "text": "invalid random_device value"
+    },
+    {
+      "term": "random",
+      "rva": "0x49937c0",
+      "text": "random_character_flag"
+    },
+    {
+      "term": "random",
+      "rva": "0x49937d8",
+      "text": "random_stage_flag"
+    },
+    {
+      "term": "random",
+      "rva": "0x499e8d8",
+      "text": "mode::option::reset_random_filter_stage_list"
+    },
+    {
+      "term": "random",
+      "rva": "0x499e908",
+      "text": "mode::option::get_random_filter_stage_list_hash"
+    },
+    {
+      "term": "random",
+      "rva": "0x499e938",
+      "text": "mode::option::get_random_filter_stage_list_size"
+    },
+    {
+      "term": "random",
+      "rva": "0x499e988",
+      "text": "mode::option::reset_random_filter_character_list"
+    },
+    {
+      "term": "random",
+      "rva": "0x499e9c0",
+      "text": "mode::option::get_random_filter_character_list_hash"
+    },
+    {
+      "term": "random",
+      "rva": "0x499e9f4",
+      "text": "\ufffd\ufffd\ufffd\ufffdmode::option::get_random_filter_character_list_size"
+    },
+    {
+      "term": "random",
+      "rva": "0x499ea2e",
+      "text": "\ufffd?mode::option::initialize_random_filter_stage_list"
+    },
+    {
+      "term": "random",
+      "rva": "0x499eae8",
+      "text": "mode::option::initialize_random_filter_character_list"
+    },
+    {
+      "term": "random",
+      "rva": "0x499eb20",
+      "text": "mode::option::set_stage_random_filter"
+    },
+    {
+      "term": "random",
+      "rva": "0x499eb48",
+      "text": "mode::option::set_default_stage_random_filter"
+    },
+    {
+      "term": "random",
+      "rva": "0x499eb78",
+      "text": "mode::option::get_stage_random_filter_count"
+    },
+    {
+      "term": "random",
+      "rva": "0x499f0ac",
+      "text": "\n\ufffd#;mode::option::set_character_random_filter"
+    },
+    {
+      "term": "random",
+      "rva": "0x499f0dc",
+      "text": "\ufffd\ufffd\ufffd=mode::option::set_default_character_random_filter"
+    },
+    {
+      "term": "random",
+      "rva": "0x499f114",
+      "text": "\ufffd\ufffdL>mode::option::get_character_random_filter_count"
+    },
+    {
+      "term": "random",
+      "rva": "0x499f148",
+      "text": "mode::option::get_stage_random_filter"
+    },
+    {
+      "term": "random",
+      "rva": "0x499f1e0",
+      "text": "mode::option::get_character_random_filter"
+    },
+    {
+      "term": "random",
+      "rva": "0x499f800",
+      "text": "random::get_integer"
+    },
+    {
+      "term": "random",
+      "rva": "0x499f816",
+      "text": "\ufffd?random::get_decimal"
+    },
+    {
+      "term": "random",
+      "rva": "0x4b15898",
+      "text": "chara_action_random_for_each_gimmick_type"
+    },
+    {
+      "term": "random",
+      "rva": "0x4b158c8",
+      "text": "chara_action_random"
+    },
+    {
+      "term": "random",
+      "rva": "0x4b16538",
+      "text": "get_random_int"
+    },
+    {
+      "term": "random",
+      "rva": "0x4d8c398",
+      "text": "random_integer"
+    },
+    {
+      "term": "random",
+      "rva": "0x4d8efc0",
+      "text": "stage_random_filter"
+    },
+    {
+      "term": "random",
+      "rva": "0x4d8efd8",
+      "text": "character_random_filter"
+    }
+  ],
+  "xrefs": [
+    {
+      "instruction": "0x237bb43",
+      "target": "0x4d8c398",
+      "function": "0x237b880"
+    },
+    {
+      "instruction": "0x24c317d",
+      "target": "0x4d8efd8",
+      "function": "0x24c1860"
+    },
+    {
+      "instruction": "0x24c31d7",
+      "target": "0x4d8efc0",
+      "function": "0x24c1860"
+    },
+    {
+      "instruction": "0x35f8a17",
+      "target": "0x4346f30",
+      "function": "0x35f89fc"
+    },
+    {
+      "instruction": "0x38079c1",
+      "target": "0x499f1e0",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807a65",
+      "target": "0x499f148",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807a8e",
+      "target": "0x499eb20",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807ab7",
+      "target": "0x499eb48",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807ae0",
+      "target": "0x499eb78",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807bad",
+      "target": "0x499eae8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807bd6",
+      "target": "0x499e988",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807bff",
+      "target": "0x499e9c0",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807c7a",
+      "target": "0x499e8d8",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807ca3",
+      "target": "0x499e908",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3807ccc",
+      "target": "0x499e938",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3809123",
+      "target": "0x499f800",
+      "function": "0x37fc190"
+    },
+    {
+      "instruction": "0x3a28484",
+      "target": "0x4b158c8",
+      "function": "0x3a27b70"
+    },
+    {
+      "instruction": "0x3a284c5",
+      "target": "0x4b15898",
+      "function": "0x3a27b70"
+    },
+    {
+      "instruction": "0x3a296cc",
+      "target": "0x4b16538",
+      "function": "0x3a27b70"
+    }
+  ],
+  "fragments": {
+    "PatchSRARTA": [
+      {
+        "instruction_span": [
+          0,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x373db52",
+            "function": "0x373dad0"
+          },
+          {
+            "rva": "0x399529a",
+            "function": "0x3994d40"
+          },
+          {
+            "rva": "0x39a7c44",
+            "function": "0x39a75c0"
+          },
+          {
+            "rva": "0x39ad8bf",
+            "function": "0x39ad3a0"
+          },
+          {
+            "rva": "0x39b0fbf",
+            "function": "0x39b0ac0"
+          }
+        ]
+      }
+    ],
+    "PatchSRSV": [
+      {
+        "instruction_span": [
+          1,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x373db52",
+            "function": "0x373dad0"
+          },
+          {
+            "rva": "0x399529a",
+            "function": "0x3994d40"
+          },
+          {
+            "rva": "0x39a7c44",
+            "function": "0x39a75c0"
+          },
+          {
+            "rva": "0x39ad8bf",
+            "function": "0x39ad3a0"
+          },
+          {
+            "rva": "0x39b0fbf",
+            "function": "0x39b0ac0"
+          }
+        ]
+      }
+    ],
+    "PatchSRVS": [
+      {
+        "instruction_span": [
+          2,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x373db52",
+            "function": "0x373dad0"
+          },
+          {
+            "rva": "0x399529a",
+            "function": "0x3994d40"
+          },
+          {
+            "rva": "0x39a7c44",
+            "function": "0x39a75c0"
+          },
+          {
+            "rva": "0x39ad8bf",
+            "function": "0x39ad3a0"
+          },
+          {
+            "rva": "0x39b0fbf",
+            "function": "0x39b0ac0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          3,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x39929bf",
+            "function": "0x3992460"
+          },
+          {
+            "rva": "0x39a7c48",
+            "function": "0x39a75c0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          4,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x39929c3",
+            "function": "0x3992460"
+          },
+          {
+            "rva": "0x39a7c4c",
+            "function": "0x39a75c0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          2,
+          3
+        ],
+        "matches": [
+          {
+            "rva": "0x39a7c44",
+            "function": "0x39a75c0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          3,
+          3
+        ],
+        "matches": [
+          {
+            "rva": "0x39929bf",
+            "function": "0x3992460"
+          },
+          {
+            "rva": "0x39a7c48",
+            "function": "0x39a75c0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          2,
+          4
+        ],
+        "matches": [
+          {
+            "rva": "0x39a7c44",
+            "function": "0x39a75c0"
+          }
+        ]
+      }
+    ],
+    "PatchSRFT": [
+      {
+        "instruction_span": [
+          1,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x373db52",
+            "function": "0x373dad0"
+          },
+          {
+            "rva": "0x399529a",
+            "function": "0x3994d40"
+          },
+          {
+            "rva": "0x39a7c44",
+            "function": "0x39a75c0"
+          },
+          {
+            "rva": "0x39ad8bf",
+            "function": "0x39ad3a0"
+          },
+          {
+            "rva": "0x39b0fbf",
+            "function": "0x39b0ac0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          2,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x39929bf",
+            "function": "0x3992460"
+          },
+          {
+            "rva": "0x39a7c48",
+            "function": "0x39a75c0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          3,
+          2
+        ],
+        "matches": [
+          {
+            "rva": "0x39929c3",
+            "function": "0x3992460"
+          },
+          {
+            "rva": "0x39a7c4c",
+            "function": "0x39a75c0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          1,
+          3
+        ],
+        "matches": [
+          {
+            "rva": "0x39a7c44",
+            "function": "0x39a75c0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          2,
+          3
+        ],
+        "matches": [
+          {
+            "rva": "0x39929bf",
+            "function": "0x3992460"
+          },
+          {
+            "rva": "0x39a7c48",
+            "function": "0x39a75c0"
+          }
+        ]
+      },
+      {
+        "instruction_span": [
+          1,
+          4
+        ],
+        "matches": [
+          {
+            "rva": "0x39a7c44",
+            "function": "0x39a75c0"
+          }
+        ]
+      }
+    ]
+  }
+}

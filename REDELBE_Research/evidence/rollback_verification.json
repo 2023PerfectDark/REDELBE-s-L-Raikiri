@@ -1,0 +1,66 @@
+{
+  "ExperimentalDllAbsent": true,
+  "ExperimentalFolderAbsent": true,
+  "ExistingModules": [
+    {
+      "Name": "dxcompiler.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "glfw3.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "nt_file_dupe.asi",
+      "Unchanged": true
+    },
+    {
+      "Name": "nvngx_dlss.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "nvngx_dlssg.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "sl.common.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "sl.dlss_g.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "sl.dlss.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "sl.interposer.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "sl.pcl.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "sl.reflex.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "smoke_api64.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "steam_api64.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "version.dll",
+      "Unchanged": true
+    },
+    {
+      "Name": "winmm.dll",
+      "Unchanged": true
+    }
+  ]
+}

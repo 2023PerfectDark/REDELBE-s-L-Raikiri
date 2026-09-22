@@ -1,0 +1,18 @@
+{
+  "AnimationBrowser/catalog.tsv": true,
+  "HairColorSupport": true,
+  "HairColors.prototype.ini": true,
+  "AuraSounds": true,
+  "birthdays.ini": true,
+  "BirthdayMessages": true,
+  "update_info.ini": true,
+  "branding.ini": true,
+  "settings.schema.json": true,
+  "StageVidPreviews": true,
+  "RRPreview": true,
+  "REDELBE.ini": true,
+  "ENTRY102 in Wardrobe": true,
+  "WIN120 in Wardrobe": true,
+  "Forced match overrides empty": true,
+  "Installed DLL remains existing build": true
+}

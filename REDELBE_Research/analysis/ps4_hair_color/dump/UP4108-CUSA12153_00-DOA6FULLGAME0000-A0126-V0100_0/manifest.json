@@ -1,0 +1,245 @@
+[
+  {
+    "id": "00000001",
+    "name": "digests",
+    "bytes": 864,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000010",
+    "name": "entry_keys",
+    "bytes": 2048,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000020",
+    "name": "image_key",
+    "bytes": 256,
+    "encrypted": true,
+    "keyIndex": 3,
+    "state": "outer layer decrypted; inner encryption may remain",
+    "error": null
+  },
+  {
+    "id": "00000080",
+    "name": "general_digests",
+    "bytes": 448,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000100",
+    "name": "metas",
+    "bytes": 864,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000200",
+    "name": "entry_names",
+    "bytes": 402,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000402",
+    "name": "nptitle_dat",
+    "bytes": 160,
+    "encrypted": true,
+    "keyIndex": 3,
+    "state": "outer layer decrypted; inner encryption may remain",
+    "error": null
+  },
+  {
+    "id": "00000403",
+    "name": "npbind_dat",
+    "bytes": 532,
+    "encrypted": true,
+    "keyIndex": 3,
+    "state": "outer layer decrypted; inner encryption may remain",
+    "error": null
+  },
+  {
+    "id": "00000407",
+    "name": "target_deltainfo_dat",
+    "bytes": 3911920,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000408",
+    "name": "origin_deltainfo_dat",
+    "bytes": 3911920,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00000409",
+    "name": "psreserved_dat",
+    "bytes": 8192,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001000",
+    "name": "param_sfo",
+    "bytes": 1936,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001001",
+    "name": "playgo_chunk_dat",
+    "bytes": 544,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001002",
+    "name": "playgo_chunk_sha",
+    "bytes": 1956052,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001003",
+    "name": "playgo_manifest_xml",
+    "bytes": 399,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001008",
+    "name": "app__playgo_chunk_dat",
+    "bytes": 576,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001260",
+    "name": "changeinfo__changeinfo_xml",
+    "bytes": 5165,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001261",
+    "name": "changeinfo__changeinfo_00_xml",
+    "bytes": 5810,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001262",
+    "name": "changeinfo__changeinfo_01_xml",
+    "bytes": 5165,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001263",
+    "name": "changeinfo__changeinfo_02_xml",
+    "bytes": 5620,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001264",
+    "name": "changeinfo__changeinfo_03_xml",
+    "bytes": 6499,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001265",
+    "name": "changeinfo__changeinfo_04_xml",
+    "bytes": 5938,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001266",
+    "name": "changeinfo__changeinfo_05_xml",
+    "bytes": 5984,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "00001269",
+    "name": "changeinfo__changeinfo_08_xml",
+    "bytes": 8316,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "0000126a",
+    "name": "changeinfo__changeinfo_09_xml",
+    "bytes": 5061,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "0000126b",
+    "name": "changeinfo__changeinfo_10_xml",
+    "bytes": 4596,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  },
+  {
+    "id": "0000126c",
+    "name": "changeinfo__changeinfo_11_xml",
+    "bytes": 4607,
+    "encrypted": false,
+    "keyIndex": 0,
+    "state": "plain",
+    "error": null
+  }
+]

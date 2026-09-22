@@ -1,0 +1,7 @@
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\prototype\build\kashira_prepare\REDELBE_Kashira_Prepare.exe
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\prototype\build\kashira_prepare\REDELBE_Kashira_Prepare.dll
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\prototype\build\kashira_prepare\REDELBE_Kashira_Prepare.deps.json
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\prototype\build\kashira_prepare\REDELBE_Kashira_Prepare.runtimeconfig.json
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\prototype\build\kashira_prepare\REDELBE_Kashira_Prepare.pdb
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\prototype\build\kashira_prepare\Kashira.Core.dll
+C:\Users\Owner\OneDrive\Documents\ChatGPT\Revers E REDELBE\REDELBE_Research\prototype\build\kashira_prepare\Kashira.Core.pdb

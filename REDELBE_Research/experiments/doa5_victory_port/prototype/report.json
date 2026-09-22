@@ -1,0 +1,51 @@
+[
+  {
+    "name": "KAS_DOA5_WIN_120_PORT_TEST.g1a",
+    "frames": 185,
+    "bones": 57,
+    "bytes": 334512,
+    "seconds": 6.133333333333334
+  },
+  {
+    "name": "KAS_DOA5_WIN_122_PORT_TEST.g1a",
+    "frames": 420,
+    "bones": 57,
+    "bytes": 772120,
+    "seconds": 13.966666666666667
+  },
+  {
+    "name": "KAS_DOA5_WIN_124_PORT_TEST.g1a",
+    "frames": 269,
+    "bones": 57,
+    "bytes": 494992,
+    "seconds": 8.933333333333334
+  },
+  {
+    "name": "KAS_DOA5_ENTRY_100_PORT_TEST.g1a",
+    "frames": 60,
+    "bones": 57,
+    "bytes": 105148,
+    "seconds": 1.9666666666666666
+  },
+  {
+    "name": "KAS_DOA5_ENTRY_101_PORT_TEST.g1a",
+    "frames": 60,
+    "bones": 57,
+    "bytes": 105148,
+    "seconds": 1.9666666666666666
+  },
+  {
+    "name": "KAS_DOA5_ENTRY_102_PORT_TEST.g1a",
+    "frames": 126,
+    "bones": 57,
+    "bytes": 206848,
+    "seconds": 4.166666666666667
+  },
+  {
+    "name": "KAS_DOA5_TAG_ENTRY_TAG_PORT_TEST.g1a",
+    "frames": 60,
+    "bones": 57,
+    "bytes": 105148,
+    "seconds": 1.9666666666666666
+  }
+]

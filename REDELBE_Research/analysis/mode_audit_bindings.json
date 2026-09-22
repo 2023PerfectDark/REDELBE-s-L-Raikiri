@@ -1,0 +1,26 @@
+[
+  [
+    "mode::is_product_mode",
+    "0x37c6d50"
+  ],
+  [
+    "mode::is_open_story_mode",
+    "0x37c4fb0"
+  ],
+  [
+    "mode::is_open_photo_mode",
+    "0x37c4f80"
+  ],
+  [
+    "mode::online::is_open_software_keyboard",
+    "0x371da00"
+  ],
+  [
+    "mode::online::is_rank_match_available",
+    "0x371bad0"
+  ],
+  [
+    "mode::online::is_lobby_match_available",
+    "0x371ba50"
+  ]
+]

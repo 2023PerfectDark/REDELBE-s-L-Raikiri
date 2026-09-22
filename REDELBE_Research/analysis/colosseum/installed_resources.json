@@ -1,0 +1,20 @@
+[
+  {
+    "game": "Dead or Alive 6 Last Round",
+    "index": "root",
+    "container": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round\\fdata_package\\0xaf1960fa.fdata",
+    "offset": 32789184,
+    "bytes": 3340320,
+    "version": 14,
+    "sha256": "11ab82a4bdaa94f75248e380a92dacc0962baede154707c9dc210523e877e85e"
+  },
+  {
+    "game": "Dead or Alive 6 Last Round - Backup 2026-09-15_210415",
+    "index": "root",
+    "container": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\fdata_package\\0xaf1960fa.fdata",
+    "offset": 32788560,
+    "bytes": 3340320,
+    "version": 14,
+    "sha256": "11ab82a4bdaa94f75248e380a92dacc0962baede154707c9dc210523e877e85e"
+  }
+]

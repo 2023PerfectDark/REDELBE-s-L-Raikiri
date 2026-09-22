@@ -1,0 +1,159 @@
+RVA 3017080
+03017080 48895c2410                       mov      qword ptr [rsp + 0x10], rbx 
+03017085 4889742418                       mov      qword ptr [rsp + 0x18], rsi 
+0301708a 57                               push     rdi 
+0301708b 4883ec30                         sub      rsp, 0x30 
+0301708f 488bd9                           mov      rbx, rcx 
+03017092 418bf9                           mov      edi, r9d 
+03017095 488b89c8010000                   mov      rcx, qword ptr [rcx + 0x1c8] 
+0301709c 418bf0                           mov      esi, r8d 
+0301709f 4885c9                           test     rcx, rcx 
+030170a2 741e                             je       0x30170c2 
+030170a4 448b4c2460                       mov      r9d, dword ptr [rsp + 0x60] 
+030170a9 448bc7                           mov      r8d, edi 
+030170ac 8bd6                             mov      edx, esi 
+030170ae 488b5c2448                       mov      rbx, qword ptr [rsp + 0x48] 
+030170b3 488b742450                       mov      rsi, qword ptr [rsp + 0x50] 
+030170b8 4883c430                         add      rsp, 0x30 
+030170bc 5f                               pop      rdi 
+030170bd e9ceac2400                       jmp      0x3261d90 
+030170c2 488b8b40010000                   mov      rcx, qword ptr [rbx + 0x140] 
+030170c9 4c8d442420                       lea      r8, [rsp + 0x20] 
+030170ce 33c0                             xor      eax, eax 
+030170d0 c74424206e300000                 mov      dword ptr [rsp + 0x20], 0x306e 
+030170d8 4889442428                       mov      qword ptr [rsp + 0x28], rax 
+030170dd ba04020000                       mov      edx, 0x204 
+030170e2 48896c2440                       mov      qword ptr [rsp + 0x40], rbp 
+030170e7 488b01                           mov      rax, qword ptr [rcx] 
+030170ea ff5030                           call     qword ptr [rax + 0x30] 
+030170ed 488be8                           mov      rbp, rax 
+030170f0 4885c0                           test     rax, rax 
+030170f3 7431                             je       0x3017126 
+030170f5 33d2                             xor      edx, edx 
+030170f7 41b804020000                     mov      r8d, 0x204 
+030170fd 488bc8                           mov      rcx, rax 
+03017100 e81b766300                       call     0x364e720 
+03017105 488bcd                           mov      rcx, rbp 
+03017108 e86361aafd                       call     0xabd270 
+0301710d 448b4c2460                       mov      r9d, dword ptr [rsp + 0x60] 
+03017112 448bc7                           mov      r8d, edi 
+03017115 8bd6                             mov      edx, esi 
+03017117 488983c8010000                   mov      qword ptr [rbx + 0x1c8], rax 
+0301711e 488bc8                           mov      rcx, rax 
+03017121 e86aac2400                       call     0x3261d90 
+03017126 488b6c2440                       mov      rbp, qword ptr [rsp + 0x40] 
+0301712b 488b5c2448                       mov      rbx, qword ptr [rsp + 0x48] 
+03017130 488b742450                       mov      rsi, qword ptr [rsp + 0x50] 
+03017135 4883c430                         add      rsp, 0x30 
+03017139 5f                               pop      rdi 
+0301713a c3                               ret       
+0301713b cc                               int3      
+0301713c cc                               int3      
+0301713d cc                               int3      
+0301713e cc                               int3      
+0301713f cc                               int3      
+03017140 48895c2410                       mov      qword ptr [rsp + 0x10], rbx 
+03017145 4889742418                       mov      qword ptr [rsp + 0x18], rsi 
+0301714a 57                               push     rdi 
+0301714b 4883ec30                         sub      rsp, 0x30 
+0301714f 488bd9                           mov      rbx, rcx 
+03017152 418bf9                           mov      edi, r9d 
+03017155 488b89c8010000                   mov      rcx, qword ptr [rcx + 0x1c8] 
+0301715c 418bf0                           mov      esi, r8d 
+0301715f 4885c9                           test     rcx, rcx 
+03017162 7419                             je       0x301717d 
+03017164 458bc1                           mov      r8d, r9d 
+03017167 8bd6                             mov      edx, esi 
+03017169 488b5c2448                       mov      rbx, qword ptr [rsp + 0x48] 
+0301716e 488b742450                       mov      rsi, qword ptr [rsp + 0x50] 
+03017173 4883c430                         add      rsp, 0x30 
+03017177 5f                               pop      rdi 
+03017178 e903692500                       jmp      0x326da80 
+0301717d 488b8b40010000                   mov      rcx, qword ptr [rbx + 0x140] 
+03017184 4c8d442420                       lea      r8, [rsp + 0x20] 
+03017189 33c0                             xor      eax, eax 
+0301718b 48896c2440                       mov      qword ptr [rsp + 0x40], rbp 
+03017190 4889442428                       mov      qword ptr [rsp + 0x28], rax 
+03017195 ba04020000                       mov      edx, 0x204 
+0301719a c74424206e300000                 mov      dword ptr [rsp + 0x20], 0x306e 
+030171a2 488b01                           mov      rax, qword ptr [rcx] 
+030171a5 ff5030                           call     qword ptr [rax + 0x30] 
+030171a8 488be8                           mov      rbp, rax 
+030171ab 4885c0                           test     rax, rax 
+030171ae 742c                             je       0x30171dc 
+030171b0 33d2                             xor      edx, edx 
+030171b2 41b804020000                     mov      r8d, 0x204 
+030171b8 488bcd                           mov      rcx, rbp 
+030171bb e860756300                       call     0x364e720 
+030171c0 488bcd                           mov      rcx, rbp 
+030171c3 e8a860aafd                       call     0xabd270 
+030171c8 448bc7                           mov      r8d, edi 
+030171cb 488983c8010000                   mov      qword ptr [rbx + 0x1c8], rax 
+030171d2 8bd6                             mov      edx, esi 
+030171d4 488bc8                           mov      rcx, rax 
+030171d7 e8a4682500                       call     0x326da80 
+030171dc 488b6c2440                       mov      rbp, qword ptr [rsp + 0x40] 
+030171e1 488b5c2448                       mov      rbx, qword ptr [rsp + 0x48] 
+030171e6 488b742450                       mov      rsi, qword ptr [rsp + 0x50] 
+030171eb 4883c430                         add      rsp, 0x30 
+030171ef 5f                               pop      rdi 
+030171f0 c3                               ret       
+030171f1 cc                               int3      
+030171f2 cc                               int3      
+030171f3 cc                               int3      
+030171f4 cc                               int3      
+030171f5 cc                               int3      
+030171f6 cc                               int3      
+030171f7 cc                               int3      
+030171f8 cc                               int3      
+030171f9 cc                               int3      
+030171fa cc                               int3      
+030171fb cc                               int3      
+030171fc cc                               int3      
+030171fd cc                               int3      
+030171fe cc                               int3      
+030171ff cc                               int3      
+03017200 4056                             push     rsi 
+03017202 57                               push     rdi 
+03017203 4154                             push     r12 
+03017205 4157                             push     r15 
+03017207 4883ec38                         sub      rsp, 0x38 
+0301720b 4532ff                           xor      r15b, r15b 
+0301720e 4032f6                           xor      sil, sil 
+03017211 450fb6e1                         movzx    r12d, r9b 
+03017215 488bf9                           mov      rdi, rcx 
+03017218 4585c0                           test     r8d, r8d 
+0301721b 741b                             je       0x3017238 
+0301721d 4183e801                         sub      r8d, 1 
+03017221 7410                             je       0x3017233 
+03017223 4183f801                         cmp      r8d, 1 
+03017227 7512                             jne      0x301723b 
+03017229 410fb6f0                         movzx    esi, r8b 
+0301722d 450fb6f8                         movzx    r15d, r8b 
+03017231 eb08                             jmp      0x301723b 
+03017233 40b601                           mov      sil, 1 
+03017236 eb03                             jmp      0x301723b 
+03017238 41b701                           mov      r15b, 1 
+0301723b 488b01                           mov      rax, qword ptr [rcx] 
+0301723e ff9088030000                     call     qword ptr [rax + 0x388] 
+03017244 84c0                             test     al, al 
+03017246 0f84fb010000                     je       0x3017447 
+0301724c 48895c2460                       mov      qword ptr [rsp + 0x60], rbx 
+03017251 488b9f90020000                   mov      rbx, qword ptr [rdi + 0x290] 
+03017258 4885db                           test     rbx, rbx 
+0301725b 7559                             jne      0x30172b6 
+0301725d 488b07                           mov      rax, qword ptr [rdi] 
+03017260 488bcf                           mov      rcx, rdi 
+03017263 ff9088030000                     call     qword ptr [rax + 0x388] 
+03017269 84c0                             test     al, al 
+0301726b 0f84d1010000                     je       0x3017442 
+03017271 488b8748010000                   mov      rax, qword ptr [rdi + 0x148] 
+03017278 488b4820                         mov      rcx, qword ptr [rax + 0x20] 
+0301727c 488b4140                         mov      rax, qword ptr [rcx + 0x40] 
+03017280 4885c0                           test     rax, rax 
+03017283 0f84b9010000                     je       0x3017442 
+03017289 488b4820                         mov      rcx, qword ptr [rax + 0x20] 
+0301728d 4885c9                           test     rcx, rcx 
+03017290 0f84ac010000                     je       0x3017442 
+03017296 e80592edff                       call     0x2ef04a0 
+0301729b 488bd8                           mov      rbx, rax 

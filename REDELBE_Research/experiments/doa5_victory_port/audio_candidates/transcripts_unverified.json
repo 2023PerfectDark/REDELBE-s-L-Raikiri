@@ -1,0 +1,86 @@
+[
+  {
+    "file": "voice_005_EN_00.wav",
+    "text": " Well, shall we?",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_EN_01.wav",
+    "text": " This old fart still fights!",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_EN_02.wav",
+    "text": " My fists only get stronger with age!",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_EN_03.wav",
+    "text": " Huh?  Huh?  Yes!",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_EN_04.wav",
+    "text": " I shall be your opponent.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_EN_05.wav",
+    "text": " No, it seems Edge has caught up with me.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_EN_06.wav",
+    "text": " Perseverance will always prevail.",
+    "language": "en",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_JP_00.wav",
+    "text": "相手になりますぞ",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_JP_01.wav",
+    "text": "はぁっ! うっ! よっし!",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_JP_02.wav",
+    "text": "イジーをアナドルでナイズを",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_JP_03.wav",
+    "text": "貢献、ここにあり",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_JP_04.wav",
+    "text": "あ、やはり年には勝てんのか?",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_JP_05.wav",
+    "text": "行きますかな?",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  },
+  {
+    "file": "voice_005_JP_06.wav",
+    "text": "死の上にも30年",
+    "language": "ja",
+    "verification": "automatic transcription; verify against original event data"
+  }
+]

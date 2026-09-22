@@ -1,0 +1,257 @@
+[
+  {
+    "index": 0,
+    "name": "MOT01_Head",
+    "parent": 1
+  },
+  {
+    "index": 1,
+    "name": "MOT15_Neck",
+    "parent": 4294967295
+  },
+  {
+    "index": 2,
+    "name": "OPT_Face_c_eyebrow",
+    "parent": 45
+  },
+  {
+    "index": 3,
+    "name": "OPT_Face_c_lip_lower",
+    "parent": 8
+  },
+  {
+    "index": 4,
+    "name": "OPT_Face_c_lip_upper",
+    "parent": 45
+  },
+  {
+    "index": 5,
+    "name": "OPT_Face_c_nose",
+    "parent": 45
+  },
+  {
+    "index": 6,
+    "name": "OPT_Face_c_tongue_a",
+    "parent": 8
+  },
+  {
+    "index": 7,
+    "name": "OPT_Face_c_tongue_b",
+    "parent": 6
+  },
+  {
+    "index": 8,
+    "name": "OPT_Face_jaw",
+    "parent": 45
+  },
+  {
+    "index": 9,
+    "name": "OPT_Face_l_cheek_a",
+    "parent": 45
+  },
+  {
+    "index": 10,
+    "name": "OPT_Face_l_cheek_b",
+    "parent": 45
+  },
+  {
+    "index": 11,
+    "name": "OPT_Face_l_cheek_c",
+    "parent": 45
+  },
+  {
+    "index": 12,
+    "name": "OPT_Face_l_eye",
+    "parent": 45
+  },
+  {
+    "index": 13,
+    "name": "OPT_Face_l_eye_lower_a",
+    "parent": 45
+  },
+  {
+    "index": 14,
+    "name": "OPT_Face_l_eye_lower_b",
+    "parent": 45
+  },
+  {
+    "index": 15,
+    "name": "OPT_Face_l_eyebrow_a",
+    "parent": 45
+  },
+  {
+    "index": 16,
+    "name": "OPT_Face_l_eyebrow_b",
+    "parent": 45
+  },
+  {
+    "index": 17,
+    "name": "OPT_Face_l_eyebrow_c",
+    "parent": 45
+  },
+  {
+    "index": 18,
+    "name": "OPT_Face_l_eyelid",
+    "parent": 45
+  },
+  {
+    "index": 19,
+    "name": "OPT_Face_l_forehead",
+    "parent": 45
+  },
+  {
+    "index": 20,
+    "name": "OPT_Face_l_lip_lower",
+    "parent": 8
+  },
+  {
+    "index": 21,
+    "name": "OPT_Face_l_lip_outside",
+    "parent": 45
+  },
+  {
+    "index": 22,
+    "name": "OPT_Face_l_lip_upper",
+    "parent": 45
+  },
+  {
+    "index": 23,
+    "name": "OPT_Face_l_nose_a",
+    "parent": 45
+  },
+  {
+    "index": 24,
+    "name": "OPT_Face_l_nose_b",
+    "parent": 45
+  },
+  {
+    "index": 25,
+    "name": "OPT_Face_l_nose_c",
+    "parent": 45
+  },
+  {
+    "index": 26,
+    "name": "OPT_Face_l_nose_d",
+    "parent": 45
+  },
+  {
+    "index": 27,
+    "name": "OPT_Face_r_cheek_a",
+    "parent": 45
+  },
+  {
+    "index": 28,
+    "name": "OPT_Face_r_cheek_b",
+    "parent": 45
+  },
+  {
+    "index": 29,
+    "name": "OPT_Face_r_cheek_c",
+    "parent": 45
+  },
+  {
+    "index": 30,
+    "name": "OPT_Face_r_eye",
+    "parent": 45
+  },
+  {
+    "index": 31,
+    "name": "OPT_Face_r_eye_lower_a",
+    "parent": 45
+  },
+  {
+    "index": 32,
+    "name": "OPT_Face_r_eye_lower_b",
+    "parent": 45
+  },
+  {
+    "index": 33,
+    "name": "OPT_Face_r_eyebrow_a",
+    "parent": 45
+  },
+  {
+    "index": 34,
+    "name": "OPT_Face_r_eyebrow_b",
+    "parent": 45
+  },
+  {
+    "index": 35,
+    "name": "OPT_Face_r_eyebrow_c",
+    "parent": 45
+  },
+  {
+    "index": 36,
+    "name": "OPT_Face_r_eyelid",
+    "parent": 45
+  },
+  {
+    "index": 37,
+    "name": "OPT_Face_r_forehead",
+    "parent": 45
+  },
+  {
+    "index": 38,
+    "name": "OPT_Face_r_lip_lower",
+    "parent": 8
+  },
+  {
+    "index": 39,
+    "name": "OPT_Face_r_lip_outside",
+    "parent": 45
+  },
+  {
+    "index": 40,
+    "name": "OPT_Face_r_lip_upper",
+    "parent": 45
+  },
+  {
+    "index": 41,
+    "name": "OPT_Face_r_nose_a",
+    "parent": 45
+  },
+  {
+    "index": 42,
+    "name": "OPT_Face_r_nose_b",
+    "parent": 45
+  },
+  {
+    "index": 43,
+    "name": "OPT_Face_r_nose_c",
+    "parent": 45
+  },
+  {
+    "index": 44,
+    "name": "OPT_Face_r_nose_d",
+    "parent": 45
+  },
+  {
+    "index": 45,
+    "name": "OPT_Face_Root",
+    "parent": 0
+  },
+  {
+    "index": 46,
+    "name": "WGT_face",
+    "parent": 1
+  },
+  {
+    "index": 47,
+    "name": "WGT_faceparts",
+    "parent": 1
+  },
+  {
+    "index": 48,
+    "name": "WGT_glasses",
+    "parent": 1
+  },
+  {
+    "index": 49,
+    "name": "WGT_sweat_cheek_l",
+    "parent": 1
+  },
+  {
+    "index": 50,
+    "name": "WGT_sweat_cheek_r",
+    "parent": 1
+  }
+]

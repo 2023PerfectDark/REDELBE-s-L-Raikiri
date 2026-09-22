@@ -1,0 +1,157 @@
+RVA 3363150
+03363150 48895c2420                       mov      qword ptr [rsp + 0x20], rbx 
+03363155 55                               push     rbp 
+03363156 56                               push     rsi 
+03363157 4156                             push     r14 
+03363159 4883ec40                         sub      rsp, 0x40 
+0336315d 488bd9                           mov      rbx, rcx 
+03363160 e86b5f3efe                       call     0x17490d0 
+03363165 488d542420                       lea      rdx, [rsp + 0x20] 
+0336316a 488bcb                           mov      rcx, rbx 
+0336316d 488bf0                           mov      rsi, rax 
+03363170 488b6828                         mov      rbp, qword ptr [rax + 0x28] 
+03363174 e8f76c3efe                       call     0x1749e70 
+03363179 488d542468                       lea      rdx, [rsp + 0x68] 
+0336317e 488d4c2420                       lea      rcx, [rsp + 0x20] 
+03363183 e8a83e3efe                       call     0x1747030 
+03363188 488d542470                       lea      rdx, [rsp + 0x70] 
+0336318d 488d4c2430                       lea      rcx, [rsp + 0x30] 
+03363192 e8993e3efe                       call     0x1747030 
+03363197 48634c2468                       movsxd   rcx, dword ptr [rsp + 0x68] 
+0336319c 4533f6                           xor      r14d, r14d 
+0336319f 483b4e08                         cmp      rcx, qword ptr [rsi + 8] 
+033631a3 7308                             jae      0x33631ad 
+033631a5 488b06                           mov      rax, qword ptr [rsi] 
+033631a8 4803c1                           add      rax, rcx 
+033631ab eb03                             jmp      0x33631b0 
+033631ad 498bc6                           mov      rax, r14 
+033631b0 48634c2470                       movsxd   rcx, dword ptr [rsp + 0x70] 
+033631b5 488b00                           mov      rax, qword ptr [rax] 
+033631b8 48897c2460                       mov      qword ptr [rsp + 0x60], rdi 
+033631bd 488d1cc8                         lea      rbx, [rax + rcx*8] 
+033631c1 4885db                           test     rbx, rbx 
+033631c4 7441                             je       0x3363207 
+033631c6 488b1b                           mov      rbx, qword ptr [rbx] 
+033631c9 4885db                           test     rbx, rbx 
+033631cc 7439                             je       0x3363207 
+033631ce 4c397320                         cmp      qword ptr [rbx + 0x20], r14 
+033631d2 7433                             je       0x3363207 
+033631d4 488b7b18                         mov      rdi, qword ptr [rbx + 0x18] 
+033631d8 488bd5                           mov      rdx, rbp 
+033631db 488bcf                           mov      rcx, rdi 
+033631de e8bdb0a5fd                       call     0xdbe2a0 
+033631e3 84c0                             test     al, al 
+033631e5 7510                             jne      0x33631f7 
+033631e7 488b17                           mov      rdx, qword ptr [rdi] 
+033631ea 488bcf                           mov      rcx, rdi 
+033631ed ff5220                           call     qword ptr [rdx + 0x20] 
+033631f0 3d8db2b9c4                       cmp      eax, 0xc4b9b28d 
+033631f5 7510                             jne      0x3363207 
+033631f7 488b5630                         mov      rdx, qword ptr [rsi + 0x30] 
+033631fb 4c8bc5                           mov      r8, rbp 
+033631fe 488b4b20                         mov      rcx, qword ptr [rbx + 0x20] 
+03363202 e89968cdff                       call     0x3039aa0 
+03363207 488b7c2460                       mov      rdi, qword ptr [rsp + 0x60] 
+0336320c 410fb7c6                         movzx    eax, r14w 
+03363210 488b5c2478                       mov      rbx, qword ptr [rsp + 0x78] 
+03363215 4883c440                         add      rsp, 0x40 
+03363219 415e                             pop      r14 
+0336321b 5e                               pop      rsi 
+0336321c 5d                               pop      rbp 
+0336321d c3                               ret       
+0336321e cc                               int3      
+0336321f cc                               int3      
+03363220 48895c2410                       mov      qword ptr [rsp + 0x10], rbx 
+03363225 4889742418                       mov      qword ptr [rsp + 0x18], rsi 
+0336322a 57                               push     rdi 
+0336322b 4881ec80000000                   sub      rsp, 0x80 
+03363232 488b0537859902                   mov      rax, qword ptr [rip + 0x2998537] 
+03363239 4833c4                           xor      rax, rsp 
+0336323c 4889442470                       mov      qword ptr [rsp + 0x70], rax 
+03363241 488bd9                           mov      rbx, rcx 
+03363244 e8875e3efe                       call     0x17490d0 
+03363249 488d542430                       lea      rdx, [rsp + 0x30] 
+0336324e 488bcb                           mov      rcx, rbx 
+03363251 488bf8                           mov      rdi, rax 
+03363254 e8176c3efe                       call     0x1749e70 
+03363259 488d542420                       lea      rdx, [rsp + 0x20] 
+0336325e 488d4c2430                       lea      rcx, [rsp + 0x30] 
+03363263 e8c83d3efe                       call     0x1747030 
+03363268 488d542424                       lea      rdx, [rsp + 0x24] 
+0336326d 488d4c2440                       lea      rcx, [rsp + 0x40] 
+03363272 e8b93d3efe                       call     0x1747030 
+03363277 48634c2420                       movsxd   rcx, dword ptr [rsp + 0x20] 
+0336327c 33f6                             xor      esi, esi 
+0336327e 483b4f08                         cmp      rcx, qword ptr [rdi + 8] 
+03363282 7308                             jae      0x336328c 
+03363284 488b07                           mov      rax, qword ptr [rdi] 
+03363287 4803c1                           add      rax, rcx 
+0336328a eb03                             jmp      0x336328f 
+0336328c 488bc6                           mov      rax, rsi 
+0336328f 48634c2424                       movsxd   rcx, dword ptr [rsp + 0x24] 
+03363294 488b00                           mov      rax, qword ptr [rax] 
+03363297 488d1cc8                         lea      rbx, [rax + rcx*8] 
+0336329b 4885db                           test     rbx, rbx 
+0336329e 7446                             je       0x33632e6 
+033632a0 488d542428                       lea      rdx, [rsp + 0x28] 
+033632a5 488d4c2450                       lea      rcx, [rsp + 0x50] 
+033632aa e8813d3efe                       call     0x1747030 
+033632af 488d54242c                       lea      rdx, [rsp + 0x2c] 
+033632b4 488d4c2460                       lea      rcx, [rsp + 0x60] 
+033632b9 e8723d3efe                       call     0x1747030 
+033632be 48634c2428                       movsxd   rcx, dword ptr [rsp + 0x28] 
+033632c3 483b4f08                         cmp      rcx, qword ptr [rdi + 8] 
+033632c7 7309                             jae      0x33632d2 
+033632c9 488b07                           mov      rax, qword ptr [rdi] 
+033632cc 488d1401                         lea      rdx, [rcx + rax] 
+033632d0 eb03                             jmp      0x33632d5 
+033632d2 488bd6                           mov      rdx, rsi 
+033632d5 48634c242c                       movsxd   rcx, dword ptr [rsp + 0x2c] 
+033632da 48c1e104                         shl      rcx, 4 
+033632de 48030a                           add      rcx, qword ptr [rdx] 
+033632e1 7403                             je       0x33632e6 
+033632e3 48890b                           mov      qword ptr [rbx], rcx 
+033632e6 0fb7c6                           movzx    eax, si 
+033632e9 488b4c2470                       mov      rcx, qword ptr [rsp + 0x70] 
+033632ee 4833cc                           xor      rcx, rsp 
+033632f1 e88a832b00                       call     0x361b680 
+033632f6 4c8d9c2480000000                 lea      r11, [rsp + 0x80] 
+033632fe 498b5b18                         mov      rbx, qword ptr [r11 + 0x18] 
+03363302 498b7320                         mov      rsi, qword ptr [r11 + 0x20] 
+03363306 498be3                           mov      rsp, r11 
+03363309 5f                               pop      rdi 
+0336330a c3                               ret       
+0336330b cc                               int3      
+0336330c cc                               int3      
+0336330d cc                               int3      
+0336330e cc                               int3      
+0336330f cc                               int3      
+03363310 48895c2408                       mov      qword ptr [rsp + 8], rbx 
+03363315 57                               push     rdi 
+03363316 4883ec40                         sub      rsp, 0x40 
+0336331a 488bd9                           mov      rbx, rcx 
+0336331d e8ae5d3efe                       call     0x17490d0 
+03363322 488d542420                       lea      rdx, [rsp + 0x20] 
+03363327 488bcb                           mov      rcx, rbx 
+0336332a 488bf8                           mov      rdi, rax 
+0336332d e83e6b3efe                       call     0x1749e70 
+03363332 488d542458                       lea      rdx, [rsp + 0x58] 
+03363337 488d4c2420                       lea      rcx, [rsp + 0x20] 
+0336333c e8ef3c3efe                       call     0x1747030 
+03363341 488d542460                       lea      rdx, [rsp + 0x60] 
+03363346 488d4c2430                       lea      rcx, [rsp + 0x30] 
+0336334b e8e03c3efe                       call     0x1747030 
+03363350 48634c2458                       movsxd   rcx, dword ptr [rsp + 0x58] 
+03363355 4533c9                           xor      r9d, r9d 
+03363358 483b4f08                         cmp      rcx, qword ptr [rdi + 8] 
+0336335c 7308                             jae      0x3363366 
+0336335e 488b07                           mov      rax, qword ptr [rdi] 
+03363361 4803c8                           add      rcx, rax 
+03363364 eb03                             jmp      0x3363369 
+03363366 498bc9                           mov      rcx, r9 
+03363369 4863542460                       movsxd   rdx, dword ptr [rsp + 0x60] 
+0336336e 410fb7c1                         movzx    eax, r9w 
+03363372 488b09                           mov      rcx, qword ptr [rcx] 
+03363375 4c8d04d1                         lea      r8, [rcx + rdx*8] 
+03363379 4d85c0                           test     r8, r8 
+0336337c 7403                             je       0x3363381 

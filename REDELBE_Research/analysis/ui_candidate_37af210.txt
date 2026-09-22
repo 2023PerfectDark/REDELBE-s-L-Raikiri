@@ -1,0 +1,35 @@
+37af210 48895c2408                   mov qword ptr [rsp + 8], rbx
+37af215 4889742410                   mov qword ptr [rsp + 0x10], rsi
+37af21a 57                           push rdi
+37af21b 4883ec40                     sub rsp, 0x40
+37af21f 488d0d4ed0f804               lea rcx, [rip + 0x4f8d04e]
+37af226 418bf1                       mov esi, r9d
+37af229 418bf8                       mov edi, r8d
+37af22c 8bda                         mov ebx, edx
+37af22e e845ef3500                   call 0x3b0e178
+37af233 8b442470                     mov eax, dword ptr [rsp + 0x70]
+37af237 4c8d442428                   lea r8, [rsp + 0x28]
+37af23c 895c2428                     mov dword ptr [rsp + 0x28], ebx
+37af240 488d542420                   lea rdx, [rsp + 0x20]
+37af245 488b1d5cf06402               mov rbx, qword ptr [rip + 0x264f05c]
+37af24c 897c242c                     mov dword ptr [rsp + 0x2c], edi
+37af250 89742430                     mov dword ptr [rsp + 0x30], esi
+37af254 c744243400000000             mov dword ptr [rsp + 0x34], 0
+37af25c 488d8b00010000               lea rcx, [rbx + 0x100]
+37af263 89442438                     mov dword ptr [rsp + 0x38], eax
+37af267 e8e429a2fe                   call 0x21d1c50
+37af26c 488b442420                   mov rax, qword ptr [rsp + 0x20]
+37af271 483b8300010000               cmp rax, qword ptr [rbx + 0x100]
+37af278 7513                         jne 0x37af28d
+37af27a 0f57c0                       xorps xmm0, xmm0
+37af27d 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af282 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af287 4883c440                     add rsp, 0x40
+37af28b 5f                           pop rdi
+37af28c c3                           ret 
+37af28d f30f10405c                   movss xmm0, dword ptr [rax + 0x5c]
+37af292 488b5c2450                   mov rbx, qword ptr [rsp + 0x50]
+37af297 488b742458                   mov rsi, qword ptr [rsp + 0x58]
+37af29c 4883c440                     add rsp, 0x40
+37af2a0 5f                           pop rdi
+37af2a1 c3                           ret 

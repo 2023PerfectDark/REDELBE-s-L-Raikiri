@@ -1,0 +1,228 @@
+{
+  "pid": 38708,
+  "tid": 45876,
+  "rip": "win32u.dll+0x1344",
+  "rsp": "0x1cc10ff2a8",
+  "stack_candidates": [
+    {
+      "offset": "0x0",
+      "value": "0x7ffa58522812",
+      "module": "USER32.dll+0x32812"
+    },
+    {
+      "offset": "0x8",
+      "value": "0x7ffa58505499",
+      "module": "USER32.dll+0x15499"
+    },
+    {
+      "offset": "0x10",
+      "value": "0x7ffa58511e90",
+      "module": "USER32.dll+0x21e90"
+    },
+    {
+      "offset": "0x58",
+      "value": "0x7ff99800cf08",
+      "module": "gameoverlayrenderer64.dll+0x16cf08"
+    },
+    {
+      "offset": "0x60",
+      "value": "0x7ff997f49a88",
+      "module": "gameoverlayrenderer64.dll+0xa9a88"
+    },
+    {
+      "offset": "0x78",
+      "value": "0x7ff99800cf08",
+      "module": "gameoverlayrenderer64.dll+0x16cf08"
+    },
+    {
+      "offset": "0x80",
+      "value": "0x7ff99800cf08",
+      "module": "gameoverlayrenderer64.dll+0x16cf08"
+    },
+    {
+      "offset": "0x88",
+      "value": "0x7ff99800cf08",
+      "module": "gameoverlayrenderer64.dll+0x16cf08"
+    },
+    {
+      "offset": "0x90",
+      "value": "0x7ff997f496be",
+      "module": "gameoverlayrenderer64.dll+0xa96be"
+    },
+    {
+      "offset": "0xb8",
+      "value": "0x7ff74a3a0000",
+      "module": "DOA6LR.exe+0x0"
+    },
+    {
+      "offset": "0xc0",
+      "value": "0x7ff74da8857b",
+      "module": "DOA6LR.exe+0x36e857b"
+    },
+    {
+      "offset": "0xd0",
+      "value": "0x7ff74a3a0000",
+      "module": "DOA6LR.exe+0x0"
+    },
+    {
+      "offset": "0x130",
+      "value": "0x7ffa59f8c2b4",
+      "module": "ntdll.dll+0x6c2b4"
+    },
+    {
+      "offset": "0x140",
+      "value": "0x7ff7501084f0",
+      "module": "DOA6LR.exe+0x5d684f0"
+    },
+    {
+      "offset": "0x190",
+      "value": "0x7ff74a3a0000",
+      "module": "DOA6LR.exe+0x0"
+    },
+    {
+      "offset": "0x1b0",
+      "value": "0x7ffa59000000",
+      "module": "RPCRT4.dll+0x0"
+    },
+    {
+      "offset": "0x200",
+      "value": "0x7ffa59f7fa2d",
+      "module": "ntdll.dll+0x5fa2d"
+    },
+    {
+      "offset": "0x340",
+      "value": "0x7ffa59f683cd",
+      "module": "ntdll.dll+0x483cd"
+    },
+    {
+      "offset": "0x348",
+      "value": "0x7ff752adc240",
+      "module": "DOA6LR.exe+0x873c240"
+    },
+    {
+      "offset": "0x360",
+      "value": "0x7ff74cf835b5",
+      "module": "DOA6LR.exe+0x2be35b5"
+    },
+    {
+      "offset": "0x368",
+      "value": "0x7ff752adc240",
+      "module": "DOA6LR.exe+0x873c240"
+    },
+    {
+      "offset": "0x370",
+      "value": "0x7ffa54497a8d",
+      "module": "dxgi.dll+0x7a8d"
+    },
+    {
+      "offset": "0x378",
+      "value": "0x7ff752adc15f",
+      "module": "DOA6LR.exe+0x873c15f"
+    },
+    {
+      "offset": "0x380",
+      "value": "0x7ff7501084f0",
+      "module": "DOA6LR.exe+0x5d684f0"
+    },
+    {
+      "offset": "0x388",
+      "value": "0x7ff752292ab0",
+      "module": "DOA6LR.exe+0x7ef2ab0"
+    },
+    {
+      "offset": "0x390",
+      "value": "0x7ff74cf7e62f",
+      "module": "DOA6LR.exe+0x2bde62f"
+    },
+    {
+      "offset": "0x398",
+      "value": "0x7ff752adc15f",
+      "module": "DOA6LR.exe+0x873c15f"
+    },
+    {
+      "offset": "0x3a8",
+      "value": "0x7ff752adc15f",
+      "module": "DOA6LR.exe+0x873c15f"
+    },
+    {
+      "offset": "0x3c0",
+      "value": "0x7ff74cf80097",
+      "module": "DOA6LR.exe+0x2be0097"
+    },
+    {
+      "offset": "0x3c8",
+      "value": "0x7ff752adc240",
+      "module": "DOA6LR.exe+0x873c240"
+    },
+    {
+      "offset": "0x3e0",
+      "value": "0x7ff74cf835b5",
+      "module": "DOA6LR.exe+0x2be35b5"
+    },
+    {
+      "offset": "0x3e8",
+      "value": "0x7ff752adc240",
+      "module": "DOA6LR.exe+0x873c240"
+    },
+    {
+      "offset": "0x3f0",
+      "value": "0x7ff752291f40",
+      "module": "DOA6LR.exe+0x7ef1f40"
+    },
+    {
+      "offset": "0x3f8",
+      "value": "0x7ff752adc15f",
+      "module": "DOA6LR.exe+0x873c15f"
+    },
+    {
+      "offset": "0x400",
+      "value": "0x7ff752291f10",
+      "module": "DOA6LR.exe+0x7ef1f10"
+    },
+    {
+      "offset": "0x428",
+      "value": "0x7ff74e72cc00",
+      "module": "DOA6LR.exe+0x438cc00"
+    },
+    {
+      "offset": "0x448",
+      "value": "0x7ff74e72cba0",
+      "module": "DOA6LR.exe+0x438cba0"
+    },
+    {
+      "offset": "0x468",
+      "value": "0x7ff74e72cbc0",
+      "module": "DOA6LR.exe+0x438cbc0"
+    },
+    {
+      "offset": "0x488",
+      "value": "0x7ff74e72cc18",
+      "module": "DOA6LR.exe+0x438cc18"
+    },
+    {
+      "offset": "0x4a8",
+      "value": "0x7ff74e72cc20",
+      "module": "DOA6LR.exe+0x438cc20"
+    },
+    {
+      "offset": "0x540",
+      "value": "0x7ff74d9bc92a",
+      "module": "DOA6LR.exe+0x361c92a"
+    },
+    {
+      "offset": "0x580",
+      "value": "0x7ffa586fcd87",
+      "module": "KERNEL32.DLL+0x2cd87"
+    },
+    {
+      "offset": "0x5b0",
+      "value": "0x7ffa59fccaec",
+      "module": "ntdll.dll+0xacaec"
+    },
+    {
+      "offset": "0x5e8",
+      "value": "0x7ff752e93310",
+      "module": "DOA6LR.exe+0x8af3310"
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+[
+  {
+    "rva": "0x42f3da8",
+    "text": "kids::placeable::camera::ApplyMotion"
+  },
+  {
+    "rva": "0x42f3dd0",
+    "text": "kids::placeable::model::ApplyMotion"
+  },
+  {
+    "rva": "0x4c95858",
+    "text": "kids::placeable::enum::AnimationTextureCycle"
+  },
+  {
+    "rva": "0x4c95cb0",
+    "text": "kids::placeable::camera::CopyLastCommitCamera"
+  },
+  {
+    "rva": "0x4c95d18",
+    "text": "kids::placeable::camera::CommitChanges"
+  },
+  {
+    "rva": "0x4c95d40",
+    "text": "kids::placeable::camera::CalcQTFromLastCommit"
+  },
+  {
+    "rva": "0x4c95d70",
+    "text": "kids::placeable::camera::ApplyMotionEx"
+  },
+  {
+    "rva": "0x4c95d98",
+    "text": "kids::placeable::camera::CheckLocation"
+  },
+  {
+    "rva": "0x4c95dc0",
+    "text": "kids::placeable::camera::Reset"
+  },
+  {
+    "rva": "0x4c95de0",
+    "text": "kids::placeable::camera::ApplyCameraOffset"
+  },
+  {
+    "rva": "0x4c95e18",
+    "text": "kids::placeable::camera::Orbit"
+  },
+  {
+    "rva": "0x4c95e40",
+    "text": "kids::placeable::camera::CalcAt"
+  },
+  {
+    "rva": "0x4c95e60",
+    "text": "kids::placeable::camera::SetEyeAt"
+  },
+  {
+    "rva": "0x4c95e88",
+    "text": "kids::placeable::camera::CalcAtWithFocalLength"
+  },
+  {
+    "rva": "0x4c95eb8",
+    "text": "kids::placeable::camera::GetTimeOfDay"
+  },
+  {
+    "rva": "0x4c95ee8",
+    "text": "kids::placeable::camera::SetTimeOfDay"
+  },
+  {
+    "rva": "0x4c95f18",
+    "text": "kids::placeable::camera::FitStageObject"
+  },
+  {
+    "rva": "0x4c95f50",
+    "text": "kids::placeable::camera::ShaderDeltaTimeScaler"
+  },
+  {
+    "rva": "0x4c95f80",
+    "text": "kids::placeable::camera::SetVideoStreamset"
+  },
+  {
+    "rva": "0x4c95fb0",
+    "text": "kids::placeable::camera::SetForceHide"
+  },
+  {
+    "rva": "0x4c95fd8",
+    "text": "kids::placeable::camera::DisableMotionBlur"
+  },
+  {
+    "rva": "0x4c96008",
+    "text": "kids::placeable::camera::DisableLowResolutionEffect"
+  },
+  {
+    "rva": "0x4c96040",
+    "text": "kids::placeable::camera::GetCameraRigUpdateType"
+  },
+  {
+    "rva": "0x4c96070",
+    "text": "kids::placeable::camera::GetLastCommitChangedCameraW2V"
+  },
+  {
+    "rva": "0x4c960a8",
+    "text": "kids::placeable::camera::CommitRADEN"
+  },
+  {
+    "rva": "0x4c960d0",
+    "text": "kids::placeable::camera::CommitOBORO"
+  },
+  {
+    "rva": "0x4c960f8",
+    "text": "kids::placeable::camera::CommitFSR2"
+  },
+  {
+    "rva": "0x4c96120",
+    "text": "kids::placeable::camera::CommitSuperSampling"
+  },
+  {
+    "rva": "0x4c96150",
+    "text": "kids::placeable::camera::CommitPSSR"
+  },
+  {
+    "rva": "0x4c96178",
+    "text": "kids::placeable::camera::CommitKTSS"
+  },
+  {
+    "rva": "0x4c961a0",
+    "text": "kids::placeable::camera::CommitAMDFSR"
+  },
+  {
+    "rva": "0x4c961c8",
+    "text": "kids::placeable::camera::CommitXeSS"
+  },
+  {
+    "rva": "0x4c961f0",
+    "text": "kids::placeable::camera::CommitDynamicRenderingResolution"
+  },
+  {
+    "rva": "0x4c96230",
+    "text": "kids::placeable::camera::CommitFSR1SecondUpscale"
+  },
+  {
+    "rva": "0x4c96268",
+    "text": "kids::placeable::camera::CommitMIO"
+  },
+  {
+    "rva": "0x4c96290",
+    "text": "kids::placeable::camera::CommitVirtualShadowMap"
+  },
+  {
+    "rva": "0x4c962c0",
+    "text": "kids::placeable::camera::CommitUltraMarine"
+  },
+  {
+    "rva": "0x4c962f0",
+    "text": "kids::placeable::camera::CommitCommon"
+  },
+  {
+    "rva": "0x4c96318",
+    "text": "kids::placeable::camera::CommitOcclusion"
+  },
+  {
+    "rva": "0x4c96348",
+    "text": "kids::placeable::camera::CommitRayTracing"
+  },
+  {
+    "rva": "0x4c96378",
+    "text": "kids::placeable::camera::CommitQuality"
+  },
+  {
+    "rva": "0x4c963a0",
+    "text": "kids::placeable::camera::CommitARPSSS"
+  },
+  {
+    "rva": "0x4c963c8",
+    "text": "kids::placeable::camera::CommitDLSS"
+  },
+  {
+    "rva": "0x4c963f0",
+    "text": "kids::placeable::camera::CommitReflectionProbe"
+  },
+  {
+    "rva": "0x4c96420",
+    "text": "kids::placeable::camera::CommitOuterTextureRenderTarget"
+  },
+  {
+    "rva": "0x4c96458",
+    "text": "kids::placeable::camera::CommitSkyDomeLensFlare"
+  },
+  {
+    "rva": "0x4c96488",
+    "text": "kids::placeable::camera::CommitAdditionalInterpolateLUT"
+  },
+  {
+    "rva": "0x4c964c0",
+    "text": "kids::placeable::camera::CommitVolumetricFog"
+  },
+  {
+    "rva": "0x4c964f0",
+    "text": "kids::placeable::camera::CommitOutlineHighlight"
+  },
+  {
+    "rva": "0x4c96520",
+    "text": "kids::placeable::camera::CommitSaturationFader"
+  },
+  {
+    "rva": "0x4c96570",
+    "text": "kids::placeable::camera::CommitBlendObjectIntoLandscape"
+  },
+  {
+    "rva": "0x4c96638",
+    "text": "kids::placeable::screenlayout::PlayAnimationOneTime"
+  },
+  {
+    "rva": "0x4c96678",
+    "text": "kids::placeable::screenlayout::IsAnimationFrameEnd"
+  },
+  {
+    "rva": "0x4c966b0",
+    "text": "kids::placeable::screenlayout::PlayAnimationLoop"
+  },
+  {
+    "rva": "0x4c966e8",
+    "text": "kids::placeable::screenlayout::StopAnimation"
+  },
+  {
+    "rva": "0x4c96880",
+    "text": "kids::placeable::model::ApplyDefaultMotion"
+  },
+  {
+    "rva": "0x4c968f8",
+    "text": "kids::placeable::model::ApplyDefaultMotionWithFbIKLinkObject"
+  },
+  {
+    "rva": "0x4c96968",
+    "text": "kids::placeable::model::ApplyMotionWithHandle"
+  },
+  {
+    "rva": "0x4c96998",
+    "text": "kids::placeable::model::ApplyRealtimeRigAndAnimationRig"
+  },
+  {
+    "rva": "0x4c96a20",
+    "text": "kids::placeable::model::ApplyMotionReference"
+  },
+  {
+    "rva": "0x4c970d8",
+    "text": "kids::placeable::model::UpdateStageModelAnimation"
+  },
+  {
+    "rva": "0x4c972d0",
+    "text": "kids::placeable::model::ApplyActionWithCameraToEnd"
+  },
+  {
+    "rva": "0x4c97320",
+    "text": "kids::placeable::model::ApplyActionWithCameraAndLightContainerToEnd"
+  },
+  {
+    "rva": "0x4c97878",
+    "text": "kids::placeable::model::SetSwing2AnimationBlendRate"
+  },
+  {
+    "rva": "0x4c978b0",
+    "text": "kids::placeable::model::SetPonytail2AnimationBlendRate"
+  },
+  {
+    "rva": "0x4c98330",
+    "text": "kids::placeable::level::FollowCamera"
+  },
+  {
+    "rva": "0x4c98368",
+    "text": "kids::placeable::level::FollowCamera2"
+  },
+  {
+    "rva": "0x4c988d0",
+    "text": "kids::placeable::event::CameraCommitChanges"
+  },
+  {
+    "rva": "0x4c98988",
+    "text": "kids::view::GetViewCameraW2C"
+  },
+  {
+    "rva": "0x4c989a8",
+    "text": "kids::animation::GetFrameLength"
+  },
+  {
+    "rva": "0x4c989c8",
+    "text": "kids::view::GetViewCameraRawW2V"
+  },
+  {
+    "rva": "0x4c989e8",
+    "text": "kids::view::GetViewCameraW2V"
+  },
+  {
+    "rva": "0x4c98a08",
+    "text": "kids::view::GetViewCameraRawEye"
+  },
+  {
+    "rva": "0x4c98a28",
+    "text": "kids::view::GetViewCameraRawV2C"
+  },
+  {
+    "rva": "0x4c98ad0",
+    "text": "kids::motiongraph::GetAnimationMaxTime"
+  },
+  {
+    "rva": "0x4c98af8",
+    "text": "kids::motiongraph::CalcFrameLengthAndBlendWeights1D"
+  },
+  {
+    "rva": "0x4c98b38",
+    "text": "kids::motiongraph::CalcFrameLengthAndBlendWeights2D"
+  },
+  {
+    "rva": "0x4c98b78",
+    "text": "kids::motiongraph::MotionGraphLinearBlend"
+  },
+  {
+    "rva": "0x4c98bb0",
+    "text": "kids::motiongraph::RegisterMotionGraphFinalPose"
+  },
+  {
+    "rva": "0x4c98be0",
+    "text": "kids::motiongraph::MotionGraphLayeredBlend"
+  },
+  {
+    "rva": "0x4c98c10",
+    "text": "kids::animationgraph::impl::ApplyMotion"
+  },
+  {
+    "rva": "0x4c98c58",
+    "text": "kids::animationgraph::impl::ApplySkeleton"
+  },
+  {
+    "rva": "0x4c98c90",
+    "text": "kids::animationgraph::impl::ApplyBlendSpace"
+  },
+  {
+    "rva": "0x4c98cd0",
+    "text": "kids::animationgraph::impl::LinearBlendSkeleton"
+  },
+  {
+    "rva": "0x4c98d10",
+    "text": "kids::animationgraph::impl::LayeredBlendSkeleton"
+  },
+  {
+    "rva": "0x4c98d48",
+    "text": "kids::animationgraph::impl::BeginUpdateFbIK"
+  },
+  {
+    "rva": "0x4c98d78",
+    "text": "kids::animationgraph::impl::ApplyMotionAsAdd"
+  },
+  {
+    "rva": "0x4c98da8",
+    "text": "kids::animationgraph::impl::EndUpdateFbIK"
+  },
+  {
+    "rva": "0x4c98de0",
+    "text": "kids::animationgraph::impl::AddFbIKConstraint"
+  },
+  {
+    "rva": "0x4c98e20",
+    "text": "kids::animationgraph::impl::AddFbIKComConstraint"
+  },
+  {
+    "rva": "0x4c98e68",
+    "text": "kids::animationgraph::impl::GetBoneTransformMS"
+  },
+  {
+    "rva": "0x4c98e98",
+    "text": "kids::animationgraph::impl::GetCenterOfMass"
+  },
+  {
+    "rva": "0x4c98ed0",
+    "text": "kids::animationgraph::impl::AddFootOnGroundConstraintByHeightMap"
+  },
+  {
+    "rva": "0x4c98f38",
+    "text": "kids::animationgraph::impl::ApplyQuaternionToBone"
+  },
+  {
+    "rva": "0x4c98f70",
+    "text": "kids::animationgraph::impl::MotionNoiseRotation"
+  },
+  {
+    "rva": "0x4c98fa0",
+    "text": "kids::animationgraph::impl::LookAtPosition"
+  },
+  {
+    "rva": "0x4c98fd8",
+    "text": "kids::animationgraph::impl::GetCachedPose"
+  },
+  {
+    "rva": "0x4c99008",
+    "text": "kids::animationgraph::impl::CreateApplyTargetSkeletonClone"
+  },
+  {
+    "rva": "0x4c99048",
+    "text": "kids::animationgraph::impl::RegisterPose"
+  },
+  {
+    "rva": "0x4c99078",
+    "text": "kids::animationgraph::impl::ApplyMotionWithVelocitySeparation"
+  },
+  {
+    "rva": "0x4c990d0",
+    "text": "kids::animationgraph::impl::ApplyBlendSpaceWithVelocitySeparation"
+  },
+  {
+    "rva": "0x4c99130",
+    "text": "kids::animationgraph::impl::EndApplyBoneBlend"
+  },
+  {
+    "rva": "0x4c99160",
+    "text": "kids::animationgraph::impl::BeginApplyBoneBlend"
+  },
+  {
+    "rva": "0x4c99190",
+    "text": "kids::animationgraph::impl::RegisterBoneBlendParam"
+  },
+  {
+    "rva": "0x4c991d0",
+    "text": "kids::animationgraph::impl::RegisterBoneBlendParamOfChildren"
+  },
+  {
+    "rva": "0x4c99220",
+    "text": "kids::animationgraph::impl::ApplyBoneBlend"
+  },
+  {
+    "rva": "0x4c99250",
+    "text": "kids::animationgraph::impl::RegisterBoneBlendParamOfParent"
+  },
+  {
+    "rva": "0x4c9dd28",
+    "text": "kids::motionmatching::GetTrajectoryWS"
+  },
+  {
+    "rva": "0x4d17790",
+    "text": "kids::automaton::CameraRig"
+  },
+  {
+    "rva": "0x4d177b0",
+    "text": "kids::automaton::CameraRigUnits"
+  },
+  {
+    "rva": "0x4d177d0",
+    "text": "kids::automaton::kids_env_CameraRig"
+  },
+  {
+    "rva": "0x4d177f8",
+    "text": "kids::automaton::kids_env_CameraRigUnits"
+  }
+]

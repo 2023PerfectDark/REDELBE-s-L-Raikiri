@@ -1,0 +1,13 @@
+{
+  "Executable": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415\\DOA6LR.exe",
+  "WorkingDirectory": "G:\\Dead or Alive Only\\SteamLibrary\\steamapps\\common\\Dead or Alive 6 Last Round - Backup 2026-09-15_210415",
+  "DirectoryVerifiedBy": "Read-only process_directory.py",
+  "LauncherSHA256": "A379462BB45C608E5F4FA4A43C5B33C1D83B99958012476AC0ABF24CDE7E2A45",
+  "IndexRedirectObserved": true,
+  "CostumeAppearanceVerified": true,
+  "Checked": "2026-09-15T21:42:35.6881933-04:00",
+  "AppearanceEvidence": "User confirmed costume changes in character selection.",
+  "AyaneModelRedirectObserved": true,
+  "UniqueReplacementAssetsObserved": 50,
+  "MatchStabilityVerified": false
+}
