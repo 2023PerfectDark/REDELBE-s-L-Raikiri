@@ -18,6 +18,13 @@ static void install() {
  // Preserve RAX and flags; DL changes only for fighter slots 0 and 1 while armed.
  auto code=l2::bytes("50 9C 48 B8 00 00 00 00 00 00 00 00 80 38 00 74 07 83 FE 01 77 02 B2 01 9D 58 42 88 94 35 BE 00 00 00");
  auto flag=reinterpret_cast<uintptr_t>(&cpuBoth);memcpy(code.data()+4,&flag,8);
+ // Capture the native CPU flags (including the AI-vs-AI override), preserving
+ // the original RAX and flags. A new P1 snapshot starts a color-roll epoch.
+ code.resize(code.size()-10);
+ auto capture=l2::bytes("83 FE 01 77 0D 48 B8 00 00 00 00 00 00 00 00 88 14 30 85 F6 75 0C 48 B8 00 00 00 00 00 00 00 00 FF 00 9D 58 42 88 94 35 BE 00 00 00");
+ auto cpus=reinterpret_cast<uintptr_t>(&fighterCpu[0]);memcpy(capture.data()+7,&cpus,8);
+ auto epoch=reinterpret_cast<uintptr_t>(&cpuGeneration);memcpy(capture.data()+24,&epoch,8);
+ code.insert(code.end(),capture.begin(),capture.end());
  memcpy(relay,code.data(),code.size());l2::absoluteJump(relay+code.size(),site+8);
  DWORD old;if(!VirtualProtect(relay,0x1000,PAGE_EXECUTE_READ,&old))throw std::runtime_error("AI relay protection failed");
  FlushInstructionCache(GetCurrentProcess(),relay,0x1000);

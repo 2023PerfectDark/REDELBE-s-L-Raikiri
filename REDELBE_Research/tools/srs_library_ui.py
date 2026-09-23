@@ -80,7 +80,7 @@ class LibraryWindow:
             except OSError:pass
             if library.errors:messagebox.showwarning('Some banks could not be indexed','\n'.join(library.errors),parent=self.root)
             if self.embedded and self.studio.tabs.select()==str(self.studio.editor_page) and self.studio.doc is None:self.open_bank()
-        self.studio.run('Indexing audio banks and readable track names…',lambda:Library(p),done)
+        self.studio.run('Indexing audio banks and readable track names…',lambda:Library(p,progress=self.studio.report_progress),done,loading=True)
     def populate(self):
         if not self.library:return
         self.tree.delete(*self.tree.get_children());q=self.query.get().lower();tag=self.tag.get()
@@ -118,9 +118,9 @@ class LibraryWindow:
         if row is None or not self.studio.discard():return
         import uuid
         target=Path(self.studio.temp.name)/('bank_'+uuid.uuid4().hex)
-        def task():return Document(self.library.export_bank(row['bank'],target))
+        def task():return Document(self.library.export_bank(row['bank'],target),progress=self.studio.report_progress)
         def done(doc):
             self.studio.accept(doc);iid=f"0x{row['id']:08x}"
             if self.studio.tree.exists(iid):self.studio.tree.selection_set(iid);self.studio.tree.see(iid)
             self.studio.root.lift()
-        self.studio.run('Reading the selected game bank into the editor…',task,done)
+        self.studio.run('Reading the selected game bank into the editor…',task,done,loading=True)

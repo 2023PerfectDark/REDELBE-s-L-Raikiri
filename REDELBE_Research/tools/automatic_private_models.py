@@ -57,15 +57,22 @@ def prepare(game,package,definitions,recipes=None):
    for _,tex in struct.iter_unpack('<II',payload(ktid)):
     result.add(cloner.locate(tex).scalar(tex,MaterialCloner.TEXTURE))
   related_cache[name]=result;return result
- reports=[];success={}
+ reports=[];success={};asset_templates={}
  for number,(slot,name,directory) in enumerate(definitions,1):
   if not re.fullmatch(r'[A-Z0-9]+_(COS|HAIR|FACE)_[0-9]+[a-z]?',slot):continue
   row={'mod':number,'name':name,'slot':slot,'status':'classic','reason':''};reports.append(row)
   prior_keys={k:set(db.items) for k,db in dbs.items()};prior_assets=set(cloner.assets);prior_audit=len(cloner.audit)
+  donor_file=Path(directory)/'texture_donors.json'
+  donor_rows=json.loads(donor_file.read_text()) if donor_file.exists() else []
+  cloner.object_replacements={}
   try:
    if slot not in settings:raise ValueError('Slot absent from current native registry')
    files={int(p.stem,16):p.read_bytes() for p in Path(directory).rglob('*') if p.is_file() and re.fullmatch(r'0x[0-9a-fA-F]{8}\.[a-zA-Z0-9]+',p.name)}
    recipe=recipes.get(number,{})
+   for donor in donor_rows:
+    oid=donor['object'];replacement=(donor['legacy'],donor['donor'],files[donor['legacy']])
+    if oid in cloner.object_replacements and cloner.object_replacements[oid]!=replacement:raise ValueError('Conflicting legacy textures for one material object')
+    cloner.object_replacements[oid]=replacement
    aliases=[(int(target,0),int(source,0)) for target,source in recipe.get('texture_aliases',{}).items()]
    for _ in range(len(aliases)+1):
     changed=False
@@ -108,6 +115,7 @@ def prepare(game,package,definitions,recipes=None):
     first_audit=len(cloner.audit);first_assets=set(cloner.assets)
     cs=clone_model(cloner,settings[source],files,binding_override=binding,rebuild_materials=part_recipe.get('rebuild_materials',False))
     consumed.update(a['original_resource'] for a in cloner.audit[first_audit:])
+    consumed.update(a['legacy_resource'] for a in cloner.audit[first_audit:] if 'legacy_resource' in a)
     consumed.update(cloner.assets[k]['source'] for k in set(cloner.assets)-first_assets)
     hidden=allocator.allocate(source);local_slots[hidden]=cs;routes[source]=hidden
    for _ in range(len(aliases)+1):
@@ -117,6 +125,19 @@ def prepare(game,package,definitions,recipes=None):
     if len(consumed)==before:break
    visual={fid for fid,data in files.items() if data[:4] in (b'GT1G',b'_M1G')}
    if visual-consumed:raise ValueError('Unmapped visual resources '+','.join(hex(i) for i in sorted(visual-consumed))+'; parts='+','.join(chosen))
+   templates={}
+   for fid in set(cloner.assets)-prior_assets:
+    source=cloner.assets[fid]['source'];reachable={source}
+    for _ in range(len(aliases)+1):
+     before=len(reachable)
+     for left,right in aliases:
+      if left in reachable or right in reachable:reachable.update((left,right))
+     if len(reachable)==before:break
+    if source in resources:templates[fid]=source
+    else:
+     native=sorted(reachable & resources.keys())
+     if native:templates[fid]=native[0]
+   asset_templates.update(templates)
    newslots.update(local_slots);success[number]={'routes':routes,'assets':set(cloner.assets)-prior_assets,'consumed':consumed}
    row.update(status='isolated',reason='',models=routes)
   except (ValueError,KeyError,struct.error) as exc:
@@ -124,7 +145,7 @@ def prepare(game,package,definitions,recipes=None):
     for oid in set(db.items)-prior_keys[k]:del db.items[oid]
    for fid in set(cloner.assets)-prior_assets:del cloner.assets[fid]
    del cloner.audit[prior_audit:]
-   row['reason']=str(exc)
+   row['reason']=('Private texture donors not applied; native fallback retained. ' if donor_rows else '')+str(exc)
  if not success:
   (package/'private_models.json').write_text(json.dumps(reports,indent=2));return reports
  # Only extend the registry after every individual clone transaction completes.
@@ -157,7 +178,16 @@ def prepare(game,package,definitions,recipes=None):
   manifest['dependencies']=[x for x in manifest.get('dependencies',[]) if int(x['id'],16)!=fid]
   manifest['dependencies'].append({'id':hex(fid),'sha256':hashlib.sha256(data).hexdigest()})
  for fid,db in {**dbs,SCN:scn}.items():place(fid,db.serialize(),fid)
- for fid,asset in cloner.assets.items():place(fid,asset['payload'],asset['source'])
+ native_templates={}
+ for fid,asset in cloner.assets.items():
+  source=asset_templates.get(fid,asset['source'])
+  if source in resources or source in rr:native_templates.setdefault(asset['extension'],source)
+ for fid,asset in cloner.assets.items():
+  source=asset_templates.get(fid,asset['source'])
+  if source not in resources and source not in rr:
+   source=native_templates.get(asset['extension'])
+   if source is None:raise ValueError('No native registry template for private '+asset['extension']+' resource '+hex(asset['source']))
+  place(fid,asset['payload'],source)
  header=bytearray(shadow[:u(shadow,8)]);struct.pack_into('<I',header,16,len(rr));overlay.write_bytes(header+b''.join(rr[k] for k in sorted(rr)))
  redirects=dict(line.split('\t') for line in (package/'redirects.tsv').read_text().splitlines());redirects['fdata_package/root.rdb']='overlay/root.rdb'
  (package/'redirects.tsv').write_text(''.join(k+'\t'+v+'\n' for k,v in redirects.items()))

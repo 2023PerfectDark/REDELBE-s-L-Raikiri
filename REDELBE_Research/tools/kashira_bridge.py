@@ -9,10 +9,11 @@ import argparse,contextlib,ctypes,hashlib,json,os,re,shutil,struct,subprocess,sy
 from build_layer2_package import build,slot_hash
 from verify_layer2_package import verify
 from lr_resources import read_index
+from runtime_paths import internal_path
 
 MARKER='Content_Legacy/redelbe_layer2.json'
 PARTS=('root.rdb','root.rdx','system.rdb','system.rdx')
-BRIDGE_VERSION=8
+BRIDGE_VERSION=10
 
 def digest(path):
     h=hashlib.sha256()
@@ -165,7 +166,7 @@ def game_closed(game):
     finally:k.CloseHandle(snapshot)
 
 def input_plan(game):
-    config=read_json(game/'REDELBE_LR/bridge.json')
+    config=read_json(internal_path(game,'bridge.json'))
     installed={};stamps=[]
     for p in sorted((game/'_Kashira/Mods').glob('*.ktmod')):
         installed[p.stem]=p
@@ -197,6 +198,9 @@ def input_plan(game):
     stamps.extend(fingerprint(game))
     from loose_layer2 import fingerprint as layer2_fingerprint
     stamps.extend(layer2_fingerprint(game))
+    for name in ('hair_colors.tsv','records.json','cache.json'):
+        p=game/'REDELBE_LR/HairColorSupport'/name
+        stamps.append(('hair_support/'+name,digest(p) if p.is_file() else None))
     key=hashlib.sha256(json.dumps([BRIDGE_VERSION,config,profile,indices,stamps],sort_keys=True).encode()).hexdigest()
     return key,indices,candidates
 
@@ -221,7 +225,7 @@ def materialize(file,meta,project,destination,known_ids=None,skipped=None):
                 raise ValueError(f'Layer2 preparation requires LR hash-named assets: {name}')
             key=name.split('.')[0].lower()
             if key in seen:raise ValueError('Duplicate resource ID in project')
-            if known_ids is not None and int(key,16) not in known_ids:
+            if known_ids is not None and int(key,16) not in known_ids and Path(name).suffix.lower()!='.g1t':
                 if skipped is not None:skipped.append({'mod':meta['name'],'file':name,'reason':'Resource ID absent from LR indexes; Kashira legacy Apply also skips it'})
                 continue
             seen.add(key);(destination/name).write_bytes(read())
@@ -232,8 +236,8 @@ def sync(game):
     game=Path(game).resolve();game_closed(game)
     if not (game/'DOA6LR.exe').is_file():raise ValueError('DOA6LR.exe missing from selected folder')
     root=game/'REDELBE_LR';root.mkdir(exist_ok=True)
-    if not (root/'bridge.json').exists():write_json(root/'bridge.json',{'projects':{}})
-    adapter=game/'REDELBE_LR/bridge_tools/REDELBE_Kashira_Prepare.exe'
+    if not (internal_path(game,'bridge.json')).exists():write_json(internal_path(game,'bridge.json'),{'projects':{}})
+    adapter=internal_path(game,'bridge_tools')/'REDELBE_Kashira_Prepare.exe'
     if adapter.exists():
         from kashira_bundle import prepare_core
         prepare_core(game,adapter)
@@ -256,7 +260,7 @@ def sync(game):
     staging.mkdir(parents=True)
     definitions=[];skipped=[]
     known_ids={e['id'] for db in ('root','system') for e in read_index(game/'fdata_package'/f'{db}.rdb')[1]}
-    config=read_json(root/'bridge.json');restoration=None
+    config=read_json(internal_path(game,'bridge.json'));restoration=None
     if config.get('legacy_restoration'):
         restoration=safe_child(game,config['legacy_restoration'])
         from legacy_restoration import load_plan
@@ -269,6 +273,8 @@ def sync(game):
     definitions.extend(loose)
     from rrpreview import prepare as prepare_rrpreview
     definitions.extend(prepare_rrpreview(game,staging/'rrpreview'))
+    from legacy_texture_donors import prepare as prepare_donors
+    report['texture_donors']=prepare_donors(game,definitions,known_ids)
     report['skipped_unregistered_assets']=skipped;write_json(root/'bridge_sources.json',report)
     build(game,target,definitions,restoration)
     from hair_color_support import prepare as prepare_hair_colors
@@ -299,7 +305,7 @@ def main():
     p=sp.add_parser('sync');p.add_argument('game',type=Path)
     p=sp.add_parser('export');p.add_argument('project',type=Path);p.add_argument('package',type=Path)
     p=sp.add_parser('install');p.add_argument('source',type=Path);p.add_argument('game',type=Path)
-    p=sp.add_parser('uninstall');p.add_argument('game',type=Path)
+    p=sp.add_parser('uninstall');p.add_argument('game',type=Path);p.add_argument('--mode',choices=('all','keep-mods'),required=True)
     a=ap.parse_args()
     if a.command=='make-projects':make_projects(a.package,a.output)
     elif a.command=='export':export_project(a.project,a.package)
@@ -307,8 +313,8 @@ def main():
         from portable_install import install
         install(a.source,a.game)
     elif a.command=='uninstall':
-        from portable_install import uninstall
-        uninstall(a.game)
+        from uninstall_release import uninstall
+        uninstall(a.game,a.mode)
     else:
         error_path=a.game/'REDELBE_LR/bridge_last_error.txt'
         try:

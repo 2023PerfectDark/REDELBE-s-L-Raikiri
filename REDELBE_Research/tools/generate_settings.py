@@ -44,6 +44,9 @@ supported('Debug','log_virtual','boolean',False,'Log mod resource access','Log L
 supported('Debug','log_external','boolean',False,'Log loose resource opens','Log opens of LR fdata_package/data resource files; not original DOA6 RDB semantics.')
 supported('Debug','log_internal','boolean',False,'Log archive container opens','Log opens of LR packed archive containers (first 4,000 opens per run). Does not trace individual packed resource reads.')
 supported('Debug','log_ui_events','boolean',False,'Log UI animation events','Verbose UI tracing. Normal startup, error, selection and roster-transition logs remain enabled.')
+supported('HairColors','storage_mode','enum','full','Hair color storage','full generates the complete palette; cache generates colors on demand with a 1 GB LRU limit. Run Prepare Hair Colors after changing this option.',choices=['full','cache'])
+supported('Random','enable_random_hair_colors','boolean',False,'Random CPU hair colors','Random custom colors for verified offline Versus CPU fighters. Requires the full hair palette. Saved wardrobe choices are unchanged.')
+supported('RandomHairColor','probability','integer',35,'CPU hair color probability','Percentage chance per match for a CPU to receive a non-default color different from its saved color. Requires enable_random_hair_colors and full palette.',minimum=1,maximum=100)
 for e in entries:
  if e['status']=='unavailable':e['readOnly']=True
  if e['type']=='integer' and 'minimum' not in e:e.update(minimum=0,maximum=100 if e['key']=='probability' or e['key']=='stage_probability' else 1000)

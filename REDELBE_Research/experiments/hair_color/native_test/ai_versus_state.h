@@ -3,6 +3,8 @@ namespace aivsai {
 static bool available=false,sideOpen=false,neutral=true,confirmWas=false;
 static bool versusRoute=false;
 static volatile BYTE cpuBoth=0;
+static volatile BYTE fighterCpu[2]{};
+static volatile ULONG cpuGeneration=0;
 static unsigned phase=0;
 static ULONGLONG began=0;
 static void reset(){cpuBoth=0;phase=0;sideOpen=false;neutral=true;}

@@ -6,6 +6,9 @@
 #include "pattern_parts_state.h"
 int main(){
     using namespace tickets;
+    State windowsWallet;
+    assert(decode("REDELBE_LOCAL_TICKETS 1\r\n5\r\nhair.HON.001.5\r\n",windowsWallet));
+    assert(windowsWallet.balance==5&&windowsWallet.unlocks.count("hair.HON.001.5"));
     std::string disk;bool allow=true;
     Wallet wallet({},[&](const std::string& s){if(!allow)return false;disk=s;return true;});
     assert(wallet.unlock("hair.HON.001.5",5)==Purchase::insufficient);

@@ -1,6 +1,7 @@
 import hashlib,json,tempfile,unittest
 from pathlib import Path
 from portable_install import install,uninstall
+from runtime_paths import internal_path
 class PortableTests(unittest.TestCase):
  def fixture(self,root):
   source=root/'Package';source.mkdir();game=root/'Unrelated path with spaces';game.mkdir()
@@ -30,7 +31,7 @@ class PortableTests(unittest.TestCase):
    (game/name).parent.mkdir();(game/name).write_text('; custom\n[UI]\ncharacter_roster_transitions=false\n[Future]\nkey=value\n')
    before=(game/name).read_bytes();install(source,game)
    self.assertEqual((game/name).read_bytes(),before)
-   self.assertEqual(json.loads((game/'REDELBE_LR/installed_files.json').read_text())[name],hashlib.sha256(before).hexdigest())
+   self.assertEqual(json.loads(internal_path(game,'installed_files.json').read_text())[name],hashlib.sha256(before).hexdigest())
  def test_foreign_proxy_conflict_has_no_install_side_effects(self):
   with tempfile.TemporaryDirectory() as d:
    source,game=self.fixture(Path(d));(game/'dinput8.dll').write_bytes(b'other loader')

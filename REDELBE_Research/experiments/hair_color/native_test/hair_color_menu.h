@@ -2,6 +2,7 @@
 #pragma comment(lib,"gdi32.lib")
 // DOA Central research UI. An owned, nonactivating window; not a native KSCL tab.
 // Only prevalidated albedo files in the prepared package can be selected.
+#include "hair_color_cache.h"
 namespace haircolor {
 static const wchar_t* names[]={L"Default",L"Black",L"Dark Brown",L"Light Brown",L"Dark Blonde",L"Platinum Blonde",L"Silver",L"White",L"Bright Red",L"Orange",L"Yellow",L"Lime Green",L"Cyan",L"Royal Blue",L"Purple",L"Pink"};
 static std::map<uint32_t,std::vector<std::pair<std::wstring,std::wstring>>> resources;
@@ -23,12 +24,15 @@ static bool refresh=false;
 static std::wstring settings;
 struct PlayerColor {uint32_t character=0,hair=0;unsigned slot=0;int color=0;bool known=false;};
 static PlayerColor players[2];
+static int cpuColors[2]{-1,-1};
 static bool battleHair[2]{};
 // During battle all prepared hair resources for the selected character inherit
 // the selected hairstyle's color, including damage variants preloaded by LR.
 // These routes never modify a different hairstyle's persisted wardrobe choice.
 static std::map<uint32_t,std::vector<uint32_t>> battleHairRoutes;
-static void beginBattleHair(uint32_t hair){
+static void randomCpuColor(unsigned side);
+static void beginBattleHair(uint32_t hair,int owner){
+ if(owner>=0&&owner<2){if(players[owner].hair!=hair)players[owner]={0,hair,0,0,false};randomCpuColor(unsigned(owner));}
  for(unsigned side=0;side<2;++side)if(players[side].hair==hair){battleHair[side]=true;}
 }
 struct SlotRead {uint32_t character=0,hair=0;unsigned slot=0;ULONGLONG at=0;};
@@ -64,8 +68,9 @@ static LRESULT CALLBACK proc(HWND w,UINT msg,WPARAM wp,LPARAM lp){
     int col=i%4,line=i/4;RECT row{8+col*154,65+line*100,160+col*154,163+line*100};
     if(i==focus){auto b=CreateSolidBrush(RGB(234,107,15));FillRect(dc,&row,b);DeleteObject(b);}
     row.left+=6;row.right-=6;
-    bool locked=i&&tickets::gated()&&!tickets::owned(currentCharacter,currentHair,i);
-    std::wstring text=names[i];if(locked)text+=L":";if(i==current)text+=L" *";
+    bool repeat=i&&i!=current&&tickets::gated()&&tickets::owned(currentCharacter,currentHair,i);
+    bool locked=i&&i!=current&&tickets::gated()&&!repeat;
+    std::wstring text=names[i];if(repeat)text+=L"\n100 coins";if(locked)text+=L":";if(i==current)text+=L" *";
     SIZE measured{};GetTextExtentPoint32W(dc,text.c_str(),int(text.size()),&measured);
     if(locked){
      auto price=std::to_wstring(userconfig::current.number("Tickets","hair_color_cost"));SIZE priceSize{};GetTextExtentPoint32W(dc,price.c_str(),int(price.size()),&priceSize);
@@ -74,7 +79,7 @@ static LRESULT CALLBACK proc(HWND w,UINT msg,WPARAM wp,LPARAM lp){
      DrawTextW(dc,text.c_str(),-1,&nameRect,DT_LEFT|DT_VCENTER|DT_SINGLELINE|DT_END_ELLIPSIS);
      int px=inlinePrice?row.left+measured.cx+3:row.left;int py=inlinePrice?row.top+32:row.top+48;
      tickets::drawIcon(dc,px,py,26);RECT costRect{px+29,py,row.right,py+30};DrawTextW(dc,price.c_str(),-1,&costRect,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
-    }else DrawTextW(dc,text.c_str(),-1,&row,DT_LEFT|DT_VCENTER|DT_SINGLELINE|DT_END_ELLIPSIS);
+    }else DrawTextW(dc,text.c_str(),-1,&row,DT_LEFT|DT_WORDBREAK);
    }
    RECT back{20,490,612,534};DrawTextW(dc,L"A / Click: Apply     B / Right-click: Back",-1,&back,DT_LEFT|DT_VCENTER|DT_SINGLELINE);
   }EndPaint(w,&ps);return 0;}
@@ -92,8 +97,10 @@ static void initialize(){
  // not the slot currently being edited. Use the observed slot cursor events.
  auto paletteRoot=gameRoot+L"REDELBE_LR\\HairColorSupport\\";
  if(GetFileAttributesW((paletteRoot+L"hair_colors.tsv").c_str())==INVALID_FILE_ATTRIBUTES)paletteRoot=workRoot;
+ haircache::root=paletteRoot;
+ haircache::enabled=GetFileAttributesW((paletteRoot+L"cache.json").c_str())!=INVALID_FILE_ATTRIBUTES;
  std::ifstream f(paletteRoot+L"hair_colors.tsv");std::string line;
- while(std::getline(f,line)){std::istringstream s(line);std::string hair,id,label;if(!std::getline(s,hair,'\t')||!std::getline(s,id,'\t'))continue;if(hair.size()!=8||id.size()!=8)continue;try{auto h=static_cast<uint32_t>(std::stoul(hair,nullptr,16));auto source=full((gameRoot+L"fdata_package\\data\\0x"+wide(id)+L".file").c_str());auto prefix=paletteRoot+L"HairColors\\"+wide(id)+L"_";bool valid=true;for(int i=1;i<16;i++)if(GetFileAttributesW((prefix+names[i]+L".file").c_str())==INVALID_FILE_ATTRIBUTES)valid=false;if(valid)resources[h].push_back({source,prefix});}catch(...){} }
+ while(std::getline(f,line)){std::istringstream s(line);std::string hair,id,label;if(!std::getline(s,hair,'\t')||!std::getline(s,id,'\t'))continue;if(hair.size()!=8||id.size()!=8)continue;try{auto h=static_cast<uint32_t>(std::stoul(hair,nullptr,16));auto source=full((gameRoot+L"fdata_package\\data\\0x"+wide(id)+L".file").c_str());auto prefix=paletteRoot+L"HairColors\\"+wide(id)+L"_";bool valid=true;if(!haircache::enabled)for(int i=1;i<16;i++)if(GetFileAttributesW((prefix+names[i]+L".file").c_str())==INVALID_FILE_ATTRIBUTES)valid=false;if(valid){resources[h].push_back({source,prefix});haircache::ids[source]=static_cast<uint32_t>(std::stoul(id,nullptr,16));}}catch(...){} }
  // Group only validated catalog entries, by their explicit character label.
  std::ifstream catalog(paletteRoot+L"hair_colors.tsv");
  std::map<std::string,std::vector<uint32_t>> groups;
@@ -119,12 +126,30 @@ static int savedColor(uint32_t chara,unsigned slot,uint32_t hair){
 static void bindPlayer(unsigned side,uint32_t chara,uint32_t hair){
  if(side>1)return;
  battleHair[side]=false;
+ cpuColors[side]=-1;
  auto previous=players[side];
  if(slotRead.character==chara&&slotRead.hair==hair&&GetTickCount64()-slotRead.at<1000){
   players[side]={chara,hair,slotRead.slot,savedColor(chara,slotRead.slot,hair),true};
  }else if(previous.character!=chara||previous.hair!=hair)players[side]={chara,hair,0,0,false};
  auto& p=players[side];
  log("HAIR COLOR BIND P"+std::to_string(side+1)+" char="+hex(chara)+" hair="+hex(hair)+" slot="+(p.known?std::to_string(p.slot):"unknown")+" color="+std::to_string(p.color));
+}
+static void randomCpuColor(unsigned side){
+ static ULONG epochs[2]{~0ul,~0ul};
+ if(side>1||epochs[side]==aivsai::cpuGeneration)return;
+ epochs[side]=aivsai::cpuGeneration;
+ cpuColors[side]=-1;
+ patternparts::Snapshot state{};
+ if(haircache::enabled||userconfig::current.text("HairColors","storage_mode")!="full"||!aivsai::available||!aivsai::fighterCpu[side]||!patternparts::ready||!patternparts::snapshot(state)||!patternparts::versus(state)||!userconfig::current.flag("Random","enable_random_hair_colors"))return;
+ auto& p=players[side];if(!p.hair||!resources.count(p.hair))return;
+ uint32_t samples[2]{};if(BCryptGenRandom(nullptr,reinterpret_cast<PUCHAR>(samples),sizeof(samples),BCRYPT_USE_SYSTEM_PREFERRED_RNG)<0)return;
+ unsigned probability=userconfig::current.number("RandomHairColor","probability");
+ // Failed roll retains the normal saved color; successful rolls exclude it.
+ if(samples[0]%100>=probability)return;
+ int previous=p.known?p.color:0;int color=1+int(samples[1]%(previous?14:15));
+ if(previous&&color>=previous)++color;
+ cpuColors[side]=color;
+ log("CPU HAIR COLOR P"+std::to_string(side+1)+" color="+std::to_string(color));
 }
 static void sync(bool apply,bool show,uint32_t hair,uint32_t chara,unsigned slot){
  bool previousContext=context;context=apply&&resources.count(hair)!=0;activeHair=context?hair:0;visible=show&&context;if(!visible)expanded=false;
@@ -133,7 +158,7 @@ static void sync(bool apply,bool show,uint32_t hair,uint32_t chara,unsigned slot
  if(!previousContext&&current)refresh=true;
  DWORD pid=0;auto w=GetForegroundWindow();GetWindowThreadProcessId(w,&pid);if(pid==GetCurrentProcessId()&&w!=window){gameWindow=w;if(!started){started=true;auto t=CreateThread(nullptr,0,thread,nullptr,0,nullptr);if(t)CloseHandle(t);}}
 }
-static std::wstring select(const std::wstring& path){
+static std::wstring selectColor(const std::wstring& path){
  if(context){
   if(!current)return L"";
   auto it=resources.find(activeHair);if(it==resources.end())return L"";
@@ -152,7 +177,7 @@ static std::wstring select(const std::wstring& path){
    if(!hair)continue;
    auto it=resources.find(hair);if(it==resources.end())continue;
    for(const auto& entry:it->second)if(entry.first==path){
-   int color=player.known?player.color:0;
+   int color=battleHair[side]&&cpuColors[side]>=0?cpuColors[side]:(player.known?player.color:0);
    if(choice>=0&&choice!=color)return L"";
    choice=color;if(color)chosen=entry.second+names[color]+L".file";
    }
@@ -160,7 +185,27 @@ static std::wstring select(const std::wstring& path){
  }
  return chosen;
 }
-static bool take(){if(refresh&&context){refresh=false;return true;}int value=pending.exchange(-1);if(!context||value<0||value>=16||value==current)return false;if(!tickets::purchaseHair(currentCharacter,currentHair,value)){log("TICKETS hair selection denied: insufficient balance or storage failure");return false;}auto saveKey=key(currentCharacter,currentSlot)+L"_hair_"+wide(hex(currentHair));if(!WritePrivateProfileStringW(L"Colors16",saveKey.c_str(),std::to_wstring(value).c_str(),settings.c_str())){log("HAIR COLOR save failed error="+std::to_string(GetLastError()));return false;}if(GetPrivateProfileIntW(L"Colors16",saveKey.c_str(),999,settings.c_str())!=static_cast<unsigned>(value)){log("HAIR COLOR save verification failed");return false;}current=value;log("HAIR COLOR saved key="+utf8(saveKey)+" color="+std::to_string(value));return true;}
+static std::wstring select(const std::wstring& path){
+ auto selected=selectColor(path);
+ if(!haircache::enabled)return selected;
+ int color=0;
+ for(int i=1;i<16&&!selected.empty();++i){auto suffix=std::wstring(names[i])+L".file";if(selected.size()>=suffix.size()&&selected.compare(selected.size()-suffix.size(),suffix.size(),suffix)==0){color=i;break;}}
+ auto cached=haircache::get(path,color);
+ if(cached.empty()&&color)cached=haircache::get(path,0);
+ return cached;
+}
+static bool take(){
+ if(refresh&&context){refresh=false;return true;}
+ int value=pending.exchange(-1);if(!context||value<0||value>=16||value==current)return false;
+ auto saveKey=key(currentCharacter,currentSlot)+L"_hair_"+wide(hex(currentHair));
+ wchar_t previous[32]{};GetPrivateProfileStringW(L"Colors16",saveKey.c_str(),L"",previous,32,settings.c_str());
+ auto save=[&](){return WritePrivateProfileStringW(L"Colors16",saveKey.c_str(),std::to_wstring(value).c_str(),settings.c_str())&&GetPrivateProfileIntW(L"Colors16",saveKey.c_str(),999,settings.c_str())==static_cast<unsigned>(value);};
+ if(!tickets::purchaseHair(currentCharacter,currentHair,value,save)){
+  WritePrivateProfileStringW(L"Colors16",saveKey.c_str(),previous[0]?previous:nullptr,settings.c_str());
+  log("HAIR COLOR purchase denied; previous choice retained");return false;
+ }
+ current=value;log("HAIR COLOR saved key="+utf8(saveKey)+" color="+std::to_string(value));return true;
+}
 static void pad(DWORD player,XINPUT_STATE* state,DWORD result){
  static WORD previous[4]{},swallowed[4]{};if(player>=4||result!=ERROR_SUCCESS)return;WORD buttons=state->Gamepad.wButtons,edge=buttons&~previous[player];previous[player]=buttons;swallowed[player]&=buttons;
  state->Gamepad.wButtons&=~swallowed[player];if(player!=0||!visible)return;bool block=expanded;bool g=pollG();block=block||g;

@@ -1022,7 +1022,7 @@
       "key": "roster_handoff",
       "type": "enum",
       "default": "fade",
-      "label": "Player 1 ready → Player 2 selection",
+      "label": "Player 1 ready \u2192 Player 2 selection",
       "description": "Fade or instantly show the roster when Player 1 confirms.",
       "status": "supported",
       "apply": "restart",
@@ -1148,6 +1148,51 @@
       "status": "supported",
       "apply": "restart",
       "group": "Debug",
+      "legacy": false
+    },
+    {
+      "section": "HairColors",
+      "key": "storage_mode",
+      "type": "enum",
+      "default": "full",
+      "choices": [
+        "full",
+        "cache"
+      ],
+      "label": "Hair color storage",
+      "description": "Full palette: approximately 27 GB. Cache: generate selected colors on demand with a 1 GB limit. Run Prepare Hair Colors after switching modes.",
+      "id": "HairColors.storage_mode",
+      "status": "supported",
+      "apply": "restart",
+      "group": "HairColors",
+      "legacy": false
+    },
+    {
+      "section": "Random",
+      "key": "enable_random_hair_colors",
+      "type": "boolean",
+      "default": false,
+      "label": "Random CPU hair colors",
+      "description": "Offline Versus CPUs only. Requires the full palette. Does not change hairstyles or saved wardrobe choices.",
+      "id": "Random.enable_random_hair_colors",
+      "status": "supported",
+      "apply": "restart",
+      "group": "Random",
+      "legacy": false
+    },
+    {
+      "section": "RandomHairColor",
+      "key": "probability",
+      "type": "integer",
+      "default": 35,
+      "minimum": 1,
+      "maximum": 100,
+      "label": "CPU color probability",
+      "description": "1 is a 1% chance; 100 always chooses a different custom color. Requires Random.enable_random_hair_colors=true and full storage mode.",
+      "id": "RandomHairColor.probability",
+      "status": "supported",
+      "apply": "restart",
+      "group": "RandomHairColor",
       "legacy": false
     }
   ],

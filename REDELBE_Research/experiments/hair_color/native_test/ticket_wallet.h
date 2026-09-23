@@ -25,7 +25,12 @@ inline std::string encode(const State& state) {
 }
 inline bool decode(const std::string& data,State& result) {
     if(data.size()>1024*1024)return false;
-    std::istringstream in(data);std::string line;State next;
+    std::string normalized;normalized.reserve(data.size());
+    for(size_t i=0;i<data.size();++i){
+        if(data[i]=='\r'&&i+1<data.size()&&data[i+1]=='\n')continue;
+        normalized+=data[i];
+    }
+    std::istringstream in(normalized);std::string line;State next;
     if(!std::getline(in,line)||line!="REDELBE_LOCAL_TICKETS 1")return false;
     if(!std::getline(in,line)||line.empty()||line.find_first_not_of("0123456789")!=std::string::npos)return false;
     uint64_t value=0;

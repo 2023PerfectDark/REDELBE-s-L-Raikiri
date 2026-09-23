@@ -6,6 +6,7 @@ from lr_resources import read_index
 def records(data):
  pos=struct.unpack_from('<I',data,8)[0];result={}
  while pos<len(data):
+  if data[pos:pos+8]!=b'IDRK0000':raise ValueError('Invalid palette entry alignment')
   size=struct.unpack_from('<Q',data,pos+8)[0];size=(size+3)&~3
   if size<48 or pos+size>len(data):raise ValueError('Invalid palette index')
   result[struct.unpack_from('<I',data,pos+36)[0]]=data[pos:pos+size];pos+=size
@@ -34,17 +35,24 @@ def prepare(game,package):
  if not (support/'hair_colors.tsv').exists():return
  overlay=package/'overlay/root.rdb';raw=overlay.read_bytes() if overlay.exists() else (game/'fdata_package/root.rdb').read_bytes()
  entries=records(raw);patches=json.loads((support/'records.json').read_text())
+ cache=(support/'cache.json').exists()
  vanilla=dict(line.split('\t') for line in (package/'vanilla.tsv').read_text().splitlines())
  for h,record in patches.items():
   fid=int(h,16)
   if fid not in entries:raise ValueError('Hair palette resource missing after game update: '+h)
   # Reuse only resource-container routing, not an old full game index.
-  entries[fid]=bytes.fromhex(record)
+  replacement=bytes.fromhex(record)
+  # RDB entries start on four-byte boundaries; saved routing records omit
+  # their trailing alignment bytes. Preserve alignment when rebuilding.
+  entries[fid]=replacement.ljust((len(replacement)+3)&~3,b'\0')
   relative=f'vanilla/data/0x{h}.file';target=package/relative
-  link_or_copy(support/relative,target)
-  vanilla[f'fdata_package/data/0x{h}.file']=relative
+  if not cache:
+   link_or_copy(support/relative,target)
+   vanilla[f'fdata_package/data/0x{h}.file']=relative
  overlay.parent.mkdir(exist_ok=True);header=bytearray(raw[:struct.unpack_from('<I',raw,8)[0]])
- struct.pack_into('<I',header,16,len(entries));overlay.write_bytes(header+b''.join(entries[k] for k in sorted(entries)))
+ struct.pack_into('<I',header,16,len(entries));rebuilt=header+b''.join(entries[k] for k in sorted(entries))
+ if len(records(rebuilt))!=len(entries):raise ValueError('Invalid rebuilt palette index')
+ overlay.write_bytes(rebuilt)
  (package/'vanilla.tsv').write_text(''.join(k+'\t'+v+'\n' for k,v in vanilla.items()))
  redirects=dict(line.split('\t') for line in (package/'redirects.tsv').read_text().splitlines());redirects['fdata_package/root.rdb']='overlay/root.rdb'
  (package/'redirects.tsv').write_text(''.join(k+'\t'+v+'\n' for k,v in redirects.items()))

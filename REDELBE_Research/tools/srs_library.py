@@ -89,7 +89,9 @@ class Resource:
             for p in range(0,self.size,4*1024*1024):f.write(self.read(p,min(4*1024*1024,self.size-p)))
 
 class Library:
-    def __init__(self,path):
+    def __init__(self,path,progress=None):
+        report=progress or (lambda value,label:None)
+        report(0,'Locating audio resources')
         self.path=Path(path).resolve();self.rows=[];self.banks={};self.errors=[]
         self.is_lr=self.path.is_dir() or self.path.with_suffix('.rdx').exists()
         names={fid:name for name,fid in NAMES.items() if name.endswith(('.srsa','.srst'))}
@@ -99,7 +101,8 @@ class Library:
             if (folder/'fdata_package').is_dir():folder=folder/'fdata_package'
             paths=sorted(folder.glob('*.rdb'))
             if not paths:raise ValueError('Choose the LR game folder containing fdata_package.')
-            for db in paths:
+            for number,db in enumerate(paths):
+                report(int(30*number/len(paths)),'Reading resource index: '+db.name)
                 _,entries,nid=lr_resources.read_index(db)
                 for e in entries:
                     if e['type_id'] in (3151208237,221529933):
@@ -110,13 +113,15 @@ class Library:
         else:
             self.index=index(self.path)
             rnk=names_from_rnk(extract(self.index[u32(self.path.read_bytes(),20)]))
+        report(30,'Resource indexes loaded')
         for fid,values in rnk.items():
             for value in values:
                 m=re.fullmatch(r'R_(SRSA|SRST)［([^/\\]+)］',value)
                 if m:names[fid]=m[2]+'.'+m[1].lower()
         byname={name.lower():fid for fid,name in names.items()}
-        for fid,e in self.index.items():
-            if e['type']!=3151208237:continue
+        audio_banks=[(fid,e) for fid,e in self.index.items() if e['type']==3151208237]
+        for number,(fid,e) in enumerate(audio_banks):
+            report(30+int(55*number/max(1,len(audio_banks))),f'Indexing sound bank {number+1} of {len(audio_banks)}')
             name=names.get(fid,f'unnamed_bank_{fid:08x}.srsa');tag=category(name)
             bankrow={'id':fid,'name':name,'category':tag,'pair':byname.get(str(Path(name).with_suffix('.srst')).lower())}
             self.banks[fid]=bankrow
@@ -129,7 +134,8 @@ class Library:
                     self.rows.append(dict(bank=fid,id=track,name=trackname,bank_name=name,category=tag,character=', '.join(chars),codec=info['codec'],language=language(name,trackname,tag)))
             except Exception as exc:self.errors.append(name+': '+str(exc))
         # Match unnamed stream pairs by all referenced record IDs and offsets.
-        for fid,row in self.banks.items():
+        for number,(fid,row) in enumerate(self.banks.items()):
+            report(85+int(10*number/max(1,len(self.banks))),'Matching streamed audio pairs')
             if row['pair'] is not None:continue
             bank=self.bank(fid);refs=[]
             for p,e in bank.entries:
@@ -146,6 +152,7 @@ class Library:
             if len(matches)==1:row['pair']=matches[0]
             else:self.errors.append(row['name']+': unable to uniquely identify SRST pair')
         self.rows.sort(key=lambda r:(r['category'],r['bank_name'].lower(),r['name'],r['id']))
+        report(95,'Preparing the audio library display')
     @lru_cache(maxsize=2)
     def bank(self,fid):
         e=self.index[fid]

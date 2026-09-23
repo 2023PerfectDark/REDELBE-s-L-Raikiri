@@ -1,4 +1,4 @@
-# Development backup — 2026-09-22
+# Development backup â€” 2026-09-23
 
 This repository backs up source and selected research notes for REDELBE LR.
 The current loader is in REDELBE_Research/experiments/hair_color/native_test.
@@ -18,3 +18,5 @@ packages, generated palettes, downloaded dependencies, binary releases and dupli
 builds are not stored in Git. They have NOT been deleted locally. This is not yet a
 complete backup of the entire research workspace and does not authorize deleting it.
 BACKUP_MANIFEST.json contains SHA-256 hashes for each copied source/research file.
+
+Latest implementation and verification status: REDELBE_Research/CURRENT_DEVELOPMENT.md.

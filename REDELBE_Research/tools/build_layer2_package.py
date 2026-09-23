@@ -77,11 +77,14 @@ def build(game,output,definitions,restoration=None):
         files=sorted(p for p in Path(directory).rglob('*') if p.is_file() and re.fullmatch(r'0x[0-9a-fA-F]{8}\.[a-zA-Z0-9]+',p.name))
         if not files:raise ValueError(f'No hash-named assets in {directory}')
         redirects=[];seen=set()
+        donor_file=Path(directory)/'texture_donors.json'
+        donor_ids={r['legacy'] for r in json.loads(donor_file.read_text())} if donor_file.exists() else set()
         for file in files:
             fid=int(file.stem,16)
             if fid in seen:raise ValueError(f'Duplicate resource {fid:08x} in mod')
             seen.add(fid)
             entries=resources.get(fid,[])
+            if not entries and fid in donor_ids and file.suffix.lower()=='.g1t':continue
             if len(entries)!=1:raise ValueError(f'Unknown/ambiguous resource {fid:08x}')
             idx,e=entries[0];path,raw=index[idx]
             if e['c_size']!=13 or e.get('ext_flags') not in (0x401,0xc01):raise ValueError('Unsupported RDB encoding')

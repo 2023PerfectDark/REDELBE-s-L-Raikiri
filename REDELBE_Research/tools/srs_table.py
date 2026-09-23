@@ -8,6 +8,23 @@ class TableSort:
         tree.bind('<ButtonPress-1>',self.press,add='+')
         tree.bind('<B1-Motion>',self.motion,add='+')
         tree.bind('<ButtonRelease-1>',self.release,add='+')
+        tree.bind('<Button-3>',self.context,add='+')
+
+    def context(self,event):
+        import tkinter as tk
+        row=self.tree.identify_row(event.y)
+        if not row:return
+        self.tree.selection_set(row);self.tree.focus(row)
+        menu=tk.Menu(self.tree,tearoff=False)
+        for title,column in (('Copy hash','id'),('Copy readable name','name')):
+            value=self.tree.set(row,column)
+            valid=bool(value and value not in ('(name unavailable)','Name unavailable'))
+            def copy(text=value):
+                self.tree.clipboard_clear();self.tree.clipboard_append(text)
+            menu.add_command(label=title,command=copy,state='normal' if valid else 'disabled')
+        try:menu.tk_popup(event.x_root,event.y_root)
+        finally:menu.grab_release()
+        return 'break'
 
     def order(self):
         columns=self.tree['displaycolumns']

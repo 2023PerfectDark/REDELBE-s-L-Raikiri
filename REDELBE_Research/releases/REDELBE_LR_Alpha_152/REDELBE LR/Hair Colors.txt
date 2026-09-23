@@ -1,0 +1,27 @@
+HAIR COLOR STORAGE AND CPU COLORS
+
+In REDELBE LR/REDELBE.ini:
+[HairColors]
+storage_mode = cache
+
+Close the game and run Tools/Prepare Hair Colors.exe after changing storage_mode.
+Cache mode generates colors when needed and retains at most 1 GiB (1,073,741,824
+bytes) of generated texture containers. Least recently used files are removed;
+saved wardrobe choices remain. First use of an uncached color can pause briefly.
+The setup offers to remove the old generated full palette to reclaim space.
+Helper files, old backups and preserved full-palette files are outside this limit.
+Launch through REDELBE afterward to synchronize. Re-run preparation after game
+updates if the cache reports that its source resources have changed.
+
+For the complete approximately 27 GB palette, use storage_mode = full and run
+Prepare Hair Colors again. Full preparation is required for random CPU colors:
+[Random]
+enable_random_hair_colors = true
+[RandomHairColor]
+probability = 35
+
+Range: 1..100 percent. 1 is a 1% chance; 100 always requests a different custom
+color. This changes colors, not hairstyles, and leaves saved wardrobe choices
+unchanged. Currently applies to offline Versus CPU fighters, including AI vs AI.
+Shared hair resources with conflicting fighter colors can fall back to default.
+Random CPU colors are ignored in cache mode. Restart after INI changes.

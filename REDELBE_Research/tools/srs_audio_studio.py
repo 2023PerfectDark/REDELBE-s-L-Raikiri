@@ -83,9 +83,15 @@ class Studio:
         elif self.doc is None and getattr(self,'library_window',None) and self.library_window.library:
             self.library_window.open_bank()
 
-    def run(self,label,task,done=None):
+    def report_progress(self,value,label):
+        self.events.put((None,(value,label),None))
+
+    def run(self,label,task,done=None,loading=False):
         if self.busy:return
         self.busy=True;self.status.set(label);self.progress.start()
+        if loading:
+            from srs_loading import LoadingWindow
+            self.loading_window=LoadingWindow(self.root,label,determinate=loading!='activity')
         for b in self.buttons:b.state(['disabled'])
         def work():
             try:self.events.put((True,task(),done))
@@ -94,12 +100,20 @@ class Studio:
 
     def poll(self):
         try:
-            ok,result,done=self.events.get_nowait();self.busy=False;self.progress.stop()
+            while True:
+                ok,result,done=self.events.get_nowait()
+                if ok is not None:break
+                if getattr(self,'loading_window',None):self.loading_window.update(*result)
+            self.busy=False;self.progress.stop()
+            loading=getattr(self,'loading_window',None);self.loading_window=None
             for b in self.buttons:b.state(['!disabled'])
             if ok:
                 self.status.set('Ready')
+                if loading:loading.update(100,'Loading complete');loading.window.update_idletasks();loading.close()
                 if done:done(result)
-            else:self.status.set('Operation stopped. Original files are unchanged.');messagebox.showerror('SRS Audio Studio',result)
+            else:
+                if loading:loading.close()
+                self.status.set('Operation stopped. Original files are unchanged.');messagebox.showerror('SRS Audio Studio',result)
         except queue.Empty:pass
         self.root.after(100,self.poll)
 
@@ -139,6 +153,7 @@ class Studio:
 
     def accept(self,doc):
         self.tabs.select(self.editor_page)
+        self.last_saved_game=None
         self.doc=doc;self.category_filter.set('All');self.language_filter.set('All');self.search.set('');self.bank_label.set(str(doc.path));self.populate()
         children=self.tree.get_children()
         if children:self.tree.selection_set(children[0])
@@ -157,7 +172,7 @@ class Studio:
         def choose(title,suffix):return filedialog.askopenfilename(parent=self.root,title=title,filetypes=[('Matching sound bank','*'+suffix)])
         try:bank,pair=choose_inputs(path,choose)
         except Exception as exc:messagebox.showerror('Cannot open bank',str(exc),parent=self.root);return
-        self.run('Reading bank…',lambda:Document(bank,pair),self.accept)
+        self.run('Reading bank…',lambda:Document(bank,pair,progress=self.report_progress),self.accept,loading=True)
 
     def output(self,suffix):
         options={}
@@ -172,6 +187,7 @@ class Studio:
         target=self.output('_edited')
         def task():
             self.doc.save(target);game=rrpreview_game(target)
+            self.last_saved_game=game
             if game:
                 ok,message=synchronize(game)
                 return ok,'Saved: '+str(target)+'\n'+message
@@ -179,16 +195,17 @@ class Studio:
         def done(result):
             ok,message=result;self.status.set(message)
             if not ok:messagebox.showwarning('Bank saved; activation still needed',message+'\nClose the game and keep only one replacement per bank, then click Sync RRPreview.')
-        if target:self.run('Saving and synchronizing RRPreview when applicable…',task,done)
+        if target:self.run('Saving and synchronizing RRPreview when applicable…',task,done,loading='activity')
 
     def installed_game(self):
+        if getattr(self,'last_saved_game',None):return self.last_saved_game
         game=rrpreview_game(self.doc.path) if self.doc else None
-        if game is None and getattr(sys,'frozen',False):
-            for candidate in Path(sys.executable).resolve().parents:
-                if (candidate/'DOA6LR.exe').is_file():game=candidate;break
         if game is None and getattr(self,'library_window',None) and self.library_window.library and self.library_window.library.is_lr:
             source=self.library_window.library.path
             for candidate in [source,*source.parents]:
+              if (candidate/'DOA6LR.exe').is_file():game=candidate;break
+        if game is None and getattr(sys,'frozen',False):
+            for candidate in Path(sys.executable).resolve().parents:
                 if (candidate/'DOA6LR.exe').is_file():game=candidate;break
         return game
 
@@ -201,7 +218,7 @@ class Studio:
         def done(result):
             ok,message=result;self.status.set(message)
             if not ok:messagebox.showwarning('RRPreview was not activated',message)
-        self.run('Synchronizing RRPreview — the game must be closed…',lambda:synchronize(game),done)
+        self.run('Synchronizing RRPreview — the game must be closed…',lambda:synchronize(game),done,loading='activity')
 
     def extract(self):
         if not self.doc:return

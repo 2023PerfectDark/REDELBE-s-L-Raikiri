@@ -1,6 +1,7 @@
 #pragma once
 #include <memory>
 #include "ticket_storage.h"
+#include "native_coins.h"
 namespace tickets {
 static std::mutex walletMutex;
 static std::unique_ptr<Wallet> wallet;
@@ -28,12 +29,20 @@ static bool owned(uint32_t character,uint32_t hair,unsigned color){
     std::lock_guard<std::mutex> guard(walletMutex);
     return initialize()&&wallet->view().unlocks.count(hairKey(character,hair,color))!=0;
 }
-static bool purchaseHair(uint32_t character,uint32_t hair,unsigned color){
-    if(!gated()||!color)return true;
+static bool purchaseHair(uint32_t character,uint32_t hair,unsigned color,const std::function<bool()>& saveColor){
+    if(!gated()||!color)return saveColor();
     std::lock_guard<std::mutex> guard(walletMutex);if(!initialize())return false;
-    auto result=wallet->unlock(hairKey(character,hair,color),userconfig::current.number("Tickets","hair_color_cost"));
+    auto key=hairKey(character,hair,color);
+    if(wallet->view().unlocks.count(key)){
+        if(nativecoins::balance()<100){log("COINS hair selection denied: need 100 coins");return false;}
+        if(!saveColor())return false;
+        return nativecoins::debit(100);
+    }
+    auto cost=userconfig::current.number("Tickets","hair_color_cost");
+    if(wallet->view().balance<cost||!saveColor())return false;
+    auto result=wallet->unlock(key,cost);
     if(result==Purchase::unlocked)log("TICKETS hair unlocked; balance="+std::to_string(wallet->view().balance));
-    return result==Purchase::unlocked||result==Purchase::alreadyOwned;
+    return result==Purchase::unlocked;
 }
 static void awardWin(){
     if(!userconfig::current.flag("Tickets","enabled"))return;

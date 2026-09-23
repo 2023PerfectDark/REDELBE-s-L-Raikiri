@@ -170,6 +170,41 @@ static decltype(&XInputGetState) xinputOriginal;
 static unsigned layoutLogs=0;
 using CaptionFn=void(*)(void*,uintptr_t,uint32_t,uint32_t,uint32_t,const char*);
 static CaptionFn setCaption;
+namespace coinui {
+using Write=void(*)(void*,uintptr_t,uint32_t,uint32_t,uint32_t,const wchar_t*,uint32_t);
+static Write write=nullptr;static void* object=nullptr;static uintptr_t unused=0;
+static uint32_t index=0,type=0,field=0,layout=0;static void* layoutOwner=nullptr;static bool grouped=false;
+static uint32_t shown=0,from=0,target=0;static ULONGLONG countAt=0;
+static void capture(Write fn,void* o,uintptr_t u,uint32_t pane,uint32_t i,uint32_t t,const wchar_t* text,uint32_t length){
+ if(!tickets::gated()||!text||!length||length>32)return;
+ bool digits=false;for(unsigned n=0;n<length;++n){auto c=text[n];if(c>=L'0'&&c<=L'9')digits=true;else if(c!=L','&&c!=L' '&&c!=0)return;}
+ if(!digits)return;uint64_t amount=0;for(unsigned n=0;n<length;++n)if(text[n]>=L'0'&&text[n]<=L'9'){amount=amount*10+unsigned(text[n]-L'0');if(amount>999999999)return;}
+ if(amount!=nativecoins::balance())return;shown=static_cast<uint32_t>(amount);countAt=0;write=fn;object=o;unused=u;index=i;type=t;field=pane;grouped=false;
+ for(unsigned n=0;n<length;++n)if(text[n]==L',')grouped=true;
+ log("COINS numeric field captured layout="+hex(pane)+" index="+std::to_string(i)+" type="+std::to_string(t));
+}
+static void paint(uint32_t amount){
+ auto text=std::to_wstring(amount);
+ if(grouped)for(int i=int(text.size())-3;i>0;i-=3)text.insert(size_t(i),1,L',');
+ write(object,unused,field,index,type,text.c_str(),static_cast<uint32_t>(text.size()));shown=amount;
+}
+static void tick(){
+ if(!countAt)return;
+ if(!object||!write||object!=layoutOwner||field!=layout){countAt=0;return;}
+ auto elapsed=GetTickCount64()-countAt;
+ uint32_t amount=elapsed>=350?target:from-static_cast<uint32_t>((uint64_t(from-target)*elapsed)/350);
+ if(amount!=shown)paint(amount);
+ if(elapsed>=350){countAt=0;log("COINS countdown complete="+std::to_string(target));}
+}
+static void refresh(){
+ if(!object||!write||object!=layoutOwner||field!=layout){log("COINS counter refresh waiting for matching money layout");return;}
+ target=nativecoins::balance();
+ if(target>=shown){countAt=0;if(target!=shown)paint(target);return;}
+ from=shown;countAt=GetTickCount64();
+ log("COINS countdown "+std::to_string(from)+" -> "+std::to_string(target));
+}
+}
+
 static void* captionLayout=nullptr;
 static CaptionFn stageTextureOriginal;
 static bool stageScreen=false;
@@ -406,7 +441,7 @@ static void* loadHook(void* object,void* context,uint8_t character,void* slot,ui
             }
             log(trace.str());
         }
-        haircolor::beginBattleHair(values[2]);
+        haircolor::beginBattleHair(values[2],battleOwnerPlayer);
         if(randomQueue.consume(character,values[0],values[1],values[2],player,pending)) {
             auto found=slots.find(pending.costume);size_t total=found==slots.end()?0:found->second.size();
             size_t choice=selections.random(player,pending.costume,total,pending.choice);
@@ -446,6 +481,7 @@ static void pumpPreviewReloads(){if(enabled){finishPreviewReload(0);finishPrevie
 }
 #include "mouse_menu.h"
 static void pumpHairColor(){
+    coinui::tick();
     updatenotice::animateColor();
     birthdays::display::sync();
     noticedisplay::sync();
@@ -458,6 +494,7 @@ static void pumpHairColor(){
     std::lock_guard<std::recursive_mutex> guard(mutex);
     auto req=requests[0];haircolor::sync(wardrobe&&slot<10&&req.object,menu,req.hair,req.chara,slot);
     if(haircolor::take()){
+        if(tickets::gated())coinui::refresh();
         ReloadScope reload;
         struct PreserveBody{uint32_t old=preservedBody;PreserveBody(uint32_t n){preservedBody=n;}~PreserveBody(){preservedBody=old;}} preserve(req.costume);
         requestHook(req.object,req.player,req.chara,req.costume,req.face,req.hair,req.color,req.hairColor);
@@ -465,6 +502,8 @@ static void pumpHairColor(){
     }
 }
 static uintptr_t layoutHook(void* object,uint32_t hash,const char* animation,uint32_t extra) {
+    if(animation&&!strcmp(animation,"money_in")){coinui::layout=hash;coinui::layoutOwner=object;log("COINS money layout="+hex(hash));}
+    if(animation&&!strcmp(animation,"money_out")){coinui::object=nullptr;coinui::layoutOwner=nullptr;coinui::countAt=0;}
     wardrobevoice::animation(hash,animation);
     updatenotice::animation(hash,animation);
     {std::lock_guard<std::recursive_mutex> guard(mutex);if(mousemenu::suppress(object,hash,animation,extra))return 0;}
@@ -799,6 +838,7 @@ static std::wstring brandingLabel() {
     return label;
 }
 static void titleTextHook(void* object,uintptr_t unused,uint32_t pane,uint32_t index,uint32_t type,const wchar_t* text,uint32_t length) {
+    coinui::capture(titleTextOriginal,object,unused,pane,index,type,text,length);
     auto updateText=updatenotice::replacement(pane,text,length);
     if(!updateText.empty()){
         if(!updatenotice::developerPage&&updateText!=L"Don't show again until next game update"&&updateText!=L"Close"){

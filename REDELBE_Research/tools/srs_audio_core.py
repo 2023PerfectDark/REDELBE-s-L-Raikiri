@@ -5,18 +5,21 @@ from srsa_lr import Bank,u,put,align,ogg_info,read_wav,AUDIO,wrapped
 from rrpreview_audio import paired
 from audio_adpcm import encode
 from srs_names import bank_names
-VERSION='0.3.14'
+VERSION='0.3.16'
 
 def rrpreview_game(folder):
     for parent in [Path(folder).resolve(),*Path(folder).resolve().parents]:
-        if parent.name.lower()=='rrpreview' and parent.parent.name.lower()=='redelbe_lr':
-            game=parent.parent.parent
-            if (game/'DOA6LR.exe').is_file():return game
+        if parent.name.lower()=='rrpreview' and parent.parent.name.lower() in ('redelbe_lr','redelbe lr'):
+            for game in parent.parents:
+                if (game/'DOA6LR.exe').is_file():return game
     return None
 
 def synchronize(game):
     game=Path(game).resolve();exe=game/'REDELBE_LR_Sync.exe'
     if not (game/'DOA6LR.exe').is_file() or not exe.is_file():return False,'Select a DOA6LR folder with REDELBE_LR_Sync.exe installed.'
+    preview=game/'REDELBE_LR/RRPreview'
+    if not any(p.is_file() and p.suffix.lower() in ('.srsa','.srst') for p in preview.rglob('*')):
+        return False,'No replacement sound banks were found in '+str(preview.resolve())+'. Save your edited bank into this folder first. Sync does not import unsaved edits or files saved elsewhere.'
     try:
         result=subprocess.run([str(exe),'sync',str(game)],capture_output=True,text=True,encoding='utf-8',errors='replace',creationflags=getattr(subprocess,'CREATE_NO_WINDOW',0),timeout=600)
     except Exception as error:return False,str(error)
@@ -147,17 +150,23 @@ def replace_external(a,t,fid,audio):
     return bytes(new_a),bytes(out)
 
 class Document:
-    def __init__(self,path,pair=None):
+    def __init__(self,path,pair=None,progress=None):
+        report=progress or (lambda value,label:None)
+        report(0,'Locating the sound bank')
         from srs_pairs import resolve
         self.path,pair=resolve(path,pair=pair)
         raw=self.path.read_bytes();self.raw_a=raw[:4]==b'KTSR';self.raw_t=False
+        report(25,'Reading audio metadata')
         self.a=wrapped(raw,b'ASRS');self.t=None;self.changes={};self.replacement_inputs={};self.volume_reports={}
         bank=Bank(self.a)
+        report(45,'Checking streamed audio')
         if any(bank.info(p,e)['codec']=='external-ogg' for p,e in bank.entries):
             if not pair.is_file():raise ValueError('This bank uses streamed audio. Place '+pair.name+' beside the SRSA and open again.')
             raw=pair.read_bytes();self.raw_t=raw[:4]==b'KTSR'
             self.t=wrapped(raw,b'TSRS');paired(self.a,self.t)
+        report(70,'Indexing tracks and readable names')
         self.original_a=self.a;self.original_t=self.t;self.refresh()
+        report(95,'Preparing the bank editor display')
 
     def refresh(self):
         self.bank=Bank(self.a);self.rows={};self.entries={};self.streams={}

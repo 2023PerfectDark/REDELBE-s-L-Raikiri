@@ -2,7 +2,7 @@
 from pathlib import Path
 import os,sys
 root=Path(__file__).resolve().parents[1]
-deps=root/'tools/build_deps'
+deps=Path(os.environ.get('SRS_BUILD_DEPS',root/'tools/build_deps'))
 sys.path.insert(0,str(deps))
 os.environ['PYTHONPATH']=str(deps)
 import PyInstaller.__main__

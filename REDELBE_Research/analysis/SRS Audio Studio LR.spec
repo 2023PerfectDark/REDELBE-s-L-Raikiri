@@ -1,7 +1,7 @@
 # -*- mode: python ; coding: utf-8 -*-
 from PyInstaller.utils.hooks import collect_all
 
-datas = [('C:/Users/Owner/OneDrive/Documents/ChatGPT/Revers E REDELBE/REDELBE_Research/assets/srs.ico', 'assets')]
+datas = [('C:/Users/Owner/OneDrive/Documents/ChatGPT/Revers E REDELBE/REDELBE_Research/assets/srs.ico', 'assets'), ('C:/Users/Owner/OneDrive/Documents/ChatGPT/Revers E REDELBE/REDELBE_Research/assets/kasumi_loading.gif', 'assets'), ('C:/Users/Owner/OneDrive/Documents/ChatGPT/Revers E REDELBE/REDELBE_Research/assets/kasumi_loading_frames.png', 'assets')]
 binaries = []
 hiddenimports = []
 tmp_ret = collect_all('tkinterdnd2')

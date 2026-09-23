@@ -2,8 +2,8 @@
 
 
 a = Analysis(
-    ['../tools/prepare_release_hair.py'],
-    pathex=['REDELBE_Research/tools'],
+    ['C:/Users/Owner/OneDrive/Documents/ChatGPT/Revers E REDELBE/REDELBE_Research/tools/prepare_release_hair.py'],
+    pathex=['C:/Users/Owner/OneDrive/Documents/ChatGPT/Revers E REDELBE/REDELBE_Research/tools'],
     binaries=[],
     datas=[('C:/Users/Owner/OneDrive/Documents/ChatGPT/Revers E REDELBE/REDELBE_Research/analysis/alpha152_hair_bundle/hair_support', 'hair_support')],
     hiddenimports=[],

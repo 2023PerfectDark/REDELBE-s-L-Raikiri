@@ -7,12 +7,18 @@ sys.path.insert(0,str(deps));os.environ['PYTHONPATH']=str(deps)
 import PyInstaller.__main__
 PyInstaller.__main__.run([str(root/'tools/srs_audio_studio.py'),'--onefile','--windowed','--collect-all','tkinterdnd2','--runtime-hook',str(root/'tools/srs_bootstrap.py'),'--name','SRS Audio Studio LR','--paths',str(root/'tools'),
  '--icon',str(root/'assets/srs.ico'),'--add-data',str(root/'assets/srs.ico')+';assets',
+ '--add-data',str(root/'assets/kasumi_loading.gif')+';assets',
+ '--add-data',str(root/'assets/kasumi_loading_frames.png')+';assets',
  '--distpath',str(output),'--workpath',str(root/'analysis/audio_studio_build'),'--specpath',str(root/'analysis'),'--noconfirm'])
 dest=output/'Source';dest.mkdir(exist_ok=True)
+shutil.copy2(root/'tools/srs_loading.py',dest/'srs_loading.py')
 for name in ['srs_pairs.py','srs_dnd.py','srs_bootstrap.py','srs_lr_names.py','srs_table.py','srs_library.py','srs_library_ui.py','legacy_resources.py','lr_resources.py','srs_audio_studio.py','srs_audio_core.py','srs_names.py','audio_adpcm.py','srsa_lr.py','rrpreview_audio.py','rrpreview_names.py','build_audio_studio.py']:
  shutil.copy2(root/'tools'/name,dest/name)
 shutil.copy2(root/'analysis/audio/studio_verification.json',output/'verification.json')
 shutil.copy2(root/'assets/srs.ico',output/'srs.ico')
+assets=output/'assets';assets.mkdir(exist_ok=True)
+shutil.copy2(root/'assets/kasumi_loading.gif',assets/'kasumi_loading.gif')
+shutil.copy2(root/'assets/kasumi_loading_frames.png',assets/'kasumi_loading_frames.png')
 
 
 

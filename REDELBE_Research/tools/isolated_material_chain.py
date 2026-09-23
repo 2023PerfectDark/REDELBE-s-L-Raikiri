@@ -76,6 +76,7 @@ class MaterialCloner:
         self.used_objects={oid for d in databases.values() for oid in d.items}
         self.used_resources=set(reserved_resources);self.next_object=0x0fb80000
         self.assets={};self.audit=[]
+        self.object_replacements={}
 
     def locate(self,oid):
         matches=[d for d in self.databases.values() if oid in d.items]
@@ -106,11 +107,17 @@ class MaterialCloner:
             # Keep an independent object even for textures not replaced by this mod.
             # Replaced payloads additionally receive independent file IDs.
             newasset=oldasset
-            if oldasset in replacements:
+            legacy=None
+            if old in self.object_replacements:
+                legacy,donor,data=self.object_replacements[old]
+                if oldasset!=donor:raise ValueError('Texture donor reference changed')
+                newasset=self.asset(donor,data,'.g1t')
+            elif oldasset in replacements:
                 newasset=self.asset(oldasset,replacements[oldasset],'.g1t')
             newoid=texdb.clone(old,self.oid(),{self.TEXTURE:newasset})
             struct.pack_into('<I',payload,off+4,newoid)
             self.audit.append({'texture_object':old,'private_object':newoid,'original_resource':oldasset,'private_resource':newasset})
+            if legacy is not None:self.audit[-1]['legacy_resource']=legacy
         newktid=self.asset(ktid,payload,'.ktid')
         return db.clone(tbc,self.oid(),{self.KTID:newktid})
 

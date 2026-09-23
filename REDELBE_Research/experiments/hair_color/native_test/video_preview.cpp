@@ -1,5 +1,6 @@
 #define NOMINMAX
 #include <windows.h>
+#include <tlhelp32.h>
 #include <mfapi.h>
 #include <mfidl.h>
 #include <mfreadwrite.h>
@@ -138,8 +139,35 @@ static bool paint(HWND window,const RECT& bounds,const Video& video,BYTE alpha) 
 }
 int WINAPI wWinMain(HINSTANCE instance,HINSTANCE,LPWSTR,int) {
  int argc=0;auto args=CommandLineToArgvW(GetCommandLineW(),&argc);
- if(argc!=3){MessageBoxW(nullptr,L"Start this test using Start Stage Video Preview Test.cmd.",L"REDELBE LR video preview",MB_OK);LocalFree(args);return 1;}
- DWORD pid=wcstoul(args[1],nullptr,10);std::wstring folder=args[2];LocalFree(args);
+ DWORD pid=0;std::wstring folder;
+ if(argc==3) {pid=wcstoul(args[1],nullptr,10);folder=args[2];}
+ else if(argc==1) {
+  wchar_t executable[32768]{};GetModuleFileNameW(nullptr,executable,32768);
+  auto gamePath=std::filesystem::path(executable).parent_path();
+  while(!gamePath.empty()&&!std::filesystem::exists(gamePath/L"DOA6LR.exe")) {
+   auto parent=gamePath.parent_path();if(parent==gamePath){gamePath.clear();break;}gamePath=parent;
+  }
+  if(gamePath.empty()) {LocalFree(args);MessageBoxW(nullptr,L"Keep this helper inside your DOA6LR game folder. Start the game and open Stage Select to use video previews.",L"REDELBE LR video preview",MB_OK);return 1;}
+  auto data=gamePath/L"REDELBE's Last Raikiri"/L"REDELBE LR";
+  if(!std::filesystem::exists(data))data=gamePath/L"REDELBE_LR";
+  folder=(data/L"StageVidPreviews").wstring();
+  HANDLE snapshot=CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS,0);
+  if(snapshot!=INVALID_HANDLE_VALUE) {
+   PROCESSENTRY32W entry{};entry.dwSize=sizeof(entry);
+   if(Process32FirstW(snapshot,&entry)) do {
+    if(_wcsicmp(entry.szExeFile,L"DOA6LR.exe"))continue;
+    HANDLE candidate=OpenProcess(PROCESS_QUERY_LIMITED_INFORMATION,FALSE,entry.th32ProcessID);
+    if(candidate) {
+     wchar_t path[32768]{};DWORD size=32768;std::error_code ec;
+     if(QueryFullProcessImageNameW(candidate,0,path,&size)&&std::filesystem::equivalent(path,gamePath/L"DOA6LR.exe",ec))pid=entry.th32ProcessID;
+     CloseHandle(candidate);
+    }
+   } while(!pid&&Process32NextW(snapshot,&entry));
+   CloseHandle(snapshot);
+  }
+  if(!pid){LocalFree(args);MessageBoxW(nullptr,L"Start this copy of DOA6LR first, then open Stage Select. The loader normally starts video previews automatically.",L"REDELBE LR video preview",MB_OK);return 2;}
+ } else {LocalFree(args);return 1;}
+ LocalFree(args);
  std::wstring ini=folder.substr(0,folder.find_last_of(L"\\/"))+L"\\REDELBE.ini";
  wchar_t audioSetting[32]{};GetPrivateProfileStringW(L"StageVideoPreviews",L"audio_enabled",L"true",audioSetting,32,ini.c_str());
  bool audioEnabled=!_wcsicmp(audioSetting,L"true")||!wcscmp(audioSetting,L"1");

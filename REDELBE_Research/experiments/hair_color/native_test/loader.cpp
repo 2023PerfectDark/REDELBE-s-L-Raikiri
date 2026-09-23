@@ -117,7 +117,7 @@ static std::wstring selectPath(const wchar_t* path, DWORD access, DWORD disposit
     {
         std::lock_guard<std::recursive_mutex> guard(l2::mutex);
         auto base = l2::vanilla.find(absolute);
-        if(base!=l2::vanilla.end()&&layer2Path==base->second)
+        if((base!=l2::vanilla.end()&&layer2Path==base->second)||(layer2Path.empty()&&l2::haircache::enabled))
             hairColorPath=l2::haircolor::select(absolute);
     }
     if(!hairColorPath.empty())return hairColorPath;

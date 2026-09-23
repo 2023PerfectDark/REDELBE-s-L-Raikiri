@@ -1,0 +1,38 @@
+[REDELBE LR (Last Raikiri) Update ver. Alpha 152]
+-Hair-color purchases: first unlock costs 5 local tickets by default; returning to a purchased color costs 100 game coins. Default and the already selected color are free. Requires ticket hair-color unlocks enabled.
+-Native Wardrobe coin counter refreshes immediately after purchases and counts down to the new balance over 0.35 seconds (user confirmed).
+-Ticket wallets accept Windows CRLF line endings, fixing valid balances being rejected as unreadable.
+-Fixed missing alignment padding in generated hair-resource indexes that caused startup crashes. Synchronization now validates rebuilt index alignment.
+-Added optional 1 GB on-demand hair-color cache and full-palette CPU color probability for offline Versus. Saved wardrobe choices are preserved.
+-Automatic legacy texture donor lookup for loose Layer2 and Kashira imports, using verified material-object references and private texture copies. Unmapped textures are reported; unrelated fighter textures are not overwritten.
+-Loose Layer2 slot values accept paired or stray wrapper quotes.
+-Loose Layer2 filenames can resolve through installed Kashira/RDBExplorer DOA6LR name tables when native name data is missing; missing LR assets still require restoration.
+-SRS 0.3.16: right-click sounds to copy their hash or readable name.
+-SRS synchronization follows the last saved RRPreview location and selected game library.
+-SRS reports when no replacement banks are present instead of reporting successful activation.
+-Kasumi loading animation appears during bank saving and synchronization.
+-Private asset preparation resolves legacy texture aliases and uses matching resource-type templates for missing legacy entries.
+-Automatic mod synchronization when starting through the REDELBE launcher.
+-Layer2 costume and hair/head switching with F, LT/L2 and Back/Select.
+-Mods start unloaded until selected; supported random selection can choose mods.
+-Kashira package support and private asset preparation for compatible mods.
+-Beta hair colors with saved choices and Break Blow color inheritance.
+-Mouse menu navigation, wardrobe rotation, and stage scrolling/dragging.
+-Configurable roster transitions, slot labels and battle HUD toggle.
+-Offline AI versus AI, pattern rewards and optional local cosmetic tickets.
+-Stage video previews with optional audio and music-volume control.
+-Configurable character aura and custom sound support.
+-Birthday notices based only on the computer's local date.
+-Animation browser with dedicated cameras and free camera controls.
+-Slow, smooth, repeating update-notice scrolling.
+-Editable title branding and update messages; original developer notices preserved.
+-SRS 0.3.14: SRSA/SRST pair handling and missing-companion file selection.
+-Local hair-color and animation-library setup tools.
+-Recognition of Lost Paradise Oboro resource names.
+
+PUBLIC ALPHA LIMITATIONS
+-Tested with DOA6LR 1.11; future updates can require a loader update.
+-Private isolation depends on compatible resources; shared fallback can conflict.
+-Original DOA6 mods need porting. Stage/weather mod compatibility is incomplete.
+-DOA5 animation ports and their facial/teleport research assets are not included.
+-Other Katana-engine audio variants are not universally supported.
