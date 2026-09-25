@@ -1,4 +1,4 @@
-# REDELBE-s-L-Raikiri
+# REDELBE's Last Raikiri
 
 This is the compatible version of Dead or Alive 6 REDELBE made by vagonumero13
 
